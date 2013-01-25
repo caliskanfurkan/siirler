@@ -1,9 +1,5 @@
 ## Cemal SÜREYA
 
-### Üvercinka (1958)
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
-
 Cemal SÜREYA
 
 ### 1994 Eliyle,
@@ -27,22 +23,22 @@ Cemal SÜREYA
 
 ### Adam
 
-Adam şapkasına
-            rastladı sokakta
-            Kimbilir kimin şapkası
-            Adam ne yapıp yapıp hatırladı
-            Bir kadın hatırladı sonuna kadar beyaz
-            Bir kadın açtı pencereyi sonuna kadar
-            Bir  kadın kimbilir kimin karısı
-            Adam ne yapıp yapıp hatırladı.
+Adam şapkasına rastladı sokakta
+Kimbilir kimin şapkası
+Adam ne yapıp yapıp hatırladı
+Bir kadın hatırladı sonuna kadar beyaz
+Bir kadın açtı pencereyi sonuna kadar
+Bir  kadın kimbilir kimin karısı
+Adam ne yapıp yapıp hatırladı.
 
-            Yıldızlar kıyamet gibiydi kaldırımlardaÇünkü biraz evvel
-            yağmur yağmıştıAdam bulut gibiydi,
-            hatırladı
-            Adamın ayaklarının altında
-            Yıldızların yıldız olduğu vardıAdam yıldızlara basa
-            basa yürüdüÇünkü biraz önce
-            yağmur yağmıştı.
+Yıldızlar kıyamet gibiydi kaldırımlarda 
+Çünkü biraz evvel yağmur yağmıştı 
+Adam bulut gibiydi, hatırladı
+Adamın ayaklarının altında
+Yıldızların yıldız olduğu vardı 
+Adam yıldızlara basa basa yürüdü 
+Çünkü biraz önce yağmur yağmıştı.
+
 
 Cemal SÜREYA
 
@@ -58,37 +54,33 @@ Cemal SÜREYA
 
 ### Aşk
 
-Şimdi sen kalkıp
-            gidiyorsun. GitGözlerin durur mu
-            onlar da gidiyorlar. Gitsinler.
-            Oysa ben senin gözlerinsiz edemem bilirsinOysa Allah bilir
-            bugün iyi uyanmıştıkSevgideydi ilk
-            açılışı gözlerimizin sırf onaydıBir kuş konmuş
-            parmaklarıma uzun uzun ötmüştüBir sevişmek gelmiş
-            bir daha gitmemiştiYoktu dünlerde evelsi
-            günlerdeki yoksulluğumuzSanki hiç
-            olmamıştı
-Oysa kalbim işte
-            şuracıkta çarpıyordu
-            Şurda senin gözlerindeki bakımsız mavi, güzel
-            laflı                                                           
-            İstanbullar
-            Şurda da etin çoğalıyordu dokundukça lafların
-                                                                       
-            dünyaların
-            Öyle düzeltici öyle yerine getiriciydi sevmek
-            Ki Karaköy köprüsüne yağmur yağarken
-            Bıraksalar gökyüzü kendini ikiye bölecekti
-            Çünkü iki kişiydik
+Şimdi sen kalkıp gidiyorsun. Git 
+Gözlerin durur mu onlar da gidiyorlar. Gitsinler.
+Oysa ben senin gözlerinsiz edemem bilirsin 
+Oysa Allah bilir bugün iyi uyanmıştık 
+Sevgideydi ilk açılışı gözlerimizin sırf onaydı 
+Bir kuş konmuş parmaklarıma uzun uzun ötmüştü 
+Bir sevişmek gelmiş bir daha gitmemişti 
+Yoktu dünlerde evelsi günlerdeki yoksulluğumuz 
+Sanki hiç olmamıştı
 
-            Oysa bir bardak su yetiyordu saçlarını ıslatmaya
-            Bir dilim ekmeğin bir iki zeytinin başınaydı
-            doymamız
-            Seni bir kere öpsem ikinin hatırı kalıyordu
-            İki kere öpeyim desem üçün boynu bükük
-            Yüzünün bitip vücudunun başladığı yerde
-            Memelerin vardı memelerin kahramandı sonraSonrası iyilik
-            güzellik.
+Oysa kalbim işte şuracıkta çarpıyordu
+Şurda senin gözlerindeki bakımsız mavi, güzel laflı 
+                                                            İstanbullar
+Şurda da etin çoğalıyordu dokundukça lafların
+                                                            dünyaların
+Öyle düzeltici öyle yerine getiriciydi sevmek
+Ki Karaköy köprüsüne yağmur yağarken
+Bıraksalar gökyüzü kendini ikiye bölecekti
+Çünkü iki kişiydik
+
+Oysa bir bardak su yetiyordu saçlarını ıslatmaya
+Bir dilim ekmeğin bir iki zeytinin başınaydı doymamız
+Seni bir kere öpsem ikinin hatırı kalıyordu
+İki kere öpeyim desem üçün boynu bükük
+Yüzünün bitip vücudunun başladığı yerde
+Memelerin vardı memelerin kahramandı sonra 
+Sonrası iyilik güzellik.
 
 Cemal SÜREYA
 
@@ -109,37 +101,37 @@ Sevgili
 
 Cemal SÜREYA
 
-### Beni Öp Sonra
-  Doğur Beni
+### Beni Öp Sonra Doğur Beni
 
 Şimdi
-            utançtır tanelenen
-            sarışın çocukların başaklarında.
+utançtır tanelenen
+sarışın çocukların başaklarında.
 
-            Ovadan
-            gözü bağlı bir leylak kokusu ovadan
-            çeviriyor o küçücük güneşimizi.
+Ovadan
+gözü bağlı bir leylak kokusu ovadan
+çeviriyor o küçücük güneşimizi.
 
-            Taşarak evlerden taraçalardan
-            gelip sesime yerleşiyor.
+Taşarak evlerden taraçalardan
+gelip sesime yerleşiyor.
 
-            Sesimin esnek baldıranı
-            sesimin alaca baldıranı.
+Sesimin esnek baldıranı
+sesimin alaca baldıranı.
 
-            Ve kuşlara doğru
-            fildişi: rüzgarın tavrı.
-            Dağ: güneş iskeleti.
+Ve kuşlara doğru
+fildişi: rüzgarın tavrı.
+Dağ: güneş iskeleti.
 
-            Tahta heykeller arasında
-            denizin yavrusu kocaman.
+Tahta heykeller arasında
+denizin yavrusu kocaman.
 
-            Kan görüyorum taş görüyorum
-            bütün heykeller arasında
-            karabasan ılık acemi
-            - uykusuzluğun sütlü inciri -kovanlara sızmıyor.
+Kan görüyorum taş görüyorum
+bütün heykeller arasında
+karabasan ılık acemi
+- uykusuzluğun sütlü inciri - 
+kovanlara sızmıyor.
 
-            Annem çok küçükken öldü
-            beni öp, sonra doğur beni.
+Annem çok küçükken öldü
+beni öp, sonra doğur beni.
 
 Cemal SÜREYA
 
