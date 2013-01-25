@@ -1,18 +1,5 @@
 ## Turgut UYAR
 
-### 
-
-tut ki sen bir şiiri çok iyi yazsan
-ya da çok iyi bir şiir yazsan
-bir saatin aralıksız işleyişi
-bir çocuğun bir sokak kedisini sevişi
-bilmem ki sanki güzel bir akşam gibi 
-onun için her akşamı iyi yaşamalıyım
-yani kıskanılan onu
-demek istediğim hepsi
-
-Turgut UYAR
-
 ### Acıyor
 
 Mutsuzlukdan söz etmek istiyorum
@@ -78,8 +65,6 @@ Vardığınız yerlere selam edin
 Gün olur bütün kaygılardan uzak
 Ben de gelirim...
 
-
-a
 
 Turgut UYAR
 
