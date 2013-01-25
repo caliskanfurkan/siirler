@@ -2,8 +2,7 @@
 
 Cemal SÜREYA
 
-### 1994 Eliyle,
-  Samanyolu'na
+### 1994 Eliyle, Samanyolu'na
 
 Yaşadım, Tanrım,
 Yarım ve uluorta,
