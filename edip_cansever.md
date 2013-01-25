@@ -22,9 +22,18 @@ Edip CANSEVER
 
 ### Başım Dönüyor İkimizden
 
-Çocuklar ekmek yiyorlar gibidir sesinÖn dişleriyle belli belirsizBir martı kalıyor gibidir hiç olmayandanÇünkü biz ikimiz de çirkin değilizEvet mi hayır mı pek anlamadan.
-Ne biçim bir sestir şu bizim dalgınlığımızBir tayın dişinde ince taflanAz yaşlı bir kadında göğüs uçlarınınYanarak sımsıcak bir kedinin ağzındanDönüp iç çekmesine gece kuşlarının.
-Sonra biz dağ başlarında apansız kurşunlananSüresiz baş dönmesiyiz çok garip adamların.
+Çocuklar ekmek yiyorlar gibidir sesin 
+Ön dişleriyle belli belirsiz 
+Bir martı kalıyor gibidir hiç olmayandan 
+Çünkü biz ikimiz de çirkin değiliz 
+Evet mi hayır mı pek anlamadan. 
+Ne biçim bir sestir şu bizim dalgınlığımız 
+Bir tayın dişinde ince taflan 
+Az yaşlı bir kadında göğüs uçlarının 
+Yanarak sımsıcak bir kedinin ağzından 
+Dönüp iç çekmesine gece kuşlarının. 
+Sonra biz dağ başlarında apansız kurşunlanan 
+Süresiz baş dönmesiyiz çok garip adamların. 
 
 Edip CANSEVER
 
