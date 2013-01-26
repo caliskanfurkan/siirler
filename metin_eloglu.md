@@ -1,6 +1,6 @@
-## Metin ELOĞLU
+# Metin ELOĞLU
 
-### Aşklama
+## Aşklama
 
 Şaraptı rakıydı şuydu buydu
 Kişi esrimeyi bir aşkta tatmalı ilkten
@@ -29,7 +29,7 @@ Evrende en soylusu sezdim ki bu çoğalma
 
 Metin ELOĞLU
 
-### Boynumun Borcu
+## Boynumun Borcu
 
 Leman Hanım
 Size bir şiir borcum vardı ya
@@ -37,7 +37,7 @@ Size bir şiir borcum vardı ya
 
 Metin ELOĞLU
 
-### Eloğlu
+## Eloğlu
 
 Eloğlu binlik bozdurur
 Ben bozduramam
@@ -64,7 +64,7 @@ Bu soyadı bana haram
 
 Metin ELOĞLU
 
-### Eşcil
+## Eşcil
 
 Aşksa bu, ben buna varım, günlerim sığı;
 Gündüze dek kalasın diye sevdim seni geceden
@@ -75,7 +75,7 @@ Belki gözlerimin kıymığı şu denizler!
 
 Metin ELOĞLU
 
-### İnce Elek
+## İnce Elek
 
 İçtikçe içesim geliyor gayrı ne bilgi ara ne hüner
 Beni bu rakıyla baş başa bırakma
@@ -93,7 +93,7 @@ Beni yont beni arıt beni ayıkla
 
 Metin ELOĞLU
 
-### Odun
+## Odun
 
 İstanbul'un ortasında bir bahçe
 Silme güvercin tavanı
@@ -126,7 +126,7 @@ O cayılması ayıp mutluluk.
 
 Metin ELOĞLU
 
-### Ömür Törpüsü
+## Ömür Törpüsü
 
 Yaşamak istiyorum
 Yaşamak istiyorsun
@@ -142,14 +142,14 @@ Ama böyle yaşamak olur mu!
 
 Metin ELOĞLU
 
-### Şişedeki
+## Şişedeki
 
 Şişede durduğu gibi durmaz ki kâfir
 Tutar insana yaşamayı sevdirir
 
 Metin ELOĞLU
 
-### Uyan
+## Uyan
 
 Hadi uyan
 Gün ışığı çilemeye başladı başucunda
@@ -179,7 +179,7 @@ N'olur uyan
 
 Metin ELOĞLU
 
-### Xavier Cugat
+## Xavier Cugat
 
 Amma da yaptın şıllık kız,
 Dağlıysak, insan değil miyiz yani?
@@ -201,7 +201,7 @@ Naylon'una ne verem?
 
 Metin ELOĞLU
 
-### Yitikçi
+## Yitikçi
 
 Hadi git azıcık İstanbul iste
 Kosunlar o denizi bir çanağa

@@ -1,6 +1,6 @@
-## Gültekin EMRE
+# Gültekin EMRE
 
-### Aşk Gelip Beni Buldu
+## Aşk Gelip Beni Buldu
 
 Yüzünden bir harf düştü, kış bastırdı
 Okuyamıyorum seni, uzaklar çok pahalı
@@ -25,7 +25,7 @@ Yüzünden bir harf düştü, aşk gelip beni buldu
 
 Gültekin EMRE
 
-### Batık Gemi 
+## Batık Gemi 
 
 Batık bir gemi yüküyüm dalgıçları bekleyen
 Bir dalgın dalganın elinde sürüm sürüm inleyen kim
@@ -48,7 +48,7 @@ Vurguna dikkat edin vurgun yemiş adamlar çoğalıyor
 
 Gültekin EMRE
 
-### Gece Düşleri 
+## Gece Düşleri 
 
 gece düşleri alır götürür beni
 sığınmacı akşamların hüznüne
@@ -85,7 +85,7 @@ penceremde kuş olmaya
 
 Gültekin EMRE
 
-### Gece Geçtim Ömrümün Üstüden 
+## Gece Geçtim Ömrümün Üstüden 
 
 Bir fotoğrafını bile görmediğim kentlerden, kasabalardan, köylerden
 Geçtim, adını aklımda tutamadığım konaklama tesislerinde açık çaylar
@@ -114,7 +114,7 @@ Gece geçtim buralardan uykuna tutunup, düşlerine sarılıp, al işte beni
 
 Gültekin EMRE
 
-### Zamanı Durdurun 
+## Zamanı Durdurun 
 
 Topal gün, acı şafak, kırgın güneş, eski deniz, korsan talih
 Zamanı kim durduracak? Zamanı kim durduracak? Kim?

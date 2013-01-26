@@ -1,6 +1,6 @@
-## Necati CUMALI
+# Necati CUMALI
 
-### Adına Yaktığım Türküler
+## Adına Yaktığım Türküler
 
 Ne söyler bu türküler
 Ay karanlık gecelerde yüzen gemiler
@@ -38,7 +38,7 @@ Adına yaktığım türküler
 
 Necati CUMALI
 
-### Aşk Geçer
+## Aşk Geçer
 
 Aşk geçer
 Akan şu bulut gibi
@@ -47,7 +47,7 @@ Boş kalan bulutun yeri
 
 Necati CUMALI
 
-### Ay Işığı
+## Ay Işığı
 
 I
 Ben uzaklardan beklerdim,
@@ -101,7 +101,7 @@ Dünyam yıkanır ay ışıklarıyla...
 
 Necati CUMALI
 
-###  Bir Ana
+##  Bir Ana
 
 Kadın çamaşırdan dönüyor olmalıydı
 Kolunda bohça, sert soda kabartmış ellerini
@@ -127,7 +127,7 @@ Büyük, karanlık binalar arasında
 
 Necati CUMALI
 
-###  Bir Gül Açıyorsa
+##  Bir Gül Açıyorsa
 
 -1960 Devrim şehitlerinin anısına-
 
@@ -162,7 +162,7 @@ Bir ağızdan söylenen bir türküye dönüyor
 
 Necati CUMALI
 
-### Buğdaydan Öğrendim Şiiri
+## Buğdaydan Öğrendim Şiiri
 
 Buğdaydan öğrendim şiiri
 Canım kara buğdaydan
@@ -202,7 +202,7 @@ Sevince sarhoş olunca bizlerden biri
 
 Necati CUMALI
 
-###  Çıplak
+##  Çıplak
 
 Bereketli göğüslerin
 Dudakların aşkla ıslak
@@ -218,7 +218,7 @@ Gittiğin yerlerim kurak
 
 Necati CUMALI
 
-### Emine
+## Emine
 
 Abanoz'daki Emine
 On yedisinde düştü
@@ -237,7 +237,7 @@ Birinin kardeşi
 
 Necati CUMALI
 
-### Eve Dönen
+## Eve Dönen
 
 Dolandım dolaştım boşandı yağmur
 Saçım ıslak kunduram çamur
@@ -246,7 +246,7 @@ Ev yeşerdi ben yeşerdim.
 
 Necati CUMALI
 
-###  Günaydın
+##  Günaydın
 
 -Nurullah Ataç'a-
 
@@ -260,7 +260,7 @@ Günaydın tavuklar, horozlar!
 
 Necati CUMALI
 
-###  Güneş Delisi
+##  Güneş Delisi
 
 Akan suyu severim ben
 Işıldayan karı severim
@@ -284,7 +284,7 @@ Ne açlık
 
 Necati CUMALI
 
-###  Güzel Aydınlık
+##  Güzel Aydınlık
 
 Akdeniz göklerinden
 Köpüklerden, limon çiçeklerinden
@@ -307,7 +307,7 @@ Tatlı aydınlık
 
 Necati CUMALI
 
-### Her Dilde Türkülerin Meramı
+## Her Dilde Türkülerin Meramı
   Bir
 
 Her dilde türkülerin meramı bir
@@ -324,7 +324,7 @@ Hürriyet
 
 Necati CUMALI
 
-###  Hürriyete Övgü
+##  Hürriyete Övgü
 
 Boşuna değil dökülen kan
 Hatıran daha aziz çıkacaktır
@@ -359,7 +359,7 @@ Yarası acımadan.
 
 Necati CUMALI
 
-###  İthaf
+##  İthaf
 
 Küçüğüm, sen şimdi onsekizindesin
 Güzelliğin gün günden dillere destan
@@ -393,7 +393,7 @@ Niyetim sevdalı sözler etmek de olmasa
 
 Necati CUMALI
 
-### Kar Aydınlığında
+## Kar Aydınlığında
 
 Uyandım kar aydınlığında
 O küçük kasaba uykuda
@@ -421,7 +421,7 @@ Bunca dağın karlarını erittik
 
 Necati CUMALI
 
-### Karabatak
+## Karabatak
 
 Dalar gider pencereler önünde şimdi
 Ilık yaz akşamlarını hatırlar
@@ -461,7 +461,7 @@ Aç bir karabatak dalar çıkar
 
 Necati CUMALI
 
-### Karda Ayak İzleri Var
+## Karda Ayak İzleri Var
 
 Karda ayak izleri var
 Vurulup düştükleri yere kadar
@@ -495,7 +495,7 @@ Onları getiremez bir daha
 
 Necati CUMALI
 
-### Kısmeti Kapalı Gençlik
+## Kısmeti Kapalı Gençlik
 
 Melih'e
 
@@ -531,7 +531,7 @@ Meydanlara sığmıyoruz kardeşler şimdi.
 
 Necati CUMALI
 
-### Kızılçullu Yolu
+## Kızılçullu Yolu
 
 Hıdırellez günü, Kızılçullu yolu
 Beni herkes severdi çocukluğumda
@@ -549,7 +549,7 @@ Elma çiçekleri?
 
 Necati CUMALI
 
-### Menfis
+## Menfis
 
 Saçların Eski Mısır
 Bakışların Nil
@@ -565,7 +565,7 @@ Hiyeroglifin
 
 Necati CUMALI
 
-### Muharebe Görmüş Bir
+## Muharebe Görmüş Bir
   Adam Anlatıyor
 
 Muharebede ne ölüm korkusu gelir
@@ -587,10 +587,11 @@ Onun ölmesi lâzımdır.
 
 Necati CUMALI
 
-###  Öldürmeyeceksin
+##  Öldürmeyeceksin
 
 "Senden önce inenlere, sana inen kitaba da inanırlar...Onlar
 Tanrının gösterdiği doğru yoldadır, onlar kurtulurlar..."
+
 Kur'an, Bakara Suresi
 
 Dinlerin buyruğuydu
@@ -619,7 +620,7 @@ Zalim ürksün sağır işitsin
 
 Necati CUMALI
 
-### Ölen Ömer'in Karısının Ağıdı
+## Ölen Ömer'in Karısının Ağıdı
 
 Evimizin önü dere kenarı
 Dere kenarında ak kavakları
@@ -650,7 +651,7 @@ Bana haram!
 
 Necati CUMALI
 
-### Sabahları Severim Oldum
+## Sabahları Severim Oldum
   Bittim
 
 Kalktım sabahı dinledim
@@ -690,7 +691,7 @@ Bu sabah bir başka kente indim
 
 Necati CUMALI
 
-### Serçe Kuşu
+## Serçe Kuşu
 
 Bu sabah bahçede karşıma
 Küçük bir serçe kuşu geldi;
@@ -706,7 +707,7 @@ Beş parmağın beşi bir mi?
 
 Necati CUMALI
 
-### Şiirin Attıkları
+## Şiirin Attıkları
 
 I. U z u n  B i r  A r a d a n   S o n r a
 
@@ -790,7 +791,7 @@ Batan gemiden kurtulan tahta...
 
 Necati CUMALI
 
-### Son
+## Son
 
 İçimden hep iyilik geliyor
 Yaşadığımız dünyayı seviyorum
@@ -826,7 +827,7 @@ Hayatının son senelerinde.
 
 Necati CUMALI
 
-### 
+## 
   Sonuna Geliyoruz
 
 Sonuna geliyoruz dostum
@@ -843,7 +844,7 @@ Toprağı daha bir seviyorum
 
 Necati CUMALI
 
-### Şu Kalabalıkta Gördüğün
+## Şu Kalabalıkta Gördüğün
   Herkesin
 
 Sinemalarda kalabalık sahneler görürsün
@@ -876,7 +877,7 @@ Senin gibi bir insandır bütün kusurlarıyla
 
 Necati CUMALI
 
-### Uçanalı Zülfikâr Beye Ağıt
+## Uçanalı Zülfikâr Beye Ağıt
 
 Sağlığında yüzüne gülenler
 Sofrasında ekmeğini yiyenler
@@ -931,7 +932,7 @@ dağa çıkmış; savaşın sona ereceği günlerde bir gece evinde konakladığ
 
 Necati CUMALI
 
-### Urla
+## Urla
 
 Diyelim bir masa var önümde
 Elimde bardak
@@ -970,7 +971,7 @@ Yavaş yavaş sarhoş oluyorum...
 
 Necati CUMALI
 
-### Uzak Haziran
+## Uzak Haziran
 
 İki dudak arası bir zaman
 Gözgöze geldikse geçerken
@@ -995,7 +996,7 @@ Hangi uzak Haziran
 
 Necati CUMALI
 
-### Yağmurlu Deniz
+## Yağmurlu Deniz
 
 Bırakın beni
 Dışarda yağan yağmurlar alsın
@@ -1015,7 +1016,7 @@ Aşk yorgunu dinlenen
 
 Necati CUMALI
 
-### Yaz Geçti
+## Yaz Geçti
 
 Bütün yaz
  Kuyunun başında yedik
@@ -1035,7 +1036,7 @@ Bütün yaz
 
 Necati CUMALI
 
-### Yazın Işıktan Seli
+## Yazın Işıktan Seli
 
 Tepeden denizi gördük
 Üstünde denizin

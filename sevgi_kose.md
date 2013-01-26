@@ -1,6 +1,6 @@
-## Sevgi KÖSE
+# Sevgi KÖSE
 
-### 5.kat
+## 5.kat
 
 dirilmeyi bilenler, daha sık ölürler
 yineleyip yenilip yenileniyorum
@@ -25,7 +25,7 @@ yaşamı nasıl bilirdiniz
 
 Sevgi KÖSE
 
-### Ay-na
+## Ay-na
 
 yeryüzünün güneşi inkarında büyüyor gece
 ay dünyanın
@@ -71,7 +71,7 @@ yüz yüze sonsuzluğuz işte!
 
 Sevgi KÖSE
 
-### Boğazda Kalan
+## Boğazda Kalan
 
 her sabah
 Üsküdar'ın en hızlı koşan kadını
@@ -98,7 +98,7 @@ evimin ve gecenin yolunu tutarım.
 
 Sevgi KÖSE
 
-### Çileşki
+## Çileşki
 
 ölü gerçek diri düş arası gelgitlerinde
 gelip gitmeler, gidip gelmeler...
@@ -134,7 +134,7 @@ içinde kalabilseydim keşke
 
 Sevgi KÖSE
 
-### Eksik-siz
+## Eksik-siz
 
 kıyısını arayanlara ve feray'a
 			
@@ -190,7 +190,7 @@ güneşe tutsak dolunay
 
 Sevgi KÖSE
 
-### Faladüş
+## Faladüş
 
 düşe kaçınca yıldızı gecenin
 ardısıra uçmaya yelteniyorum
@@ -225,7 +225,7 @@ bana unut dediklerimi anlat...
 
 Sevgi KÖSE
 
-### Gün Güneşi Örtmeden
+## Gün Güneşi Örtmeden
 
 gölgenizle konuşabildiğiniz bir saat
 boyunuzu ölçün, eninizi ölçün
@@ -258,7 +258,7 @@ kendi cesedinizi teşhiste zorlanabilirsiniz o gün
 
 Sevgi KÖSE
 
-### Hesaplaşma
+## Hesaplaşma
 
 yaşamın düşlerimin örtemediği yerleri 
 üşüyor bu gece
@@ -293,7 +293,7 @@ gittiğim yere...
 
 Sevgi KÖSE
 
-### İki Oda Bir İstanbul
+## İki Oda Bir İstanbul
 
 evim iki oda bir İstanbul
 üç cephesinden seni görür
@@ -333,7 +333,7 @@ içine ırmak geçmeyen ev
 
 Sevgi KÖSE
 
-### Savaş(k)
+## Savaş(k)
 
 yüzüne çizili hüznü
 siper alıyor yüreğin
@@ -360,7 +360,7 @@ sevdam kan kaybediyor
 
 Sevgi KÖSE
 
-### Sır
+## Sır
 
 akşam güneşi sırtımı acıtırken
 yüzüne düşüyor gölgem
@@ -394,7 +394,7 @@ intihar çoğul bir eylemdir aslında
 
 Sevgi KÖSE
 
-### 
+## 
    
 
 akşam güneşi sırtımı acıtırken

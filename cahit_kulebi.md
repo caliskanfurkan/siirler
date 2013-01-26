@@ -1,6 +1,6 @@
-## Cahit KÜLEBİ
+# Cahit KÜLEBİ
 
-### Bilinmeyen
+## Bilinmeyen
 
 O ki bardağa dökülen şaraptır
 (Bal yoğunluğundadır, sıcaktır, ışıktır).
@@ -25,7 +25,7 @@ O ki bir ince kızdır ak tenli
 
 Cahit KÜLEBİ
 
-### Cebeci Köprüsü
+## Cebeci Köprüsü
 
 Cebeci köprüsünün üstü
 Karýnca yuvasýna benziyor.
@@ -50,14 +50,20 @@ Cahit Külebi!
 
 Cahit KÜLEBİ
 
-### Harp İçinde
+## Harp İçinde
 
-Harp içinde.   Anaların sütü kesildi,  Çocuklar ağladı,  Erkekler askere gitti.  Kadınlar bir deri bir kemik.  Harp içinde kızlar sarardı.  
-Savaşanlardansa  Ancak bir hatıra kaldı.
+Harp içinde.   
+Anaların sütü kesildi,  
+Çocuklar ağladı,  
+Erkekler askere gitti.  
+Kadınlar bir deri bir kemik.  
+Harp içinde kızlar sarardı.  
+Savaşanlardansa  
+Ancak bir hatıra kaldı.
 
 Cahit KÜLEBİ
 
-### Hikâye
+## Hikâye
 
 Senin dudakların pembe
 Ellerin beyaz,
@@ -91,7 +97,7 @@ Anlat biraz!
 
 Cahit KÜLEBİ
 
-### İstanbul
+## İstanbul
 
 Kamyonlar kavun taşır ve ben
 Boyuna onu düşünürdüm,
@@ -116,7 +122,7 @@ Fakat içimde şarkı bitti.
 
 Cahit KÜLEBİ
 
-### Özlem
+## Özlem
 
 Şimdi tarlalarda güneş vardır,
 Karlar donmuştur otların uçlarında,
@@ -140,7 +146,7 @@ Atımın yelesi bulut renginde.
 
 Cahit KÜLEBİ
 
-### Rüzgar
+## Rüzgar
 
 Şimdi bir rüzgâr geçti buradan
 Koştum ama yetişemedim.
@@ -179,7 +185,7 @@ Soramadım.
 
 Cahit KÜLEBİ
 
-### Sabret
+## Sabret
 
 Sen petekte bir gömeç bal gibisin!
 Renksin yazdan kıştan, tazeliksin bahardan.
@@ -198,7 +204,7 @@ Sabret kalbi tomurcuklardan pembe olan.
 
 Cahit KÜLEBİ
 
-### Sevda Bahçesi
+## Sevda Bahçesi
 
 Bir gül mahzun durur bahçede
 Yaprakları yorgun.
@@ -223,7 +229,7 @@ Yanan dudaklarındır.
 
 Cahit KÜLEBİ
 
-### Sıvas Yollarında
+## Sıvas Yollarında
 
 Sıvas yollarında geceleri
 Katar katar kağnılar gider
@@ -249,7 +255,7 @@ Katar katar kağnılar gider.
 
 Cahit KÜLEBİ
 
-### Uçak Yolculuğu
+## Uçak Yolculuğu
 
 Bir uçağım olmalı benim,
 Binip üstüne, binip üstüne,
@@ -277,7 +283,7 @@ Diyar diyar gitmeliyim...
 
 Cahit KÜLEBİ
 
-### Yeşeren Otlar
+## Yeşeren Otlar
 
 Bir melek su taşıdı,
 Biri serinlik taşıdı uzaktan
@@ -297,7 +303,7 @@ Dünya güzelim gider gitmez.
 
 Cahit KÜLEBİ
 
-### Yirminci Yüzyılın İlk Yarısı
+## Yirminci Yüzyılın İlk Yarısı
 
 Yirminci yüzyılın ilk yarısı
 Ölüm çağı oldu
@@ -316,7 +322,7 @@ Ağlamasın da kimler ağlasın!
 
 Cahit KÜLEBİ
 
-### Zerdali Ağacı
+## Zerdali Ağacı
 
 I
 
@@ -347,7 +353,7 @@ Küçük zerdali ağacım.
 
 Cahit KÜLEBİ
 
-### Story
+## Story
 
 Your lips are red 
 Your hands are white 
@@ -385,37 +391,41 @@ Now tell me of the place where you were born
 Tell me a while.
 
 
-
 Translated by Bernard LEWIS
 
 Cahit KÜLEBİ
 
-### Cahit Külebi
+## Cahit Külebi
 
 YAPITLARI
 Adamın Biri (1946)
+
   Rüzgâr (1949)
+
   Atatürk Kurtuluş Savaşında (1952)
+
   Yeşeren Otlar (1954) 
+
   Süt (1965) 
+
   Şiirler (1969) 
+
   Türk Mavisi (1973) 
+
   Sıkıntı ve Umut (1977) 
+
   Yangın (1980) 
+
   Bütün Şiirleri (1982) 
+
   Güz Türküleri (1991) 
+
   Bütün Şiirleri (1997) 
 ÖDÜLLERİ
 1955 Türk Dil Kurumu Edebiyat Ödülü
+
   1981 Yeditepe Şiir Armağanı
 ŞİİRLERİ
-
-
-
-
-
-
-
 CAHİT KÜLEBİ IN ENGLISH
  - 
 	Translated by Bernard LEWIS

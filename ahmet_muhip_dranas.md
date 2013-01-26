@@ -1,6 +1,6 @@
-## Ahmet Muhip DRANAS
+# Ahmet Muhip DRANAS
 
-### Ağrı
+## Ağrı
 
 Vardım eteğine,secdeye kapandım;
 Koşup bir koluna sımsıkı abandım.
@@ -187,7 +187,7 @@ Göğü perde perde delip yükselen Dağ!
 
 Ahmet Muhip DRANAS
 
-### Büyük Olsun
+## Büyük Olsun
 
 Ben büyük şarkıları severim; büyük olsun,
 Deniz gibi, gökyüzü gibi her şey ve mahzun.
@@ -202,7 +202,7 @@ Uykudan bile mahşer gününde uyanmalı.
 
 Ahmet Muhip DRANAS
 
-### Esenlik Size
+## Esenlik Size
 
 O gün bu gün size özendim
 Her yerde; hava, toprak, deniz.
@@ -246,7 +246,7 @@ Olmak ya da olmamak belki.
 
 Ahmet Muhip DRANAS
 
-### Evreni Sevmek ki
+## Evreni Sevmek ki
 
 Aç mısın kardeşim, gel olanı bölüşelim,
 Ama şiirlerimle seni doyuramam ki;
@@ -279,7 +279,7 @@ Duyuramam ki ama beni, duyuramam ki...
 
 Ahmet Muhip DRANAS
 
-### Fahriye Abla
+## Fahriye Abla
 
 Hava keskin bir kömür kokusuyla dolar,
 Kapanırdı daha gün batmadan kapılar.
@@ -316,7 +316,7 @@ Ne vefalı komşumdun sen, Fahriye abla!
 
 Ahmet Muhip DRANAS
 
-### Kar
+## Kar
 
 Kardır yağan üstümüze geceden,
 Yağmurlu, karanlık bir düşünceden,
@@ -343,7 +343,7 @@ Büyük yalnızlığını dünyanın.
 
 Ahmet Muhip DRANAS
 
-### Köpük
+## Köpük
 
 Oyun bitti ve her şey yerini buldu.
 Akşamla ebedi kızlar anne oldu.
@@ -356,7 +356,7 @@ Gemilerin ihtiyar köpüklerinde.
 
 Ahmet Muhip DRANAS
 
-### Olvido
+## Olvido
 
 Hoyrattır bu akşamüstüler daima.
 Gün saltanatıyla gitti mi bir defa
@@ -416,7 +416,7 @@ Ey unutuş! kurtar bu gamlardan beni.
 
 Ahmet Muhip DRANAS
 
-### Şehrin Üstünden Geçen Bulutlar
+## Şehrin Üstünden Geçen Bulutlar
 
 Bakıp imreniyorum akınına
 Şehrin üstünden geçen bulutların.
@@ -445,7 +445,7 @@ Rüyamızı kuşatan hudutların.
 
 Ahmet Muhip DRANAS
 
-### Serenad
+## Serenad
 
 Yeşil pencerenden bir gül at bana,
 Işıklarla dolsun kalbimin içi.
@@ -474,7 +474,7 @@ Gözlerimde bulut, saçlarımda çiğ.
 
 Ahmet Muhip DRANAS
 
-### Testi
+## Testi
 
 Dolu bir testiydim ben,
 Başaşağı ettiniz beni;
@@ -491,7 +491,7 @@ Yine varım ama bomboş.
 
 Ahmet Muhip DRANAS
 
-### Yaşarken
+## Yaşarken
 
 Ağaçların daha bu bahçelerde
 Bütün yemişleri dalda sarkıyor;
@@ -510,14 +510,14 @@ Güneş daha gözlerimi yakıyor.
 
 Ahmet Muhip DRANAS
 
-### Yoldan Geçenler
+## Yoldan Geçenler
 
 Mili Mecmua   No:140-141
 Cilt 12, 1 İkincikânun 1933
 
 Ahmet Muhip DRANAS
 
-### Fahriye 
+## Fahriye 
 	Abla
 
 Hava keskin bir kömür kokusuyla dolar,

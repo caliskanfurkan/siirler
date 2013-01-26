@@ -1,6 +1,6 @@
-## Tekin GÖNENÇ
+# Tekin GÖNENÇ
 
-### Adam 
+## Adam 
 
 önce bıyık aralarına gizledi
 yarım kalan gülüşünü
@@ -14,7 +14,7 @@ başka türlü ağlayamazdı
 
 Tekin GÖNENÇ
 
-### Anne 
+## Anne 
 
 kilit vurdum üstüne güneşlerin
 ay tuttum alacakaranlığa
@@ -41,7 +41,7 @@ güzelliği incitmeden anne
 
 Tekin GÖNENÇ
 
-### Aşk Konuşur Bütün
+## Aşk Konuşur Bütün
   Dilleri 
 
 silme pus
@@ -70,7 +70,7 @@ bütün dilleri
 
 Tekin GÖNENÇ
 
-### Bana Yalnız Kuşları ve
+## Bana Yalnız Kuşları ve
   Çocukları Bırakın 
 
 sen susunca
@@ -102,7 +102,7 @@ ve çocukları bırakın
 
 Tekin GÖNENÇ
 
-### Bilsem
+## Bilsem
   Gelir En Güzel Gemilerle Sularında Kalırdım 
 
 yüklenip
@@ -132,7 +132,7 @@ yetişemem sanıyordum
 
 Tekin GÖNENÇ
 
-### Gölgedeki Yüzler 
+## Gölgedeki Yüzler 
 
 sonu gelmez bir kahkaha
 devrilir düşer
@@ -156,7 +156,7 @@ pırıl pırıl güller takılır gider gözyaşlarına
 
 Tekin GÖNENÇ
 
-### Gönlü Güvercinli Kadın 
+## Gönlü Güvercinli Kadın 
 
 önce sesin geldi
 aralandı kapılarım
@@ -183,7 +183,7 @@ gönlü güvercinli kadın
 
 Tekin GÖNENÇ
 
-### Kuğu Yağması 
+## Kuğu Yağması 
 
 tartılır söz
 terazisinde gözlerinin
@@ -220,7 +220,7 @@ sen yoksan
 
 Tekin GÖNENÇ
 
-### Onlarsız 
+## Onlarsız 
 
 benim güzel olduğum yerlerde
 siz hiç olmadınız
@@ -253,7 +253,7 @@ ben hiç olmayacağım
 
 Tekin GÖNENÇ
 
-### Oyununa Geldin Yaşamın 
+## Oyununa Geldin Yaşamın 
 
 koparıp da yüreğinin pırpırlarından
 katlayıp cebine koyduğun körkütük birkaç dize
@@ -300,7 +300,7 @@ oyununa geldin yaşamın
 
 Tekin GÖNENÇ
 
-### Saklambaç 
+## Saklambaç 
 
 nerde yitirsem
 hep sende buluyorum
@@ -313,7 +313,7 @@ tüm saklambaçlarını
 
 Tekin GÖNENÇ
 
-### Sarkaç 
+## Sarkaç 
 
 ne zaman baksam gözlerine
 savaş sonralarına döner içim
@@ -330,7 +330,7 @@ annemsiz kalmak korkuları gelir çocukluğumun
 
 Tekin GÖNENÇ
 
-### Şu Sen 
+## Şu Sen 
 
 şu sen
 içinde darağaçları büyüten

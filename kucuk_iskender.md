@@ -1,6 +1,6 @@
-## Küçük İskender
+# Küçük İskender
 
-### Ay
+## Ay
 
 Yürek kemiğiyle lades tutuşuyor iki çocuk!
 misafir oyuncu bir terkediş biçimi
@@ -14,7 +14,7 @@ dibi senin aşkında gizlenen kırılgan bir aysberg bu tufan !
 
 Küçük İskender
 
-### Ne Çok
+## Ne Çok
 
 Seni ne çok kedi tırmalamış anne
 camlara baktım ordamısın hala
@@ -34,17 +34,5 @@ artık evlenelim anne hayata karşı
 ve gel, beraber kaybedelim mor savaşı
 
 benimle birlikte intahar et anne
-
-Küçük İskender
-
-### 
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
-
-Küçük İskender
-
-### 
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
 
 Küçük İskender

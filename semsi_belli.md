@@ -1,6 +1,6 @@
-## Şemsi BELLİ
+# Şemsi BELLİ
 
-### Anayaso
+## Anayaso
 
 Gul, gurban olduğum Hökümet Baba!
 Baa bir alfabe veremez miydin?

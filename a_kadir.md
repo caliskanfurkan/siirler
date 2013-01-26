@@ -1,6 +1,6 @@
-## A. KADİR
+# A. KADİR
 
-### Açılır Kapılar
+## Açılır Kapılar
 
 Cansel'e
 Alır seni korum damla damla
@@ -15,7 +15,7 @@ girerim ışıltılı, yemyeşil bir bahçeye.
 
 A. KADİR
 
-### Bir İnsan
+## Bir İnsan
 
 Seni bir gün
 çekip aldılar topraktan,
@@ -39,7 +39,7 @@ ekmek torbanda unutarak!
 
 A. KADİR
 
-### Bu Su Çoğala Çoğala
+## Bu Su Çoğala Çoğala
 
 Yaşlılara saksılar dizdim, bahçeler yaydım.
 Yorgunlara diri beden verdim, taze yürek.
@@ -60,7 +60,7 @@ Ne kavga kaldı, ne zulüm, ne korku.
 
 A. KADİR
 
-### Cibali
+## Cibali
 
 Cibali dendi mi
 aklıma siz gelirsiniz, kadınlar,
@@ -86,7 +86,7 @@ ve kahraman elleriniz.
 
 A. KADİR
 
-### Çiçekleri Umudumuzun
+## Çiçekleri Umudumuzun
 
 Çok olun, çocuklar, çok olun,
 yüzlerce olun, binlerce olun, onbinlerce.
@@ -122,7 +122,7 @@ yaşayın dünyayı doya doya.
 
 A. KADİR
 
-### Çile
+## Çile
 
 Bizim hiç bir hürriyetimiz yok,
 Hiç bir hürriyetimiz,
@@ -135,7 +135,7 @@ Ben burda zerdalisiz bir dal gibi durayım.
 
 A. KADİR
 
-### Dağ Başında
+## Dağ Başında
 
 Beni bir dağ başında böyle yapayalnız kodular,
 rüzgarlara, kuşlara, bulutlara yakın,
@@ -166,7 +166,7 @@ Yanarak sevmek seni.
 
 A. KADİR
 
-### Dön Geri Bak
+## Dön Geri Bak
 
 Kaç bu kokudan, kaç bu pislikten, bu sürüden kaç,
 insan mýsýn, bu pazarda mýsýn, iki pula mýsýn,
@@ -182,7 +182,7 @@ budaklý bir aðaç gibi güzel.
 
 A. KADİR
 
-### İnsan
+## İnsan
 
 İnsan kuş kanadında gelen yazı.
 İnsan arı su, insan ak süt.
@@ -201,104 +201,155 @@ A. KADİR
 
 A. KADİR
 
-### Koğuş
+## Koğuş
 
 Tekmil koğuş uyudu şimdi. 
+
 On bir nöbetçisi, 
+
 belki dört defa saydı uyuyanları. 
+
 Sonra kendi kendine bile görünmeden, 
+
 o kadar yorgun ve bitkin 
+
 yere çöktü. 
 
 
 Artık herkes başka uykuda. 
+
 Hüseyin onbaşı, 
+
 çıplak yolunda yürür Avanos' un. 
+
 Beyşehir' li Ahmet, 
+
 bir tas ayranla çıkarır yorgunluğunu 
+
 talim yerinin. 
 
 
 Nalbant İsa, 
+
 bir dağ ortasında oturmuş, 
+
 ev ekmeği yer. 
 
 
 Maksut çavuş çarşıdadır. 
+
 Merzifonlu tarlada. 
+
 Çorumlu türkü söyler Karacaoğlan'
 dan. 
 
 
 Biride  bizim Darendeli, 
+
 gerine gerine bir şeyler oluyor, 
+
 hiç utanmadan.
 
 A. KADİR
 
-### Koru Kendini
+## Koru Kendini
 
 Kaldırınca tabancasını
+
 Nişan almak için sarı saçlıya
+
 Parıldayıverdi gözleri
+
 Koru kendini
+
 Kırlangıçlar uçuştular
+
 Korkudan çığrışıp
+
 Kanat çırparak koru kendini.
 
 Hadi söyle bana müziği seversin sen
+
 Nasıl çalar insan hapishanede
+
 Ağrılardan, sızılardan sonra 
+
 Romatizmanın zincirlerin kemirdiği elleriyle.
 
 İşte nişan aldı tam
+
 Kemanının üstüne
+
 Iskalamaz iyi nişancıdır
+
 Koru kendini
+
 Ama teller gene şakıdılar
+
 Doldular havayı titrek titrek hiç umursamadan.
 
 Hadi söyle bana müziği seversin sen
+
 Nasıl çalar insan hapishanede
+
 Ağrılardan, sızılardan sonra 
+
 Romatizmanın zincirlerin kemirdiği elleriyle.
 
 "Havasız bir delikte 
+
 Gıcırdayan somya üstünde yatakta
+
 Yakalanmışsın berbat bir öksürüğe 
+
 Gel de şarkı söyle.
+
 Ama yine de sarı saçlı adam
+
 Devam etti kemanı çalmaya
+
 Dirildi içimizde ölü düşler."
 
 A. KADİR
 
-### Nöbette
+## Nöbette
 
 Nöbetteyim. 
+
 Toprağın üstünde geceyi 
+
 kara bir kabuk gibi hissetmedeyim. 
+
 Ve kuşlar kadar hafif vücudum, 
+
                            
 içerim rahat. 
+
 Yorgun bir asker gibi serildi uykuya
 hayat. 
 
 
 Gece saat on. 
+
 Nöbetteyim. 
+
 Ne olur uzatsalar nöbetimi aylarca! 
+
 Böyle ta barışa kadar, 
+
 ihtiyar anacığımı düşünmeden, 
+
 memleketimin türkülerini söylesem 
+
                                        
 içimden!
 
 A. KADİR
 
-### Siperde
+## Siperde
 
 "Cephedekilere ithaf ederim."
+
  
 Şimdi sen;
 yolda yolcu,
@@ -333,53 +384,75 @@ siler evinin camlarını
 
 A. KADİR
 
-### Terhis
+## Terhis
 
 Tezkere var, 
+
 emir gelmiş, dediler. 
+
 Hafikli Zeynel' le Zileli Saim 
+
 bizden müjde istediler. 
 
 
 Traş olduk. 
+
 Giyindik gri, lacivert 
+
                 
 renk renk esvaplarımızı. 
+
 Sonra haber geldi, 
+
 hazır olun, diye, 
+
 yolculuk akşama. 
+
 Ve Maksut çavuş, 
+
 son cigarasını ikram etti ayrılırken, 
+
 bir senedir kavgalı olduğu adama.
 
 A. KADİR
 
-### Uşaklı İzzet
+## Uşaklı İzzet
 
 Mısır ekmeğini, yoğurdunu yedi 
+
 elma ağaçları altında 
+
                 
 Hacı Mercan köyünün. 
+
 Suyunda yıkadı çamaşırlarını 
+
                  
 pazar günleri. 
+
 Ve göl gibi gözlü insanlarıyla
 ahbap oldu. 
+
 On iki nöbetini bekledi çok gece 
+
                         
 yol ağzında. 
 
 
 Eh artık, yol göründü, 
+
                  
 gitmek düştü gayrı. 
+
 Çok görmeyin acele ettiğini, çocuklar, 
+
 terhis olmuş, 
+
 cebinde teskeresi var.
 
 A. KADİR
 
-### Yol
+## Yol
 
 Tekmil haklar alınır.
 Tekmil hürriyetler kısılır.
@@ -392,7 +465,7 @@ seni bana getiren yol.
 
 A. KADİR
 
-### Yolda Esirler
+## Yolda Esirler
 
 Şimdi melûn bir gecedir.
 Bir nöbetçi kürkü gibi simsiyah ortalık, 
@@ -432,39 +505,62 @@ garba giden yolda ...
 
 A. KADİR
 
-### Koru Kendini
+## Koru Kendini
 
 Kaldırınca tabancasını
+
 Nişan almak için sarı saçlıya
+
 Parıldayıverdi gözleri
+
 Koru kendini
+
 Kırlangıçlar uçuştular
+
 Korkudan çığrışıp
+
 Kanat çırparak koru kendini.
 
 Hadi söyle bana müziği seversin sen
+
 Nasıl çalar insan hapishanede
+
 Ağrılardan, sızılardan sonra 
+
 Romatizmanın zincirlerin kemirdiği elleriyle.
 
 İşte nişan aldı tam
+
 Kemanının üstüne
+
 Iskalamaz iyi nişancıdır
+
 Koru kendini
+
 Ama teller gene şakıdılar
+
 Doldular havayı titrek titrek hiç umursamadan.
 
 Hadi söyle bana müziği seversin sen
+
 Nasıl çalar insan hapishanede
+
 Ağrılardan, sızılardan sonra 
+
 Romatizmanın zincirlerin kemirdiği elleriyle.
 
 "Havasız bir delikte 
+
 Gıcırdayan somya üstünde yatakta
+
 Yakalanmışsın berbat bir öksürüğe 
+
 Gel de şarkı söyle.
+
 Ama yine de sarı saçlı adam
+
 Devam etti kemanı çalmaya
+
 Dirildi içimizde ölü düşler."
 
 A. KADİR

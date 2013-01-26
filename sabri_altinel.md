@@ -1,6 +1,6 @@
-## Sabri ALTINEL
+# Sabri ALTINEL
 
-###  Dünyayı Alıyor
+##  Dünyayı Alıyor
   Sevginin Ağırlığı
 
 Yarı gecenin içinde eteklerinde dünyanın
@@ -38,7 +38,7 @@ yıkanan gözyaşları gibi
 
 Sabri ALTINEL
 
-### Kan
+## Kan
 
 Çıt yok koskoca ovada
 Yapayalnız üzümler tütünler

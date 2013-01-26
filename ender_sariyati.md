@@ -1,6 +1,6 @@
-## Ender SARIYATI
+# Ender SARIYATI
 
-### Biraz
+## Biraz
 Da Yaşamak Korkusu
 
 sevgiyi ve baharı sil hançerden
@@ -52,7 +52,7 @@ biraz kaybetmek, biraz da yaşamak korkusudur.
 
 Ender SARIYATI
 
-### 
+## 
           
 
 sevgiyi ve baharı sil hançerden
@@ -104,7 +104,7 @@ biraz kaybetmek, biraz da yaşamak korkusudur.
 
 Ender SARIYATI
 
-### Bozgun
+## Bozgun
 
 yüreğimi eriten akşamın üzgün evidir
 yağmur varken ağını ördüğü.
@@ -141,7 +141,7 @@ bilin bir şölen kadar kısadır hayat.
 
 Ender SARIYATI
 
-### Gezginci
+## Gezginci
 
 giderken
 yalnızlığımla dolduruyorum kenti
@@ -225,7 +225,7 @@ bir yaban ördeği gibi giderken...
 
 Ender SARIYATI
 
-### İbrani
+## İbrani
 
 aya baktım ibrani
 ibrahim koyunlarını geçiriyor ağrı'dan
@@ -243,7 +243,7 @@ che atını saldı
 
 Ender SARIYATI
 
-### İnce
+## İnce
 Bir Sızıyla Uyanıyorum
 
 Gidelim.
@@ -303,7 +303,7 @@ Sevinçten bir tülbentle sarıyor yaramı
 
 Ender SARIYATI
 
-### Ortopedi
+## Ortopedi
 
 I.
 

@@ -1,6 +1,6 @@
-## Nihat BEHRAM
+# Nihat BEHRAM
 
-### Anacan Yiğitlemeleri
+## Anacan Yiğitlemeleri
 
 I
             Canımdan can yolundu
@@ -67,121 +67,196 @@ BEHRAM
 
 Nihat BEHRAM
 
-### Doğadan İstek
+## Doğadan İstek
 
 DOĞADAN İSTEK
 Beni geçmişin dehşetiyle
-beslebeni geleceğin özsuyuyla
+besle
+beni geleceğin özsuyuyla
 Küpeler tak kulaklarıma
-kirazlardanmendilimi fesleğenlerle yıka
+kirazlardan
+mendilimi fesleğenlerle yıka
 Bana çılgın bir gürleyiş
-belletyankısıyla kapan üstüme
+bellet
+yankısıyla kapan üstüme
 geceleri
-Benimle rüzgarları tanıştırgözlerimi boralara düğümle
-Beni kankardeşi bilsin gözyaşlarınbeni umudunla büyüle
+Benimle rüzgarları tanıştır
+gözlerimi boralara düğümle
+Beni kankardeşi bilsin gözyaşların
+beni umudunla büyüle
 Bana ıssız gecelerden yıldız
-kaymaları sunbeni ucu kıl birbirine sürtünen
+kaymaları sun
+beni ucu kıl birbirine sürtünen
 çakmak taşlarının
 Koynuma başakları yıkayan yağmurunla
-yağkasıklarımı zeytin yapraklarıyla
+yağ
+kasıklarımı zeytin yapraklarıyla
 yenile
-Ben seni esir alayım şiirlerleSen beni kul bil  kendine
+Ben seni esir alayım şiirlerle
+Sen beni kul bil  kendine
+
   
+
   
 Nihat
 BEHRAM
 
 Nihat BEHRAM
 
-### Doğdum Bağlandım Sana
+## Doğdum Bağlandım Sana
 
 DOĞDUM BAĞLANDIM SANA
 Bütün düşlerde olduğu
 gibi
+
 anamın yaslı çehresinde olduğu gibi
+
 içimde bir şeyler birikiyor
 
 Savaşarak pişirilen toprağı
+
 kıvır kıvır işleyen güneş
+
 yitip gitti sanılan
+
 bir sesi iletiyor
 
-            (...eriklere, ardıçlara, dallarını            yosunların
+            (...eriklere, ardıçlara, dallarını
+            yosunların
 bürüdüğü selvilere,
+
             koruda kaybolan tavşanla, kaynağa
+
             biriken pervanelere, 
+
             uçsuz bucaksız maviliğine denizlerin,
+
             bulutu evcilleşmeyen dağların görkemine,
+
             serin çığ taneleriyle ağırlaşan
 hasat rüzgarına,
+
             yaylaların büyüsü keskin ayaza...)
 
 Memleketim
+
 4
+
 Kınından sıyrılıp
+
 ışıldamak için sabırsızlanan bıçak
 
 Habersiz duruyor
+
 terkedilmiş çocuklar gibi
+
 gözlerinde kıvılcım güzelliğinden
 Nihat BEHRAM
 
 Nihat BEHRAM
 
-### Ellerin Avucumda
+## Ellerin Avucumda
   İki Ateş Damlası
 
 ELLERİN AVUCUMDA İKİ ATEŞ
 DAMLASI
 Çiçeğinde
 yeni yeni kamaşan zerdalisi ömrümün,
+
 gülüşümde çekirdeği sertleşmemiş ilk çağlam,
+
 kızım benim, nazım benim,
+
 gurbetelde sazım benim,
+
 yalazlanmış can tanem,
+
 körpe dalım bir tanem..
+
 Sisini gözlerimin, içimdeki dumanı
+
 seziverdin de sanki
+
 acılandın uykunda,
+
 sızlandın huysuzlandın..
+
 Dudakların kurumuş, ter içindesin yavrum!
+
 Kolsuz kanatsız kalmış
+
 geceden beri başucundayım..
+
 Çırpınarak anlamını arayan binlerce sözcük
+
 kabukları koparılmış yaralar gibi
+
 uğulduyor beynimde..
+
 itiraf etmeliyim ki yavrum
+
 çekip gitse de bir bir
+
 ekmeğe, özgürlüğe,  insanlık ve hayata dair
+
 içimi dişleyen düşünceler,
+
 senin bir gülücüğün şimdi
+
 yaşamam için bana yeter.
+
 Geceden beri başucundayım..
+
 İşte, sabaha dayandı gün!
+
 Aşsız, işsiz, kuruşsuz
+
 bir ıssız bayırdayım.
+
 Bebeğim, canımın kıvırcığı,
+
 boranda fırtınada sürgün  vermiş tomurcuk,
+
 üzüm tanem, nar tanem,
+
 acar yanım, bir tanem..
+
 Kim kime, dum duma bir tufandayız;
+
 günlerin ağzında kara bir gül
-dikenleri tenimize dayanmış;ürkütülmüş, sarılmış, acıyla
+
+dikenleri tenimize dayanmış;
+ürkütülmüş, sarılmış, acıyla
 sınanmışız..
+
 İnim inim uykunda nasıl da yalnız
+
 yanıyor yüzün yavrum,
+
 yüreciğin kaşlarında tütüyor,
+
 ellerin avcumda iki ateş damlası,
+
 tutuşmuş rüyaların, sesin duyulmaz,
+
 kendi kollarımızdan başka
+
 saranımız yok bizim..
+
 Yazım benim, güzüm benim,
+
 yemin olmuş sözüm benim;
+
 sana kuş bulmalıyım
+
 sana düş bulmalıyım
+
 gidip iş bulmalıyım..
+
 Koynunda çırpınırken böyle çaresiz
+
 kahrınla tanıştırdın bizi ey hayat
+
 zehrinle tanıştırdın;
 
 alışılmaz bildiğimiz nefrete alıştırdın!
@@ -203,78 +278,180 @@ BEHRAM
 
 Nihat BEHRAM
 
-### Hesapsız Duygular
+## Hesapsız Duygular
 
-Bil ki       üzgün bırakıp ayrılırken                                   
-caddelerkaldırım taşlarıyla örtülmüş
+HESAPSIZ DUYGULAR
+Bil ki
+       üzgün bırakıp ayrılırken
+                                   
+caddeler
+kaldırım taşlarıyla örtülmüş
 uçurumlardır.
 Bilinçsizce mırıldanışta
-ansızın hatırlananbir şarkı gibidir dönüşündeki
+ansızın hatırlanan
+bir şarkı gibidir dönüşündeki
 haz
 Uzun uzun ağlamak için güdülen
-hasretbazen nelere değmezsubaşından ürkütülmüş
-ceylanınsekerek kaçarken ırmağa saldığı
-kadersanki süzülüp kalbine gelir
-Yanıp sönen solgunve kararsız ışıkları sehrintopraklarda ışıldasa da yıldızlar
-kadargözlerimde yoğunlaşan anlamsız
-bakıştakılıp gölgesine derinliklerinuzaklaşır.
-Oysa tayların körpecik kuyruğunaparlak yelesine bağlanan kurdelahuylarını gizlice dizginlemek içindir
-Ve bilmediğim acılaryemişine kuşların konmadığı
-ağaçlar              sarmaşıklar
+hasret
+bazen nelere değmez
+subaşından ürkütülmüş
+ceylanın
+sekerek kaçarken ırmağa saldığı
+kader
+sanki süzülüp kalbine gelir
+Yanıp sönen solgun
+ve kararsız ışıkları sehrin
+topraklarda ışıldasa da yıldızlar
+kadar
+gözlerimde yoğunlaşan anlamsız
+bakış
+takılıp gölgesine derinliklerin
+uzaklaşır.
+Oysa tayların körpecik kuyruğuna
+parlak yelesine bağlanan kurdela
+huylarını gizlice dizginlemek içindir
+Ve bilmediğim acılar
+yemişine kuşların konmadığı
+ağaçlar
+              sarmaşıklar
 altında
-Seni birazdan ay batarken anacağımfakat unutma ki yaşamaksonsuz bir tadla onarıyorhırçın bir çocuğun ısırdığı
+Seni birazdan ay batarken anacağım
+fakat unutma ki yaşamak
+sonsuz bir tadla onarıyor
+hırçın bir çocuğun ısırdığı
 elmayı
 Nihat BEHRAM
 
 Nihat BEHRAM
 
-### Hapisanedeki
+## Hapisanedeki
   Arkadaşıma Ulaştırılamayan Bir Not
 
+ULAŞTIRILAMAYAN BİR NOT 
+
 Sevgili kardeşim:  
-Belli ki  gömleğinin yakasında kuruyan
-ter  bu bahar  tarlaların tozunu taşımayacak 
-kasketinin gölgesini  küçük üzümleri andıran gözlerini 
+Belli ki  
+gömleğinin yakasında kuruyan
+ter  
+bu bahar  
+tarlaların tozunu taşımayacak 
+
+kasketinin gölgesini  
+küçük üzümleri andıran gözlerini 
+
 bir selvi yaprağı gibi
 korumayacak  
-Sana  tomurcuklu bir dal yollamıştım 
+Sana  
+tomurcuklu bir dal yollamıştım 
 
-bir kaç kitap  bir kilo portakal  Ve  "dostları özlemle
-kucaklamayı unutma" dizesini  almadılar  
+bir kaç kitap  
+bir kilo portakal  
+Ve  
+"dostları özlemle
+kucaklamayı unutma" dizesini  
+almadılar  
 geçen yaz-hatırlarsın- 
+
 ilk meyvasını veren bir fidandan 
-ham zerdaliler toplayıp  uzun yollar boyunca  esaret ve zafer üstüne  marşlar söylemiştik  
+
+ham zerdaliler toplayıp  
+uzun yollar boyunca  
+esaret ve zafer üstüne  
+marşlar söylemiştik  
 yaşadığın günlerin hesabını
-soranlara  bildiğin marşları söylemeyi
+soranlara  
+bildiğin marşları söylemeyi
 unutma  
 Nihat BEHRAM
 
 Nihat BEHRAM
 
-### Manastır Kuşçusu
+## Manastır Kuşçusu
 
-zor bir nakış gibi işliyorumliseyi ve aşkıhüzünden bir kanaviçeye
-Üveyikler ibibikler arıyorumkandillerle gece çulluklarıbana bir salgını çağrıştıran
-bıldırcınlarlise öğretmenlerinin dolduğu
-odalardansarı asmalar ürküyor koştuğumda
-kim bilir kuşların öldüğünürüzgar geçerken selviler arasındansepetime diken gülleri toplayıpannemin güzelliğine üzgünkuşlar vurduğumu benimçağlalar çaldığımıkim bilir hala nasıl süslüyor
-benio yusufçuk sesleri
+MANASTIR KUŞÇUSU
+zor bir nakış gibi işliyorum
+liseyi ve aşkı
+hüzünden bir kanaviçeye
+Üveyikler ibibikler arıyorum
+kandillerle gece çullukları
+bana bir salgını çağrıştıran
+bıldırcınlar
+lise öğretmenlerinin dolduğu
+odalardan
+sarı asmalar ürküyor koştuğumda
+kim bilir kuşların öldüğünü
+rüzgar geçerken selviler arasından
+sepetime diken gülleri toplayıp
+annemin güzelliğine üzgün
+kuşlar vurduğumu benim
+çağlalar çaldığımı
+kim bilir hala nasıl süslüyor
+beni
+o yusufçuk sesleri
 şimdi kumruların angutların
-kaçıştığıçocukların mavi serçeler topladığıaile albümünden bir yüreğihızla soyunuyorumhızla soyunuyorum karanlık
-koynumdanliseli kitaplarımı
+kaçıştığı
+çocukların mavi serçeler topladığı
+aile albümünden bir yüreği
+hızla soyunuyorum
+hızla soyunuyorum karanlık
+koynumdan
+liseli kitaplarımı
 Nihat
 BEHRAM
 
 Nihat BEHRAM
 
-### Ölülerimiz
+## Ölülerimiz
 
-Her sabahher sabaho kusursuz acının kollarındao kusursuz acının kollarında öpüştüğüm gökyüzüartıkçırpınan yüreğimi yatıştırmıyor. Ve onunkoparıp dizginleriniuçarcasına boylu boyuncasakınmasız çarpışıheyecanlandırıyor beni.Bir serçe kümesinin konması karşıki dalabelki hiçbir şeydir,ama sevgilimin mektubunda bir kuş resmibeni coşkulandırabilir.Milyarla yıldız arasında tanırım onuçünkü seyredince güzelleşir sevginin ışıltısı;binlerce gözüm varbinlerce şafak halindeyimanlamak istediğim şeyin karşısındaçünkü anlamak zorundayım;her sevinç kolayca ele geçmezinsan her acının sahibi değildir;gökyüzü ve nehirler olmasa toprak da anlaşılmazve hayatın kararı kesin:son ana kadar onuru koruyanlar yaşayacaksöylenecek son söz kahramanca olmalıdır. 
-Vurgunum inceliğinim senineyyyapraklarda bir kuş hafifliğinde sürüp giden
-titreyişvurgunumbir nehri besleyen suların uyumuna,taşlara hırsla vuruşuna dalganın. 
-Ölüm seni yanıltmasın...Nasıl ki yığılır yüzüne gecenin karanlığıgözlerinle bir başına kalırsınölüm öylesine gözuçlarındasavun, kavuştur yüreğiniminicik bir çiçeğin bile kökleriyaşamak hırsıyla uykusuzdur. 
-Ölülerimiz...İşte Stevan Flipoviç.Bir kahraman.Faşistler sarmış çevresini.Sehpada.Boynunda ip. 
-Ve o son nefesiyle dalayıp ciğerinibir bıçak gibi vuruyor kelimeleri dişleri arasından
+Her sabah
+her sabah
+o kusursuz acının kollarında
+o kusursuz acının kollarında öpüştüğüm gökyüzü
+artık
+çırpınan yüreğimi yatıştırmıyor. Ve onun
+koparıp dizginlerini
+uçarcasına boylu boyunca
+sakınmasız çarpışı
+heyecanlandırıyor beni.
+Bir serçe kümesinin konması karşıki dala
+belki hiçbir şeydir,
+ama sevgilimin mektubunda bir kuş resmi
+beni coşkulandırabilir.
+Milyarla yıldız arasında tanırım onu
+çünkü seyredince güzelleşir sevginin ışıltısı;
+binlerce gözüm var
+binlerce şafak halindeyim
+anlamak istediğim şeyin karşısında
+çünkü anlamak zorundayım;
+her sevinç kolayca ele geçmez
+insan her acının sahibi değildir;
+gökyüzü ve nehirler olmasa toprak da anlaşılmaz
+ve hayatın kararı kesin:
+son ana kadar onuru koruyanlar yaşayacak
+söylenecek son söz kahramanca olmalıdır. 
+Vurgunum 
+inceliğinim senin
+eyy
+yapraklarda bir kuş hafifliğinde sürüp giden
+titreyiş
+vurgunum
+bir nehri besleyen suların uyumuna,
+taşlara hırsla vuruşuna dalganın. 
+Ölüm seni yanıltmasın...
+Nasıl ki yığılır yüzüne gecenin karanlığı
+gözlerinle bir başına kalırsın
+ölüm öylesine gözuçlarında
+savun, kavuştur yüreğini
+minicik bir çiçeğin bile kökleri
+yaşamak hırsıyla uykusuzdur. 
+Ölülerimiz...
+İşte Stevan Flipoviç.
+Bir kahraman.
+Faşistler sarmış çevresini.
+Sehpada.
+Boynunda ip. 
+Ve o son nefesiyle dalayıp ciğerini
+bir bıçak gibi vuruyor kelimeleri dişleri arasından
 haykırıyor: "Kahrolsun faşizm; Yaşasın mücadelemiz..." 
 Steven Flipoviç
 onurun bekçisi
@@ -328,7 +505,7 @@ Nihat BEHRAM
 
 Nihat BEHRAM
 
-### Sığınak
+## Sığınak
 
 Yedeğimde hep bir şiir olmalı 
 Korusun diye beni, 
@@ -384,33 +561,45 @@ Beni şiirler bağışlasın!
 
 Nihat BEHRAM
 
-### Suda Yiten Ayışığı
+## Suda Yiten Ayışığı
 
 Kırk sevginin baygınıyım
 - belki de yüzkırk -
+
 yine de yalnızlık yalazlanır kırık kalbimde
 
 Otların tutuklusu
+
 haylazı ağzım
+
 şimdi tutlusu kara suların.
 
 Her şeye yeniden başlayabilseydim eğer
+
 aşkımı acıyla anmazdım artık.
 
 Ben ki delisiyim suların, oysa bu sular
+
 çöl rüzgarı kadar bulanık.
 
 Akar gibi geçiyorum dünyadan, ısınıp bakınmadan,
+
 sarhoş
+
 sıkılgan
+
 sırılsıklam...
 
 Kırk diyarda kırkbin öpüşün bitkiniyim
+
 dudağında kırkbin kekik tadı kamaşır
+
 yine de kalbim ısırgan mı ısırgan.
 
 Eşini çağlayana kaptırmış balığıyım bu nehrin;
+
 aydır, geceden beri dişlenmiş kelebeğin
+
 her sabah ağzımda ölümüyle buluşan.
  
 Nihat
@@ -418,7 +607,7 @@ BEHRAM
 
 Nihat BEHRAM
 
-### Sürgün
+## Sürgün
 
 Uyandırın anamı
 Söyleyin gidiyorum
@@ -450,7 +639,7 @@ Nihat BEHRAM
 
 Nihat BEHRAM
 
-### Üç Dağa Ağıt
+## Üç Dağa Ağıt
 
 Açlığın
 çıplaklığın acısı mı genişliyor
@@ -492,77 +681,118 @@ birer rüzgâr uğultusu bırakarak yanan ateşe
 
 Nihat BEHRAM
 
-### Yaşadıkça
+## Yaşadıkça
 
 Ah benim aşkla beslediğim
 sevgilim
+
 kalbimi zorlayan heyecanla sana
+
 savaşın gitgide yaklaşan uğultusuyum
 
 Günler
+
 sazlarla çevrili göl kıyısında
+
 suyun inanılmaz berraklığıyla çalkalanıp geçti
+
 serçeler karla yıkadı tüylerini
+
 taşların oyuklarına doluşan kertenkeleler
+
 düşlerimde zamanla silikleşti
+
 Bazan düşünmek acı veriyor bana
+
 içimde yırtılarak uzaklaşan çayırları
 
 Ah, benim aşkla beslediğim sevgilim
+
 bütün güzel şarkıları sanki ben bestelemişim
+
 üstelik merakla bakıyorum tanıdık her yüze
 Çayırları düşün
+
 anamdan emdiğim sütün tadı
+
 yırtarak uzaklaşan çayırları
 
 Artık tek afiş kan kokusu şehrin sokaklarında
+
 gerisi düşmanın kurduğu pusu
+
 kan kokusu diyorsam
+
 ah, benim aşkla beslediğim sevgilim
+
 kalbimi zorlayan heyecanla sana
+
 savaşın gitgide yaklaşan uğultusuyum
 Nihat
 BEHRAM
 
 Nihat BEHRAM
 
-### Yenilgi
+## Yenilgi
 
 Ah susuşu o saf yüreğin
+
 ah, acısı acemi çocukluğun
+
 düş kırıklığı, coşkudaki bozgun
 
 Ah yenilginin yorgun kısrağı
+
 kendi içini kavuran kızgın ateş
+
 bekleyişe bağlanan umut, tasası haykırışın
 
 Ah, ardı ardına kenetlenen ölüm
+
 ah, hıncı sabırla bezeyen sır
+
 yazmadaki sırması ağlayışın, tırnaklara oturan kan
 
 Sanki delirmenin eşiğindeyim
+
 boş bomboş gözlerine gömülmüşüm bir köpeğin
+
 mısırların süt taneleri, kestanelerin
+
 bademlerin daha olgunlaşmamış
+
 suyla susuzluk arası kayganlığında
+
 aranıp duruyorum kendimi
 
 Ey yangınlarda patlamaya hazırlanan merak
+
 ey içimi ekşi sularla çalkalayan baş dönmesi
+
 ıssız ıpıssız boşluğu aysız gecenin
+
 ölümle yaşamak arasındaki şerit
+
 naneler, kekikler, ebegümeçleri
+
 ve şifalı bulutu kaynar kükürt deresinin
+
 çekiyor altımdan nemli döşeğimi
 
 Ah, yürekleri toprağa saplanan arkadaşlarım
+
 ah, oğlakların, tayların, buzağıların
-acı otlarla kararan damakları(akşamları barut kokusuyla dönsem
+
+acı otlarla kararan damakları
+(akşamları barut kokusuyla dönsem
 de odama,
+
 sancısı: çaresiz seyrettiğim ölümün
 
 Ah, bir kere daha kederliyim
+
 ah, çılgın bir aşkın kollarında incelen bıçak
+
 seni öperek bilemeliyim
  
 Nihat
@@ -570,7 +800,7 @@ BEHRAM
 
 Nihat BEHRAM
 
-### Yine de Gülümseyerek
+## Yine de Gülümseyerek
 
 Ne sağnaklar görmüşüz, yarılan gökyüzünden alnımız
                                                            yıldırımlarla ağmış,

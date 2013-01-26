@@ -1,6 +1,6 @@
-## Melih Cevdet ANDAY
+# Melih Cevdet ANDAY
 
-### Ahlak
+## Ahlak
 
 Ahlak kalmadı dünyada
 Kiracısı öyle, işçisi öyle
@@ -17,7 +17,7 @@ Ahlak kalmadı memlekette.
 
 Melih Cevdet ANDAY
 
-###  Ağulu Mantar
+##  Ağulu Mantar
 
 Yağmur bir adım ötemizde
 Kabarmış ağulu mantar
@@ -30,7 +30,7 @@ Denizim ben batık aşklarla dolu
 
 Melih Cevdet ANDAY
 
-### Alaturka
+## Alaturka
 
 Çık benim şair tabiatım, çık orta yere
 Fakir güzelinden söyle
@@ -59,26 +59,45 @@ Dede'den.
 
 Melih Cevdet ANDAY
 
-### Anı
+## Anı
  
 
-Bir çift güvercin havalansaYanık yanık koksa karanfilDeğil bu anılacak şey değilApansız geliyor aklıma
-Neredeyse gün doğacaktıHerkes gibi kalkacaktınızBelki daha uykunuz da vardıGeceniz geliyor aklıma
-Sevdiğim çiçek adları gibiSevdiğim sokak adları gibiBütün sevdiklerimin adları gibiAdınız geliyor aklıma
-Rahat döşeklerin utanması bundanÖpüşürken bu dalgınlık bundanTel örgünün deliğinde buluşanParmaklarınız geliyor aklıma
-Nice aşklar arkadaşlıklar gördümKahramanlıklar okudum tarihteÇağımıza yakışan vakur, sadeDavranışınız geliyor aklıma 
-Bir çift güvercin havalansa Yanık yanık koksa karanfilDeğil unutulur şey değilÇaresiz geliyor aklıma. 
+Bir çift güvercin havalansa
+Yanık yanık koksa karanfil
+Değil bu anılacak şey değil
+Apansız geliyor aklıma
+Neredeyse gün doğacaktı
+Herkes gibi kalkacaktınız
+Belki daha uykunuz da vardı
+Geceniz geliyor aklıma
+Sevdiğim çiçek adları gibi
+Sevdiğim sokak adları gibi
+Bütün sevdiklerimin adları gibi
+Adınız geliyor aklıma
+Rahat döşeklerin utanması bundan
+Öpüşürken bu dalgınlık bundan
+Tel örgünün deliğinde buluşan
+Parmaklarınız geliyor aklıma
+Nice aşklar arkadaşlıklar gördüm
+Kahramanlıklar okudum tarihte
+Çağımıza yakışan vakur, sade
+Davranışınız geliyor aklıma 
+Bir çift güvercin havalansa 
+Yanık yanık koksa karanfil
+Değil unutulur şey değil
+Çaresiz geliyor aklıma. 
   
   
+ Not:
+Julius ve Ethel Rosenberg, 19 Haziran 1953'te,
 
- Not:Julius ve Ethel Rosenberg, 19 Haziran 1953'te,
 New York'ta idam edildiklerinde, casusluk nedeniyle idam edilen ilk ABD yurttaşları
 oldular. Suçlu olup olmadıkları uzun süre tartışıldı. Bugün, idamları
 McCarhty döneminin baskıcı havasına yorulmaktadır.
 
 Melih Cevdet ANDAY
 
-### Atatürk'ün Bir Saatı Vardı
+## Atatürk'ün Bir Saatı Vardı
 
 Atatürk'ün bir sözü vardı
 Yediveren bir gül gibi açardı
@@ -94,7 +113,7 @@ Durmadı
 
 Melih Cevdet ANDAY
 
-### Bardak
+## Bardak
 
 İsterim tutsak bardağımın gizini,
 Parçalanmaz gölgesini evrenin,
@@ -103,7 +122,7 @@ Gömülmüş sözüm ben dirilmiş.
 
 Melih Cevdet ANDAY
 
-### Bir İlkbahar Şiirine Başlangıç
+## Bir İlkbahar Şiirine Başlangıç
   
 
 Hava ne kadar güzel öğretmenim
@@ -131,7 +150,7 @@ Sarılıp sarılıp öperler adamı.
 
 Melih Cevdet ANDAY
 
-### Bu Kırlangıçlar Gitmemişler
+## Bu Kırlangıçlar Gitmemişler
   miydi?
 
 Giden gelen yok. Bir titreşimdir bu.
@@ -146,7 +165,7 @@ Dolu bir boşluğu doldurup boşaltmak işimiz.
 
 Melih Cevdet ANDAY
 
-### Çare Yok
+## Çare Yok
 
 Anladık ölüme çare yok
 Kazaya belaya çare yok
@@ -160,44 +179,92 @@ Anlamadık gitti
 
 Melih Cevdet ANDAY
 
-### Çeşitlemeler
+## Çeşitlemeler
 
-IAtımla yola çıkıyoruz
-seherde Sabah büyük bir kuş uyanıyor,Ağırlaşmış ay gibi susuyorum,Yaşı bilinmeyen yağmur
-önümde,Bin yıl ötedeki ufak çiçekler.Dün gece, dün gece gördüm
-düşümdeKömür gözlümden ayrı
-düşmüştümSevdamın avucunu bastırıyorum
-gcceyeYağıyor dağlara kar benim içinGüz ağaçları ile
-karıştırıyorum sisleriBeni yola bırakan ırmağa
-dönüp bakıyorumUzaklıkların sınanmış
-bıçağıBir şey demek gelmiyor içimden Kanımın buğdayını
-savuruyorum.Atımla, atımla yola çıktım
-seherde Lale sümbüller içinde hüma
-kuşları ötüyor,Avcılar yolu tutmuşlar dağlara
-erken erken,Dar sokaklardan geçiyorlar,Sağlarına sollarına gümüşlü
-hamayıl asmıslarAl atlarının,Mücevherli tüfekler asmışlar
-omuzlarına,Yeterince şarapları var
-günbatımı içinİnsan gibi bakan kartalları
+Karacaoğlan' ın Bir şiiri Üzerine 
+ÇEŞİTLEMELER
+I
+Atımla yola çıkıyoruz
+seherde 
+Sabah büyük bir kuş uyanıyor,
+Ağırlaşmış ay gibi susuyorum,
+Yaşı bilinmeyen yağmur
+önümde,
+Bin yıl ötedeki ufak çiçekler.
+Dün gece, dün gece gördüm
+düşümde
+Kömür gözlümden ayrı
+düşmüştüm
+Sevdamın avucunu bastırıyorum
+gcceye
+Yağıyor dağlara kar benim için
+Güz ağaçları ile
+karıştırıyorum sisleri
+Beni yola bırakan ırmağa
+dönüp bakıyorum
+Uzaklıkların sınanmış
+bıçağı
+Bir şey demek gelmiyor içimden 
+Kanımın buğdayını
+savuruyorum.
+Atımla, atımla yola çıktım
+seherde 
+Lale sümbüller içinde hüma
+kuşları ötüyor,
+Avcılar yolu tutmuşlar dağlara
+erken erken,
+Dar sokaklardan geçiyorlar,
+Sağlarına sollarına gümüşlü
+hamayıl asmıslar
+Al atlarının,
+Mücevherli tüfekler asmışlar
+omuzlarına,
+Yeterince şarapları var
+günbatımı için
+İnsan gibi bakan kartalları
 gördüklerinde .
-IIKısmetse bu akşam Eğrikol' da
-yatarız,Yürümeyen geleceği
-üzüntümün,Uzaklara kar gibi yağıyor
-bilmediğim yıllarSaklanmış sabahın akpak
-anısı.bir kuyu görmüştüm orda,
-ağzı kapalı,Geçmişin fazlalığını
-sınadı yureğim,Güzeller suyundan içip
-kanarmış.Dizimde derman kalmamıştı,
-çöktüm oturdum,Ağzı kapalı kuyuya baktım,
-akşamın başkentiKonuşmaya başlamamış bir
-buzağı gibi,Yazmalar gibi alaca bulaca
-baktım,Bir söğüt, bir söğüt de
-baktı benimle,Kuşların arasında dal
-konuşuyordu.Kırılmamış taş gibiydi güniKaranlık toprağı
-karıştırıyordu,Gizlilik soyluluk veren yaşama.Hiç güzel sevmedik mi yalan
-dünyada.Gelinin ibrişimdi saçı, sustum
-kaldım,Yatmadı benimle unutmam, ay
-toprağa değiyordu,Üstüne dört libas giymiştiBir kara, bir yeşil, bir al, bir
-beyaz,Göğsünde dört nişan gördümBir elma, bir ayva, bir nar, bir
+II
+Kısmetse bu akşam Eğrikol' da
+yatarız,
+Yürümeyen geleceği
+üzüntümün,
+Uzaklara kar gibi yağıyor
+bilmediğim yıllar
+Saklanmış sabahın akpak
+anısı.
+bir kuyu görmüştüm orda,
+ağzı kapalı,
+Geçmişin fazlalığını
+sınadı yureğim,
+Güzeller suyundan içip
+kanarmış.
+Dizimde derman kalmamıştı,
+çöktüm oturdum,
+Ağzı kapalı kuyuya baktım,
+akşamın başkenti
+Konuşmaya başlamamış bir
+buzağı gibi,
+Yazmalar gibi alaca bulaca
+baktım,
+Bir söğüt, bir söğüt de
+baktı benimle,
+Kuşların arasında dal
+konuşuyordu.
+Kırılmamış taş gibiydi güni
+Karanlık toprağı
+karıştırıyordu,
+Gizlilik soyluluk veren yaşama.
+Hiç güzel sevmedik mi yalan
+dünyada.
+Gelinin ibrişimdi saçı, sustum
+kaldım,
+Yatmadı benimle unutmam, ay
+toprağa değiyordu,
+Üstüne dört libas giymişti
+Bir kara, bir yeşil, bir al, bir
+beyaz,
+Göğsünde dört nişan gördüm
+Bir elma, bir ayva, bir nar, bir
 kiraz,
 Cerenlerin yolundan koştu gitti.
 III
@@ -338,7 +405,7 @@ Bense akşamın koca denizine doğru
 
 Melih Cevdet ANDAY
 
-### Çok Güzel Şey
+## Çok Güzel Şey
 
 Yaşamak güzel şey doğrusu
 Üstelik hava da güzelse
@@ -357,15 +424,34 @@ Yaşamak güzel şey
 
 Melih Cevdet ANDAY
 
-### Defne Ormanı
+## Defne Ormanı
 
-Köle sahipleri ekmek kaygusu çekmedikleri için felsefe yapıyorlardı, çünküEkmeklerini köleler veriyordu onlara;Köleler ekmek kaygusu çekmedikleri içinFelsefe yapmıyorlardı, çünkü ekmeklerini Köle sahipleri veriyordu onlara.Ve yıkıldı gitti Likya.
-Köleler felsefe kaygusu çekmedikleriİçin ekmek yapıyorlardı, çünküFelsefelerini köle sahipleri veriyordu onlara;Felsefe sahipleri köle kaygusu çekmedikleriİçin ekmek yapmıyorlardı, çünkü köleleriniFelsefe veriyordu onlara.Ve yıkıldı gitti Likya.
-Felsefenin ekmeği yoktu, ekmeğinFelsefesi. Ve sahipsiz felsefeninEkmeğini, sahipsiz ekmeğin felsefesi yedi.Ekmeğin sahipsiz felsefesiniFelsefenin sahipsiz ekmeği.Ve yıkıldı gitti Likya.Hala yeşil bir defne ormanı altında.
+DEFNE ORMANI
+Köle sahipleri ekmek kaygusu çekmedikleri 
+için felsefe yapıyorlardı, çünkü
+Ekmeklerini köleler veriyordu onlara;
+Köleler ekmek kaygusu çekmedikleri için
+Felsefe yapmıyorlardı, çünkü ekmeklerini 
+Köle sahipleri veriyordu onlara.
+Ve yıkıldı gitti Likya.
+Köleler felsefe kaygusu çekmedikleri
+İçin ekmek yapıyorlardı, çünkü
+Felsefelerini köle sahipleri veriyordu onlara;
+Felsefe sahipleri köle kaygusu çekmedikleri
+İçin ekmek yapmıyorlardı, çünkü kölelerini
+Felsefe veriyordu onlara.
+Ve yıkıldı gitti Likya.
+Felsefenin ekmeği yoktu, ekmeğin
+Felsefesi. Ve sahipsiz felsefenin
+Ekmeğini, sahipsiz ekmeğin felsefesi yedi.
+Ekmeğin sahipsiz felsefesini
+Felsefenin sahipsiz ekmeği.
+Ve yıkıldı gitti Likya.
+Hala yeşil bir defne ormanı altında.
 
 Melih Cevdet ANDAY
 
-### Dursun Bebeğe Ninni
+## Dursun Bebeğe Ninni
 
 Merhaba Dursun bebek merhaba
 İşte su
@@ -391,7 +477,7 @@ Bizim aslan gibi analar.
 
 Melih Cevdet ANDAY
 
-###  Düzenli Dünya
+##  Düzenli Dünya
 
 Bayılırım şu düzenli dünyaya 
 Kışı yazı 
@@ -426,7 +512,7 @@ Gel keyfim gel!
 
 Melih Cevdet ANDAY
 
-### Faltaşı
+## Faltaşı
 
 Havada kuş yok
 Yaprak kıpırdamıyor
@@ -440,7 +526,7 @@ Tıkanacağım.
 
 Melih Cevdet ANDAY
 
-### Fotoğraf
+## Fotoğraf
 
 Dört kişi parkta çektirmişiz,
 Ben, Orhan, Oktay, bir de Şinasi...
@@ -457,7 +543,7 @@ Oysa hayattayız hepimiz.
 
 Melih Cevdet ANDAY
 
-### Gelinlik Kızın Ölümü
+## Gelinlik Kızın Ölümü
 
 Salâ verilirken kalktık kahveden, 
 Cumaydı, yılın en beklemiş günü, 
@@ -514,7 +600,7 @@ Kendi kendine, duasız, bir tanrı gibi.
 
 Melih Cevdet ANDAY
 
-### Gözlerim Mavi
+## Gözlerim Mavi
 
 Gözlerimden çıkıyorsun
 Sokağa
@@ -522,7 +608,7 @@ Mavi mavi.
 
 Melih Cevdet ANDAY
 
-###  Güneşte
+##  Güneşte
 
 Çünkü saatler dardır, her şeyi almaz 
 Güneşte çözülür ve kayarlar bir yana. 
@@ -555,14 +641,14 @@ Güneşte her şey çözülür gider bir yana.
 
 Melih Cevdet ANDAY
 
-###  Güvercin
+##  Güvercin
 
 Güvercin
 Pencerede kopan alkış
 
 Melih Cevdet ANDAY
 
-### Hazineler İçindesin
+## Hazineler İçindesin
 
 Mehmet
 Hazineler içindesin
@@ -575,7 +661,7 @@ Hepsi benimdir.
 
 Melih Cevdet ANDAY
 
-### Her Gece Böyle Değilim
+## Her Gece Böyle Değilim
 
 Benim de öyle akşamlarım vardır.
 Kapıdan girince anama sarıldığım,
@@ -591,7 +677,7 @@ Her gece böyle değilim.
 
 Melih Cevdet ANDAY
 
-### Hiroşima
+## Hiroşima
 
 Büyükbabam, babam, ben
 Küçük oğlan, kız, damat...
@@ -600,7 +686,7 @@ Gidişimiz cümbür cemaat.
 
 Melih Cevdet ANDAY
 
-### Kadeş Savaşı
+## Kadeş Savaşı
 
 Asi ırmağının bir yakasında Muvattali
 ayakta, askerleri arasında,
@@ -614,7 +700,7 @@ Ama bu bakışma kalır kalsa kalsa.
 
 Melih Cevdet ANDAY
 
-### Kımıltısız Arılar
+## Kımıltısız Arılar
 
 Ah o kımıltısız arılar yangın tapınağında
 Halatlarını koparmış yırtıcı alınların yarası
@@ -622,7 +708,7 @@ Halatlarını koparmış yırtıcı alınların yarası
 
 Melih Cevdet ANDAY
 
-### Kundura 
+## Kundura 
   Boyacısına, Kiraz Ağacına, Çingene Kızına Dair
 
 Sabahleyin evden çıkıyorum
@@ -650,13 +736,55 @@ Ne düşünüyorsun be adam?
 
 Melih Cevdet ANDAY
 
-### Kolları Bağlı Odysseus
+## Kolları Bağlı Odysseus
 
 ÜM
-1.Kara gemi Okeanos ırmağının Akıntısından kurtulup tanrısalDenizde Ayaye adasına varıncaOnu kumsala çektik ve uykuyaDalarak tanrısal şafağı bekledik.Sabah sisi içinde doğanGül parmaklı şafakElpenor' un yüzüstü yatan ölüsünüBulmuştu ilk önce kıyıda.Martı  leşleri ve deniz kabukları arasınaTörenle gömdük onu kederliGönülle ve yanık yüzlü şaraptanİçerek dinledik Kirke'yi.
-2.Tanrıçaların en tanrısalıGüzel belikli Kirke eyitti :"Sen Odysseus iki ölümlüsünHades'i gördün daha yaşarkenGüneş doğmayan neşesiz ülkeyiGünlerce karanlıkta kaldınÇünkü İthaca yaşatıyordu seniTanrısal denizde ordan orayaBin yıldır aradığın ada...Konağının sarsılmaz temeliİkarios kızı PenelopeiaVe erdemli dölün TelemakhosBütün ülkün ve sevgin olan İthaca."
-3. İyi dinle söyleyeceklerimiHer şeyi olduğu gibi anlatacağım sanaKi yeni uğursuzluklar yüzündenDenizler ortasında kalma bir daha.Önce Sirenlere rast geleceksinizKoruyun onlardan kendiniziYabansı ezgilerle büyüleneceksinOrdan çarçabuk uzaklaşmalı kiBüsbütün yok  olmasın İthaca.Sirenleri aştıktan sonra kürekçilerinİki yol çıkacak karşına birdenAcaba bunlardan hangisi?Artık onu orda sen bileceksin!"
-4.Oysa İthaca'yı hiç görmemiştimPenelopeia yoktu, Telemakhos da,Ama İthaca kafamda onlardan kurulu idi.
+1.
+Kara gemi Okeanos ırmağının 
+Akıntısından kurtulup tanrısal
+Denizde Ayaye adasına varınca
+Onu kumsala çektik ve uykuya
+Dalarak tanrısal şafağı bekledik.
+Sabah sisi içinde doğan
+Gül parmaklı şafak
+Elpenor' un yüzüstü yatan ölüsünü
+Bulmuştu ilk önce kıyıda.
+Martı  leşleri ve deniz kabukları arasına
+Törenle gömdük onu kederli
+Gönülle ve yanık yüzlü şaraptan
+İçerek dinledik Kirke'yi.
+2.
+Tanrıçaların en tanrısalı
+Güzel belikli Kirke eyitti :
+"Sen Odysseus iki ölümlüsün
+Hades'i gördün daha yaşarken
+Güneş doğmayan neşesiz ülkeyi
+Günlerce karanlıkta kaldın
+Çünkü İthaca yaşatıyordu seni
+Tanrısal denizde ordan oraya
+Bin yıldır aradığın ada...
+Konağının sarsılmaz temeli
+İkarios kızı Penelopeia
+Ve erdemli dölün Telemakhos
+Bütün ülkün ve sevgin olan İthaca."
+3. 
+İyi dinle söyleyeceklerimi
+Her şeyi olduğu gibi anlatacağım sana
+Ki yeni uğursuzluklar yüzünden
+Denizler ortasında kalma bir daha.
+Önce Sirenlere rast geleceksiniz
+Koruyun onlardan kendinizi
+Yabansı ezgilerle büyüleneceksin
+Ordan çarçabuk uzaklaşmalı ki
+Büsbütün yok  olmasın İthaca.
+Sirenleri aştıktan sonra kürekçilerin
+İki yol çıkacak karşına birden
+Acaba bunlardan hangisi?
+Artık onu orda sen bileceksin!"
+4.
+Oysa İthaca'yı hiç görmemiştim
+Penelopeia yoktu, Telemakhos da,
+Ama İthaca kafamda onlardan kurulu idi.
 Tanrıçaların en tanrısalı
 Kirke'nin bile söyleyemediği
 Bu yolu bulup geçeceğim;
@@ -686,7 +814,7 @@ Sağ salim geçtim kendimi.
 
 Melih Cevdet ANDAY
 
-### Medeniyet
+## Medeniyet
 
 Şu haline bak da utan
 Ne okuma bilirsin ne sayı
@@ -712,19 +840,47 @@ Ne görsen faydası var!
 
 Melih Cevdet ANDAY
 
-### Olsun da Gör
+## Olsun da Gör
 
-O gün gelsin neşemiz tazelensin de görDünyayı hele sen bir barış olsun da görSeyreyle gülü bülbülüÇifter çifter aylar gökyüzündeHer gece ayın on dördü
-Kuşlar geçecek damların üstünden Kuşlar konacak dallaraKanat seslerini duyup uyanırlarsaGene kuşlarla uyusun çocuklarOlanı biteni anlatma.
-Hiç görmediğim şey buKurdun gözü yılmış sürüdenElmanın yarısı soğuk yarısı sıcakAğulu bitkilere dolanmış salkımGüneşten yağmur boşanacak
-Yetsin demir çağının beyliğiYeni bir gün başlıyor demekYeryüzünde korkusuz yaşamakİki milyar kişiye bir dünyaİki milyar kişiye iki milyar ekmek
-Yazık olur bu düş yarı kalırsaBarış günü insan hakkı yenirseKöroğlu' nun sözü dinlenmelidirSivas ilinin Banaz  köyündenPir Sultan Abdal dirilmelidir
-Ah günüm yetse görmeye seniSeni övmeye gücüm yetseBarış çağı altın çağSon ozanı ben olayım bu özleminBu özlem bitse
-O gün gelsin neşemiz tazelensin de görDünyayı hele sen bir barış olsun da görSeyreyle deli ozanıBaştan başa sevda, baştan başa tutkuDili baldan tatlı
+O gün gelsin neşemiz tazelensin de gör
+Dünyayı hele sen bir barış olsun da gör
+Seyreyle gülü bülbülü
+Çifter çifter aylar gökyüzünde
+Her gece ayın on dördü
+Kuşlar geçecek damların üstünden 
+Kuşlar konacak dallara
+Kanat seslerini duyup uyanırlarsa
+Gene kuşlarla uyusun çocuklar
+Olanı biteni anlatma.
+Hiç görmediğim şey bu
+Kurdun gözü yılmış sürüden
+Elmanın yarısı soğuk yarısı sıcak
+Ağulu bitkilere dolanmış salkım
+Güneşten yağmur boşanacak
+Yetsin demir çağının beyliği
+Yeni bir gün başlıyor demek
+Yeryüzünde korkusuz yaşamak
+İki milyar kişiye bir dünya
+İki milyar kişiye iki milyar ekmek
+Yazık olur bu düş yarı kalırsa
+Barış günü insan hakkı yenirse
+Köroğlu' nun sözü dinlenmelidir
+Sivas ilinin Banaz  köyünden
+Pir Sultan Abdal dirilmelidir
+Ah günüm yetse görmeye seni
+Seni övmeye gücüm yetse
+Barış çağı altın çağ
+Son ozanı ben olayım bu özlemin
+Bu özlem bitse
+O gün gelsin neşemiz tazelensin de gör
+Dünyayı hele sen bir barış olsun da gör
+Seyreyle deli ozanı
+Baştan başa sevda, baştan başa tutku
+Dili baldan tatlı
 
 Melih Cevdet ANDAY
 
-### Ölüm
+## Ölüm
 
 Maviyi anlarsın.
 Denizi anlarsın.
@@ -733,15 +889,25 @@ Zor anlarsın...
 
 Melih Cevdet ANDAY
 
-### Rahatı Kaçan Ağaç 
+## Rahatı Kaçan Ağaç 
 
-Tanıdığım bir ağaç varEtlik bağlarına yakınSaadetin adını bile duymamışTanrının işine bakın.
-Geceyi gündüzü biliyorDört mevsimi, rüzgarı, karıAy ışığına bayılıyorAma kötülemiyor karanlığı.
-Ona bir kitap vereceğimRahatını kaçırmak içinBir öğrenegörsün aşkıAğacı o vakit seyredin.
+RAHATI KAÇAN AĞAÇ
+Tanıdığım bir ağaç var
+Etlik bağlarına yakın
+Saadetin adını bile duymamış
+Tanrının işine bakın.
+Geceyi gündüzü biliyor
+Dört mevsimi, rüzgarı, karı
+Ay ışığına bayılıyor
+Ama kötülemiyor karanlığı.
+Ona bir kitap vereceğim
+Rahatını kaçırmak için
+Bir öğrenegörsün aşkı
+Ağacı o vakit seyredin.
 
 Melih Cevdet ANDAY
 
-### 
+## 
  Şaşırtıcı Karşılaşma
 
 "Çok eskiden yaşadım bu ânı ben"
@@ -761,7 +927,7 @@ Birileri için yıllar önceki
 
 Melih Cevdet ANDAY
 
-### Sevda Rüzgârı
+## Sevda Rüzgârı
 
 Amanın bana bir hal oldu
 Bir hal oldu a dostlar
@@ -773,7 +939,7 @@ Sevda rüzgârı a dostlar!
 
 Melih Cevdet ANDAY
 
-### Sevincin Yarısı
+## Sevincin Yarısı
 
 Kuşlar yağmur yağdırır da 
 Yağmur güneşi vururdu ya 
@@ -795,7 +961,7 @@ Ben sana gelirdim
 
 Melih Cevdet ANDAY
 
-### Şiir Yazmak
+## Şiir Yazmak
 
 Kimi zaman bir sözcükten yola çıkarım
 Aç kalmış güzel bir kurttur o
@@ -808,7 +974,7 @@ Ey tesellisiz gece
 
 Melih Cevdet ANDAY
 
-### Şınanay
+## Şınanay
 
 Ada vapuru yandan çarklı
 Bayraklar donanmış cafcaflı
@@ -827,7 +993,7 @@ Lüküs kamarada kimler oturur
 
 Melih Cevdet ANDAY
 
-### Sokağa Çıkıyorum
+## Sokağa Çıkıyorum
 
 Sokağa bir diyalog gibi çıkıyorum
 Umrunda değilim gecenin. Gece
@@ -842,7 +1008,7 @@ Birdir, yalnızlık ve cesaret bir.
 
 Melih Cevdet ANDAY
 
-### Sona Erdi Her Şey
+## Sona Erdi Her Şey
 
 Kazıdın bir taşa adını
 
@@ -866,29 +1032,80 @@ Sevideki korkunç bakışma
 
 Melih Cevdet ANDAY
 
-### Tek Başına 
+## Tek Başına 
 
-Ölürken çocuklarımı unuttumKüçük deniz kirpileriyle sabahDenedim bütün sabahları.
+Ölürken çocuklarımı unuttum
+Küçük deniz kirpileriyle sabah
+Denedim bütün sabahları.
 Sana sürgünümün şarabını bıraktım
-alMumlarını güzelliğin ve hiçliğinBir de kaygumun soluk ellerini.
-Denedim bütün ölümleriAma görmedim büyülü ağaçEzilmiş sevdaların giysileri.
-Sana ayrılığın yayını bıraktım alBir de adını bilmediğim gökyüzünüLamalar gibi koşar bozkırda.
-Oysa ölümsüzlük şuracıkta, karGüneşi gibi doldurmuş odayı, basit,Anlamsız ve tek başına.
-Ayaklarım hayvan, üstüm başım bitkiDenedim bütün vakitleri alBaşka türlü geçmeyen bir vakitti.
+al
+Mumlarını güzelliğin ve hiçliğin
+Bir de kaygumun soluk ellerini.
+Denedim bütün ölümleri
+Ama görmedim büyülü ağaç
+Ezilmiş sevdaların giysileri.
+Sana ayrılığın yayını bıraktım al
+Bir de adını bilmediğim gökyüzünü
+Lamalar gibi koşar bozkırda.
+Oysa ölümsüzlük şuracıkta, kar
+Güneşi gibi doldurmuş odayı, basit,
+Anlamsız ve tek başına.
+Ayaklarım hayvan, üstüm başım bitki
+Denedim bütün vakitleri al
+Başka türlü geçmeyen bir vakitti.
 
 Melih Cevdet ANDAY
 
-### Teknenin Ölümü 
+## Teknenin Ölümü 
 
-Kara yakındı önce, hem çok yakın,Elimi uzatsam tutardı.Yıldızsız teknemdi inip çıkan gece,Kurumuş gece, kum, kömür, arduvaz...Kara yakındı önce, hem çok yakın,Denizleyin inip çıkan önümdeBir tanrının atardamarı.
-Açtım, yorgundum ama uykum yoktu.Günlerce yekesiz yelkensizNe de çok kuş takılmıştı ardımıza,Ne çok harman gördüm köpükten beyaz...Açtım, yorgundum ama uykum yoktu.Güneşler hala sağımda solumda,Sürer gibiydi açık deniz.
-Deniz en ince hayvanı belleğinNerden  kalktım, o rıhtım,
-o çan...Bilmiyorum o gök kıyı nereye gitti!Bir masal şebboyu çarmıhtaki yaz.Deniz en ince hayvanı belleğinbir kuşluk vakti tanrının sevdiğiGörünür zaman yaratan.
-Canlı mıydım? O uğursuz kıyıdaÖldüğüm gün de bilemedim.Hep o sallantı, o devinim, o avcılBayrak, bir aş tenceresi, bir azKüfür, karı kız öyküleri, sonraDipteki ölülerin fısıl fısılKonuşmalarını dinledim.
-Doğdum mu? Nasıl? Belki bir tezlikYeli kımıldadı, kan gibi.Ağaç ve kızak, demir, yağ, halat,
-katran,Boya kutuları, sünger, tel ve gaz...Derken gün kokulu yüreğimdi ilkYapının boş gömütünde dikiliSabırsız kaburgama çarpan.
-Ruh, şarabı gördü üzümden önceSüt, kan olmak için devinirTohum bildi herkesten önce ekmeğiGün, denizi salıvermeden batmaz.Ruh, şarabı gördü üzümden önceAğaç ne diye kalktı çiçeklendi,Denize inmesi nedendir?
-Ah yalnızlığın gömük kapıları,Aysız ayışığı gibiydim,Geceleyin gece, gündüzleyin günGibi suyun altınavuran yalaz.
+Kara yakındı önce, hem çok yakın,
+Elimi uzatsam tutardı.
+Yıldızsız teknemdi inip çıkan gece,
+Kurumuş gece, kum, kömür, arduvaz...
+Kara yakındı önce, hem çok yakın,
+Denizleyin inip çıkan önümde
+Bir tanrının atardamarı.
+Açtım, yorgundum ama uykum yoktu.
+Günlerce yekesiz yelkensiz
+Ne de çok kuş takılmıştı ardımıza,
+Ne çok harman gördüm köpükten beyaz...
+Açtım, yorgundum ama uykum yoktu.
+Güneşler hala sağımda solumda,
+Sürer gibiydi açık deniz.
+Deniz en ince hayvanı belleğin
+Nerden  kalktım, o rıhtım,
+o çan...
+Bilmiyorum o gök kıyı nereye gitti!
+Bir masal şebboyu çarmıhtaki yaz.
+Deniz en ince hayvanı belleğin
+bir kuşluk vakti tanrının sevdiği
+Görünür zaman yaratan.
+Canlı mıydım? O uğursuz kıyıda
+Öldüğüm gün de bilemedim.
+Hep o sallantı, o devinim, o avcıl
+Bayrak, bir aş tenceresi, bir az
+Küfür, karı kız öyküleri, sonra
+Dipteki ölülerin fısıl fısıl
+Konuşmalarını dinledim.
+Doğdum mu? Nasıl? Belki bir tezlik
+Yeli kımıldadı, kan gibi.
+Ağaç ve kızak, demir, yağ, halat,
+katran,
+Boya kutuları, sünger, tel ve gaz...
+Derken gün kokulu yüreğimdi ilk
+Yapının boş gömütünde dikili
+Sabırsız kaburgama çarpan.
+Ruh, şarabı gördü üzümden önce
+Süt, kan olmak için devinir
+Tohum bildi herkesten önce ekmeği
+Gün, denizi salıvermeden batmaz.
+Ruh, şarabı gördü üzümden önce
+Ağaç ne diye kalktı çiçeklendi,
+Denize inmesi nedendir?
+Ah yalnızlığın gömük kapıları,
+Aysız ayışığı gibiydim,
+Geceleyin gece, gündüzleyin gün
+Gibi suyun altınavuran yalaz.
 Ah yalnızlığın gömük kapıları
 Bir yağmuru dinlercesine bütün
 Anları iç içe bilirim.
@@ -979,7 +1196,7 @@ Yabancı, anlamsız bir şeyim.
 
 Melih Cevdet ANDAY
 
-### Telgrafhane
+## Telgrafhane
 
 Uyumayacaksın
 Memleketinin hali
@@ -1005,7 +1222,7 @@ Vakur metin sade
 
 Melih Cevdet ANDAY
 
-### Tohum
+## Tohum
 
 Dörtnala haberci ilkyazdan 
 Aşağıdan inceden beyazdan 
@@ -1039,35 +1256,77 @@ Kulağı gök gürültüsünde.
 
 Melih Cevdet ANDAY
 
-### Troya Önünde Atlar 
+## Troya Önünde Atlar 
 
-da ruhu vardı Troya önünde,Ta Hades'ten duyulurdu kişnemeleri,Atsız bu bu kişneme ölüleri ürpertir,Köpeği deliye çevirirdi.Kimi de Troya önünde nal sesleri
-gezinirdi,Gömülmemiş bir atın erinçsiz ruhundan.
-O gün Akhalar başka biri için yarışsalardıİlk ödülü Akhileus götürürdü barakasına.Çünkü ölümsüz atları vardı,Onları Poseidon vermişti babası
-Peleus'a,Peleus da oğluna armağan etmişti.Şimdi atlar  yas tutuyorlar
-Patroklos'a,Yürekleri burkuk, toprağa değiyor
+ın da ruhu vardı Troya önünde,
+Ta Hades'ten duyulurdu kişnemeleri,
+Atsız bu bu kişneme ölüleri ürpertir,
+Köpeği deliye çevirirdi.
+Kimi de Troya önünde nal sesleri
+gezinirdi,
+Gömülmemiş bir atın erinçsiz ruhundan.
+O gün Akhalar başka biri için yarışsalardı
+İlk ödülü Akhileus götürürdü barakasına.
+Çünkü ölümsüz atları vardı,
+Onları Poseidon vermişti babası
+Peleus'a,
+Peleus da oğluna armağan etmişti.
+Şimdi atlar  yas tutuyorlar
+Patroklos'a,
+Yürekleri burkuk, toprağa değiyor
 yeleleri.
-Diomedes Tros atlarını koştu arabasınaO atları savaşta Aineas' tan almıştı.Bir tanrı kurtarmıştı Aineas'ı.Sarı Menelaos kalktı sonra, Atreusoğlu,Tanrısal yiğit koştu arabasına
-iki at,Agamemnon'un kısrağı Aithe'yi,
-kendi atı  Podargos'u.Antilokhos koşum taktı  Pyloslu
-atlarına.Sonra Köroğlu kalktı, koştu Kır
-At'ı.Her yanında çifte kanat                             
-Bilmez yakını ırağı.Kendini beğenmiş Tahta At'ı çıkardılar
-sonra,Yayıldı ortalığa yanık sedre kokusu.Huylandı öbür atlar bu büyülü kokudan.Sonra göründü Muhammed'in damadı
-Ali'yeBenzer iyi huylu Düldül, edep yeri
-kapalı,Dolandı çok tanrılı atlar arasında
+Diomedes Tros atlarını koştu arabasına
+O atları savaşta Aineas' tan almıştı.
+Bir tanrı kurtarmıştı Aineas'ı.
+Sarı Menelaos kalktı sonra, Atreusoğlu,
+Tanrısal yiğit koştu arabasına
+iki at,
+Agamemnon'un kısrağı Aithe'yi,
+kendi atı  Podargos'u.
+Antilokhos koşum taktı  Pyloslu
+atlarına.
+Sonra Köroğlu kalktı, koştu Kır
+At'ı.
+Her yanında çifte kanat
+                             
+Bilmez yakını ırağı.
+Kendini beğenmiş Tahta At'ı çıkardılar
+sonra,
+Yayıldı ortalığa yanık sedre kokusu.
+Huylandı öbür atlar bu büyülü kokudan.
+Sonra göründü Muhammed'in damadı
+Ali'ye
+Benzer iyi huylu Düldül, edep yeri
+kapalı,
+Dolandı çok tanrılı atlar arasında
 ağır ağır,
-Gözleri iyi görmüyordu.Başını yana eğen İskender'in Bukephalus'uGeldi sonra, Hint kızları gibi
-derin bakışlıGüneyden yana bakayordu ikide bir,Sezmiş gibi Granikos suyunun yakınlığını.Elcid'in Babeica'sı, derken Rocinante
-çıktıAğlayarak.                           
-Anlatma bana atları!Bilirim, ana rahminden gelir, gece,
-karanlıkBir ahırda lamba tutar biri, ışık
-titrerSamanların üztünde, hayvanın öksürüğü
-ve soluğu...Başını döndürür bakar, "Bana benziyor
-mu?""Sekili mi ayakları?"                           
-Anlatma bana atları!Sabahın yerden kesilmiş tarlaları
-ve çığlıkÇığlığa suları gibi gök yarığından
-atlayanKanatlı Pegassos! Gençliğim benim,
+Gözleri iyi görmüyordu.
+Başını yana eğen İskender'in Bukephalus'u
+Geldi sonra, Hint kızları gibi
+derin bakışlı
+Güneyden yana bakayordu ikide bir,
+Sezmiş gibi Granikos suyunun yakınlığını.
+Elcid'in Babeica'sı, derken Rocinante
+çıktı
+Ağlayarak.
+                           
+Anlatma bana atları!
+Bilirim, ana rahminden gelir, gece,
+karanlık
+Bir ahırda lamba tutar biri, ışık
+titrer
+Samanların üztünde, hayvanın öksürüğü
+ve soluğu...
+Başını döndürür bakar, "Bana benziyor
+mu?"
+"Sekili mi ayakları?"
+                           
+Anlatma bana atları!
+Sabahın yerden kesilmiş tarlaları
+ve çığlık
+Çığlığa suları gibi gök yarığından
+atlayan
+Kanatlı Pegassos! Gençliğim benim,
 oğlum!
 Delirmiş bir zamandı, yas, ölünün
 öcü, gövdesiz kuş,
@@ -1302,7 +1561,7 @@ bizim.
 
 Melih Cevdet ANDAY
 
-### Yağmur
+## Yağmur
 
 Birden serçelerle indi yağmur
 Hangisi serçe
@@ -1310,24 +1569,59 @@ Hangisi yağmur
 
 Melih Cevdet ANDAY
 
-### Yağmurun Altında 
+## Yağmurun Altında 
 
-Yirminci yüzyılı yaşadımErtelenmiş bir yüzyıldı buYıkık bir sur yazgımızın uydusuBekletir ömrü yürüyen ayla birlikteBırakmaz günün adını koyalım.
-Yanıtsız bir yaşamdı erdemimizHerkes içindi ve kimse içindiOkunmamış bir yazı, umudu doyuran,Duaları düşünmek neye yararKurgular tutuşturdu bacalardan.
-Yirminci yüzyılı taşıdımTedirginliğimizin zorbalığıdır
-sanrılarVe tohumun beklenmedik gürültüsüyleÇıplak su gibi yinelenir zaman Gökyüzünde usumuzun dirliği
-Aklın başarısızlığa uğradığı içtenlikBir şive gibidir insan, ey öldürülmüş
-insan Bilinmeyen bir hayvana özgü bir
-ses gibiSabırsız testi, hep dolar gibi
-olanHer şeyin sese dönüşeceği bilinemez
-ki! 
+Yirminci yüzyılı yaşadım
+Ertelenmiş bir yüzyıldı bu
+Yıkık bir sur yazgımızın uydusu
+Bekletir ömrü yürüyen ayla birlikte
+Bırakmaz günün adını koyalım.
+Yanıtsız bir yaşamdı erdemimiz
+Herkes içindi ve kimse içindi
+Okunmamış bir yazı, umudu doyuran,
+Duaları düşünmek neye yarar
+Kurgular tutuşturdu bacalardan.
+Yirminci yüzyılı taşıdım
+Tedirginliğimizin zorbalığıdır
+sanrılar
+Ve tohumun beklenmedik gürültüsüyle
+Çıplak su gibi yinelenir zaman 
+Gökyüzünde usumuzun dirliği
+Aklın başarısızlığa uğradığı içtenlik
+Bir şive gibidir insan, ey öldürülmüş
+insan 
+Bilinmeyen bir hayvana özgü bir
+ses gibi
+Sabırsız testi, hep dolar gibi
+olan
+Her şeyin sese dönüşeceği bilinemez
+ki!
+ 
 
-Yiminci yüzyılı yaşadımParlak suyunda boğulmuş sahipsizİnsan yeryüzünde durur, bulutlarBulutlar düşümüzde doludizginSoylu bir çılgınlıktı gündemimiz.
-Ellerinde oyuk gözlü idollerYüreğimin yalanını besler üç güzelBir dağın tepesinde buldum üç güzeliAma ses yok, sessizlik yok, önce
+Yiminci yüzyılı yaşadım
+Parlak suyunda boğulmuş sahipsiz
+İnsan yeryüzünde durur, bulutlar
+Bulutlar düşümüzde doludizgin
+Soylu bir çılgınlıktı gündemimiz.
+Ellerinde oyuk gözlü idoller
+Yüreğimin yalanını besler üç güzel
+Bir dağın tepesinde buldum üç güzeli
+Ama ses yok, sessizlik yok, önce
 erte yok.
-Yirminci yüzyılı taşıdım Golgota' ya dirilemem ki,Taşlar arasında yabanıl erinç Ölümü diriltiyorduk hepYaşam tabular arasında bir esinti.
-Mevsimler kurgularla oyaladı biziTarlaya bırakılmış bir at gibiBağlı, yalnız ve özgür,Umudumuz sabrın tutamadığı ırmak Umutsuzluğumuz insan kalmak içindi.
-Yirminci yüzyılı yaşadımDingin karştlıkların adını bulmalıSel gibi kuruyor yaşlılık, gençlikSanki melekleri gördük uzun saçları
+Yirminci yüzyılı taşıdım 
+Golgota' ya dirilemem ki,
+Taşlar arasında yabanıl erinç 
+Ölümü diriltiyorduk hep
+Yaşam tabular arasında bir esinti.
+Mevsimler kurgularla oyaladı bizi
+Tarlaya bırakılmış bir at gibi
+Bağlı, yalnız ve özgür,
+Umudumuz sabrın tutamadığı ırmak 
+Umutsuzluğumuz insan kalmak içindi.
+Yirminci yüzyılı yaşadım
+Dingin karştlıkların adını bulmalı
+Sel gibi kuruyor yaşlılık, gençlik
+Sanki melekleri gördük uzun saçları
 Tanrının unutkan kuzgunu idik.
 Nasıl unuturum ey doğa
 Bana bir diyeceğin vardı, kalakaldım,
@@ -1384,7 +1678,7 @@ Martılar gibi yağmurun altında
 
 Melih Cevdet ANDAY
 
-### Yalan
+## Yalan
 
 Ben güzel günlerin şairiyim 
 Saadetten alıyorum ilhamımı 
@@ -1398,7 +1692,7 @@ Güç oluyor yalan söylemek...
 
 Melih Cevdet ANDAY
 
-### Yanyana
+## Yanyana
 
 Bu gürül gürül otların yanıbaşında 
 Ağacın gölgesine değdi değecek 
@@ -1411,7 +1705,7 @@ Bu zulüm, bu haksızlık, bu işkence
 
 Melih Cevdet ANDAY
 
-### Yanyana Dalgınlık
+## Yanyana Dalgınlık
 
 Gözlerine bakıyorum
 Denizden çıkarılmış bir tabaktaki kuş resmi
@@ -1425,19 +1719,60 @@ Duyuyoruz söylediklerimizi
 
 Melih Cevdet ANDAY
 
-### Yaz Sonu Şiirleri 
+## Yaz Sonu Şiirleri 
 
-1Dün gece yağmur yağdı kente,Sonra sabah, güneşte ayıklanmış,Bir kahvede düşünüyorum,Sen geleceksin ya, dalgınlıkKopuverdi bir daldan, sallanarakGeçen bayrak açmış bir bulut,Sonra ikindi ve akşam, bakarsın,Uyurken bir daha o yağmur.
-2Fal çıktı. Köpükler içinde kaldı
-deniz,Tepeleme çiçek dolu bir sandal.Eylülün eskil çadırına giriyoruz,İşte, büyücü martının bozgun çağrısı,Uyurgezer yosunları delirten poyraz,Odalara sığınan ürkü yaprakları,İşte, çırpınan bir kavağınYanlızlık sanrısı dolaşıyor bahçede.
-3Melez yapraklar, sararması yasaklanmış,Bitimsiz bir zamanın cansıkıntısında,Hatmi alı ışıklarla karıştırılanHuysuz kuşların dağıttığı rüzgar.Başka bir yüzyılın rengi bu,İlkel bir oymağın kurban sunağı,Bunamış bir papağan gibi dilsiz,Eski günler düşünde bir gökyüzü.
-4Karanlığın kuştüyleri doluştuEşzaman balkona. Hüzün çekilmez.Tanıdığım bütün mumları yakın,Ölülerin bilinciyle arınmış.Ve geleceği onaramıyorum,O bizim sayvan çocukluğumuzdu,Yaşanır yalnız bu aylak güzlerdeGelecekten geçmişe  doğru.
-5Yaz sonu durdurur sokakta,Tenha bir duvardan sarkıp, nereye
-böyle,Düşünsene, orda kimse yok, yalnız
-akşam,Telaşla düşer öne, hadi gitme,Bak işte boşalmış perde, yağmur
-bu,Rüzgar çıktı,düşünsene, fırtına,
-dolu,Lambalar yanacak nerdeyse, saatO saat değil, düşünsene.
-6Önce küçük rüzgarlar uyanırdı
+1
+Dün gece yağmur yağdı kente,
+Sonra sabah, güneşte ayıklanmış,
+Bir kahvede düşünüyorum,
+Sen geleceksin ya, dalgınlık
+Kopuverdi bir daldan, sallanarak
+Geçen bayrak açmış bir bulut,
+Sonra ikindi ve akşam, bakarsın,
+Uyurken bir daha o yağmur.
+2
+Fal çıktı. Köpükler içinde kaldı
+deniz,
+Tepeleme çiçek dolu bir sandal.
+Eylülün eskil çadırına giriyoruz,
+İşte, büyücü martının bozgun çağrısı,
+Uyurgezer yosunları delirten poyraz,
+Odalara sığınan ürkü yaprakları,
+İşte, çırpınan bir kavağın
+Yanlızlık sanrısı dolaşıyor bahçede.
+3
+Melez yapraklar, sararması yasaklanmış,
+Bitimsiz bir zamanın cansıkıntısında,
+Hatmi alı ışıklarla karıştırılan
+Huysuz kuşların dağıttığı rüzgar.
+Başka bir yüzyılın rengi bu,
+İlkel bir oymağın kurban sunağı,
+Bunamış bir papağan gibi dilsiz,
+Eski günler düşünde bir gökyüzü.
+4
+Karanlığın kuştüyleri doluştu
+Eşzaman balkona. Hüzün çekilmez.
+Tanıdığım bütün mumları yakın,
+Ölülerin bilinciyle arınmış.
+Ve geleceği onaramıyorum,
+O bizim sayvan çocukluğumuzdu,
+Yaşanır yalnız bu aylak güzlerde
+Gelecekten geçmişe  doğru.
+5
+Yaz sonu durdurur sokakta,
+Tenha bir duvardan sarkıp, nereye
+böyle,
+Düşünsene, orda kimse yok, yalnız
+akşam,
+Telaşla düşer öne, hadi gitme,
+Bak işte boşalmış perde, yağmur
+bu,
+Rüzgar çıktı,düşünsene, fırtına,
+dolu,
+Lambalar yanacak nerdeyse, saat
+O saat değil, düşünsene.
+6
+Önce küçük rüzgarlar uyanırdı
 Dört perili kestanelikte,
 Güneşin ipeğini çözerdi bir tavus,
 Ama gerçekdışıydı sabah,
@@ -1467,7 +1802,7 @@ Okul defterinde bırakın beni.
 
 Melih Cevdet ANDAY
 
-### Yeni Bir Dünya
+## Yeni Bir Dünya
 
 Dünyada geçirdim çocukluğumu
 İnsanlardan eşya yaparlar
@@ -1486,7 +1821,7 @@ Belki başladım onu yaşamaya.
 
 Melih Cevdet ANDAY
 
-### Yıldız
+## Yıldız
 
 Evren esrisin diye gövdende
 Tuttum elinle bir dünya dokudum
@@ -1509,7 +1844,7 @@ Kaktüs bana bir ağıt söyle.
 
 Melih Cevdet ANDAY
 
-### Zamanlar
+## Zamanlar
 
 Hepsini gördüm ayrı ayrı,
 Kuşların zamanı tunç rengindedir.
@@ -1528,7 +1863,7 @@ Toprağımız eşelendikçe.
 
 Melih Cevdet ANDAY
 
-### Zavallı Etem
+## Zavallı Etem
 
 Zavallı Etem
 Çok çekti geçen kış

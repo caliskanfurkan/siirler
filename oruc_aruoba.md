@@ -1,6 +1,6 @@
-## Oruç ARUOBA
+# Oruç ARUOBA
 
-### Gündüz Yarasaları
+## Gündüz Yarasaları
 
 I.
 
@@ -99,7 +99,7 @@ Gündüz yarasalarıyız biz.
 
 Oruç ARUOBA
 
-### Kendi Olarak Sana Gelen
+## Kendi Olarak Sana Gelen
 
 Kendi olarak, sana gelen-
 sana gereksinimi olmadan, seni isteyen-
@@ -109,10 +109,11 @@ O, iþte...
 
 Oruç ARUOBA
 
-### Ne Ki Hiç
+## Ne Ki Hiç
 
-enkse
+renkse
 fırtına gelecek demek.
+
 22 Kasım'94
 Karamürsel
 
@@ -120,18 +121,22 @@ Karamürsel
 		Tam da göremediğinde
 		köpürüverir gene
 		Dalga.
-		22 Kasım'94
+		
+22 Kasım'94
 		Karamürsel
 
 			200.
 			Bakalım şu son pencere de
 			Ne zaman sönecek
 			artık...
-			10 Mart'95
+			
+10 Mart'95
 			Çiftehavuzlar
 
 
+
 319.
+
 Yapraklar titriyorlar
 beklentileriyle --
 neredesin? ...
@@ -326,7 +331,7 @@ aralığından görülüveren kocaman dünya...
 
 Oruç ARUOBA
 
-### Özlediğin Gidip Göremediğindir
+## Özlediğin Gidip Göremediğindir
 
 Özlediðin, gidip göremediðindir;
 ama, gidip görmek istediðin

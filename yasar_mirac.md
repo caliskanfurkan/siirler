@@ -1,6 +1,6 @@
-## Yaşar MİRAÇ
+# Yaşar MİRAÇ
 
-### Bizim Yalının Kızları
+## Bizim Yalının Kızları
 
 bizim arka sokaktan da
 iner kızlar yalıya hey
@@ -57,7 +57,7 @@ dayanacak can olur mu
 
 Yaşar MİRAÇ
 
-### Düşce
+## Düşce
 
 badem pencereli
 kavun kapılı
@@ -81,7 +81,7 @@ isterdim ben de
 
 Yaşar MİRAÇ
 
-### Gurbete
+## Gurbete
 
 gurbete kaçacağım
 o lâcivert ülkeye

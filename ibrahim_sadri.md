@@ -1,6 +1,6 @@
-## İbrahim SADRİ
+# İbrahim SADRİ
 
-### Kuş Hatıraları
+## Kuş Hatıraları
 
 Benim çocukluğumda soframıza kuşlar konar
 rüyalarımıza melekler uğrardı.

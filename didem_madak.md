@@ -1,6 +1,6 @@
-## Didem MADAK
+# Didem MADAK
 
-### Annemle İlgili Şeyler
+## Annemle İlgili Şeyler
 
 Sevgili Anneciğim
 
@@ -73,7 +73,7 @@ Anne.
 
 Didem MADAK
 
-### Çalıkuşu'nun Z Raporu
+## Çalıkuşu'nun Z Raporu
 
 Kedi ve kasımpatı kokuyor bütün sokaklar
 Dilinin dönmediği duaları sayıklıyor
@@ -134,7 +134,7 @@ Zeyniler Köyünde Çalıkuşu şimdi artık zaman.
 
 Didem MADAK
 
-### Çiçekli Şiirler Yazmak 
+## Çiçekli Şiirler Yazmak 
   İstiyorum Bayım!
 
 "Zenciler prensesi olacağım.
@@ -206,7 +206,7 @@ Güller bu sıra hiç konuşmuyor bayım.
 
 Didem MADAK
 
-### Kurbati
+## Kurbati
 
 Gece lambası kırmızı bir kadın yapıyor beni
 Oysa limon ağaçları bahçede küçük sarı güneşler taşıyor.
@@ -262,7 +262,7 @@ Ludingirra 5, Bahar 1998
 
 Didem MADAK
 
-### Mr.Parkinson
+## Mr.Parkinson
 
 Hergün uzak ülke kırpıntıları dökülür
 güneşin ceplerinden. Yoksul aile babası
@@ -292,7 +292,7 @@ her öğlen bir deprem bekler.
 
 Didem MADAK
 
-### Siz Aşktan N'anlarsınız Bayım?
+## Siz Aşktan N'anlarsınız Bayım?
 
 Çok şey öğrendim geçen üç yıl boyunca
 Alt katında uyumayı bir ranzanın

@@ -1,6 +1,6 @@
-## Kaan İNCE
+# Kaan İNCE
 
-### Anne
+## Anne
 
 hüznün damlalarıdır sevgime yağan
 dolduğunda çatırdayan kalbim uçurum yarıklarıyla
@@ -19,7 +19,7 @@ anne, gül et beni kederine
 
 Kaan İNCE
 
-###  Aşktan
+##  Aşktan
 
 İmgelerde yaşanacak aşk bırakmadım
 Tüm güzellikler donup kalıverdi karşımda
@@ -29,7 +29,7 @@ Bir kolunda gözyaşı diğerinde acıyla
 
 Kaan İNCE
 
-### Gece Şiirleri
+## Gece Şiirleri
 
 1. D E V R İ K    Y Ü R E K    S A V U N M A S I
 
@@ -75,7 +75,7 @@ bazen.
 
 Kaan İNCE
 
-### Gizdüşüm
+## Gizdüşüm
 
 Boşlukta kemiklerin kanattığı karanlık: Sürekli,
 geceye bölünen saatlerin asıldığı yer. Kıyı boyunca
@@ -110,7 +110,7 @@ güneş kırıklarına dadanan sevda.
 
 Kaan İNCE
 
-### Ka   n
+## Ka   n
 
 yüzün yakamozlanır akşam saatlerinde
 kime çıkmaz piyangosu hüznün
@@ -128,7 +128,7 @@ gözlerimde gezer geriye kalan
 
 Kaan İNCE
 
-###  Ömrüm
+##  Ömrüm
 
 Hangi ırmaktan akıyor yüreğinin bozaran sevdası
 Hangi kolunda köprüsü var gecenin
@@ -140,7 +140,7 @@ Gizlenmez yaraları taşırken bedenin
 
 Kaan İNCE
 
-### Yaşama Sebebi
+## Yaşama Sebebi
 
 sıkmışım dişlerimi gözlerim kanayana kadar 
 çeyizimizde hüzün motifleri 

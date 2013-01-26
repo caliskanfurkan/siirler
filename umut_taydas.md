@@ -1,6 +1,6 @@
-## Umut TAYDAŞ
+# Umut TAYDAŞ
 
-### Açlıktan Nefesimiz Kokmalı
+## Açlıktan Nefesimiz Kokmalı
 
 bir flütün sesinden çıkıp çınlamak var kulaklarında, 
 bir de ritim olmak kalçanın tok ses veren yerlerini arayarak, 
@@ -23,7 +23,7 @@ gel uzan yanıma, her şey tamam artık;
 
 Umut TAYDAŞ
 
-### Aklımı Sana Çaldırdım
+## Aklımı Sana Çaldırdım
 
 merhaba; 
 sürpriz ha ? 
@@ -113,7 +113,7 @@ araya ayrılık girdi...
 
 Umut TAYDAŞ
 
-### Arsenik Fersönük
+## Arsenik Fersönük
 
 bu ev, bu nemli, küflü, yıkılmış ev,
 bu mercan içi kimsesizlik,
@@ -170,67 +170,134 @@ fırsatını bulunca,
 
 Umut TAYDAŞ
 
-### Beni biri severse. ya
+## Beni biri severse. ya
 seni
 
-utanırımSeni biri severse; gururuna eklenir...Beni biri severse; korkarım onun için,Seni biri severse; geride duramazsın...Beni biri severse; kaçarım kendime,Seni biri severse; ona kaçarsın birkaç günlüğüne...Beni biri severse; ben o birine seviyorum diyemem,Seni biri severse; günde bin kaç kez söylersin sevdiğini...Beni biri severse; ona vereceklerime sınır koymam,Seni biri severse; neler alacağını hesaplarsın...Beni biri severse; esir olurum, yanına yoldaş,Seni biri severse; esir alırsın, emretmek arzusundan....Beni biri severse; özgürlüğümü de götürür gittiği yere...Seni biri severse; özgürlük nedir bilmiyordur ki...Beni severse biri; o artık benimle bir'dir...Seni biri severse; bir'likten cinnet doğar aranızda....Beni biri severse; bundan sonra bir değildir aslında.Seni severse biri; herkes kendiyle bir'dir...Sen birini seversen; sadece ağlayabilirim,Birini seversen sen; buna inanamayabilirim,Seversen sen birini; kendini daha çok sevmek içindir yine,Seversen birini sen; bana duyurma...
+utanırım
+Seni biri severse; gururuna eklenir...
+Beni biri severse; korkarım onun için,
+Seni biri severse; geride duramazsın...
+Beni biri severse; kaçarım kendime,
+Seni biri severse; ona kaçarsın birkaç günlüğüne...
+Beni biri severse; ben o birine seviyorum diyemem,
+Seni biri severse; günde bin kaç kez söylersin sevdiğini...
+Beni biri severse; ona vereceklerime sınır koymam,
+Seni biri severse; neler alacağını hesaplarsın...
+Beni biri severse; esir olurum, yanına yoldaş,
+Seni biri severse; esir alırsın, emretmek arzusundan....
+Beni biri severse; özgürlüğümü de götürür gittiği yere...
+Seni biri severse; özgürlük nedir bilmiyordur ki...
+Beni severse biri; o artık benimle bir'dir...
+Seni biri severse; bir'likten cinnet doğar aranızda....
+Beni biri severse; bundan sonra bir değildir aslında.
+Seni severse biri; herkes kendiyle bir'dir...
+Sen birini seversen; sadece ağlayabilirim,
+Birini seversen sen; buna inanamayabilirim,
+Seversen sen birini; kendini daha çok sevmek içindir yine,
+Seversen birini sen; bana duyurma...
+
 Sen 
+
 Sevebilirsen
-Birini,Gururuma sarılır yaşarım...Ben birini seversem; ben severim sadece,Birini seversem ben; cinayettir, intihardır,Seversem birini ben, sadece birini severim,Seversen ben birini; o biri bir sensin'dir...
+
+Birini,
+Gururuma sarılır yaşarım...
+Ben birini seversem; ben severim sadece,
+Birini seversem ben; cinayettir, intihardır,
+Seversem birini ben, sadece birini severim,
+Seversen ben birini; o biri bir sensin'dir...
+
 Ben
+
 Seversem
+
 Birini...
+
 Ya evlidir, ya birkaç güne evlenir...					   
 Bm Umut Taydaş
 					"Ben olduğum için yapabileceğim hiçbir şey yok..."
 
 Umut TAYDAŞ
 
-### Bileklerime
+## Bileklerime
 yazabilirim çaresizliğimi
 
 "isteyene"
+
 çok kötüyüm,
-bu ülkeyi yerle bir edebilecek kadar güçlü haykırabilirim,
+
+bu ülkeyi yerle bir edebilecek kadar güçlü 
+haykırabilirim,
+
 dünyadaki bütün bulutları kıskandıracak kadar
-ağlayabilirim sanki,aniden dışarı çıkıp karşıma gelen herkesi,
+
+ağlayabilirim sanki,
+aniden dışarı çıkıp karşıma gelen herkesi,
+
 ellerimle boğabilirim,
+
 gözlerimle tüm ormanları
+
 yakabilirim acımadan
+
 yada düşünebilirim beynim patlayana kadar,
+
 belki şu elimdeki bardağı kırıp, sivri ucuyla
+
 bileklerime yazabilirim çaresizliğimi,
+
 insansızlıktan ölene kadar susabilirim de,
+
 belki de kor gibi sıcak bir suya çırılçıplak
-dalabilirim son nefesimi alıp.yada usulca yaklaşıp birisine,-seni seviyorum- diyebilirim...
+
+dalabilirim son nefesimi alıp.
+yada usulca yaklaşıp birisine,
+-seni seviyorum- diyebilirim...
+
 
                                           Umut the X
+
                                           30.01.1997
+
                                       Ölmek bu mu acaba ?
 
 Umut TAYDAŞ
 
-### Birbirleriyle
+## Birbirleriyle
 yarış halindedir her zaman insanlar
 
 Perdenin aralığında içeriye giren,
+
 Güneş uyandırır çapaklı gözleri,
+
 Tek tek açılır evlerin sokak kapıları,
+
 Çıkar insanlar boş sokaklara,
+
 Sahte gülüşleriyle, sahte,
+
 Konuşmalarıyla, sahte yüzleriyle,
-Sokak aralarındaki sessizlik,Yerini kaosa bırakır,
+
+Sokak aralarındaki sessizlik,
+Yerini kaosa bırakır,
+
 Bir karmaşadır gider...
+
 Yarış pisti değilse de sokak yolları,
+
 Birbirleriyle yarış halindedir her zaman insanlar
+
 Akşam bıraktıkları yerde devam ederler bu yarışa,
+
 Yeni başlayan günde...
+
 							     Umut
+
 							22 - 04 - 96
 
 Umut TAYDAŞ
 
-### Böğürtü
+## Böğürtü
 
 "mna kodumun kendim'e" 
 His, kös, köprülerinde, sözlerimde evrim, 
@@ -281,100 +348,199 @@ bitirdim, beğenmedim
 
 Umut TAYDAŞ
 
-### Dokunmayın, Mutluyum
+## Dokunmayın, Mutluyum
 
 Kök salmışım yalnızlığa,
+
 Çıkaramazsın,
-Hayat uzundu, yıllar alabros,Kimbilir,
+
+Hayat uzundu, yıllar alabros,
+Kimbilir,
+
 Ne durumda,
-Çekilecek dertlerde bakiyem...Bileklerimde, savaşan -biz aşksızlığın-, gururlu ustura izleri,“ben uyurken kestin bileklerimi”akan kanıma müdahale etmeyeceğim, hatta
+
+Çekilecek dertlerde bakiyem...
+Bileklerimde, savaşan -biz aşksızlığın-, gururlu ustura izleri,
+“ben uyurken kestin bileklerimi”
+akan kanıma müdahale etmeyeceğim, hatta
+
 zamanımın çoğunu onu izlerken,
+
 bedenim boşalırken, gücüm biterken,
+
 ben yavaş usul ölürken kısaca,
+
 8 mm’lik bir boy aynası gibi
+
 karşısından izleyeceğim.
+
 Oysa ki hayata, insanlara, neler öğretebilirdim,
-Unuturlar kimden öğrendiklerini, biliyorum,Önemli değil.
+
+Unuturlar kimden öğrendiklerini, biliyorum,
+Önemli değil.
+
 Ben, içimdeki eşsiz tapınakta
+
 Senin için, annem, babam, kardeşlerim,
+
 diğerleri, öteki veya beriki için
+
 güzel hayatlar diler, çıkarsız dualar ederken,
+
 öleceğim için bakire bir mutluluğu taşıyorum gözlerimde...
-dokunmayın,Mutluyum...					Bm Umut “Cyrano” TAYDAŞ						15.05.1999					         Ztampol – Ağıl...			        “fanilamda kan izleri, bu beden yara, kavlatma...”
+
+dokunmayın,
+Mutluyum...
+					Bm Umut “Cyrano” TAYDAŞ
+						15.05.1999
+					         Ztampol – Ağıl...
+			        “fanilamda kan izleri, bu beden yara, kavlatma...”
 
 Umut TAYDAŞ
 
-### Dudakların
+## Dudakların
 çaresiz arıyor eski tadımı
 
 Dudakların çaresiz arıyor eski tadımı,
+
 kelimelerin eski tadını,
+
 bıraktığımızda eski oyunları,
-eski bir oyunda kaldık ayrı ayrı,kendimizi ele verdik,ellerin ezbere sevişiyordu,
+
+eski bir oyunda kaldık ayrı ayrı,
+kendimizi ele verdik,
+ellerin ezbere sevişiyordu,
+
 ellerim tenini arıyordu.
-uzak iklimlerin rüzgarları getiriyordu kokunu,bilmediğim şarkılarda ismini duyuyordum hesapsız,
-görmediğin ne varsa bakmak istiyordun,tekrar görebilmek için yüzümü,incitmeden dokunduğum saçlarından,
+
+uzak iklimlerin rüzgarları getiriyordu kokunu,
+bilmediğim şarkılarda ismini duyuyordum hesapsız,
+
+görmediğin ne varsa bakmak istiyordun,
+tekrar görebilmek için yüzümü,
+incitmeden dokunduğum saçlarından,
+
 dökülen saçlarını saklıyordum sonsuza,
-göz yaşlarımı usulca siliyordun ince parmaklarınla,görsem diye çürüttüğüm günlerden arta kalan,
+
+göz yaşlarımı usulca siliyordun ince parmaklarınla,
+görsem diye çürüttüğüm günlerden arta kalan,
+
 zavallı bir çaresizlik sardı bedenimi,
+
 aklındayım, biliyorum seviyorsun kimseyi sevmediğin gibi,
+
 aklımdasın seviyorum kimsenin sevmediği,
+
 sevemeyeceği gibi.
-Ne yapsak boş işte,gidiyorsun,
-en güzel hediyeydin, Tanrı’mdanen güzel hediyen seni seviyorum,
+
+Ne yapsak boş işte,
+gidiyorsun,
+
+en güzel hediyeydin, Tanrı’mdan
+en güzel hediyen seni seviyorum,
+
 en güzel hediyem, ölümüm...
 
- 	UmuT TaydaŞ
+
+ 
+	UmuT TaydaŞ
 
 Umut TAYDAŞ
 
-### Dudaklarınla
+## Dudaklarınla
 yaşayamadın mutluluğunu
 
 "Beşir Fuad Ustanın Entelektüel İntiharına"
+
 Dudaklarınla yaşayamadın mutluluğunu,
+
 Aşkımı kelepçeleyen dudaklarımda.
+
 Gözlerin bakamadı sevda titreten yüreğime,
+
 Yüzün yansımadı gözlerimde,
+
 Tüm yaşadıklarının ötesinde,
+
 Mutluluğun için en büyük fedakârlıktı benim yaptığım.
+
 Yaşanılan imkânsızlığın gerçeğiydi söylediklerim,
+
 Henüz bebektin şiirimle büyüyen,
+
 Kan - beyaz gelinliği, yaşadığımı bilmeden giydin,
+
 şimdi
+
 Kefen rengi kokuyor, sensizliği yankılayan duvarlar.
+
 Sırtımı, yokluğunu kamçılıyor, akrep-yelkovan,
-Sen gittin diye , hayallerimi götürüyorO sevmediğin dipsiz uçurumda dolaşan rüzgar,
+
+Sen gittin diye , hayallerimi götürüyor
+O sevmediğin dipsiz uçurumda dolaşan rüzgar,
+
 Yoksun, üşüyorum...
-Ben daha çocukken, senin bundan haberin yokkenVe ben senin tüm planlarını bozarken,
-Kurgusuz saflığıma katarken seniYeni bin hayata seninle başlarken
+
+Ben daha çocukken, senin bundan haberin yokken
+Ve ben senin tüm planlarını bozarken,
+
+Kurgusuz saflığıma katarken seni
+Yeni bin hayata seninle başlarken
+
 Umulmadık yangınlar püskürtmeye çalışırken ibadetsiz sevişimi
+
 Kısık hıçkırıklarımın arasından duyduğun
+
 Bir kaçağın kimliğindeki sesim
+
 Feryadımdan fışkıran göz yaşlarımın içinde,
-Umutsuz bir ayrılığa gebe."Aşk" iklimine kendini hazırlayamamış
+
+Umutsuz bir ayrılığa gebe.
+"Aşk" iklimine kendini hazırlayamamış
+
 iki "hayat süsü" ağacın beceriksizliğiydi 
+
 yaşamaya direncimiz.
+
 Aylardır savaşan
+
 İki yorgun düşmanın uykuya hasretiydi,
+
 Aramızdaki uzaklık,
+
 Yıllarca yetimhanede büyümüş bir çocuğun
+
  anneye ihtiyacıydı,
+
 "seviyorum"lu kelimelere açlığımız,
-korkumdu aşksızlıkkorkundu ayrılık,
-korkacağız...Uzaklaşmalıyım buralardan, uzaklaşmalıyım kendimden,
+
+korkumdu aşksızlık
+korkundu ayrılık,
+
+korkacağız...
+Uzaklaşmalıyım buralardan, uzaklaşmalıyım kendimden,
+
 Sen yanma diye, yanmalıyım ıssızlığın içinde,
+
 Baldıran meze, hediye ettiğin tekila'nın yanına,
+
 Ayrıyız, bıçaklar bileklerime bakıyor,
+
 Şimdi susmalıyım.
+
 Ağlamamalıyım
-Hatta Ağlamamalıyım,Bu kadar yeter ama,Artık ağlamalıyım.
+
+Hatta Ağlamamalıyım,
+Bu kadar yeter ama,
+Artık ağlamalıyım.
+
 Dudaklarımda yaşayamadın mutluluğunu...
+
 							Umut Taydaş... Mayıs, 98
 
 Umut TAYDAŞ
 
-### Dün Yine Yatana Kadar Seni 
+## Dün Yine Yatana Kadar Seni 
 Anladım
 
 mecalsizim...  
@@ -458,17 +624,21 @@ anlarsın...
 
 Umut TAYDAŞ
 
-### Gözlerimde sen şiirlerim
+## Gözlerimde sen şiirlerim
 
 iyorum...
+
  
+
 									Haziran, 1997,
+
 								      “SESOB, Semineri”
 
 Umut TAYDAŞ
 
-### Günah Ekerim Ömrüne
+## Günah Ekerim Ömrüne
 
+GÜNAH EKERİM ÖMRÜNE
 "Mecburiyetine Boyun Eğen'e"
 Uzaklaş;
 Yoksa sana dokunurum,
@@ -505,27 +675,38 @@ Benimle ölürsün...
 
 Umut TAYDAŞ
 
-### Günebakan
+## Günebakan
 
 Açıyordu günebakan hain günden habersiz,
 Kokuyordu günebakan her nefeste daha temiz,
+
 Gülüyordu günebakan sevgi dolu, sessiz sessiz,
 
+
 Bir çocuk geldi, yaklaştı usulca,
+
 Yanında annesi, günebakan ’dan habersiz,
+
 Çocuk günebakan ’ın yanına geldi ve kopardı hiç zorlanmadan,
+
 Ve “seni seviyorum” diyerek annesine uzattı,
-Anne ’nin gözlerinden iki damla yaş döküldü,Günebakan ’ın çiçeklerine,
+
+Anne ’nin gözlerinden iki damla yaş döküldü,
+Günebakan ’ın çiçeklerine,
+
 Çocuk üzüldü - sevindi, 
 
+
 Günlerce, susuz, topraksız kaldı günebakan, 
+
 o çocuğun sevgisi,
 günebakan ’ı çürüttü.
+
 Sevgin, beni çürüttü...
 
 Umut TAYDAŞ
 
-### Hayat Basma Yarama
+## Hayat Basma Yarama
 
 sen beni arama, bana inanma, 
 yaşıtlarım "ekmeğini eline aldı"  
@@ -555,7 +736,7 @@ ben deniz olsam, bu "kullanan"
 
 Umut TAYDAŞ
 
-### Hayattan Güvercin Çekme Cefası
+## Hayattan Güvercin Çekme Cefası
 
 belki bilerek, kim bilir isteyerek kaybolmuşum,  
 zaman içinde evvel ahir bir ben gezinmekte, 
@@ -621,7 +802,7 @@ bütün bu mutsuz-huzursuzluğun sebebi o kahve falı...
 
 Umut TAYDAŞ
 
-### Hyumnia Pkojgin
+## Hyumnia Pkojgin
 
 mor kaplamalar şık durur aynada, 
 safkan ve öğrenilmemiş ısırıklar işlemesidir aşığın, 
@@ -657,7 +838,7 @@ görüşürüz abi...
 
 Umut TAYDAŞ
 
-### İçer Dışlar
+## İçer Dışlar
 
 içeri hayat kurgu / dışarı hayat belli. 
 
@@ -693,39 +874,94 @@ içeri hayat kurgu / dışarı hayat belli.
 
 Umut TAYDAŞ
 
-### İhtiyar
+## İhtiyar
 
 Mevsim mevsim özenle büyüttüğün yüreğine
+
 O yanılmasın diye tembih ederken
+
 Bin yıllık tecrübeleri
+
 Uzun uzun yaşamışlığın arkasından
+
 Hiç kadar yaşamış olduğunu anlamaya başladığında,
+
 Bunca yıl kahrını çekmiş ellerin,
+
 İntihar intihar yaklaşmakta sana.
                       II
 
-“Yaşadığın en büyük sevdanın arkasından,Yüzüne gülüp geçerken birileri,Birileri bir gülüşle, ömrünü sömürürken,
+
+“Yaşadığın en büyük sevdanın arkasından,
+Yüzüne gülüp geçerken birileri,
+Birileri bir gülüşle, ömrünü sömürürken,
+
 Bir gülüşe feda edecekken kendini,
+
 Mutlu olamazsın diye haykırıyordu 
-Gençliğinin o bıkkın düşünceleri...Hatırlarsın...
-Hiç kimse engel olamaz derken yaşadığım sevgiye,Ayaklarının altında ezip geçiyorlardıBiriktirdiğin, dokunmaya kıyamadığın aşkını,Yüzün çamur gibiydi, tanıyamadım,Rastladığım en hüzünlü çamurdu yüzün,
-Ucube fikirlerin arasında bulmaya çalışırken kendini,Taze topladığın “mutluluk getiren” dedikleri çiçekler
+
+Gençliğinin o bıkkın düşünceleri...
+Hatırlarsın...
+
+Hiç kimse engel olamaz derken yaşadığım sevgiye,
+Ayaklarının altında ezip geçiyorlardı
+Biriktirdiğin, dokunmaya kıyamadığın aşkını,
+Yüzün çamur gibiydi, tanıyamadım,
+Rastladığım en hüzünlü çamurdu yüzün,
+
+Ucube fikirlerin arasında bulmaya çalışırken kendini,
+Taze topladığın “mutluluk getiren” dedikleri çiçekler
+
 Senden habersiz ellerinde solmuştu bile
 
+
 Bile bile
-Gecelerin en kara düşüncelerini taşırken günden güneFark etmesen de, 
+
+Gecelerin en kara düşüncelerini taşırken günden güne
+Fark etmesen de, 
+
 Kendi kendini öldürmek,
-Kendini terk etmek gibi erken ölümler geziniyordu duvarlarında.Tek bir şahit yokken yaşadıklarına veÇocuğunu kaybetmiş anne feryadıyla sarılırken kendi yüreğineBoğazını sıkmaya başlayan yalnızlığınEn yakın arkadaşındı sana...
+
+Kendini terk etmek gibi erken ölümler geziniyordu duvarlarında.
+Tek bir şahit yokken yaşadıklarına ve
+Çocuğunu kaybetmiş anne feryadıyla sarılırken kendi yüreğine
+Boğazını sıkmaya başlayan yalnızlığın
+En yakın arkadaşındı sana...
+
 Adım yalnızlıktı...
-Daha sen hayatım dediğin köprü altını görmedenSana tükenmez umutlar getiren dualar, çok uzaklara göç etmişti,Lanetler, isyanlar, belalar yazmışken kör büyücülerBoynundaki ömür muskasının içine,Tutunacak tek bir desteğin yoktu,Hatıralarının arasında...Ömür dar geliyordu boynuna,
+
+Daha sen hayatım dediğin köprü altını görmeden
+Sana tükenmez umutlar getiren dualar, çok uzaklara göç etmişti,
+Lanetler, isyanlar, belalar yazmışken kör büyücüler
+Boynundaki ömür muskasının içine,
+Tutunacak tek bir desteğin yoktu,
+Hatıralarının arasında...
+Ömür dar geliyordu boynuna,
+
 Çıkarıp atamıyordun.”
+
 Korkma..., korkmuyorsun zaten...
 
-                  IIIYüzüne sıcak iklimleri taşıyan  bir mevsim süsü ver,
+
+                  III
+Yüzüne sıcak iklimleri taşıyan  bir mevsim süsü ver,
+
 Geride bıraktığın tüm hatıralara dön sırtını, kaşısınlar,
+
 Kader, keder diye yanıp, ömür-gönül diye yağdığın gözyaşlarını,
+
 Kurumakta olan bir göle hediye et,
-Sahipsiz kalan aşkını değil,Senin aşkından mahrum kalanların düştükleri durumları düşün,Pahalı şaraplarlaNasıl gülüneceğini göster,Çevrendeki minyatür sevdalılara,Uzan kimsenin gelemeyeceği,Sana özel, altın sahillere,Bir yanında emrindeki güneşÖdül deniz, şarkılar söylesin dalgalarıylaSana öldü demesinler,
+
+Sahipsiz kalan aşkını değil,
+Senin aşkından mahrum kalanların düştükleri durumları düşün,
+Pahalı şaraplarla
+Nasıl gülüneceğini göster,
+Çevrendeki minyatür sevdalılara,
+Uzan kimsenin gelemeyeceği,
+Sana özel, altın sahillere,
+Bir yanında emrindeki güneş
+Ödül deniz, şarkılar söylesin dalgalarıyla
+Sana öldü demesinler,
 
 Seni ölü görmemeliyim.
 
@@ -747,7 +983,7 @@ Umut Taydaş...
 
 Umut TAYDAŞ
 
-### İnsanın Kurdu İnsan
+## İnsanın Kurdu İnsan
 
 Yaralı Parmaklarınla Bidondan Turşu Çıkarmak
 
@@ -796,74 +1032,158 @@ veyahut git gir ananın mağarasına...
 
 Umut TAYDAŞ
 
-### İnsanlığa inat
+## İnsanlığa inat
 zavallı zamanlar
 
 "Gerçekten sevdiğine inananlara"
+
         Bitiş...!
-        Başlamadan, heyecansız, kırık ve üzgün,        Niye mi ?
-        Ben soruyorum niye ?        İşlenmemiş bir suçun cezasını mı ödüyorum ?
+
+        Başlamadan, heyecansız, kırık ve üzgün,
+        Niye mi ?
+
+        Ben soruyorum niye ?
+        İşlenmemiş bir suçun cezasını mı ödüyorum ?
+
         Kırdım mı ben kimseyi, verdim mi hiç yürek acısı ?
-        Sevmeden, tatmadan, her şeye kahrederek geçti zaman...        Bitiş...!
+
+        Sevmeden, tatmadan, her şeye kahrederek geçti zaman...
+        Bitiş...!
+
         Yaşanmamış zamanların, tadılmamış duyguların bitişi,
+
         Yaratılmamış bir ruhun, sahipsiz bir bedenin bitişi,
+
         Bu bir ağıt, bu bir isyan;
-        Öfkeli bir ruhun Tanrı'ya başkaldırısı.        Bitiş...!
+
+        Öfkeli bir ruhun Tanrı'ya başkaldırısı.
+        Bitiş...!
+
         Kızgınım şimdi,
+
         Belki de gerçekten yaşadığım,
-        Her hücremde hissettiğim tek duygu bu.        Belki de benim dediğim tek şey o !        Bitiş...!        Belki de güzeldir,        Belki Tanrı acır bana,
-        Hani acırsa o zaman ben,        Severek olurum onun zebanisi.        Bitiş...!
+
+        Her hücremde hissettiğim tek duygu bu.
+        Belki de benim dediğim tek şey o !
+        Bitiş...!
+        Belki de güzeldir,
+        Belki Tanrı acır bana,
+
+        Hani acırsa o zaman ben,
+        Severek olurum onun zebanisi.
+        Bitiş...!
+
         Belki de başlangıçtır,
+
         Çektiğim acılar, çekeceklerimi güldürür,
+
         Şimdi vuslât, şimdi ayrılık anı,
-        Geriye küskün iki kelime bırakıyorum,        "Seni Seviyorum"
+
+        Geriye küskün iki kelime bırakıyorum,
+        "Seni Seviyorum"
+
 
         Bitti...!
+
 
                                      Dalgalar Prensi
 
 Umut TAYDAŞ
 
-### İstanpol'un Fethi
+## İstanpol'un Fethi
 
 Korkak beklenmediklerle İstanpol'a büyülenmiş beklerken seni,
+
 Çevremdeki herkese, herşeye,
+
 İnsana, taşa, denize, ağaca, güneşe bileniyorum,
+
 Kuru kalabalığın arasından, ürkek birkaç umutla, heyecanlı,
+
 Çağırıyorsun beni,
-Yanımdasın,Boyumuzun uyumunu bir kalıba sığdırmayı düşünüyorsun.
+
+Yanımdasın,
+Boyumuzun uyumunu bir kalıba sığdırmayı düşünüyorsun.
+
 Daha yeni gelmene rağmen, gideceğini ve bana kalmayacağını düşünüyorum;
+
 Ağzımda hariçten gazel, baştan sona "Ahh Yaralım" diye söylenen bir şarkı,
-Denize doğru içten feryat-figân, dıştan hazırlıksız ve yabancı ilerliyoruz,Veballer, boyunduruklar altında,
+
+Denize doğru içten feryat-figân, dıştan hazırlıksız ve yabancı ilerliyoruz,
+Veballer, boyunduruklar altında,
+
 Elime dokunuyorsun, kayboluyorsun ellerimin arasında,
+
 Boğulan bir çocuğu kurtarır gibi uzanıyor ellerin,
+
 Öyle küçük ve öyle safsın ki, bu cehennem'de,
-Zerre kıvılcımın gölgesiyle, yok olursun diye korkuyorum,Hiçbir sınır tanımadan, benimken; ve hayatımın,
-En uzun süreli susuşlarını yanında yaşarken,Bir ömür böyle devam etmesini, seninle senkronize titreyen bedenimin,İşgal altında burada çürümesini, kabullenebilirim...Sevebildiğimden beri, kimseyi böyle severek sevmemiştim.
+
+Zerre kıvılcımın gölgesiyle, yok olursun diye korkuyorum,
+Hiçbir sınır tanımadan, benimken; ve hayatımın,
+
+En uzun süreli susuşlarını yanında yaşarken,
+Bir ömür böyle devam etmesini, seninle senkronize titreyen bedenimin,
+İşgal altında burada çürümesini, kabullenebilirim...
+Sevebildiğimden beri, kimseyi böyle severek sevmemiştim.
+
 
 Bin suçu kabullenir gibi suskun,
-Bir suçtan kaçar gibi korkak,Binbir gece masalları benzeri hayalsi bir gerçeklikle,ayrılıyoruz;
+
+Bir suçtan kaçar gibi korkak,
+Binbir gece masalları benzeri hayalsi bir gerçeklikle,ayrılıyoruz;
+
 Çelişkileri ve çatışmaları ortadan kaldırıp,
-Sadece sevdamızı yaşatma ve saklama görevi üstlenmiş o yerden...Yanımdasın ama yine veHayatımda ilk defa, hiçbir şeyden kaçmadan, 
+
+Sadece sevdamızı yaşatma ve saklama görevi üstlenmiş o yerden...
+Yanımdasın ama yine ve
+Hayatımda ilk defa, hiçbir şeyden kaçmadan, 
+
 Kendime meydan okuyarak, tabularımı yıkarak
-"Mutluyum" demeye öyle hazırım ki...Tanımadığım, adını filmlerden, şiirlerden,Olaylardan ve 3.çoğul şahıslardan duyup 
-Aşırı bir istekle tanımak istediğim yerlere gidiyoruzAma onları görecek durumda değilim,Göreceli onlar bana,O terketmeyen umutsuzluğumla;
+
+"Mutluyum" demeye öyle hazırım ki...
+Tanımadığım, adını filmlerden, şiirlerden,
+Olaylardan ve 3.çoğul şahıslardan duyup 
+
+Aşırı bir istekle tanımak istediğim yerlere gidiyoruz
+Ama onları görecek durumda değilim,
+Göreceli onlar bana,
+O terketmeyen umutsuzluğumla;
+
 Bir saç telim kadar yakınımda olduğunu bile bile,
-Nasıl olsa gideceğin düşüncesiyle doldurulmuş bir altıpatlardan,Rusruleti oynuyorum.
+
+Nasıl olsa gideceğin düşüncesiyle doldurulmuş bir altıpatlardan,
+Rusruleti oynuyorum.
+
 Bir ölü olarak; gözlerinden ayrılmadan hatta, ölmeyi bekliyorum
+
 Teslimiyet altında
+
 Veda edeceğinin tesellisizliği zıpkın, 
-Deliyor, kanatıyor ardarda,  içime.Beynim karanlık, içim karanlık, hava karanlık,
-Gözlerin yerde, ellerin ürkek, kalp atışların kulağıma kadar geliyor,Seni koruyacağımdan, öyle güveniyorsun ki;
+
+Deliyor, kanatıyor ardarda,  içime.
+Beynim karanlık, içim karanlık, hava karanlık,
+
+Gözlerin yerde, ellerin ürkek, kalp atışların kulağıma kadar geliyor,
+Seni koruyacağımdan, öyle güveniyorsun ki;
+
 Kollarıma bırakıveriyorsun kendini,
+
 Yüzünün buz kesen coğrafyasını ellerimle tanıyorum,
+
 Nefesinden,  mutluluğunu içime çekiyorum,
+
 Sırtına koyup başımı, kısık hıçkırıklarla birkaç damla emanet ediyorum ceketine,
+
 Sen bilmeden.
 
+
 Gitmelisin,
-Vaktin geldi,Tutup çenenden, acı bir öpücük bırakıyorum alt dudağına,
-Karşı koymuyorsun,Çenen kayıp gidiyor ellerimden, vakit dolunca,
+
+Vaktin geldi,
+Tutup çenenden, acı bir öpücük bırakıyorum alt dudağına,
+
+Karşı koymuyorsun,
+Çenen kayıp gidiyor ellerimden, vakit dolunca,
 
 En güzel ve en kısa süreli ama en unutulmayacak şiirimi emanet ediyorum dudaklarına
 Öyle ki;
@@ -932,7 +1252,7 @@ Sevebildiğimi bildiğimden beri, kimse bildiğimi bilmemişti.
 
 Umut TAYDAŞ
 
-### İstim
+## İstim
 
 "yeni sevgili"si olmuş tüm insancıklara" 
 
@@ -1014,67 +1334,152 @@ bir hayatta yalnız bir kişiye sarf edilir.
 
 Umut TAYDAŞ
 
-### İyi geceler arkadaş
+## İyi geceler arkadaş
 Sevgilisi
 
 Beş adet yeşil zeytin ağzımda, iki dilim çalıntı portakal
+
 günlerce biriktirdiğim, çileli tekirdağlarım masada
+
 beyaz peynir, çay kamışlı bardaklar parka
+
 yalandan da bi arabesk sarıyor teypte
+
 komşudan istemişim ekmeği, kuru, 
+
 bir de acı roka maydanoz almıştım, otobüste yanımda oturan abiden
+
 başımı masaya dayamışım, terli terli, 
+
 su düşlerken
+
 beni seyre koyulmuş bir arkadaş sevgilisi
+
 divana uzanmış, yorgun gibi toplumdan 
+
 pide yemekte şimdi, teori ve pratikte beni süzerken
+
 yatağımın altında gazeteler, kitaplar ve şarap şişeleri
+
 kapı arkasında elbiselerim, hepsi birbirinden yorgun
-üstelik ben gelirken bu dünyaya iki yatak ücreti ödemişimdaha rahat edeyim diye
-radyasyonum kapitalizmbulaşmasın bana isterseniz bu defa
-vapurlarla trenlerle güzel kızlar kaçırayım,bir rapunzel alsın beni babil kulesine
+
+üstelik ben gelirken bu dünyaya iki yatak ücreti ödemişim
+daha rahat edeyim diye
+
+radyasyonum kapitalizm
+bulaşmasın bana isterseniz bu defa
+
+vapurlarla trenlerle güzel kızlar kaçırayım,
+bir rapunzel alsın beni babil kulesine
+
 sen yine beni seyret bu defa, arkadaş sevgilisi
+
 sen benimle yaşamayı adet edindin bu ara
-bunlarda senin hazırlıksız aşk kazaların zatengidiyorum işte kendiliğimden, sakince, beklersem arkadaşımın yüzüne bakamam artık,
-sabaha kadar, güneş, eltisi rüzgar ve benkapanacağız taş biriktirdiğimiz odaya...dikkat et yine beni
-parmakla gösteriyorsun...iyi geceler, arkadaş sevgilisi...
- 						Umut "Cyrano" TAYDAŞ						   "evvel zaman içinde"
+
+bunlarda senin hazırlıksız aşk kazaların zaten
+gidiyorum işte kendiliğimden, sakince, 
+beklersem arkadaşımın yüzüne bakamam artık,
+
+sabaha kadar, güneş, eltisi rüzgar ve ben
+kapanacağız taş biriktirdiğimiz odaya...
+dikkat et yine beni
+
+parmakla gösteriyorsun...
+iyi geceler, arkadaş sevgilisi...
+
+ 
+						Umut "Cyrano" TAYDAŞ
+						   "evvel zaman içinde"
 
 Umut TAYDAŞ
 
-### Kafama
+## Kafama
 köpek öldürenden birkaç darbe yemişim !
 
 Kafama “köpek öldüren”den birkaç darbe yemişim,
+
 Ellerimde öksüz/yetim bir korkunun diş izleri,
+
 Taze giydiğim gömleğim, sahibi belirsiz Rh(+),
+
 Can dostumun yüzüne nefreti işlemişler,
+
 Gözlerini gelecek kaygısı taşımayan perdelerle örtmüşler,
+
 “deniz” kıskandıran saçlarım şimdilik başka telde,
-sırtımda kaçak silah yüzüme doğru dikilmiş susta,ölmeyi kabullenemedim ilk defagururumu ezip kaçıyorum silahlardan,ölmekten korkmuyorum biliyorum,ama aşksız ölmemek için kaçıyorum boşluğa.Rüzgarın yanık uğultusuylaEli kanlı vurguncunun yanında üşüyorum,
+
+sırtımda kaçak silah yüzüme doğru dikilmiş susta,
+ölmeyi kabullenemedim ilk defa
+gururumu ezip kaçıyorum silahlardan,
+ölmekten korkmuyorum biliyorum,
+ama aşksız ölmemek için kaçıyorum boşluğa.
+Rüzgarın yanık uğultusuyla
+Eli kanlı vurguncunun yanında üşüyorum,
+
 Belalarımı divitleyen kalabalığın nezaretinle,
-Yarım uykularımı öldüren piçlere bileniyorum.Acılarımı bende bıraktığın sevdan’la örtüyorum,Ömre cellat gibiyim, krala zafer, hastaya umut,Aşka çocuk gibiyim,Beni kabul etmeyen hücre karanlığında,
+
+Yarım uykularımı öldüren piçlere bileniyorum.
+Acılarımı bende bıraktığın sevdan’la örtüyorum,
+Ömre cellat gibiyim, krala zafer, hastaya umut,
+Aşka çocuk gibiyim,
+Beni kabul etmeyen hücre karanlığında,
+
 Adım köpek , adım puşt, adım her pislikle bir,
+
 Yaşım nefret edilecek yaş, 
-Kimliğimi bilmiyorum.Vuruyorlar yüzüme, gizli kalmış öfkeleri,Pişmanlığın aklımdan geçmediği bu dertte,Başıma geleceklerden, ömrüme sineceklerden,
+
+Kimliğimi bilmiyorum.
+Vuruyorlar yüzüme, gizli kalmış öfkeleri,
+Pişmanlığın aklımdan geçmediği bu dertte,
+Başıma geleceklerden, ömrüme sineceklerden,
+
 Kanımı emeceklerden korkmuyorum.
-Asi varoluşumun, çelimsiz düşlerinde,Yarına bir, yarına gün, 
-Güne günlük güneşlik bir umut gizliyorum,Yarısını lavaboda bıraktığım  sakallarıma, Hediye ediyorlar ayaklarımdaki ağrıları,Zehirli kederler beliriyor gözümde,
-Sabretmekten fışkıran,Zihnimde beliren bir yüzün yok,
+
+Asi varoluşumun, çelimsiz düşlerinde,
+Yarına bir, yarına gün, 
+
+Güne günlük güneşlik bir umut gizliyorum,
+Yarısını lavaboda bıraktığım  sakallarıma, 
+Hediye ediyorlar ayaklarımdaki ağrıları,
+Zehirli kederler beliriyor gözümde,
+
+Sabretmekten fışkıran,
+Zihnimde beliren bir yüzün yok,
+
 Kendi yüzüm kim bilir nerede,
-Duvardaki örümceğin her adımı bir saat,Yağmurun sesindeki suni teselli dindiriyor
+
+Duvardaki örümceğin her adımı bir saat,
+Yağmurun sesindeki suni teselli dindiriyor
+
 Büyülenmiş yüreğimin kızıllaşmış isyanını.
-Birazdan yorulurum, yaşamaktan, şehirden,Birazdan yorulurum üstüme suç giymekten,
+
+Birazdan yorulurum, yaşamaktan, şehirden,
+Birazdan yorulurum üstüme suç giymekten,
+
 Yoğrulurum sefillerin içinde beklemekten,
-Yol olurum kendime beynimdeki ölümden,İntiharım yok olur, uykusuzluğumun piçinden 
-Lanetler yollarım, bir intizar, iki dua,Yitik hayallerin ertesinden
-Uzaktaki sevgiliye sarılırım zuladaki gücümle,Yağmur biter,ruhum olur,
+
+Yol olurum kendime beynimdeki ölümden,
+İntiharım yok olur, uykusuzluğumun piçinden 
+
+Lanetler yollarım, bir intizar, iki dua,
+Yitik hayallerin ertesinden
+
+Uzaktaki sevgiliye sarılırım zuladaki gücümle,
+Yağmur biter,ruhum olur,
+
 Gökkuşağında izlenen beyaz.
 
-Birazdan ayrılırım yaşamaktan, şehirden,Birazdan ayrılırım, zincirli nezaretten
+
+Birazdan ayrılırım yaşamaktan, şehirden,
+Birazdan ayrılırım, zincirli nezaretten
+
 Geride bana şahit tek bir köpek bırakmam.
+
 İnsanlarımın kafasından silerim tüm ömrümü
-Toprağa saklarım cesedimiKendi savaşımın en cesur şehidini,
+
+Toprağa saklarım cesedimi
+Kendi savaşımın en cesur şehidini,
+
 Yaşadıklarım bilinmez,
 
 Sakladıklarım hep bende,
@@ -1098,7 +1503,7 @@ Başla...
 
 Umut TAYDAŞ
 
-### Kalınlaşıyoruz
+## Kalınlaşıyoruz
 
 kalınlaşıyoruz... 
 
@@ -1211,7 +1616,7 @@ ağrıyor,
 
 Umut TAYDAŞ
 
-### Kanyak Şişesine Yansıyan 
+## Kanyak Şişesine Yansıyan 
 Soytarı Yüzüm
 
 "skimden a$$a" 
@@ -1282,65 +1687,141 @@ Olsa da yesek...
 
 Umut TAYDAŞ
 
-### Karşımda
+## Karşımda
 kadeh tokuşturan bir kaç ben
 
-askıda yeni esvaplarım, duvarımda jonny guitar,saat on bire on var, posterler bile yorgun,daha yeni çıktım  "toplumla birlikte yaşamak" savaşından,
+askıda yeni esvaplarım, duvarımda jonny guitar,
+saat on bire on var, posterler bile yorgun,
+daha yeni çıktım  "toplumla birlikte yaşamak" savaşından,
+
 yatağıma yazacağımı bilmiş gibi koymuşlar teksir kağıtlarını,
+
 tam yanında çelimsiz, eşantiyon bir kalem, kullanabilirsem güçlü,
+
 kafamda beni dürten bir arkadaş sevgilisi,
+
 daha rezerve günahlarım var çekilecek,
+
 ben bunu taşıyamam sevişken abi,
-bak argın suçsuzluğum deli yorgunluğumla köşeye kıvrılmış uyuyor zati...mutlaka güzel anılara tekabül ediyor bu gün
+
+bak argın suçsuzluğum deli yorgunluğumla köşeye kıvrılmış uyuyor zati...
+mutlaka güzel anılara tekabül ediyor bu gün
+
 ışık hızıyla muhabbete dönüşüyor her söylediğim,
-az önce kan kırmızı defterimi okurken fark ettimbence mahsuru olmasa dagökyüzü pazen yıldız geceliğini soyunmuş
+
+az önce kan kırmızı defterimi okurken fark ettim
+bence mahsuru olmasa da
+gökyüzü pazen yıldız geceliğini soyunmuş
+
 bu şehirle uyuşmayan bi şeylere
-hazımsızlık derecesinde yapıyor protestosunu.bir kaç tane ben olsun istiyorum şu an
-karşımda kadeh tokuşturan bir kaç bensaniyede 24 kare geçiyor gözlerimin önündenherhangi bir Türk filminden farklı bir izlenişte
+
+hazımsızlık derecesinde yapıyor protestosunu.
+bir kaç tane ben olsun istiyorum şu an
+
+karşımda kadeh tokuşturan bir kaç ben
+saniyede 24 kare geçiyor gözlerimin önünden
+herhangi bir Türk filminden farklı bir izlenişte
+
 bir baltaya sap olamayan baltasız bir ilahım sanki
+
 soğuk damgalı, sıradanlıklarda, kime güdüldüğümden haberim yok
+
 ama ne kadar boyunduruk altında olsam da
+
 düşündükçe yeni yeni "kendim" ler yaratabileceğimi öğrendim
-kıytırık bir odada, “güneşten yetim” gibi görünüyorum kendimepazılarımı şişiriyorum sonragüçlü olduğumu gördü "kendim"
-ve masamdaki köpek öldürene sarıldı usulca...işte şimdi yaşadığım, bu soğuk kış gecesi
+
+kıytırık bir odada, “güneşten yetim” gibi görünüyorum kendime
+pazılarımı şişiriyorum sonra
+güçlü olduğumu gördü "kendim"
+
+ve masamdaki köpek öldürene sarıldı usulca...
+işte şimdi yaşadığım, bu soğuk kış gecesi
+
 hiç bir şey çünkü'm de değil doğrusu
+
 kimselere günaydın bile diyemeden yitirsem kendimi
+
 sabah, bir çiçeğe kudurmuş sevdamı anlatamasam
+
 talan artığı manzaraya dönemesem yüzümü,
-üvey bir zamana anne diyemesem meselatek kişilik grup halinde giremesem toplumun içine
-umurumda değil....İşte yalnızlığa direndiğim, bu soğuk kış gecesi,
-Her yanımdan saldıran soğuk, yakıyor kalem tutan parmaklarımı,Hiç sevgi görmemiş çocuklar gibi, ihtiyacı var şimdi sevilmeye bu elin,
+
+üvey bir zamana anne diyemesem mesela
+tek kişilik grup halinde giremesem toplumun içine
+
+umurumda değil....
+İşte yalnızlığa direndiğim, bu soğuk kış gecesi,
+
+Her yanımdan saldıran soğuk, yakıyor kalem tutan parmaklarımı,
+Hiç sevgi görmemiş çocuklar gibi, ihtiyacı var şimdi sevilmeye bu elin,
+
 Tesadüfen rastlıyorum aynada kendime,
+
 Öylesine dalmışım ki,
+
 Meçhul bir bakışla yakınıyor gibi soğuktan,
-İtina ve saygıyla örtüyorum üstünü uyusun diye...Benim birini sevmem, cinayet değil midir ?		           Umut-07.02.1998 – Bm Was Here
+
+İtina ve saygıyla örtüyorum üstünü uyusun diye...
+Benim birini sevmem, cinayet değil midir ?		           Umut-07.02.1998 – Bm Was Here
 
 Umut TAYDAŞ
 
-### Kendi Bildi, Kendine Söyledi
+## Kendi Bildi, Kendine Söyledi
 
-“Gui’ye...”İsyansa isyan, başkaldırıysa tamam, ismini bilmiyorum benYeter dedim ya, lanet çektim ya,  olsun ne olacaksaAcıların en büyüğünü istiyorum,
+“Gui’ye...”
+İsyansa isyan, başkaldırıysa tamam, ismini bilmiyorum ben
+Yeter dedim ya, lanet çektim ya,  olsun ne olacaksa
+Acıların en büyüğünü istiyorum,
+
 Ölümlerin en kanlısını
-Kimsesizliği, bundan daha fazlası varsa hiçliği
-Öc alsınlar, alnıma dayasınlar buz gibi namlusunu nefretin,Dişlerindeki kuduz köpeği salsınlar üstümeBeynime sülük, gövdeme çivi,  yüreğime ihanet, çalışsınlar,
-Muskam yok, zırhım yok, sığınağım yok ihtiyaç
-Barışın, suskunluğun, uzlaşmanın sözü geçmesin yanımda,
-İs yansa hiç sönmez ateş... ama İsyansa isyan, vefa borcum varsa, canımla ödenecek,galibiyet sevincimdir intiharöldürülmem geri döneceğimin garantisidir,
-kaburgalarım arasına hapsolmuş bir güvercinin kurtulacağı gündür bu
-beynimin labirentlerinde kaybolmaya şartlandırılmış düşüncelerin ellerinden tutulupçıkışa bırakılmasıdır
-damarlarıma enjekte edilmiş bir maddenin, kansız da yaşanabildiğini ispatlamasıdır
-başlangıcın bitişi, bitişin başlangıcıdır, ikisinin ortasında bir yer asla yaşanmayacaktır
-yaşanılandan daha fazla yaşanılmayacaktır, artık sanılmayacak...
-menfaatsiz duaları sineklerden koruyan cibinliğin, ne kadar işe yaradığını öğrenme anı şimdi
-görmezden geldiğim işlek suratlara, bana dair mühürleri çakmak zamanı
-kim'liğimi, kafamı, duruşumu, yüreğimi yok ediciliklerini ki ; ne gerekse ispatlar gibi gösterme zamanıymış baktım
-kurgusuz bir kompozisyonun, gerçeklerle yazılışı
-isyansa isyan, başkaldırıysa tamam, ama ismini bilmiyorum ben.
-Gittiğimde gerçekten yaşanmamış bir gidiş olsun istedim ya yine kendimi düşünmedenPeki ya ben...
 
-Gerek yok. Gereği düşünüldü.
+Kimsesizliği, bundan daha fazlası varsa hiçliği
+
+Öc alsınlar, alnıma dayasınlar buz gibi namlusunu nefretin,
+Dişlerindeki kuduz köpeği salsınlar üstüme
+Beynime sülük, gövdeme çivi,  yüreğime ihanet, çalışsınlar,
+
+Muskam yok, zırhım yok, sığınağım yok ihtiyaç
+
+Barışın, suskunluğun, uzlaşmanın sözü geçmesin yanımda,
+
+İs yansa hiç sönmez ateş... ama İsyansa isyan, vefa borcum varsa, canımla ödenecek,
+galibiyet sevincimdir intihar
+öldürülmem geri döneceğimin garantisidir,
+
+kaburgalarım arasına hapsolmuş bir güvercinin kurtulacağı gündür bu
+
+beynimin labirentlerinde kaybolmaya şartlandırılmış düşüncelerin ellerinden tutulup
+çıkışa bırakılmasıdır
+
+damarlarıma enjekte edilmiş bir maddenin, kansız da yaşanabildiğini ispatlamasıdır
+
+başlangıcın bitişi, bitişin başlangıcıdır, ikisinin ortasında bir yer asla yaşanmayacaktır
+
+yaşanılandan daha fazla yaşanılmayacaktır, artık sanılmayacak...
+
+menfaatsiz duaları sineklerden koruyan cibinliğin, ne kadar işe yaradığını öğrenme anı şimdi
+
+görmezden geldiğim işlek suratlara, bana dair mühürleri çakmak zamanı
+
+kim'liğimi, kafamı, duruşumu, yüreğimi yok ediciliklerini ki ; 
+ne gerekse ispatlar gibi gösterme zamanıymış baktım
+
+kurgusuz bir kompozisyonun, gerçeklerle yazılışı
+
+isyansa isyan, başkaldırıysa tamam, ama ismini bilmiyorum ben.
+
+Gittiğimde gerçekten yaşanmamış bir gidiş olsun istedim ya yine kendimi düşünmeden
+Peki ya ben...
+
+
+Gerek yok. 
+Gereği düşünüldü.
+
 Yol gereği
-Düştü-öldü.Bildiklerini yalnız kendi bildi. Söylediklerini hep kendine söyledi. Bm Umut “The Cyrano” TAYDAŞ
+
+Düştü-öldü.
+Bildiklerini yalnız kendi bildi. Söylediklerini hep kendine söyledi. 
+Bm Umut “The Cyrano” TAYDAŞ
 
 
 	10.11.1998 – 10:23
@@ -1348,7 +1829,7 @@ Düştü-öldü.Bildiklerini yalnız kendi bildi. Söylediklerini hep kendine s�
 
 Umut TAYDAŞ
 
-### Kepaze
+## Kepaze
 
 "cevap bulamayan seslenişlere" 
 
@@ -1392,7 +1873,7 @@ birisinde bir anlama dönüşür mutlak"
 
 Umut TAYDAŞ
 
-### Kırılgan Saz
+## Kırılgan Saz
 
 kalınca halatlarla  
 farzet ki bağlamışsın kendini yaşamaya,  
@@ -1434,7 +1915,7 @@ bırakıyorsun.
 
 Umut TAYDAŞ
 
-### Kinnadikâr
+## Kinnadikâr
 
 peşimdeyim,  
 ağırdan alıp hareketlerimi, çok çok tüketip tüm zevkleri,  
@@ -1506,28 +1987,44 @@ göğsünde karanfil.  -
 
 Umut TAYDAŞ
 
-### Korkutan
+## Korkutan
 Bir Yabancılık Başlamıştı Çoktan
 
 Korkutan bir yabancılık başlamıştı çoktan,
+
 Can vardı, canan vardı;
+
 Can’ın istekleri, Canan’ın gereklilikleri vardı,
+
 Bizler uzantıları olduk hep
-Can ve canan’ın,Sadece isimlendirildik ve
+
+Can ve canan’ın,
+Sadece isimlendirildik ve
+
 Çok gerekmedikçe geçmedi ismimiz
+
 “mutluyuz” ortamlarında,
+
 biz sevda gönüllüleri, aşk personeliydik,
+
 sahnemiz bitince, ayrılırdık zamanla başka yerlere,
+
 bir daha kim bilir ne zaman sıra gelirdi bize,
+
 önceden kendimizi ne de önemli sayardık,
+
 oysa can vardı, canan vardı,
+
 ve giderek artıyordu korkutan yabancılık...
-					25.12.98 – Amasya			      	      “Bitmek zorunda olan şiir”
+
+					25.12.98 – Amasya
+			      	      “Bitmek zorunda olan şiir”
+
 				      Umut “The Cyrano” Taydaş
 
 Umut TAYDAŞ
 
-### Köpeğim Olmadın
+## Köpeğim Olmadın
 
 söyleyiver dilindekileri, yabanlığın geldi,  
 açmazında kimsesizliğin, selamsız, aymaksız,  
@@ -1553,22 +2050,53 @@ ben çok kırıldım...
 
 Umut TAYDAŞ
 
-### Kör kuyu - Kör tabanca
+## Kör kuyu - Kör tabanca
 
 Mermi pişman, kör tabanca yavrusunu kaybetmiş, bin perişan,
-Yorgunum da şimdi,Köşeye kapandım, saklandım dinlenmek için,Bir bebek sesi siyah renkli,
-Bir bebek ayaklarımın önünde,Yüzünde kimseye göstermediği siyaha boyanmış gülümsemesi,Siyaha boyanmış bebek, köşeye emanet,
-Gidemem ki... bebek bir şey istemiyor benden,Bebek kendi umutlarıyla gülüyor bana,Kör tabanca bebeği izliyor gizli gizli,
-Kör tabancaya emanet ediyorum siyaha boyanmış bebeği,Dinlenmedim daha ama kaçıyorum,Büyük gürültülerin içinden duyulan 
-Sanki gün ışığına benzeyen bir ıslık sesiKaçmam gereken yönü gösteriyor gibi,
-Yardım almayı kabullenemem ama,Böyle büyüttüm kendimi,
-Tersine dönüyorum, yalvaran, umutlarımı isteyen, kalabalığın içineTüm gücümle
+
+Yorgunum da şimdi,
+Köşeye kapandım, saklandım dinlenmek için,
+Bir bebek sesi siyah renkli,
+
+Bir bebek ayaklarımın önünde,
+Yüzünde kimseye göstermediği siyaha boyanmış gülümsemesi,
+Siyaha boyanmış bebek, köşeye emanet,
+
+Gidemem ki... bebek bir şey istemiyor benden,
+Bebek kendi umutlarıyla gülüyor bana,
+Kör tabanca bebeği izliyor gizli gizli,
+
+Kör tabancaya emanet ediyorum siyaha boyanmış bebeği,
+Dinlenmedim daha ama kaçıyorum,
+Büyük gürültülerin içinden duyulan 
+
+Sanki gün ışığına benzeyen bir ıslık sesi
+Kaçmam gereken yönü gösteriyor gibi,
+
+Yardım almayı kabullenemem ama,
+Böyle büyüttüm kendimi,
+
+Tersine dönüyorum, yalvaran, umutlarımı isteyen, kalabalığın içine
+Tüm gücümle
+
 Parçalayın beni diyorum 
-Karanlık oluyorlar, göz kapakları bebeğe boyalı,Göz kapaklarım nefrete boyadıYüzümdeki duvarlarıÖldürüyorum bir kaçınıSeyrediyorlar,
+
+Karanlık oluyorlar, göz kapakları bebeğe boyalı,
+Göz kapaklarım nefrete boyadı
+Yüzümdeki duvarları
+Öldürüyorum bir kaçını
+Seyrediyorlar,
+
 Yapıyorsam bir bildiğim vardır diye izliyorlar yalvararak
+
 Umut dileniyorlar,
+
 Susun dedim sustular,
-Emretmek güzel bir şey,Hele böyle bir kalabalığa....Dinleyin dedim gözlerini nefretime açtılarÇember oluşturun dedim
+
+Emretmek güzel bir şey,
+Hele böyle bir kalabalığa....
+Dinleyin dedim gözlerini nefretime açtılar
+Çember oluşturun dedim
 Çok büyük bir çember oluşturdular
 Ben söylemeden yerinden kımıldayanı kör ederim dedim önemsemediler,
 Ben söylemeden kımıldayan olursa, umutsuz ölür dedim, 
@@ -1660,7 +2188,7 @@ Beyaz olunca isteyeni çok oluyordu çünkü...
 
 Umut TAYDAŞ
 
-### Kseleton
+## Kseleton
 
 "aşkın karın doyurduğu günlere..." 
 
@@ -1732,7 +2260,7 @@ bütün konuşmalar değer bulmak için bir sunuş değil mi sanki ?"
 
 Umut TAYDAŞ
 
-### Luxor
+## Luxor
 
 "saz'a" 
 dalgın ifadelerle diktim yüzümü şehrine, 
@@ -1761,7 +2289,7 @@ demem...
 
 Umut TAYDAŞ
 
-### Mandepsiye Uyanış-Kas 
+## Mandepsiye Uyanış-Kas 
 Gevşetici-Uzlaşma
 
 I - Mandepsiye Uyanış 
@@ -1851,7 +2379,7 @@ hiç tanımadığımız birilerine kuytularda elletmek için mi saklıyoruz yıl
 
 Umut TAYDAŞ
 
-### Manik Obsesif
+## Manik Obsesif
 
 "kendi kendine konuşmak'lara..." 
 
@@ -1950,23 +2478,46 @@ onunla bitiyorsun.
 
 Umut TAYDAŞ
 
-### Muhtemel İhtimaller
+## Muhtemel İhtimaller
 Azalırken
 
 Kim bilir ne kadar yakındasın bana
+
 Ve ben, bu tanımadığım, hiç bilmediğim şehirde
-Her adımımda senin de içinde bulunduğunEn toz ve en pembe hayallerimi ezerken
-Bana yakında dursun diye cebime koyduğum umutlarımı Çaldırmışken,
+
+Her adımımda senin de içinde bulunduğun
+En toz ve en pembe hayallerimi ezerken
+
+Bana yakında dursun diye cebime koyduğum umutlarımı 
+Çaldırmışken,
+
 Üstelik uzaklaşırken yavaş yavaş,
-Gitme saatim yaklaşırken üzerimeDev bir ahtapot gibi,Sen bana böyle yakınken,
+
+Gitme saatim yaklaşırken üzerime
+Dev bir ahtapot gibi,
+Sen bana böyle yakınken,
+
 Beni göremediğine üzülüp ağlarken,
+
 Ben seni görmemek, sana sarılmamak için sıkarken
+
 Ve perçinlerken ayaklarımı yere,
-Muhtemel ihtimaller azalırkenSeni aramak, seni bulmak, seninle olmak yerine,Yerin dibine gömülmüş,Bir ucube evde oturmuş, bunları yazıyorum,Seninle birlikte, hayataEn güzel şiirleri yazmak varken hem de...Gidiyorum...Umut TAYDAŞ						16.05.1999					 “İnsanbul – Ümranie”				     “seher vakti bir güzele ölündüm”
+
+Muhtemel ihtimaller azalırken
+Seni aramak, seni bulmak, seninle olmak yerine,
+Yerin dibine gömülmüş,
+Bir ucube evde oturmuş, bunları yazıyorum,
+Seninle birlikte, hayata
+En güzel şiirleri yazmak varken hem de...
+Gidiyorum...
+Umut TAYDAŞ
+						16.05.1999
+					 “İnsanbul – Ümranie”
+				     “seher vakti bir güzele ölündüm”
 
 Umut TAYDAŞ
 
-### Namlanış Destanı
+## Namlanış Destanı
 
 "ayrılıklara" 
 boş boş dururken manzara olsun diye yaratmak kolay, 
@@ -2031,36 +2582,90 @@ görmeni istiyorum...
 
 Umut TAYDAŞ
 
-### Ne sen, Ne ben !!!
+## Ne sen, Ne ben !!!
 
-Ne sen biliyorsun ne düşündüğünü,Ne ben,
-Ne ben biliyorum ne söyleyeceğimi,Ne sen.Yaşadım dediğim bir tek sen varsın,
-Ve farkındasın.Yine korku, yine cesaretsizlik engeller,Hiç düşünmediğim kadar kolay ayrılmayı sağladıSenden,
-Henüz küçüksün diyorsun da,Hayatımda ilk defa küçük olduğumu
-Senin karşında kabullendim.Beni de sen büyüttün belki,Bir haftada dedem yaşına geldim.
-Gittiğinde artık,Hayalimdeki sen büyütecek beni,Venüs’ü bile kıskandıran dudaklarından,
-Bana gönderdiğin yasak ama masumÖpücüklerin sonundaKarşında ne kadar dayanılmaz, zavallı olduğumu anladım.
+Ne sen biliyorsun ne düşündüğünü,
+Ne ben,
+
+Ne ben biliyorum ne söyleyeceğimi,
+Ne sen.
+Yaşadım dediğim bir tek sen varsın,
+
+Ve farkındasın.
+Yine korku, yine cesaretsizlik engeller,
+Hiç düşünmediğim kadar kolay ayrılmayı sağladı
+Senden,
+
+Henüz küçüksün diyorsun da,
+Hayatımda ilk defa küçük olduğumu
+
+Senin karşında kabullendim.
+Beni de sen büyüttün belki,
+Bir haftada dedem yaşına geldim.
+
+Gittiğinde artık,
+Hayalimdeki sen büyütecek beni,
+Venüs’ü bile kıskandıran dudaklarından,
+
+Bana gönderdiğin yasak ama masum
+Öpücüklerin sonunda
+Karşında ne kadar dayanılmaz, zavallı olduğumu anladım.
+
 Onlar benim olmalıydı, yalnız beni öpmeliydi diye
-İsyan ettim Tanrı’ya,Önemsemedi,
+
+İsyan ettim Tanrı’ya,
+Önemsemedi,
+
 Mutluluk denileni sadece
+
 Senin ruhunda bana gösterdi; ve geri çekti,
+
 En mutluyum demeye az kala...
 
-Ortada bir suç var ama faili meçhul,Suçu kime atacağımı bilmiyorum,
+
+Ortada bir suç var ama faili meçhul,
+Suçu kime atacağımı bilmiyorum,
+
 Herkes haklı, bütün sebepler doğru,
+
 Seninle yaşadıklarımıza da 
-Herhangi bir isim koyamıyorum, dünyada bilinen kelimelerden...Ne sen biliyorsun ne yapmak istediğini,Ne ben.
-Ne ben biliyorum sana karşı hissettiklerimin sınırını,Ne sen.Bir hediye olmalı senin beni özlemen
+
+Herhangi bir isim koyamıyorum, dünyada bilinen kelimelerden...
+Ne sen biliyorsun ne yapmak istediğini,
+Ne ben.
+
+Ne ben biliyorum sana karşı hissettiklerimin sınırını,
+Ne sen.
+Bir hediye olmalı senin beni özlemen
+
 Özlem ki; hiç kimse için böyle önemli olmadı.
+
 Değerini bilmem için bir tür uyarı olmalı ayrılıklarımız,
+
 Ayrılık ki; hiç kimse tekrar bir arada olmayı bu kadar istemedi.
+
 Bir dünya olmalı senin gülüşün,
-O gülüş ki; kimse bir tek gülücük için yaşamayı kabullenmedi.Yaşanılacak her şeyi yaşıyoruz birlikteyken,Kıskanıyorlar, engellemeye, ayırmaya çalışıyorlar,Açıkçası ben de,
+
+O gülüş ki; kimse bir tek gülücük için yaşamayı kabullenmedi.
+Yaşanılacak her şeyi yaşıyoruz birlikteyken,
+Kıskanıyorlar, engellemeye, ayırmaya çalışıyorlar,
+Açıkçası ben de,
+
 Aramızda sahte olan bir şeyler seziyorum,
-İşte bu tamamen sana yaklaşmamı engelliyor,Yada senin olmamı...
-Sahte olan öpüşün mü anlamıyorum,O kadar senin oluyorum ki o anda....
-Sahte olan gülüşlerin mi anlamıyorum,O anda sadece dinlemek istiyorum düşünmek değil,Sahte olan sevdiğini söylediğin an mı anlayamıyorum,Sadece onu senden duymak istiyorum, başka bir şey değil.
-Sahte olan sana ihtiyacım olduğunu söylediğim an mı,Bilmiyorsun, bunu bekliyorsun sadece,
+
+İşte bu tamamen sana yaklaşmamı engelliyor,
+Yada senin olmamı...
+
+Sahte olan öpüşün mü anlamıyorum,
+O kadar senin oluyorum ki o anda....
+
+Sahte olan gülüşlerin mi anlamıyorum,
+O anda sadece dinlemek istiyorum düşünmek değil,
+Sahte olan sevdiğini söylediğin an mı anlayamıyorum,
+Sadece onu senden duymak istiyorum, başka bir şey değil.
+
+Sahte olan sana ihtiyacım olduğunu söylediğim an mı,
+Bilmiyorsun, bunu bekliyorsun sadece,
 
 Sahte olan, uğruna akıttığım göz yaşlarım mı,
 Sadece onlar yere düşmeden yakalamak istiyorsun, diğerleri önemsiz,
@@ -2094,7 +2699,7 @@ Birbirimize bir tek bunu doğru söyledik belki...
 
 Umut TAYDAŞ
 
-### Neşter
+## Neşter
 
 "tatlı su sosyologlarına"  
 
@@ -2203,61 +2808,135 @@ ben bu yalnızlığı haketmedim...
 
 Umut TAYDAŞ
 
-### Ölüm ki, öyle yakın
+## Ölüm ki, öyle yakın
 
-Dur...Aç köpekler saldırmakta hayatıma,Benim olmayan hayatıma sahip çıkıyorum bu defa,Köpekler, kanatıyor, köpekler acıtıyor beni,Köpekler; bendeki seni koparmak için saldırıyorlar hayatıma.
-Biriktirdiğim, sakladığım sen'lerKan diye akıyor yerlere,
-Tanımadığım kirli ayaklar ezip geçiyor kanımı,Kaçabilir miyim ?Hani kendimi alıştırmışken seninle büyümeye,
-Yanımda olmasan bile,Sesini duymasam bile,
-Yüz yüze gelmesek de,Öylesine dolu, yakın, içte yaşıyorum ki seni,
-Öylesine derin, uzak, içte yanıyorum ki sana,Yokum.Ruhta ağır,bedende hafif hafif çileler gezinmekte,
+Dur...
+Aç köpekler saldırmakta hayatıma,
+Benim olmayan hayatıma sahip çıkıyorum bu defa,
+Köpekler, kanatıyor, köpekler acıtıyor beni,
+Köpekler; bendeki seni koparmak için saldırıyorlar hayatıma.
+
+Biriktirdiğim, sakladığım sen'ler
+Kan diye akıyor yerlere,
+
+Tanımadığım kirli ayaklar ezip geçiyor kanımı,
+Kaçabilir miyim ?
+Hani kendimi alıştırmışken seninle büyümeye,
+
+Yanımda olmasan bile,
+Sesini duymasam bile,
+
+Yüz yüze gelmesek de,
+Öylesine dolu, yakın, içte yaşıyorum ki seni,
+
+Öylesine derin, uzak, içte yanıyorum ki sana,
+Yokum.
+Ruhta ağır,bedende hafif hafif çileler gezinmekte,
+
 Geçimsiz ayrılıklardan doğan
+
 Hasret denen ölüm, avuçlarımın içinde,
+
 Her gün binlerce kez yüzüme işlenmekte,
-Aç köpekler, sen yiyenlerSaldırıyor hayatıma
-Üstelik her geçen gün daha da fazla...Yetinmemi bile kıskanıyorlar seninle,
+
+Aç köpekler, sen yiyenler
+Saldırıyor hayatıma
+
+Üstelik her geçen gün daha da fazla...
+Yetinmemi bile kıskanıyorlar seninle,
+
 Ölüm öyle yakın ki, 
-Bir zamanlar saçlarında kaybolmayı düşleyen ellerim,Aç bir köpeğin pençesiyle, yerlerde geziniyor şimdi
+
+Bir zamanlar saçlarında kaybolmayı düşleyen ellerim,
+Aç bir köpeğin pençesiyle, yerlerde geziniyor şimdi
+
 Kanımdan uzak.
-Beni sana getirmeyen ayaklarım,Nasibini almış, dişleri kayışla bilenmiş köpeklerden,
+
+Beni sana getirmeyen ayaklarım,
+Nasibini almış, dişleri kayışla bilenmiş köpeklerden,
+
 Kanım; aşkımı ezdiklerinden habersiz
+
 Serseri mayın dolaşan insanların ayaklarında,
+
 Adım adım uzaklaşıyor benden,
+
 Bir damlasına muhtacım,
+
 Bir damla sana ihtiyacım.
-Yere uzanıp sırtüstü,Ölmeyi bekliyorum parçalanarak,Yerde kalan az biraz kanıma batırıp
+
+Yere uzanıp sırtüstü,
+Ölmeyi bekliyorum parçalanarak,
+Yerde kalan az biraz kanıma batırıp
+
 Sağlam kalan parmaklarımı
+
 Yere katilin adını yazıyorum,
+
 Yazılmış en büyük eseri yazıyorum
-Yokluktan tel ter dökülmekte anılarımAzrail köpeklere ücretlerini ödüyorGörevlerini başarıyla tamamladıkları için..
+
+Yokluktan tel ter dökülmekte anılarım
+Azrail köpeklere ücretlerini ödüyor
+Görevlerini başarıyla tamamladıkları için..
+
 Ben yere "aşk" yazarken
+
 Bir damla sana muhtacım
-Ölüm ki; öyle yakın...Durma...					Umut The Cyrano
+
+Ölüm ki; öyle yakın...
+Durma...					Umut The Cyrano
+
 		                       13.06.1998  -"bir sen'im yok bir de benim"
 
 Umut TAYDAŞ
 
-### Ömür düş(üş)leri
+## Ömür düş(üş)leri
 
-Yollar ardarda, geçemedim,yıllar sorunlu, geçinemedim,
+Yollar ardarda, geçemedim,
+yıllar sorunlu, geçinemedim,
+
 yazlar yalancı, gezinemedim,
+
 yabancıyım her aklıma gelene,
+
 tanımıyorum kim gelirse gözümün önüne,
-aramıyorum zavallı aşkları, kuralsız pencerelerde,kendimi,rastgele bırakıyorum hayata sırtüstü,
+
+aramıyorum zavallı aşkları, kuralsız pencerelerde,
+kendimi,
+rastgele bırakıyorum hayata sırtüstü,
+
 bakmıyorum nereye kadar,
-ne kadar düşeceğim,ömür - ölüm uçurumundan,bilmem kuzgunlar daha düşerken,
+
+ne kadar düşeceğim,
+ömür - ölüm uçurumundan,
+bilmem kuzgunlar daha düşerken,
+
 parçalar mı bedenimi ?,
-sakladım kendimden, bildiklerimi,anlatmadım geceden başka kimseye, gözyaşlarımı,
-gün gelir sarılırız sahte, hain, dediklerimize,an gelir ararız bizi sırtımızdan vuranları,
-düşerken uçurumdan,masumdur ve dostumuzdur,
+
+sakladım kendimden, bildiklerimi,
+anlatmadım geceden başka kimseye, gözyaşlarımı,
+
+gün gelir sarılırız sahte, hain, 
+dediklerimize,
+an gelir ararız bizi sırtımızdan vuranları,
+
+düşerken uçurumdan,
+masumdur ve dostumuzdur,
+
 ismimizi söyleyen herkes,
-acaba hep masum olsalar,acınacak halde düşer miyiz uçurumlardan...
+
+acaba hep masum olsalar,
+acınacak halde düşer miyiz uçurumlardan...
+
 							Bm The Cyrano
+
 						         25.05.1997 - 09:17
 
 Umut TAYDAŞ
 
-### Ötenazi
+## Ötenazi
+
+ÖTENAZİ
 
 "bitiririm kendimi"
 Bu günü de bitirdim görmeden seni,
@@ -2287,7 +2966,7 @@ Siktir çekip vurmak var ya kendimi, bekliyorum nedense...
 
 Umut TAYDAŞ
 
-### Panter Yumurtası
+## Panter Yumurtası
 
 "memelerine..."
 	
@@ -2323,56 +3002,114 @@ iyi geceler...
 
 Umut TAYDAŞ
 
-### Pazfail
+## Pazfail
 
-Binlerce ömür yedin; doymadın,Dört tarafı ölümlerle çevrili bir yerde yaşıyorsun üstelikBir de benimkini istiyorsun...Ne desem boş biliyorum, ne söylesem faydasız,
+Binlerce ömür yedin; doymadın,
+Dört tarafı ölümlerle çevrili bir yerde yaşıyorsun üstelik
+Bir de benimkini istiyorsun...
+Ne desem boş biliyorum, ne söylesem faydasız,
+
 Geleceksin yine, isteyeceksin canımı çaresiz,
+
 İnada düştüm, miyada doldum, çıktım karşına,
-Korkmam hiç düşmandan, hem ölüm umrumda değil yine,Kedere boyadım yüzümü,acımadan, mezar taşımı zaten yanımda taşırım,Kurduğun tuzaklara düştüm;korkmadığımı gör diye,
+
+Korkmam hiç düşmandan, hem ölüm umrumda değil yine,
+Kedere boyadım yüzümü,acımadan, mezar taşımı zaten yanımda taşırım,
+Kurduğun tuzaklara düştüm;korkmadığımı gör diye,
+
 Bu şifasız yalnızlığı, zehir desen içerim ben,alıştım,
+
 Bu defa çok çalıştım,
-Öğrendim çile çekmeyi, vurgun yemeyi, acıyı sindirmeyi,“katlanırım” demeyi öğrendim geldim.
-hiçbir şey beni şaşırtamaz artık,kendime inandım, alkole inandım, özgürlüğe inandımgüvenmek diye bir şeye hiç inanmadım.
+
+Öğrendim çile çekmeyi, vurgun yemeyi, acıyı sindirmeyi,
+“katlanırım” demeyi öğrendim geldim.
+hiçbir şey beni şaşırtamaz artık,
+kendime inandım, alkole inandım, özgürlüğe inandım
+güvenmek diye bir şeye hiç inanmadım.
+
 işkenceden, vefasızlıktan, yoksun’luktan açılan her yaradan,
+
 isyan edercesine akan kanıma, usulca değdiriyorum, birbirine gurbet dudaklarımı,
+
 kanımı öpmeyi seviyorum,çünkü o da kimsesiz benim gibi,
+
 bana sarılıyor çünkü çıkarsız,
-kanımı öpmeyi seviyorum ama aslında o da katlanamıyor bana,Biliyorum, terk ediyor beni, heyecanla,Hızla, canımı çekip alıyorsun farkındayım,
+
+kanımı öpmeyi seviyorum ama aslında o da katlanamıyor bana,
+Biliyorum, terk ediyor beni, heyecanla,
+Hızla, canımı çekip alıyorsun farkındayım,
+
 Ben sana “hazırım” diye bağırırken,
+
 Farkına bile varamadan alıyorsun canımı....
+
 Yenildim.... 
-Yüzüm yer oldu,bedenim yer oldu,Yer yer dağınık ve parçalı umutlu benlerYer’le bir oldu;
-Bir sen oldun, bir ben öldüm,İnsafsız...					24 Şubat Çarşamba – 1 Nisan Perşembe						Bm Umut The Cyrano
+
+Yüzüm yer oldu,bedenim yer oldu,
+Yer yer dağınık ve parçalı umutlu benler
+Yer’le bir oldu;
+
+Bir sen oldun, bir ben öldüm,
+İnsafsız...
+					24 Şubat Çarşamba – 1 Nisan Perşembe
+						Bm Umut The Cyrano
+
 				        “Doktor Bayandan İkinci El -Katil Doğan- Var”
 
 Umut TAYDAŞ
 
-### Pes-leniş
+## Pes-leniş
 
-Saat gecelerden 12'yi çok geçtiSana son kez sarılmak için çok geçti,
+Saat gecelerden 12'yi çok geçti
+Sana son kez sarılmak için çok geçti,
+
 Aklımdan bensiz yaşamak zorunda olduğunun korkutan düşüncesi geçti,
+
 Dudaklarımda bağımlılık yapan
-Dudaklarına kendimi bırakmak için çok geçti,Doğuya doğru bir tren gidiyordu,
+
+Dudaklarına kendimi bırakmak için çok geçti,
+Doğuya doğru bir tren gidiyordu,
+
 Doğuya doğru bir tren beni eziyordu,
+
 Güneş batıdan doğmuştu, ben doğuya gittikçe
+
 Doğudan batıyordu.
-Göz kapaklarım, Sadece sana şartlanmış bir sinema perdesi gibi;
-Düştüğünde gözlerimin önüne yalnız seni gösteriyordu,Ömrüme kurşun gibi yağdı gözyaşların,
+
+Göz kapaklarım, 
+Sadece sana şartlanmış bir sinema perdesi gibi;
+
+Düştüğünde gözlerimin önüne yalnız seni gösteriyordu,
+Ömrüme kurşun gibi yağdı gözyaşların,
+
 Kan rengi karanlıktı gece,
+
 Sen hiç'sin dercesine karanlıktı,
-Kaçışımın sebebi yab-anlıktı,Gece saatlerden geçti,
+
+Kaçışımın sebebi yab-anlıktı,
+Gece saatlerden geçti,
+
 Kendinden geçti gece
-Karardıkça karardı, karardıkça kayboldum ben;Şimdiye kadar yaşanmış en karanlık geceydi,
-Şimdiye dek böyle kanamış en karanlık geceydiYüzün geçti, gözün geçti,İçim geçti,
+
+Karardıkça karardı, karardıkça kayboldum ben;
+Şimdiye kadar yaşanmış en karanlık geceydi,
+
+Şimdiye dek böyle kanamış en karanlık geceydi
+Yüzün geçti, gözün geçti,
+İçim geçti,
+
 Ağladım, oltaladım,
-Sırtın güneş görmüştü bir kere,Sana son kez sarılmak için çok geçti...
+
+Sırtın güneş görmüştü bir kere,
+Sana son kez sarılmak için çok geçti...
+
 			    Umut "The Cyrano" Taydaş
             27.10.98 - 24:52
 			          Yeni Doğu Expresi
 
 Umut TAYDAŞ
 
-### Retrosynth - Half
+## Retrosynth - Half
 
 "Tanju Okan Kasetliliği'ne"
 
@@ -2398,37 +3135,93 @@ Umut "Ventaire" Taydaş
 
 Umut TAYDAŞ
 
-### Sana acıyorum yazık
+## Sana acıyorum yazık
 
-"Sevmesi Yasaklanan'a"Sana acıyorum,
+"Sevmesi Yasaklanan'a"
+Sana acıyorum,
+
 Kendime acıyorum belki bundan zevk alıyorum
-Ama sana acıyorumVe kahrediyor beni her gün daha fazla.Nasıl böyle sevdim, nerede hata yaptım diye
-Düşünmekten alamazken kendimi
-Halen nasıl böyle sevdiğime de şaşıyorum...
-Yüreğimin sana boyadığım rengini silmek geçiyor aklımdan,
-Aklımdan geçen gözyaşlarım, sana boyadığım yüzümdeki
-Boyayla birlikte düşüyor yere,
-Sensizliğimi Umutlarla avuttuğumu bilmeden,
-Her şeyimi alırken sen,
-Ve bana lazım olur diye bir küçük umut bile bırakmadanÇekip giderken, yüzündeki o menfaat gülümsemeyleArkanda bıraktığın her sözcükten yeni bir tabut yapıyorum kendime.Dizlerine yatırdığım sabahları unuttun
-Kollarımın arasına teslim ettiğin uykularını,Asi ruhumu dizginleyen aşık sesini duyurmuyorsun artık,
-Emanet ettiğin yaralarıma artık tütün basıyorum,
-Baldıranla ovuyorum, kanayan yüreğimi,
-Beni artık şehitler arasında ara,
-Özlersen, beni uçurumların dibinde bekle...Dudaklarımdan çıkmıyor artık, sana yaşatacaklarım,Sana yaşatamadıklarım, çok derin yaralar halinde,
-Yerlerini almış durumdalar iki dudağımın arasında.Seni beklemenin, seni özlemenin Özlesem de gelmeyeceğinin,Gelsen bile eskisi gibiBedenimde yatıya kalmayacağının
-Zorla ezberletildiği 
-Henüz reşit olamamış yasak aşkım
-Çaresizlik içinde kıvranıyor şimdi,Ben bileklerimdeki ustura izlerini öperken...Özgürlüğüm; can verdiğinde,
-Sen uyurken başucunda,
-Bana bunları da yaşatacağını nerden bilebilirdi ?Sana acıyorum,
-Tüm kapıları sana açıyorum bilmesen de,Bensiz geçtiğin her kapı infazım oluyor,Görmüyorsun...
 
-Çok kolay öpebilirdim seniÇok kolay sahip olabilirdim ben'liğine, herkes gibi
-Bir cesete bile karşı koyacak gücün yoktu,Seni güçlendirirken günden güne,Her gece yarasalar düşlerimi kemiriyordu,Dayanacak gücüm yoktu,Ama hep zulada senin için saklıyordum ne gücüm varsa.Seninle ışıkları söndürmek de mümkündü,Ve tüm çektiklerime ortak etmek seni,Dokunmaya kıyamadığım saçlarınıTel tel terketmek yataklarda;
-Git diyecek gücün yoktu.Yutkunduğunda gecenin buğusundaki sesime karşı
+Ama sana acıyorum
+Ve kahrediyor beni her gün daha fazla.
+Nasıl böyle sevdim, nerede hata yaptım diye
+
+Düşünmekten alamazken kendimi
+
+Halen nasıl böyle sevdiğime de şaşıyorum...
+
+Yüreğimin sana boyadığım rengini silmek geçiyor aklımdan,
+
+Aklımdan geçen gözyaşlarım, sana boyadığım yüzümdeki
+
+Boyayla birlikte düşüyor yere,
+
+Sensizliğimi Umutlarla avuttuğumu bilmeden,
+
+Her şeyimi alırken sen,
+
+Ve bana lazım olur diye bir küçük umut bile bırakmadan
+Çekip giderken, yüzündeki o menfaat gülümsemeyle
+Arkanda bıraktığın her sözcükten yeni bir tabut yapıyorum kendime.
+Dizlerine yatırdığım sabahları unuttun
+
+Kollarımın arasına teslim ettiğin uykularını,
+Asi ruhumu dizginleyen aşık sesini duyurmuyorsun artık,
+
+Emanet ettiğin yaralarıma artık tütün basıyorum,
+
+Baldıranla ovuyorum, kanayan yüreğimi,
+
+Beni artık şehitler arasında ara,
+
+Özlersen, beni uçurumların dibinde bekle...
+Dudaklarımdan çıkmıyor artık, sana yaşatacaklarım,
+Sana yaşatamadıklarım, çok derin yaralar halinde,
+
+Yerlerini almış durumdalar iki dudağımın arasında.
+Seni beklemenin, seni özlemenin 
+Özlesem de gelmeyeceğinin,
+Gelsen bile eskisi gibi
+Bedenimde yatıya kalmayacağının
+
+Zorla ezberletildiği 
+
+Henüz reşit olamamış yasak aşkım
+
+Çaresizlik içinde kıvranıyor şimdi,
+Ben bileklerimdeki ustura izlerini öperken...
+Özgürlüğüm; can verdiğinde,
+
+Sen uyurken başucunda,
+
+Bana bunları da yaşatacağını nerden bilebilirdi ?
+Sana acıyorum,
+
+Tüm kapıları sana açıyorum bilmesen de,
+Bensiz geçtiğin her kapı infazım oluyor,
+Görmüyorsun...
+
+
+Çok kolay öpebilirdim seni
+Çok kolay sahip olabilirdim ben'liğine, herkes gibi
+
+Bir cesete bile karşı koyacak gücün yoktu,
+Seni güçlendirirken günden güne,
+Her gece yarasalar düşlerimi kemiriyordu,
+Dayanacak gücüm yoktu,
+Ama hep zulada senin için saklıyordum ne gücüm varsa.
+Seninle ışıkları söndürmek de mümkündü,
+Ve tüm çektiklerime ortak etmek seni,
+Dokunmaya kıyamadığım saçlarını
+Tel tel terketmek yataklarda;
+
+Git diyecek gücün yoktu.
+Yutkunduğunda gecenin buğusundaki sesime karşı
+
 Avaz avaz bağırmana aldırmadan,
+
 Dünyanın en acımasızları arasında
+
 Kendime itibar edinmek kolaydı.
 
 Yalancı aşklarının uğultularını dinleyerek geçerken saatler,
@@ -2612,39 +3405,93 @@ Yazık...
 
 Umut TAYDAŞ
 
-### Sana ağlamamın
+## Sana ağlamamın
 değerini anlayamadın
 
 Sana ağlamamın değerini anlayamadın, kanayacaksın...!
+
 Beni aldın, her şeyimi, tüm sakladıklarımı,
-Kutsal bir amaçla  sarıldım sana uzaktan,Sonuç beklemeden, 
+
+Kutsal bir amaçla  sarıldım sana uzaktan,
+Sonuç beklemeden, 
+
 Senden; “sevgin” den başka bir şey istemeden,
-kimseye benzememe kuralımı yıkarak,sen “mutlu ol” diye, istediğin insan olup,
+
+kimseye benzememe kuralımı yıkarak,
+sen “mutlu ol” diye, istediğin insan olup,
+
 özgürlüğümü dudaklarına teslim ederek,
+
 şiirimden vazgeçip, tüm tuzaklarına düşerek,
-sadece sen’den gelecek, sevgi için yaşadım...Sana ağlamamın değerini anlayamadın...
-Sen’de umutlandığımı hissediyorum,Daha çocukken “mutsuz olmak” yolunu seçmeme rağmenKendi kurallarımı ezip geçerken, gururuma yenilirken, ilkel savaşımda,
-Kimsenin, duymasına bile izin vermediğim göz yaşlarıma,Saatlerce şahit oldun sen, ve içinden,
+
+sadece sen’den gelecek, sevgi için yaşadım...
+Sana ağlamamın değerini anlayamadın...
+
+Sen’de umutlandığımı hissediyorum,
+Daha çocukken “mutsuz olmak” yolunu seçmeme rağmen
+Kendi kurallarımı ezip geçerken, gururuma yenilirken, ilkel savaşımda,
+
+Kimsenin, duymasına bile izin vermediğim göz yaşlarıma,
+Saatlerce şahit oldun sen, ve içinden,
+
 “İşte benim için ağlayan biri” diye,
+
 Gizli bir sevinç ve çirkin bir ihtirasla gülümsedin kendine...
 
+
 Ben görmeden,
-Ağlamama dayanamadığını söylerken, kör bir tutkuyla sahiplenmeye çalıştın beni,Acıyla boyadığım göz yaşlarımla, dilimden dökülürken tövbesiz sözcüklerim,
+
+Ağlamama dayanamadığını söylerken, kör bir tutkuyla sahiplenmeye çalıştın beni,
+Acıyla boyadığım göz yaşlarımla, dilimden dökülürken tövbesiz sözcüklerim,
+
 Seni ne kadar sevdiğimi bilmeni istedim, kaybetme korkumdan,
-Beni mutlu etmeni istedim, hüzünden kurtarmanı, dertlerime ortak olmanı,Suçluyum,
-Ben çoktan mutsuzluğu seçmiştim, ben hüzün müptelasıydım, ben dertlerimi yalnız çekerdim,
+
+Beni mutlu etmeni istedim, hüzünden kurtarmanı, dertlerime ortak olmanı,
 Suçluyum,
-Sevginle değişmek istedim,Ne büyük bir fedakârlıktı, tüm biriktirdiklerimden, kendimden vazgeçmek,
-Anlayamadın,Ben yalnız senin yanında ağladım,
+
+Ben çoktan mutsuzluğu seçmiştim, ben hüzün müptelasıydım, 
+ben dertlerimi yalnız çekerdim,
+
+Suçluyum,
+
+Sevginle değişmek istedim,
+Ne büyük bir fedakârlıktı, tüm biriktirdiklerimden, kendimden vazgeçmek,
+
+Anlayamadın,
+Ben yalnız senin yanında ağladım,
+
 Sana ağlamamın değerini anlayamadın, Kanayacaksın...!
-Sen’den uzaklaşıyorum,Sana verdiğim sevgi için pişman değilim aslında,Sadece bu kadar savunmasız olduğum için kendime kızgınım,Ayrılıyorum, sen de ağla, sen de yan, sen de köle ol,Kimsede bulamayacağın sevgime yalvar,
-Gözlerindeki o hain gülümsemenin karşılığını böyle al,Terk ediyorum seni, bir köle başkaldırıyor,
-Sana değil, sevgiye, anlaşılamadığı için,Sana kimsenin böyle ağlamayacağını bildiğin halde,
-Değerini anlamadın göz yaşlarımın.Dudakların artık sana hissettirmeyecek,Terk edecekler, benim gibi,
-Gözlerin yerlere düşecek, göremeyeceksin,Tenin yanacak, cehennemi ölmeden yaşayacaksın,Sahte bir dokunuşla, cesaretsizliğimi kemiren parmakların,Diyetim olacak,Benden gelecek tek nefese yalvaracak ciğerlerin,
+
+Sen’den uzaklaşıyorum,
+Sana verdiğim sevgi için pişman değilim aslında,
+Sadece bu kadar savunmasız olduğum için kendime kızgınım,
+Ayrılıyorum, sen de ağla, sen de yan, sen de köle ol,
+Kimsede bulamayacağın sevgime yalvar,
+
+Gözlerindeki o hain gülümsemenin karşılığını böyle al,
+Terk ediyorum seni, bir köle başkaldırıyor,
+
+Sana değil, sevgiye, anlaşılamadığı için,
+Sana kimsenin böyle ağlamayacağını bildiğin halde,
+
+Değerini anlamadın göz yaşlarımın.
+Dudakların artık sana hissettirmeyecek,
+Terk edecekler, benim gibi,
+
+Gözlerin yerlere düşecek, göremeyeceksin,
+Tenin yanacak, cehennemi ölmeden yaşayacaksın,
+Sahte bir dokunuşla, cesaretsizliğimi kemiren parmakların,
+Diyetim olacak,
+Benden gelecek tek nefese yalvaracak ciğerlerin,
+
 Ayakların hep beni bulmaya zorlayacak seni,
-Utanacaksın kendinden,Ve bu utançla kanatacaksın kendini,Çile olacaksın, öleceksin...
+
+Utanacaksın kendinden,
+Ve bu utançla kanatacaksın kendini,
+Çile olacaksın, öleceksin...
+
 Sana ağlamamın değerini anlayamadın, Kanayacaksın...
+
 Ben hüznümden “boy çukuru” yaptım kendime,
 
 Mutsuzluğumla, çılgın okyanusa açıldım,
@@ -2667,7 +3514,7 @@ Hoşça kal....
 
 Umut TAYDAŞ
 
-### Saranxa
+## Saranxa
 
 Mevzu takvime işaretlemek değil tarihleri, 
   Söz kesmek, söz almak değil, 
@@ -2700,26 +3547,50 @@ Mevzu takvime işaretlemek değil tarihleri,
 
 Umut TAYDAŞ
 
-### Sarhoşum; Alkollüyüm
+## Sarhoşum; Alkollüyüm
 
 Seni içtim aslında,
+
 Seni sarhoş oldum
-Seni sallandım, Seni hissettim, sana döndüm, sana tükendim,Ben içerken, sen çok uzaktaydın, neredeydin nasıldın,Yoktun, haberin yoktu,
-Gözlerim çöktü; pes etmek üzereydi sensizliğe,Gözlerim çoktu, gözlerimin önünde çoktun
+
+Seni sallandım, 
+Seni hissettim, sana döndüm, sana tükendim,
+Ben içerken, sen çok uzaktaydın, neredeydin nasıldın,
+Yoktun, haberin yoktu,
+
+Gözlerim çöktü; pes etmek üzereydi sensizliğe,
+Gözlerim çoktu, gözlerimin önünde çoktun
+
 Yetmiyordun
+
 Daha fazla sen diyorsun,
-Daha çok gelsen,Sarılsam, yanılmasam, yasaklanmasam,Saklanmasan, Başım ağrımasa, gözlerim dolmasa, içim yanmasa,
-Acılara terk ettiğim kendimi, ellerinden tutup çıkarsan kör kuyulardan,Gelip geçiyorum buralardan; senden,Kaldım sende, kalamıyorum,
-Sarhoşum,Alkollüyüm,
-Ne yaptığımı tam olarak bilmiyorum, bedenime söz geçiremiyorum,Bir koca boşluk biliyorum, her şey yanlış, biliyorum,
-Bir şeyi doğru biliyorum;Seni seviyorum...
+
+Daha çok gelsen,
+Sarılsam, yanılmasam, yasaklanmasam,
+Saklanmasan, 
+Başım ağrımasa, gözlerim dolmasa, içim yanmasa,
+
+Acılara terk ettiğim kendimi, ellerinden tutup çıkarsan kör kuyulardan,
+Gelip geçiyorum buralardan; senden,
+Kaldım sende, kalamıyorum,
+
+Sarhoşum,
+Alkollüyüm,
+
+Ne yaptığımı tam olarak bilmiyorum, bedenime söz geçiremiyorum,
+Bir koca boşluk biliyorum, her şey yanlış, biliyorum,
+
+Bir şeyi doğru biliyorum;
+Seni seviyorum...
+
 
  				            11.04.99 – Pazar – 01:33....
+
 			  “dayandım tekilaya beynime düşmanım, yoksun diye”
 
 Umut TAYDAŞ
 
-### Sarılık
+## Sarılık
 
 Nedense hiç sevmedim sarışınları, sen farklıydın.
 Kıvırcık saçlı bir hüzündün, koskoca bir intizardın, kelepir hayatıma,
@@ -2769,7 +3640,7 @@ Seni de sevmedim....
 
 Umut TAYDAŞ
 
-### Sedefbarı Şenyüzlü Yolcu
+## Sedefbarı Şenyüzlü Yolcu
 
 Biramdan Feragat
 
@@ -2824,87 +3695,191 @@ bu yaşta.
 
 Umut TAYDAŞ
 
-### Seni Beklerken Nedense
+## Seni Beklerken Nedense
 
 Ellerime sevda değdirmeden beklerken seni
-kendi gözlerimi oyarken ellerimle, şiirlerimi yakarken, ölümü beklerken kısaca
-cinlerin, iblislerin, daha kötüsü insanların arasındaher saniye biraz daha kaybolurken bendeki parmak izlerinyerle bir oluyor yaşadığım şehir,
-yerle bir oluyor yazmak istediğim şiir,
-bir yer oluyor ellerin ve terkedip geride ne kalacaksa düşünmeden
-avuçlarının arasına yerleşmek istiyorum, orada yaşamak bundan sonra.Gözlerime göz baktırmadan beklerken seni
-Katliamların, esaretlerin, fahişelerin içinde,
-Yollarca uzakta, soğuğun 
-gözyaşlarımı daha dudağıma gelmeden dondurduğu bu yerde,
-ihanetler sıralanmış gibi yağarken üzerime
-sımsıkı sarılıyorum gözlerimin önünden gitmeyen kaçamak bakışlarına,
-Sevda öldüren bir katil oluyor yaşadığım şehir,Sığınak oluyor bana; yazmak istediğim şiir,
-Girip sığınağın içine hiç çıkmadan orada seninle yaşamak istiyorum bundan sonra.
-Yoksun...uzaksın...olmayacaksın...Sevebilen bir yüreğim yokmuş gibi davranıp gizli saklı beklerken seni,Yaşanabilecek en büyük acıları ard arda saplarken yüreğime, 
-Acıdan parçalandığını, kanayarak ağladığını bile bile,Ayrılıkların, beklentilerin, umutların arasında,Tescilli bedenlerden, kolay “seviyorum”lardan, 
-Otel odası gibi bölünmüş yüreklerden kaçarken
-Uzaklığını hiç sindiremezken, unuttu mu beni diye düşünürken gizli gizli,Nasıl da sıklaştı nefes alıp verme aralıklarım, duramıyorum, ahh,
-Ayaklarımı, bileklerimi, yüreğimi zincirleyen bir gardiyan oluyor yaşadığım şehir,
-İnan kurtuluşum, sarılabildiğim tek canlı oluyor yazmak istediğim şiir,Sarılabildiğim tek canlı ölüyor, beni gömecek kimse yok olmasa bu şiir,Ne kadar dibe insem de, tanınmamak için her şeyi yapsam da, bekliyorum işte,Önemsemiyorsun, önem; sevmiyorsun... olsun.
 
-Ayrılıktan güçsüzleşen bedenimi, tutup bir yatağa yatırırken,Onu böyle görmeye dayanamayıp, damarlarına “sessiz ölüm”ü enjekte ederken ürkek,
+kendi gözlerimi oyarken ellerimle, şiirlerimi yakarken, ölümü beklerken kısaca
+
+cinlerin, iblislerin, daha kötüsü insanların arasında
+her saniye biraz daha kaybolurken bendeki parmak izlerin
+yerle bir oluyor yaşadığım şehir,
+
+yerle bir oluyor yazmak istediğim şiir,
+
+bir yer oluyor ellerin ve terkedip geride ne kalacaksa düşünmeden
+
+avuçlarının arasına yerleşmek istiyorum, orada yaşamak bundan sonra.
+Gözlerime göz baktırmadan beklerken seni
+
+Katliamların, esaretlerin, fahişelerin içinde,
+
+Yollarca uzakta, soğuğun 
+
+gözyaşlarımı daha dudağıma gelmeden dondurduğu bu yerde,
+
+ihanetler sıralanmış gibi yağarken üzerime
+
+sımsıkı sarılıyorum gözlerimin önünden gitmeyen kaçamak bakışlarına,
+
+Sevda öldüren bir katil oluyor yaşadığım şehir,
+Sığınak oluyor bana; yazmak istediğim şiir,
+
+Girip sığınağın içine hiç çıkmadan orada seninle yaşamak istiyorum bundan sonra.
+
+Yoksun...uzaksın...olmayacaksın...
+Sevebilen bir yüreğim yokmuş gibi davranıp gizli saklı beklerken seni,
+Yaşanabilecek en büyük acıları ard arda saplarken yüreğime, 
+
+Acıdan parçalandığını, kanayarak ağladığını bile bile,
+Ayrılıkların, beklentilerin, umutların arasında,
+Tescilli bedenlerden, kolay “seviyorum”lardan, 
+
+Otel odası gibi bölünmüş yüreklerden kaçarken
+
+Uzaklığını hiç sindiremezken, unuttu mu beni diye düşünürken gizli gizli,
+Nasıl da sıklaştı nefes alıp verme aralıklarım, duramıyorum, ahh,
+
+Ayaklarımı, bileklerimi, yüreğimi zincirleyen bir gardiyan oluyor yaşadığım şehir,
+
+İnan kurtuluşum, sarılabildiğim tek canlı oluyor yazmak istediğim şiir,
+Sarılabildiğim tek canlı ölüyor, beni gömecek kimse yok olmasa bu şiir,
+Ne kadar dibe insem de, tanınmamak için her şeyi yapsam da, bekliyorum işte,
+Önemsemiyorsun, önem; sevmiyorsun... olsun.
+
+
+Ayrılıktan güçsüzleşen bedenimi, tutup bir yatağa yatırırken,
+Onu böyle görmeye dayanamayıp, damarlarına “sessiz ölüm”ü enjekte ederken ürkek,
+
 Özlemlerin, iniltilerin, gözyaşlarının daha açıkçası,
-Esaslıca yaşamasını istediğim bir insanın katiliyken,  ölmek üzere olan birinin yanındaYanımda olmayışın, beni anlamayışın, unutman, ulaşmamanAsıl canımı alan. Her saniye kaybolurken bendeki parmak izlerin,İhanetler sıralanmış gibi yağarken üzerime,Otel odası gibi bölünmüş yüreklerden kaçarken,
+
+Esaslıca yaşamasını istediğim bir insanın katiliyken,  ölmek üzere olan birinin yanında
+Yanımda olmayışın, beni anlamayışın, unutman, ulaşmaman
+Asıl canımı alan. 
+Her saniye kaybolurken bendeki parmak izlerin,
+İhanetler sıralanmış gibi yağarken üzerime,
+Otel odası gibi bölünmüş yüreklerden kaçarken,
+
 Sen giderken, ben giderken, gitmek için çok erken,
+
 Uzansam sırtüstü, sana  hiç uzanamam.
+
 üstelik
-Zehirlenmiş bir köpek gibi kıvranıyor yanımda hayat,Zehirlemiş bir zabıta gibi gururla başımda dikiliyor yaşadığım şehir,
+
+Zehirlenmiş bir köpek gibi kıvranıyor yanımda hayat,
+Zehirlemiş bir zabıta gibi gururla başımda dikiliyor yaşadığım şehir,
+
 Biliyorum çok rahat ulaşabileceğim bir panzehir gibi 
 
 
 yakınımda duruyor yazmak istediğim şiir,
-Pis zehir oluyor yokluğun ve tekrar, özledim diyeceğini hiç düşünmemeye direnerekAhh...
+Pis zehir oluyor yokluğun ve tekrar, özledim diyeceğini hiç düşünmemeye direnerek
+Ahh...
+
 
  
-							Umut “The Cyrano“ TAYDAŞ						    “sen bana “Mİ” gibi okşayabilir misin ?” 
+
+							Umut “The Cyrano“ TAYDAŞ
+						    “sen bana “Mİ” gibi okşayabilir misin ?” 
+
 							       17.01.1999 – 15:27
 “şiir bir defada bitmeli – 2”
 
 Umut TAYDAŞ
 
-### Seni Severdim ki,
+## Seni Severdim ki,
 isterdim
 
 aralıklarla görürken seni
+
 Ve hiç de sıradan olmayan bakışlarla yüreğimin 
+
 Belki de benim bile bilmediğim yerlerine dokunurken, Sen
-Ve benBelki de bu yabancılıktan utana sıkıla bir pişmanlık duyarakBakarken sanaNedense kaçıramazken gözlerimi
+
+Ve ben
+Belki de bu yabancılıktan utana sıkıla bir pişmanlık duyarak
+Bakarken sana
+Nedense kaçıramazken gözlerimi
+
 Bir otobüs, bir tren bir yol
-Yani bir şeyler alıp götürüyor seniKim bilir belki de uzun süre sonrao kaçamak aralıklardan gözlerime baktığın saniyeleryaşamaya özendirecek yıllar gibi geliyor bana.
+
+Yani bir şeyler alıp götürüyor seni
+Kim bilir belki de uzun süre sonra
+o kaçamak aralıklardan gözlerime baktığın saniyeler
+yaşamaya özendirecek yıllar gibi geliyor bana.
+
 Şimdi nereye gittiğini, ne yaptığını, neden hala bu şehirde olduğunu,
-Çok uzun bir ara neden kaybolduğunu bilmeden, Üstelik senHakkımda hiçbir şey bilmiyorken
+
+Çok uzun bir ara neden kaybolduğunu bilmeden, 
+Üstelik sen
+Hakkımda hiçbir şey bilmiyorken
+
 Şöyle ayaküstü, soldan sağa veya yukardan aşağıya
+
 Üç beş kelimeyi zincirleyip birbirimize sarf etmemişken
-Nasıl böyle ihtiyaç dolu, masum ve çekingenBakıştığımızı, nasıl böyle isteştiğimizi, hatta buna rağmen
+
+Nasıl böyle ihtiyaç dolu, masum ve çekingen
+Bakıştığımızı, nasıl böyle isteştiğimizi, hatta buna rağmen
+
 Neden halen uzak kalıp, teslim olmuşçasına bir buruklukla, sanki daha önemliymiş gibi gitmemiz gereken yerlere ayrıldığımızı anlayamıyorum.
+
 Öyle güzelsin ki...
+
 Aynan olup, sana, izin verdiğin ölçüde uzun uzun bakabilmeyi öyle isterdim ki ...
-Hem; Güzelliğin kadar uzaksınUzaklığın kadar tanışmamışlığın var benimle
+
+Hem; Güzelliğin kadar uzaksın
+Uzaklığın kadar tanışmamışlığın var benimle
+
 Bir ara, o; şimdi görsem belki tanıyamayacağım birileri konuşurken duyup
-İsmini öğrendiğimde öyle sevinmiştim ki...İsmini unutmuşum.Evinizi biliyorum ama hala
+
+İsmini öğrendiğimde öyle sevinmiştim ki...
+İsmini unutmuşum.
+Evinizi biliyorum ama hala
+
 Seni  geçmemeye gayret ederek yürüdüğüm caddeyi
+
 Islak saçlarını, önlüğünü, yabancılığını, 
+
 İsteştiğimizi ve imkânsızlığımızı hatırlıyorum...
+
 Bana seviyorum demeni öyle isterdim ki,
+
 Sana seviyorum demeyi keşke
-Bana yaklaşmanı değil, aynı işyerinde çalışmayı değil,Bana şiir yazmanı, unutmadım demeni, elimi tutmanı değil,“Saçların böyle de güzel” demeni, öpmeni, gitmeni değil
-yaşamanı istiyorum,uzak ara bile olsa, arada bir görmeyi,
+
+Bana yaklaşmanı değil, aynı işyerinde çalışmayı değil,
+Bana şiir yazmanı, unutmadım demeni, elimi tutmanı değil,
+“Saçların böyle de güzel” demeni, öpmeni, gitmeni değil
+
+yaşamanı istiyorum,
+uzak ara bile olsa, arada bir görmeyi,
+
 yine böyle bakabilmeyi, 
+
 yani sadece seni göreceğimi bilmenin o kesin umudunu istiyorum...
 
+
  
+
  
-Gözlerindeki, bir şey söylemek isteyip de uzak ve tanışmamış olmaktan doğanIsrarlı ama “ne yapabilirim ki” diyen  ifade,
-Herkese soğuk bana hayat duruşun,Etraftakilerin sanki bir şeyler bilip “çok geç” der gibi, isabetli ve bitirici süzüşleri,Sadık koruyucum, umursamazlığımın suskunluğu...
+
+Gözlerindeki, bir şey söylemek isteyip de uzak ve tanışmamış olmaktan doğan
+Israrlı ama “ne yapabilirim ki” diyen  ifade,
+
+Herkese soğuk bana hayat duruşun,
+Etraftakilerin sanki bir şeyler bilip “çok geç” der gibi, isabetli ve bitirici süzüşleri,
+Sadık koruyucum, umursamazlığımın suskunluğu...
+
  
+
 Hem de 
+
 Kesin kesin,
-Hiçbir zaman benim yada, benimle olmayacağını bilmenin beynimi cehenneme, çevirip, yüreğimi çarmıha germesine rağmen
-taşıdığım, umut ölçü birimleri’nin ölçemeyeceği kadar küçük umudumun
+
+Hiçbir zaman benim yada, benimle olmayacağını bilmenin 
+beynimi cehenneme, çevirip, yüreğimi çarmıha germesine rağmen
+
+taşıdığım, 
+umut ölçü birimleri’nin ölçemeyeceği kadar küçük umudumun
 beni sevindirmesine, çok derinlerde bir yerde teslim oluyorum.
 Aniden karşına çıkıp, “belki bir gün” demeye öyle ihtiyacım var ki şimdi,
 Ama yalnız kendime söyleyebiliyorum.
@@ -2921,53 +3896,86 @@ Seni Sevmeyi öyle isterdim ki...
 
 Umut TAYDAŞ
 
-### Size 'sen' diyebilir miyim
+## Size 'sen' diyebilir miyim
 !!!
 
 Söylemeye varmıyor dilim,
+
 Size “sen” diyebilir miyim !!!
+
 Sokak lambalarının aydınlığında, isminizi
+
 Gece rüyalarımda yüzünüzü
+
 Her an sizi’nizi, düşünebilir miyim ?
+
 Size “sen” diyebilir miyim ?
+
 Ay ışığında adınızı
+
 Duvara yazıp kaçabilir miyim ?
+
 Ve sanki “yapı kredi” reklamındaymışım gibi
+
 Size “pardon” diyebilir miyim ?
+
 İkimiz için “istek parça” istesem
+
 Hep, “yalnız ikimiz”i düşünsem ayıp mı olur.
+
 Size kalbimin “ikinci baharı”nı yaşadığını söylesem
+
 İnanır mısınız ?
+
 Siz de bana “sen” der misiniz !!!
+
 Farkınıza varsam da daha bir sıcak hissetsem
+
 Daha yakın olsam da
+
 Ellerinize dokunsam kızar mısınız acaba
+
 Sizin evin kapısına gelsem, abiniz beni döver mi  ?
+
 Babanız peşime adam salar mı, siz beni korur musunuz ?
+
 Size “sen” desem
+
 Benle dalga geçmezsiniz değil mi ?
+
 Göçebe, Ilık yaz rüzgarlarından biri 
+
 Sizi fısıldasa kulağıma, rüzgara küser misiniz ?
+
 Benim için güler misiniz bi defa
+
 Ve bir kez olsun ismimi söyler misiniz…
+
 Size “sen” diyebilir miyim !!!,
 
+
 Size “sen” diyebilir miyim ?
+
 İzin vermeseniz bile, lütfen 
+
 Miyim sizi hep sevebilir.. ?
 
+
 Ona “sen” diyip, taa uzaklara kaçtım
+
 İzin vermese bile
+
 Ona sen dedim…
 
 12.10.1995  Version 1.00
+
 							18.11.1996  Version 2.01
 
 						                 Umut (The Cyrano)
 
 Umut TAYDAŞ
 
-### -Soya Fasulyesi
+## -Soya Fasulyesi
 
 insanlık salgını  
                                       apışmış ayaklarıma 
@@ -2984,29 +3992,54 @@ beçiktaş - Stampol
 
 Umut TAYDAŞ
 
-### Sus ve sadece şiirim ol
+## Sus ve sadece şiirim ol
 
 Dokun bana, yüreğime dokun,
+
 sesimi, sessizliğimi anla,
+
 yokluğumda ağla ardım sıra, 
-daha güçlü, daha kadın,ellerimde hisset söyleyemediklerimi,kanımın donduğunu duy,
-gözlerinde kayboluşumu anımsa,nereden gelirse gelsin,
-her rüzgara söyle ismimi,ayrılıklarının içinde beni en üste  yaz
+
+daha güçlü, daha kadın,
+ellerimde hisset söyleyemediklerimi,
+kanımın donduğunu duy,
+
+gözlerinde kayboluşumu anımsa,
+nereden gelirse gelsin,
+
+her rüzgara söyle ismimi,
+ayrılıklarının içinde beni en üste  yaz
+
 gecelerle dertleş, gecelerle avun.
+
 Dokun bana, yüreğime dokun,
+
 toprağıma akıt göz yaşlarını,
+
 kanayan yaralarımı sözlerinle sar,
+
 başucumda bekle son nefesimi,
-ama son nefesin bitmeden söyleme sevdiğini,yasaksız rüyalarıma ortak ol, 
+
+ama son nefesin bitmeden söyleme sevdiğini,
+yasaksız rüyalarıma ortak ol, 
+
 pislik bulaşmamış kan ırmağıma köprü ol,
+
 kirli insanlar değmesin kanıma,
+
 ruhumu sar, sakla, hep yanında taşı,
-umutlarımı dağla, görmesinler başıma neler geldiğini,dokun bana, her defada daha başka dokun,sonra sus,
-sus ve sadece şiirim ol...Sıra sende...
+
+umutlarımı dağla, görmesinler başıma neler geldiğini,
+dokun bana, 
+her defada daha başka dokun,
+sonra sus,
+
+sus ve sadece şiirim ol...
+Sıra sende...
 
 Umut TAYDAŞ
 
-### Şarbon
+## Şarbon
 
 "tahammül sebebim'e..."
 
@@ -3095,33 +4128,79 @@ Bir sebebi bekleyebilmek için.
 
 Umut TAYDAŞ
 
-### Tanrı'm
+## Tanrı'm
 
 Sadece "karşılıksız sevmek"le yetinirdim...
+
 Artık tüm büyülerim, kör karanlık dualarım,
+
 Geleceğe dair minyatür umutlarım kayboluyor.
+
 Sanırım çok geç kaldım, yaşamaklara,
-Göğsümdeki ince bıçak darbelerinin derin sızılarıÖlümün çekiciliğini arttırıyor sürekli,Tommiks'im, Swing'im, Zagor'um, Teksas'ım;Tanrım, bırakmayın, yaşatın beni...Boynuma ağır veballer yükledim bile bile, oyun gibi,
+
+Göğsümdeki ince bıçak darbelerinin derin sızıları
+Ölümün çekiciliğini arttırıyor sürekli,
+Tommiks'im, Swing'im, Zagor'um, Teksas'ım;
+Tanrım, bırakmayın, yaşatın beni...
+Boynuma ağır veballer yükledim bile bile, oyun gibi,
+
 Taşıyamıyorum, yaşayamıyorum boynum ağır, bükük,
-Yasakçı bir şehrin tam dibinde hapsolmuş,En kirli havaları, en büyük özlemleri solumaktayım,
+
+Yasakçı bir şehrin tam dibinde hapsolmuş,
+En kirli havaları, en büyük özlemleri solumaktayım,
+
 "özentisiz yaşamak" kaygıları taşırken içten içe,
+
 leş yiyen, sindiren, büyük kalabalığın nezaretinde,
+
 bilinçsiz gibi davranışlarım; yada anlamasınlar diye bilinçsiz,
-istediğim hiç  bir şeye tercüme olamıyor bedenim,bendeyim, ama, hastalıklı utancımla, ben gibi miyim bilmiyorum,
-Kızılmaske'm, Zembla'm, Ken Parker'ım, Jacques'im;Tanrı'm koruyun beni...
-Nefes almak bile gurbetten sanki,Korkusuzca saldırırken, hak yiyenlere, pisliklere,
-Bedeninde yaralardan bir zırhla gezen benim,Bir çocuğun bilinçsiz asiliğine benzeyen başkaldırışım,
+
+istediğim hiç  bir şeye tercüme olamıyor bedenim,
+bendeyim, ama, hastalıklı utancımla, ben gibi miyim bilmiyorum,
+
+Kızılmaske'm, Zembla'm, Ken Parker'ım, Jacques'im;
+Tanrı'm koruyun beni...
+
+Nefes almak bile gurbetten sanki,
+Korkusuzca saldırırken, hak yiyenlere, pisliklere,
+
+Bedeninde yaralardan bir zırhla gezen benim,
+Bir çocuğun bilinçsiz asiliğine benzeyen başkaldırışım,
+
 Dürüstlüğü hep ön planda beklemekte.
+
 Maceracı değilim severken, sevilirken bilemem,
+
 Kurt kapanlarının arasından tek amacım,
+
 Sevgiliye ulaşabilmem,
-Superman'ım, Örümcek'im, Batman'im Wolverine'im;Tanrı'm, ona götürün beni...Henüz adını bilmediğim binlerce acı geliyor üstüme her gün,Yaşadığım her yer maskeli balo,
-Herkes insan kılığında çıkmış sahneye,Sevdiklerimi, sevmek istediklerimi maskeli görmek üzüyor beni,
-Kesintisiz kaçışlarım var, kaçtığım her yerden,Ömrümü verip, platonik aşklar alıyorum karşılığında,Yaşamak istediklerimle birlikte olduğum bir düş ülkesine bileUmutlanamıyorum,Yattığım yer buz-demir, bir ömür hücre cezası yemişim,
+
+Superman'ım, Örümcek'im, Batman'im Wolverine'im;
+Tanrı'm, ona götürün beni...
+Henüz adını bilmediğim binlerce acı geliyor üstüme her gün,
+Yaşadığım her yer maskeli balo,
+
+Herkes insan kılığında çıkmış sahneye,
+Sevdiklerimi, sevmek istediklerimi maskeli görmek üzüyor beni,
+
+Kesintisiz kaçışlarım var, kaçtığım her yerden,
+Ömrümü verip, platonik aşklar alıyorum karşılığında,
+Yaşamak istediklerimle birlikte olduğum bir düş ülkesine bile
+Umutlanamıyorum,
+Yattığım yer buz-demir, bir ömür hücre cezası yemişim,
+
 Karanlıkla, kuytuyla, kendi sesimle besleniyorum,
+
 Geçmişimi çalmışlar, geleceğime dair tek bir sabit'im yok,
-Şimdi yaşadığım an değil ki şimdiki zaman,Kıyısından köşesinden yaşıyoruz, zorunluluk,Katı cellatların, kanlı giyotinlerin önüneBir uzatıp bir çekiyorum, kafamı,
-Conan'ım, Tunga'm, Tengiz'im, Thor'um;Tanrı'm, kaçırın beni...
+
+Şimdi yaşadığım an değil ki şimdiki zaman,
+Kıyısından köşesinden yaşıyoruz, zorunluluk,
+Katı cellatların, kanlı giyotinlerin önüne
+Bir uzatıp bir çekiyorum, kafamı,
+
+Conan'ım, Tunga'm, Tengiz'im, Thor'um;
+Tanrı'm, kaçırın beni...
+
 Henüz doğru düzgün terlememiş bıyıklarıma
 Ağ germiş aksakallının  büyülü, örümcekleri,
 Damarlarımdaki kana habersiz karışmış,
@@ -3172,8 +4251,9 @@ Tanrı'm...
 
 Umut TAYDAŞ
 
-### Teselli
+## Teselli
 
+TESELLİ
 “en büyük tesellim, ölüme...”
 Ağlamak değil ki bu, kanamak,
 Yüzüme bak,
@@ -3244,31 +4324,48 @@ Seviyordu...
 
 Umut TAYDAŞ
 
-### Umrumda Değil; Anlasana
+## Umrumda Değil; Anlasana
 
 Karanlığa sevdalıyım, acıya, ölüme,
+
 Yalnızlığa sevdalıyım aşırı.
+
 Şiirim acı, yaşamak ölmek zaten ta baştan,
+
 Bilirsin ki karanlık umutlarım, 
+
 Yalnızlığım hep aynı yalnızlık;
+
 Sanırdım ki ben bir kez 
+
 		Sevdalıyım desem,
+
 Daha üzerinde hiçbir şey olamaz,
+
 Nesin ki sen; ne demeliyim sana,
+
 Sen varken umrumda değil mesela,
+
 Karanlık, acı, ölüm,
+
 Yalnızlığıma ihanet ama mecburum; bir yanda sen,
+
 Ayrılık bir yanda, 
+
 Diyorum ki “sana” sevdalıyım,
+
 Umrumda değil; anlasana...
+
  
 Umut “BM” Taydaş
+
 22.03.99 – 15:48
+
 “ortada bir pişmanlık varsa, kazanılan bir tecrübe var demektir”
 
 Umut TAYDAŞ
 
-### Üşüdükçe
+## Üşüdükçe
 
 Yazdık değse de,
 Değmese de-belli ki,
@@ -3294,7 +4391,7 @@ Kimsesizlikte yatıya kalır,
 
 Umut TAYDAŞ
 
-### Üwey
+## Üwey
 
 "uzaklaşmana"	
 
@@ -3343,39 +4440,94 @@ vaat ettiklerini verememek değil, vaat etmek ve vermemek"
 
 Umut TAYDAŞ
 
-### Yağmayı dilendim
+## Yağmayı dilendim
 
-Çok uzak bir kenttesin Bebeğim;
+Çok uzak bir kenttesin 
+Bebeğim;
+
 Ve biliyorum yağmur yağıyor,
+
 Sen üşüyorsun ve ben düşüyorum tane tane.
+
 Düşüyorum yüreğine kurşun gibi.
+
 Özlediğini biliyorum,
+
 Sevdiğine hep inandım.
+
 Durmamam lazım, ama alıştım karanlığa
-Kuytuya, çıkarsam ölürüm.Ölürsem sevemezsin.Uzaktasın, özlediğim kadınsın
+
+Kuytuya, çıkarsam ölürüm.
+Ölürsem sevemezsin.
+Uzaktasın, özlediğim kadınsın
+
 Ve sarıldığım, öptüğüm.
+
 Önüne diz çöktüğüm,
+
 Gecelerimi köle ettiğim.
+
 Sevdiğim...
-Kirpiklerini öperdim usul,Gözlerin ürkek, ben bakardım,ölürdü kent.Ben senin çileli dudaklarında ağlarken,
+
+Kirpiklerini öperdim usul,
+Gözlerin ürkek, ben bakardım,
+ölürdü kent.
+Ben senin çileli dudaklarında ağlarken,
+
 Gözyaşlarının ıslattığı dudaklarında
-Sadece sana teslim olmuşluğumla gururlanırken,Ve bitmesin derken, içimden, yaşanabilecek hayatı öptüm.
+
+Sadece sana teslim olmuşluğumla gururlanırken,
+Ve bitmesin derken, içimden, 
+yaşanabilecek hayatı öptüm.
+
 Yüzünün çocuksuluğunu sevdim.
-Dizlerine koydum başımı, orada büyüdüm.Şimdi çok uzağım sana,
+
+Dizlerine koydum başımı, orada büyüdüm.
+Şimdi çok uzağım sana,
+
 Çok uzaktasın ama
-Yağmur yağıyor biliyorumSeni sevdiğimi söylediğim O umut dolu parka...Yağmur yağıyor ve sen ağlıyorsun
+
+Yağmur yağıyor biliyorum
+Seni sevdiğimi söylediğim 
+O umut dolu parka...
+Yağmur yağıyor ve sen ağlıyorsun
+
 Ben düşüyorum, ağlıyorum.
-Seni asla düşürmüyorum...Karanlıktayım, soğuk bir rüzgar esiyor odamın içinde,
+
+Seni asla düşürmüyorum...
+Karanlıktayım, soğuk bir rüzgar esiyor odamın içinde,
+
 Sarılacak tek battaniyem yok, 
+
 Aşk’a sarılıyorum.
-Aşk’ı kullanıyorum sanma, Yada bilmiyorum.Sadece seni düşünürken, üşümediğimi biliyorum.Bitmiyorum...Ne kadar uzaktayım,
-Bu karanlıktan çıkar mıyım,Sana gelir miyim, beni ister misin,
-Yada gelir misin bilmiyorum,Aydınlık bir şeyler arıyorum,Penceresini açıyorum odamın,Dilenebilirim.Bu kadar dayandıktan sonra,
+
+Aşk’ı kullanıyorum sanma, 
+Yada bilmiyorum.
+Sadece seni düşünürken, üşümediğimi biliyorum.
+Bitmiyorum...
+Ne kadar uzaktayım,
+
+Bu karanlıktan çıkar mıyım,
+Sana gelir miyim, beni ister misin,
+
+Yada gelir misin bilmiyorum,
+Aydınlık bir şeyler arıyorum,
+Penceresini açıyorum odamın,
+Dilenebilirim.
+Bu kadar dayandıktan sonra,
+
 Sonuna gelmişken ucube ömrümün,
-Katlanmışken,Pes edip, 
-Mutluluk dilenebilirim...Ayın parlaklığına aldanabilirim,
+
+Katlanmışken,
+Pes edip, 
+
+Mutluluk dilenebilirim...
+Ayın parlaklığına aldanabilirim,
+
 Yağmalanmış hayatımı,
+
 Gülüşünün eşsizliğini düşünürken,
+
 Dayanamayıp, sana ulaşmayı dilenebilirim...
 
 Yaşadığın kente
@@ -3412,14 +4564,13 @@ Seni Seviyorum...
 
  
 
-
  
 19.05.1999 – 23:18
 					“istemek yeter dedim ve inandım...”
 
 Umut TAYDAŞ
 
-### Yarmaş
+## Yarmaş
 
 I
 
@@ -3488,7 +4639,7 @@ sok götüne
 
 Umut TAYDAŞ
 
-### Yuvardasın...
+## Yuvardasın...
 
 "Şiar'a..." 
 Tadı kalmadı bu kimsesizliğin, 
@@ -3557,7 +4708,7 @@ boşlukta kalırım, bu ömür ölümü öğrenene kadar.
 
 Umut TAYDAŞ
 
-### Zayii Kırk Saniye
+## Zayii Kırk Saniye
 
 İshakyolu Kancalı
 
@@ -3600,9 +4751,10 @@ viran etmek için tüm inandıklarımı.
 
 Umut TAYDAŞ
 
-### Zorunlu Şiir
+## Zorunlu Şiir
 
-“gizli gizli kesen’e”
+ZORUNLU ŞİİR
+                 “gizli gizli kesen’e”
 Daha yeni tanıyorum seni
 Yeni yeni bağlanıyorum,
 Yaşadığım yerde, sadece, sen varsın diye varım,
@@ -3657,29 +4809,61 @@ Vazgeçemezsin...
 
 Umut TAYDAŞ
 
-### Zurnanın Zırt Dediği
+## Zurnanın Zırt Dediği
 Yerde
 
 Zurnanın zırt dediği yerde
+
 Bir öğlen vakti çoraplarım kokarken
+
 Aşık oldum, tanıştım kalbinle...
+
 Sonraları uykularımda aradım sıcaklığını,
+
 ismine şarkılar besteledim,
+
 Penceremdeki çiçeğe adını verdim,
-Sevdim, suladım, büyüttüm onu.Kalemim seni yazdı akşamlarda.Sen yoksun diye hep,
-karbondioksit soludum.Bulutlarda yüzünü aradım,
+
+Sevdim, suladım, büyüttüm onu.
+Kalemim seni yazdı akşamlarda.
+Sen yoksun diye hep,
+
+karbondioksit soludum.
+Bulutlarda yüzünü aradım,
+
 gözyaşlarımda yüzmeyi öğrendim.
+
 Meyhanelerden atıldım akşamları,
+
 Çocuklar gibi elimi ağzıma soktum,
-parmağımla göstedim uzakları,Amcalara pipimi gösterdim,
+
+parmağımla göstedim uzakları,
+Amcalara pipimi gösterdim,
+
 Deliler gibi huni taktım,
-Kendimi napolyon sandım hep, bi ara,Uyandım seni aradım,sesini duydum, yükseldim bulutlara
+
+Kendimi napolyon sandım hep, bi ara,
+Uyandım seni aradım,
+sesini duydum, yükseldim bulutlara
+
 Sevdim, bir seni sevdim,
-istedim, sen de beni sevesin,“Kalbimin kapısı”nı açmadım kimseye,
+
+istedim, sen de beni sevesin,
+“Kalbimin kapısı”nı açmadım kimseye,
+
 düşünmedim başkasını,
+
 Zurnanın Zırt Dediği Yerde
-aşık oldum sana,Kalbim, kalbini sevdi,Gözlerim, beğendi gözlerini,
-Dudaklarım dokunmak istedive Zurnanın zırt dediği yerde
-Zırttım...					Umut, 95, Kasım
+
+aşık oldum sana,
+Kalbim, kalbini sevdi,
+Gözlerim, beğendi gözlerini,
+
+Dudaklarım dokunmak istedi
+ve 
+Zurnanın zırt dediği yerde
+
+Zırttım...
+					Umut, 95, Kasım
 
 Umut TAYDAŞ

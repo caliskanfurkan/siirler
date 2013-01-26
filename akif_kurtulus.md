@@ -1,6 +1,6 @@
-## Akif KURTULUŞ
+# Akif KURTULUŞ
 
-### Ay Gömülür
+## Ay Gömülür
 
 ardından resmin asılır işlek yerlerine kentin
 piyangocunun yanında tahta çitlere yakıştırırım
@@ -34,7 +34,7 @@ gençtim, olur olmaz huylanışını sevdim en çok
 
 Akif KURTULUŞ
 
-### Devlet Kaç Tazı Tut
+## Devlet Kaç Tazı Tut
 
 halkın imlası taşarsa coğrafyadan
 geçer onlar iki yağmur damlasının arasından
@@ -70,10 +70,13 @@ bu kadar kısa sürmese
 belki de iyi bir çizgi film yapardık kardugh'lardan
 araya reklam girince
 ölülerimizi toplar, kaşla göz arasında gömerdik
+
 lan yavşak!
 derdik film başlayınca kaldığı yerden
+
 değil mi ki bizi her kavşakta polisle korkuttular
 oğlumuzun kirvesi de emniyet amiri olsun
+
 insan olan sırf bu inada bağışlardı
 en iyi yardımcı oyuncu ödülünü
 
@@ -143,7 +146,7 @@ devlet kaç tazı tut!
 
 Akif KURTULUŞ
 
-### İlk Yardım Bilgisi
+## İlk Yardım Bilgisi
 
 bütün bir aşkyılı kapıştın siniruçlarınla
 güneşe, kış geldiğinde yer açmak için
@@ -190,7 +193,7 @@ boşalır başını oraya koymuş doktor
 
 Akif KURTULUŞ
 
-### Ödünç Cesaretlerle
+## Ödünç Cesaretlerle
 
 m.ali altaca'ya levent sönmez'e, sedat baykal'a
 
@@ -253,7 +256,7 @@ ancak böyle şakalar yatıştırıyor alkışlarla yaralı ruhumu
 
 Akif KURTULUŞ
 
-### Yüreğinin Vuruşuyla
+## Yüreğinin Vuruşuyla
 
 ikiniz'e; artık "tören bitti"
 

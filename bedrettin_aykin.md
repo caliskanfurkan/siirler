@@ -1,6 +1,6 @@
-## Bedrettin AYKIN
+# Bedrettin AYKIN
 
-### Acımın Soyadı
+## Acımın Soyadı
 
 Irmağın söğütlerin sesiyle
 Söylüyorum bu şiiri
@@ -28,7 +28,7 @@ Adın acımın soyadı
 
 Bedrettin AYKIN
 
-### Anacığım Ört Üstümü
+## Anacığım Ört Üstümü
 
 En eski yalnız benim
 Ben o istenmeyen konuk
@@ -61,7 +61,7 @@ Neredesin anacığım ört üstümü
 
 Bedrettin AYKIN
 
-### Aşk Ayetleri
+## Aşk Ayetleri
 
 1.
 Şairim başucu kitabım sevdam
@@ -130,7 +130,7 @@ Sürecek sevdamız sonsuza
 
 Bedrettin AYKIN
 
-### Bileği Taşı
+## Bileği Taşı
 
 Bin bir engelli bir maratondu
 Koştum kan ter içinde
@@ -158,7 +158,7 @@ Yıldız sağar gecelerinden
 
 Bedrettin AYKIN
 
-### Bir Gülü Sulama Zamanı
+## Bir Gülü Sulama Zamanı
 
 Açık mı yüreğinin kapısı sevgilere
 Duyuyor musun çağıltısını yaşamın
@@ -186,7 +186,7 @@ Gelir sığınır bir yerinden yüreğine
 
 Bedrettin AYKIN
 
-### Kar Altında Kasımpatılar
+## Kar Altında Kasımpatılar
 
 Kar yağıyor kente
 Ve üstüne ölülerimizin
@@ -211,7 +211,7 @@ Doğal değil ölümümüz
 
 Bedrettin AYKIN
 
-### Sevgi Burcu
+## Sevgi Burcu
 
 Günün en uzun saati bu
 Yüzünün bulutlu olduğu an
@@ -232,7 +232,7 @@ Güneş sevgi burcunda olduğu zaman
 
 Bedrettin AYKIN
 
-### Vazgeçemediğim
+## Vazgeçemediğim
 
 Bir ayna bulundur yanında benim için
 Görmemi sağla unuttuğumda yaşlı yüzümü
@@ -266,7 +266,7 @@ Bir sevgili dosttun ortağımdın yaşamı paylaşmada
 
 Bedrettin AYKIN
 
-### Yalnızlığın Evi
+## Yalnızlığın Evi
 
 Gerçek adresim sanki
 Bir yalnızlığın evi

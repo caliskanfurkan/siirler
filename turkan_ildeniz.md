@@ -1,6 +1,6 @@
-## Türkan İLDENİZ
+# Türkan İLDENİZ
 
-### Beyaza Dönsün Diye Devran
+## Beyaza Dönsün Diye Devran
 
 Yanlış susuyorsun - gözlerin ağıt -
 maviye bak.
@@ -42,7 +42,7 @@ güneşe köprü kurmak.
 
 Türkan İLDENİZ
 
-### Forsa
+## Forsa
 
 Var belki kaçmalarda o belirsiz 
 Kendine sürgün kılmak kendini
@@ -62,7 +62,7 @@ Ben yaralı gemide FORSA
 
 Türkan İLDENİZ
 
-### Sevgi Bayrak Olursa Evrene
+## Sevgi Bayrak Olursa Evrene
 
 Dağılıp belkileri aramak öyle
 Sonuçta belki şenlik belki yenik
@@ -91,7 +91,7 @@ Barış Çocuklarından.
 
 Türkan İLDENİZ
 
-### Taşra Kızının Deliceleri
+## Taşra Kızının Deliceleri
 
 1.
 Gözlerim seni görünce güzel
@@ -122,7 +122,7 @@ Beni ilk öpenin sen olmasını.
 
 Türkan İLDENİZ
 
-### Temmuza Karşı
+## Temmuza Karşı
 
 Acının ağzından öpüyorsun yine
 yine cehennem yürek
@@ -157,7 +157,7 @@ Tehlikeden geçiyoruz - belli etme - ilerle
 
 Türkan İLDENİZ
 
-### Ufka Damlayan Alınteri
+## Ufka Damlayan Alınteri
 
 Asıl adın neydi - unutturdun
 zaten ben sana hep Abbas diyordum

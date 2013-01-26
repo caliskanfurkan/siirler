@@ -1,6 +1,6 @@
-## İsmail ONAT
+# İsmail ONAT
 
-### Adı Eylül Olsun
+## Adı Eylül Olsun
 
 adı: ‘eylül’ olsun. 
 hem son olsun 
@@ -68,12 +68,14 @@ soyadı: ‘pazartesi’ olsun.
 
 İsmail ONAT
 
-### Aklın Bir Köşesindeki Kahvehanede
+## Aklın Bir Köşesindeki Kahvehanede
 
 <demsiz çay ile birlikte> 
 ::::: fısıltı ::::: 
 ve kavga, bilinmeyen mânevi hallerde...
+
            
+
 yollar kavis kavis 
 kaybolursa eğer kirpik uçlarında; 
 kirpikler,
@@ -86,6 +88,7 @@ takılırlar öylesine soru işaretlerinin kancalarına...
 ...takılırlar
 ...kayıtsızca. 
           tarifsiz,
+
               tasvirlerdir.
 [sigara molası ve düşünce]
 "boş akıntılardaki takıntılarındır onlar, 
@@ -133,7 +136,7 @@ ben...
 
 İsmail ONAT
 
-### İkilem
+## İkilem
 
 huzursuz yaşamdan 
 huzursuz ölüme 
@@ -144,14 +147,17 @@ vücudunu teslim edebileceği
 toprak kurtlarına 
 ‘merhaba’ der... 
                ve ‘hayat’ arkada
+
                            tüm albenisi ile 
+
                                    nefretsizliğinde 
+
                                           ısrar eder durur hala. 
 , temmuz 1998
 
 İsmail ONAT
 
-### Marathon of Minds
+## Marathon of Minds
 
 and the dance begins again
 by jumping with clouds
@@ -171,25 +177,33 @@ design is wonderful
 hopes are reached to peek
 -then-
 the child has begun whispering
+
 "what about me?"
 poor one will never know
 whispers are not the answers
 they've never been questions
 
-yet just crawl
+yet 
+just crawl
 walk
 and run.
 
 İsmail ONAT
 
-### Söylenceler
+## Söylenceler
 
 zaten erimiş yüreklerde. 
+
            ama, 
+
            birisi de sensen eğer 
+
            dostluklarin selamcısı 
+
            cesur 
+
            korkaklığında karanlıklar hükmeden... 
+
            ...tutarım ellerini senin de. 
 ‘sevgili’ numero 2 öğrendi bunu 
 dedi ki: 
@@ -259,7 +273,7 @@ dedim ki: bekleme!
 
 İsmail ONAT
 
-### Toprak
+## Toprak
 
 toprak...
        çıplak ayağımı 

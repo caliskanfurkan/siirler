@@ -1,6 +1,6 @@
-## Fazıl Hüsnü DAĞLARCA
+# Fazıl Hüsnü DAĞLARCA
 
-### Çocuk Kuş
+## Çocuk Kuş
 
 Bir kuştu,
 Allı allı bir kuş.
@@ -19,7 +19,7 @@ Uçtu o.
 
 Fazıl Hüsnü DAĞLARCA
 
-### Kitabım
+## Kitabım
 
 Kitap en iyi arkadaþ
 Bana neyi sorsam söyler.
@@ -33,7 +33,7 @@ Kitabý çok severim ben.
 
 Fazıl Hüsnü DAĞLARCA
 
-### Ölü
+## Ölü
 
 Hangi mahallede imam yok,
 Ben orada öleceğim.
@@ -56,7 +56,7 @@ Yıkamasınlar vücudumu, yıkamasınlar,
 
 Fazıl Hüsnü DAĞLARCA
 
-### Rahatlık
+## Rahatlık
 
 Sen büyüdüðün vakit çocuðum,
 Yine çiçekler açacak dallarda.
@@ -80,7 +80,7 @@ Yine çocuklar olacak, rahatlýk veren.
 
 Fazıl Hüsnü DAĞLARCA
 
-### Sincap
+## Sincap
 
 Þu aðacýn tepesinde
 Var bir sincap
@@ -92,7 +92,7 @@ Anne yapraklar.
 
 Fazıl Hüsnü DAĞLARCA
 
-### Yeni Er
+## Yeni Er
 
 Savaş çıkmıştı  
 Orduya aldılar onu  
@@ -121,7 +121,7 @@ Böylesine çirkin giyinmek
 
 Fazıl Hüsnü DAĞLARCA
 
-### Yüzükoyun
+## Yüzükoyun
 
 Yüzükoyun yatma diyor annem
 Yatar mýyým hiç,

@@ -1,21 +1,20 @@
-## Reha YÜNLÜEL
+# Reha YÜNLÜEL
 
-### 
+## Katedralden Düşen Kuş
 
-Formatted for mobile viewing by GoogleView page directlyReport a problem
-
-Reha YÜNLÜEL
-
-### Katedralden Düşen Kuş
-
+REHA YÜNLÜEL
 Katedralden Düşen Kuş, , Virtüel Yayınları, Mayıs 2000
  çarmıhın isa'sından doğmuştu mehdi
+
     ağaçların şarampole düşmüş felçli ellerinde
 "ben rüzgarın
     pelerininde
+
     yaşmağınızın ucuna takılmayı düşlüyorum"
+
     diyordu
 ve sizin anlayabileceğiniz istasyonlardan 
+
     biri değildi rüzgar
 Virtüel Yayınları tarafından "Katedralden Düşen Kuş" adıyla
     ilk şiir kitabı yayımlanan şair Reha Yünlüel, bu ilk kitabında şiiri, hayatı bir
@@ -30,47 +29,70 @@ Virtüel Yayınları tarafından "Katedralden Düşen Kuş" adıyla
 
 Reha YÜNLÜEL
 
-### Ağlara takılı bir
+## Ağlara takılı bir
   yüreğin "pes!" hâline dair hikâyat
 
+-ağlara
+takılı bir yüreğin "pes!" hâline dair hikâyat-
+
 can abdurrahman'a ve
+
 yaşmağa...  
  
 bırakılmış bir gölün
+
 dalgınlığında yüzüyor yüzün
+
 ve 
+
 bir çöl gülü misali 
+
 imge imge çekiyoruz bu yüreği ağlardan 
 I.
 "hiçbir şey sağlam değil bu şehirde"
 diyor kadın 
+
 "ne ev, ne arkadaş, ne sevgili" 
+
 "hiçbir şey yok bu şehirde bana doğal olan, bana doğan!"
 
 adam, 
+
 "sol anahtarının ilk notasıyla başlayamadığından,
 yapay" diyor 
 kadın, başı avuçlarının koynunda 
+
 sol anahtarını düşünüyor 
 ve kuşlar sol anahtarında düşünerek gölgelerini 
+
 akıyorlar, başının üstünden 
 "do, paspasın altında" diye fısıldıyor
 adam. 
 kadın "do"yu düşünüyor 
+
     başı avuçlarının oyununda 
+
         -kadın doğru düşünüyor- 
 alıyor paspasın altında paslanmış, 
+
       pes'leşmiş "do"yu 
+
 doooruluyor 
 "do" diyor kadın 
+
 bir ince, bir kalın 
+
  kapı, bir satırlık müzikle doğruluyor 
 ve kuşlar sol anahtarında bekleyerek gölgelerini 
+
 bakıyorlar kaçkere, kapının üstünden 
 kitliyor kapıyı kadın ardından 
+
 soyunuyor anahtarın rotasını 
+
  daha ilk notasından: 
 "ben hiç küsmeyen biriyim, 
+
 açıklamasız gitmeyen bir de..." 
 bir an'ı anlıyor adam. 
 "bir an" damlıyor: 
@@ -157,7 +179,7 @@ gece gölü döllüyor.
 
 Reha YÜNLÜEL
 
-### Cancamdan Kalp
+## Cancamdan Kalp
 
 -cancamdan kalp-
 
@@ -165,28 +187,41 @@ Reha YÜNLÜEL
 külkedisi'ne
 
 çamların buğusuna çizdiğim
+
 camdan kalp
 
 ve içine babam düşen ormanlar
 
 çocukluğum, kır çiçekleri
+
 ve kır çiçekleri kokan annemle dolu şimdi
 
 ve, şimdi, annem kokan kır çiçekleriyle...
 
 her sevişmeden sonra kırkıpmızı kızaran yüzün,
+
 beş duyunun mükemmel dalgınlığında
+
     yüzdürdüğümüz kaptanı biz kağıttan gemi
+
 ve demir niyetine atılmış
+
 bir deste destandan siyah-beyaz çekilmiş
+
     bilcümle aşk efsaneleri
 
 hiç bekleme, bahsetmeyeceğim
+
     pencereme kaçan güneşten,
+
     beni benden kurt'aramayan dolunaylardan,
+
     kuyruklu yıldızlardan,
+
     ismi cismine
+
         cismi ismime
+
             simsicimle bağlı
 aşklardan
 
@@ -196,26 +231,52 @@ zorlama beni.
 
 Reha YÜNLÜEL
 
-### Cendere
+## Cendere
 
 CENDERE
-  kanıyordum!          kıpkırmızı!          masmavi!          yemyeşil!
-  gökkuşağının bilumum renklerinde  kanıyordum!
-  denizin tuzlu ateşinde  güneşin o sapsarı tadında!
   kanıyordum!
-  sismograflar telef oluyordu  içimdeki depremlerde  -kimbilir kaç rihter ölçeğindeki-
+          kıpkırmızı!
+          masmavi!
+          yemyeşil!
+  gökkuşağının bilumum renklerinde
   kanıyordum!
-  iflâh kesen sorgularda  kanıyordum!
-          sorgulanan ben!          sorgulayan ben!
-  sorgunun  sorguya yabancılaşmış  3. şahsı:          bozacının yalanbilmez şahidi şıracı
+  denizin tuzlu ateşinde
+  güneşin o sapsarı tadında!
+  kanıyordum!
+  sismograflar telef oluyordu
+  içimdeki depremlerde
+  -kimbilir kaç rihter ölçeğindeki-
+  kanıyordum!
+  iflâh kesen sorgularda
+  kanıyordum!
+          sorgulanan ben!
+          sorgulayan ben!
+  sorgunun
+  sorguya yabancılaşmış
+  3. şahsı:
+          bozacının yalanbilmez şahidi şıracı
 ben!
-  kanıyordum!  kâbusların cenderesinde  günlüklerin duvarlarında!
-  ben'imin püsküllü belâsı  ben'imin günah keçisi  ben!
-          kanayan ben!          kanatan ben!
-  bir tırnağın  etine batışındaki  o umursamaz acıca  kanıyordum!
-          tırnak ben!          et ben!
-  bir tek yaş dahi düşmeden  gözlerimden  kanıyordum!          -yıkılmış bir barajın          öksüz ve yetim suları gibi-
-          ağlamayan ben!          ağlatan ben!
+  kanıyordum!
+  kâbusların cenderesinde
+  günlüklerin duvarlarında!
+  ben'imin püsküllü belâsı
+  ben'imin günah keçisi
+  ben!
+          kanayan ben!
+          kanatan ben!
+  bir tırnağın
+  etine batışındaki
+  o umursamaz acıca
+  kanıyordum!
+          tırnak ben!
+          et ben!
+  bir tek yaş dahi düşmeden
+  gözlerimden
+  kanıyordum!
+          -yıkılmış bir barajın
+          öksüz ve yetim suları gibi-
+          ağlamayan ben!
+          ağlatan ben!
   bir kedinin
   bir fareyle
   oynadığının
@@ -243,7 +304,7 @@ ben!
 
 Reha YÜNLÜEL
 
-### Çapak
+## Çapak
 
 ÇAPAK
 tanrılaşmış gözlerle bakıyordu öylece
@@ -453,7 +514,7 @@ tanrılaşmış...
 
 Reha YÜNLÜEL
 
-### ÇıldırMA
+## ÇıldırMA
 
 -çıldırMA-
 
@@ -465,16 +526,23 @@ peri'ye...
 chıldırıyorum.
 
 bir çocuk iniyor yüreğime
+
     ve sen!
+
     masalımda, masalımdan çarpılan yüzümde
+
     bitiyorsun ya sen!
 
 bitiyorum!
 
 bir saat,
+
 bir otobüs durağı,
+
 bir çöp tenekesi
+
     uyuşturucular
+
         uyku hapları...
 
 !!
@@ -482,13 +550,19 @@ bir çöp tenekesi
 chıldırıyorsun,
 
 kardan adamlardan
+
 aşkla bahsettiğinde görüyorum bunu
 
 cicibicicilerin yontulmuş buzları
+
 erirken dudaklarında
+
     saklambaçlar saklanıyor deliliğine,
+
         janus!
+
         janus haltetmis
+
             yarısı alınmış
 göğüslerinin burçlarında
 
@@ -497,11 +571,15 @@ göğüs burçlarına sokuluyorum.
 !!!
 
 bir kuş,
+
 ve "bir kuş"a
+
     kendini bırakan yokuş
 
 tüm kutsal kitapları
+
 tüm atlı-adsız, adlı-atsız peygamberleri yüzü'nün
+
 tüm körfezleri, yarımduaları
 
 güzü'ne hüznümü değdiriyorum
@@ -509,13 +587,14 @@ güzü'ne hüznümü değdiriyorum
 !!!!
 
 kentten bu dolunayda firar ediyoruz
+
 arkamızda ağır ve bulanık bir gökyüzünü bırakarak.
 
 chıldırıyoruz.
 
 Reha YÜNLÜEL
 
-### Depde'li Rüzgar
+## Depde'li Rüzgar
 
 -depde'li rüzgâr
 
@@ -523,36 +602,50 @@ Reha YÜNLÜEL
 peri'ye...
 
  deli, depdeli bir rüzgâr
+
  gelir alır saçlarını
+
  götürür senden
 
  sen,
+
  peşinde saçlarının,
+
  koşar durursun
 
  ayağın burkuktur
+
  yüreğin çiçek-böcek,
+
  kendini yalnız sanırsın,
 
      yanılırsın.
 
  yamaçlardan akan bir kelebek
+
  vadide uçan bir nehir görürsün
+
      bir kuşağı düşer gögün, üstüne
+
      durursun
 
  yüzünün sınırları değişir
+
  gök yarılır,
+
      haritaların birbirine karışır
 
  bir (,) atlas kaybolur
+
  bir (,) sen bulursun
 
 Reha YÜNLÜEL
 
-### Eksimeyen
+## Eksimeyen
 
-yusuf,
+ermiş ergin,
+
+                                  yusuf,
 
                                   memuya
 
@@ -825,146 +918,226 @@ Pop'un hit şarkılarından birisi.
 
 Reha YÜNLÜEL
 
-### Faili Meçhul İntihar
+## Faili Meçhul İntihar
 
-faili meçhul bir intiharda  meçhule kaçandım:  bir kaaatil!          tanrının siktirettiği
-yerlerde          peygamber peygamber dolaşan;          etrafa deli bakışlar
+FAİLİ MEÇHUL İNTİHAR
+ 
+                    "Faili meçhul intihar" imgesini benden iki sene
+önce bulan şair Ahmet Erhan'a..."    
+ 
+ 
+  faili meçhul bir intiharda
+  meçhule kaçandım:
+  bir kaaatil!
+          tanrının siktirettiği
+yerlerde
+          peygamber peygamber dolaşan;
+          etrafa deli bakışlar
 saçandım!
-  faili meçhul bir intiharda  arta kalandım:  bir ayyaş!          polisten kaçarken          bir muhbirin          evinde saklandım!
-  faili meçhul bir intiharda  bir meçhul 3. şahıs:  meçhul eşkali  tüm karakollara dağıtılmış bir aranandım!          gündüzün gölgesi          bir gecede,          kendim denen          o meçhule yakalandım!
+  faili meçhul bir intiharda
+  arta kalandım:
+  bir ayyaş!
+          polisten kaçarken
+          bir muhbirin
+          evinde saklandım!
+  faili meçhul bir intiharda
+  bir meçhul 3. şahıs:
+  meçhul eşkali
+  tüm karakollara dağıtılmış bir aranandım!
+          gündüzün gölgesi
+          bir gecede,
+          kendim denen
+          o meçhule yakalandım!
+
   
                                  
 fail
 
 Reha YÜNLÜEL
 
-### Goncagül'e Mektuplar
+## Goncagül'e Mektuplar
 
 -goncagül'e mektuplar I-
 
 boykotlarda unuturdun atkını cancağızım,
+
 gölgen senden uzun olurdu;
+
 saçların bir bir düşer,
+
 yorulurdu
 
 tüfek atıcılarından alırdım haberlerini
+
 baloncu amcalardan
+
 ve bir de
+
 pamuk şekercilerinden
 
 gözlerin
+
 önce çakmak çakmak bakar
+
 sonra
+
 durulurdu...
 
 biliyorum!
+
 yepyeni bir iklim,
 
 gözlerinden kurulurdu...
 -goncagül'e mektuplar II-
 
 bağırmalardan geliyorsun
+
 ılık bir salı akşamı
+
 ellerin duru, sesin kısık
 
 kapı aralığında saklanan
+
 masmavi bir denizi
+
 bırakıyorsun ardında,
 
 fötr şapkalı bir canavar düdüğü
+
 girmeye çalışıyor peşinsıra,
+
 yeşil bir horon mendili gibi dönderiyorsun
+
 nasırını denizin,
+
 düdüğün suratında...
 
 nasır gülüyor,
 
 deniz kabuklarının en küçüğü
+
 söndürüyor düdüğün sesini...
 
 sen
+
 kapını kapatıyorsun.
 
 Reha YÜNLÜEL
 
-### GölG
+## GölG
 
 -gölG-
 
 gülümseyişinden tuttum
+
 yumuşacıktı
+
 çoğalttım, büyüttüm
+
 kentin en işlek caddelerinde
+
 bir bir dağıttım
 
 kent
+
 gülümseyişinle bakıyordu gökyüzüne
+
 gülümseyişine dahildi artık
 
 ışıksız göle
+
 bir sokak lambası yalnızlığında düşüyordun
+
 göl "G"sizdi
+
 gölG'sizdin
+
 ve bir emir kipinde bağırıyordu ışığına
+
 G'sini ışığında kaybetmiş göl
 
 kentin tüm gölgelerini sürüklemişti peşinde
+
 yaramaz bir yağmur
+
 gölgeler ıslak
+
 ışığın kuru
+
 yağmur
+
 ışığında durmuş
+
 yağmura ışığın vurmuştu
 
 ışık söndü
+
 zaman bitti
 
 gölgeler öldü
 
-    
+  
+  
 Reha YÜNLÜEL
 
 Reha YÜNLÜEL
 
-### Kama
+## Kama
 
 -kaMA!-
 
 beklemediğim anlarda vuruluyorum
+
 beklemediğim anlarda düşüyorum
+
 bir bulutun
+
 bu'sundan
+
  lût
+
  yasaklamıştı herkesin dönüp arkasına bakmasını
 
 ben baktım
+
 baktım da ne oldu
+
  kamaştıran büyük bir ışığın kaması
+
  battı gözlerime
+
  kamaştıran büyük bir ışığın kaması
 
 bağırdım ellerimle
+
 "kaMA!" "kaMA!"
 
  artık çok geç!
+
   artık çok geç!
 
 lût
+
 saklamıştı ya herkesin dönüp arkasına bakmasını
+
 ben baktım
+
  kamaştıran büyük bir ışığın iki ş'si düştü önüme
+
   birini sana getirdim
 
    ötekini
+
    eller aldı
 
   
+
   
 Reha YÜNLÜEL
 
 Reha YÜNLÜEL
 
-### Karne
+## Karne
 
 sevgili abdullah'a...
 
@@ -976,39 +1149,55 @@ durur yakasýnda
 
 Reha YÜNLÜEL
 
-### Kulağı Kesik
+## Kulağı Kesik
 
 -kulağı kesik-
 
 acaba
+
 hiç bahsetmiş midir,
+
 kırmızı tuvalet kâğıtlarına
+
 silinen aşklardan
+
  gözleri pırıl pırıl
+
  yüreği paslı
+
  döner kapı?
 
 ya da haberdar mıdır
+
 nükleer başlıklı füzelerin
+
 başına kazılmış kalpten adamdan
+
  çalıntı bahçe cüceleri
+
   kolleksiyoncusu?
 
 sade ben değilim burada,
+
 yaşam denilen
+
 o cevapsız saçma sorudan ilk bahseden
 
 eminim
+
 eski kulağı kesiklerden
+
 van gogh da bilirdi bunu...
+
  
 
-    
+  
+  
 Reha YÜNLÜEL
 
 Reha YÜNLÜEL
 
-### Rehaiku XLII
+## Rehaiku XLII
 
 her fırtınada 
 kendinden evvel 
@@ -1022,21 +1211,32 @@ sıkı sarıl kendine...
 
 Reha YÜNLÜEL
 
-### Şapkasız Adam
+## Şapkasız Adam
 
 ŞAPKASIZ ADAM
+
   
+
   
-  kalemden dökülen bir kapkara mürekkepti  o bembeyaz kâğıtların üzerinde kıpraşan
-  güneş o kapkara mürekkebin altında  yağmur bulutlarından yorgun  ve   yağmur bulutlarından arınmış
-  güneş yağmura  yağmur güneşe sarılmış
-  delik şemsiyesinin altında  bir şapkasız adam  yağmurlu günde  güneşe darılmış
+  kalemden dökülen bir kapkara mürekkepti
+  o bembeyaz kâğıtların üzerinde kıpraşan
+  güneş o kapkara mürekkebin altında
+  yağmur bulutlarından yorgun
+  ve 
+  yağmur bulutlarından arınmış
+  güneş yağmura
+  yağmur güneşe sarılmış
+  delik şemsiyesinin altında
+  bir şapkasız adam
+  yağmurlu günde
+  güneşe darılmış
 
 Reha YÜNLÜEL
 
-### Yaşmak
+## Yaşmak
 
 -yaşmak-
+
 
 çarmıhın isa'sından doğmuştu mehdi
 ağaçların şarampole düşmüş felçli ellerinde
@@ -1061,7 +1261,7 @@ incir ağaçlarını göstererek
 
 Reha YÜNLÜEL
 
-### Yangında İlk Kurtarılacak : Bir Adet Hayat
+## Yangında İlk Kurtarılacak : Bir Adet Hayat
 
 -yangında ilk kurtarılacak: 
 bir adet hayat- 
@@ -1083,7 +1283,10 @@ alacaklı...
  diğer ikisi ve mansiyonlar 
  yüreğinin tenine gömmeli... 
   
-"gözlerimi bana bakanlaraödünç verseydim eğer kaçı bana bakmaya devam edebilir, kaçı gördüğünü görmeye tahammül edebilirdi"
+"gözlerimi bana bakanlara
+ödünç verseydim eğer
+ kaçı bana bakmaya devam edebilir,
+ kaçı gördüğünü görmeye tahammül edebilirdi"
     diye kavruluyordu 
     adımlarını ürkekçe sıkıştırırken, 
 bir mum damlası büyüklüğündeydi gözbebekleri 
@@ -1115,7 +1318,7 @@ ve her yangını dişlerimle öğütürken ben!
 
 Reha YÜNLÜEL
 
-### Yürek Çekimi
+## Yürek Çekimi
 
 yürek çekimi
  
@@ -1142,62 +1345,92 @@ Reha YÜNLÜEL
 
 Reha YÜNLÜEL
 
-### Zenci Kardeşime
+## Zenci Kardeşime
 
 -zenci kardeşime-
 
 yağmur giderdi
+
 karasını derinin
+
 bu im'ine dost, bize düşman paratorluk değil!
 
 ve yağmur siyaha kesti
+
 yoğurt siyaha
+
 peynir siyaha
+
 tüm bulutları siyaha
+
 çamur ton değiştirdi alelacele
+
  sim'ledi, sip'ledi
+
  lâkin gene de siklemedi
 
 bir vakit sonra
+
 nuh geldi
+
 'G' mi? diye sordu
+
 cümle hayvanat salladı böğürtüyle
+
  kafasını, kuyruğunu, kıçını
 
 nuh bir rengi, buladı bir sese
+
 sesi kısıldı, rengi attı
 
 renkten renge girdi nuh, sesten sese
+
 hun oldu, nush oldu
 
 köteksiz Ağrı'ya yollandı "'G' mi?"
+
 yolculuk ağrılı oldu
+
 içinden ve içten oldu
+
 din değiştirdi gün değiştirdi
+
 dinden güne, günden dine döndü
+
 durdu, dinlendi
 
 deniz çekildi
+
 dağ kaldı
+
 nuh ve cümle hayvanat bakakaldı
 
 bir renk indi gemiden
+
 çok ses oldu
 
 soru
+
 o dağ başında unutuldu
 
 çokbin sene sonra
+
 bir kendini bilmez
+
 soruyu buldu
+
  umuttu, damıttı, eritti
+
  bileyledi, eğirdi
+
  öksürdü, tıksırdı
 
 soru
+
 zenci kardeşim oldu.
 
-    
+  
+  
 Reha YÜNLÜEL
 
 Reha YÜNLÜEL

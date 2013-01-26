@@ -1,6 +1,6 @@
-## Haydar ERGÜLEN
+# Haydar ERGÜLEN
 
-### İkinci Bir Emre Kadar
+## İkinci Bir Emre Kadar
 
 özellikle yaz günleri
 güneşi bir çiçek gibi
@@ -8,7 +8,7 @@ yakalara iliştirmek yasaklanmıştır.
 
 Haydar ERGÜLEN
 
-### Karşılığını Bulamamış Sorular 
+## Karşılığını Bulamamış Sorular 
   İçin
 
 serin rüzgârlar taşır
@@ -48,7 +48,7 @@ ne kadar acemi harcı olsa da
 
 Haydar ERGÜLEN
 
-### Mırıldandığım Şeylersin
+## Mırıldandığım Şeylersin
 
 Senin Harflerin İçin
 
@@ -110,7 +110,7 @@ Harflerin gülüştüğünü senin adında gördüm!
 
 Haydar ERGÜLEN
 
-### Periler Aşka Uçar 
+## Periler Aşka Uçar 
 
 ne güzel çarşaflar sererdin aşka
 üstünde serin kanatların yelken açardı
@@ -129,7 +129,7 @@ derim ki: - aşk varmış o perinin çırptığı her kanatta!
 
 Haydar ERGÜLEN
 
-### Ölüler
+## Ölüler
 
 I.
 cesetleri toplamak bana düştü
@@ -154,7 +154,7 @@ düğüne giden çocuklar da böyle gülerdi.
 
 Haydar ERGÜLEN
 
-### Sis
+## Sis
 
 İki şehri var gecenin, biri gözümde
 tütüyor, birinin dumanı üstünde yağmur
@@ -182,7 +182,7 @@ Kimsenin kimseye gözü değmiyorsa, şiir niye ?
 
 Haydar ERGÜLEN
 
-### Unutulmuş Bir Yaz İçin
+## Unutulmuş Bir Yaz İçin
 
 anımsa bizim unutulmuş bir yazımız vardı
 kıyısından çocukların dokunarak geçtiği
@@ -233,7 +233,7 @@ sevdalı yüreğini kıyıya vurur.
 
 Haydar ERGÜLEN
 
-### Yalnızız Cemal Abi
+## Yalnızız Cemal Abi
 
 Bu rakıyı diyorum Cemal abi
 bu rakıyı içmek seninle

@@ -1,6 +1,6 @@
-## Turgay FİŞEKÇİ
+# Turgay FİŞEKÇİ
 
-### 
+## 
 
 Sorma bana kimim
 Nerden geldim buraya
@@ -16,7 +16,6 @@ Bana “seviyor musun?” de.
 Başka bir şey sorma.
  
  
-
  
 ---------------------------------------------------------------
 “Karda Işıltılar” , 1981
@@ -24,7 +23,7 @@ Başka bir şey sorma.
 
 Turgay FİŞEKÇİ
 
-### 90. Yaşgününde Nâzım Hikmet'e
+## 90. Yaşgününde Nâzım Hikmet'e
 
 Hayatı senden öğrendim
 Bir gelinciğin taç yapraklarının nasıl sevileceğini
@@ -72,7 +71,7 @@ Yeryüzüne.
 
 Turgay FİŞEKÇİ
 
-### 
+## 
       Ansızın Bir Umut
 
 Odeon Alanı'na çıkan
@@ -95,7 +94,7 @@ Sonra bir daha anlatsan...
 
 Turgay FİŞEKÇİ
 
-### Asmaların Dansı
+## Asmaların Dansı
 
 1.
 Bir Akdeniz Haziran’ında
@@ -162,7 +161,6 @@ Sallar memelerini salkım sal
                                            -kım
 Hangisi tatlı , bir de bundan em bakalım!
  
-
  
  
 ------------------------------------------------------------------------------------
@@ -171,7 +169,7 @@ Hangisi tatlı , bir de bundan em bakalım!
 
 Turgay FİŞEKÇİ
 
-### Bir Aşkı Açıklamak
+## Bir Aşkı Açıklamak
 
 Bir aşkı açıklayacak sözcükler kaldı mı
 Tüm sözcükleri yitirmedim mi tek tek insan yüzlerinde
@@ -187,14 +185,13 @@ Yüreklerimizi harmanlayıp yeniden paylaşırken
 Bir bahar günü daha çiçeğimi aradım dallar arasında
 Bir hayatın bir aşk için olduğunu düşünerek
  
-
  
 ---------------------------------------------------------------------------------------
 “Yitik Bahar” , Haziran 1995 , 2. Bası , Adam Yayınları , S.39
 
 Turgay FİŞEKÇİ
 
-### Dokumacı Kölenin Türküsü
+## Dokumacı Kölenin Türküsü
 
 Umut taşımak yasak bana
 Yasak bir tomurcuk gülün elinden tutmak
@@ -213,7 +210,6 @@ Umutlarımı okşayacak bir el bulurum diye
 Spartaküs zincirlerini kıramadı ya
 Yine de sardı beni.	
  
-
  
 -------------------------------------------------------------------------
 “Karda Işıltılar” , 1981
@@ -221,7 +217,7 @@ Yine de sardı beni.
 
 Turgay FİŞEKÇİ
 
-### Hüseyin Erdem
+## Hüseyin Erdem
 
 Gözlerim açıldığında
 İlk gördüğüm insandın
@@ -256,7 +252,7 @@ balkonlardan sarkıp komşulara taşar
 
 Turgay FİŞEKÇİ
 
-### Evden İşe
+## Evden İşe
 
 Bakın nasıl olmalı
 Biliyor musunuz dünya?
@@ -280,7 +276,6 @@ Kendi hayatına egemen bir insan olarak
 Gününü planladığı
 Sabahları böyle bir yürüyüşle gelmeli işe.
  
-
  
 ------------------------------------------
 “Kuşkuluyum Yaşadığımdan” , 1983
@@ -288,7 +283,7 @@ Sabahları böyle bir yürüyüşle gelmeli işe.
 
 Turgay FİŞEKÇİ
 
-### İlk Günün Ardından
+## İlk Günün Ardından
 
 Mutluyum
 Oturduğun semti
@@ -316,7 +311,6 @@ Yüzüne bakabildiğime
 Hayatta tek isteğim buydu
 Mutluyum seni sevdiğime.
  
-
  
 ---------------------------------------------------------------------------------------
 “Karda Işıltılar” , 1981
@@ -324,7 +318,7 @@ Mutluyum seni sevdiğime.
 
 Turgay FİŞEKÇİ
 
-### İnsanlık
+## İnsanlık
 
 Çok kadınlı olmak gibi çok kentli olmak da
 Varsıl bir duygunun yükselip
@@ -355,7 +349,7 @@ En sevdiğim arkadaşım, Hüseyin
 
 Turgay FİŞEKÇİ
 
-### Kara Kış
+## Kara Kış
 
 Asma bahçelerde hurma rakıları yok
 Ne bir çiçek taraçalarda
@@ -368,6 +362,7 @@ Dilleri kurumuş mart kedilerinin.
 Bırakıyor toprağa tohumlarını.
 --Radarlar görür mü yanan badem ağaçlarını?
 
+
  alkolle yüreğini bombalar her gece
 Güler yoksa sütsüz kalır şiir yavruları.
 Binlerce kez yakılan kentler
@@ -378,7 +373,7 @@ Kara yağmurun çiçekleri de kara açar.
 
 Turgay FİŞEKÇİ
 
-### Kuşkuluyum Yaşadığımdan
+## Kuşkuluyum Yaşadığımdan
 
 Günler boyu sana giydireceğim renkleri aradım fırçalarımla
 Beyaz bir denizdin
@@ -403,7 +398,6 @@ Beyaz bir lekeyim seni seyretmek için yerleşmiş tuvaline
 Orman geniş olsa da korku saçılır av yollarından
 Yaşasam da bugün kuşkuluyum yaşadığımdan
  
-
  
 ---------------------------------------------------------
 “Kuşkuluyum Yaşadığımdan” , 1983
@@ -411,7 +405,7 @@ Yaşasam da bugün kuşkuluyum yaşadığımdan
 
 Turgay FİŞEKÇİ
 
-### Kuşsuzluk
+## Kuşsuzluk
 
 Sait Faik'in anısına	
 
@@ -435,7 +429,7 @@ Kuşsuz dünya, biraz da insansızlık değil mi?
 
 Turgay FİŞEKÇİ
 
-### Kuvöz
+## Kuvöz
 
 Heyecanla kalkıyor başım yastıktan.
 Bugün de doğdum.
@@ -459,7 +453,7 @@ Tufan'ına doğru uzaklaşan dünyayı.
 
 Turgay FİŞEKÇİ
 
-### Mektup
+## Mektup
 
 Nefret ediyorum kendimden
 Erken yattığım akşamlar
@@ -486,7 +480,6 @@ Geçmeli bu yollardan
 Yürürken sevdiğime.
  
  
-
  
 ---------------------------------------------------------------------------------------
 “Karda Işıltılar” , 1981
@@ -494,7 +487,7 @@ Yürürken sevdiğime.
 
 Turgay FİŞEKÇİ
 
-### On Yıl Önce
+## On Yıl Önce
 
 Mevsimlerin dışımızda değiştiği zamanlardı
 Hep korunarak geçen günler
@@ -531,10 +524,11 @@ Sesi kulağımda Server Hoca’nın
  
 Bir gün ziyaretine gitmiştim
 Yaşayan , yani çalışan ve üretendi
+
 Maddenin en canlısı yürekti
+
 Bu dizemi söyledi bana ve başkalarına.
  
-
  
  
 ---------------------------------------------------------------------------------------
@@ -542,7 +536,7 @@ Bu dizemi söyledi bana ve başkalarına.
 
 Turgay FİŞEKÇİ
 
-### Sana Yaraşan
+## Sana Yaraşan
 
 Sana yaraşan şiiri nerden bulmalı
 Gülersin
@@ -566,14 +560,13 @@ Başka türlü mutlu olamam
 Sana yaraşan şiiri nerden bulmalı
  
  
-
 ---------------------------------------------------------------------------------------
 “Kuşkuluyum Yaşadığımdan” , 1983
 “Yitik Bahar” , Haziran 1995 , 2. Bası , Adam Yayınları , S.77
 
 Turgay FİŞEKÇİ
 
-### Son Dünya Savaşı
+## Son Dünya Savaşı
 
 Sığınaklara indirelim kuşları
 Ne ciğerlerinin dayanabileceği gökyüzü
@@ -600,7 +593,7 @@ Sığınağa indirelim Dünyayı
 
 Turgay FİŞEKÇİ
 
-### Sorma Bana
+## Sorma Bana
 
 Sorma bana kimim
 Nerden geldim buraya
@@ -616,7 +609,6 @@ Bana “seviyor musun?” de.
 Başka bir şey sorma.
  
  
-
  
 ---------------------------------------------------------------
 “Karda Işıltılar” , 1981
@@ -624,33 +616,49 @@ Başka bir şey sorma.
 
 Turgay FİŞEKÇİ
 
-### Su Isıt Sevgilim
+## Su Isıt Sevgilim
 
 Su ısıt sevgilim yıkanayım
+
 Üzerimde dünyanın tüm kirleri
+
 Onlardan arınmadan sana sarılma’yım
+
 Su ısıt sevgilim yıkanayım
 Şimdi dışardan geldim
+
 Yalanlar söyledim , iftira ettim
+
 Onurum yitti , para kazandım derken
+
 Su dökmeden ekmeğe el sürme’yim
 Alın terim bugün de soğuk , kuşkulu aktı
+
 Gömleğim ıslandı ama tenim soğuktu
+
 Tedirgin bu hayatın sınırlarından
+
 Bekledim soluklanmaya akşamı
 Sevgilim , kırlarda bir gece senin kokun
+
 Beyaz yüzün , sarı gözlerin
+
 İnsan yürekleri yetiştirdiğin toprak
+
 Ben sana su , ekmek getiren
 Sen böyle olmasan , böyle beyaz
+
 Gözlerin böyle sarı bakmasalar
+
 Hep ilk kez sarılıverecekmiş gibi
+
 Ben başkası olurdum o zaman
 Su ısıt sevgilim yıkanayım
+
 Üzerimde dünyanın tüm kirleri
+
 Bir sen varsın kalbimi koruyan.
  
-
  
  
 ---------------------------------------------------------------------------------------
@@ -660,7 +668,7 @@ Adam Yayınları , S.63
 
 Turgay FİŞEKÇİ
 
-### Uygarlık
+## Uygarlık
 
 Temelinde toplugömütler
 İnsan derisinden abajurların aydınlattığı odalar olan
@@ -685,7 +693,7 @@ Acı çektirdiğimiz kadar insanı
 
 Turgay FİŞEKÇİ
 
-### Yitik Bahar
+## Yitik Bahar
 
 Hayat, kar altında kalan bahar
 Çiçekleri üzerinde ölüyor en bereketli ağaçlar
@@ -706,14 +714,13 @@ Hayat, kar altında kalan bahar çiçekleri
 Yazın tek tük meyva dallarda
 Kim doyacak, kim doyuracak
  
-
  
 -----------------------------------------------------------------------
 “Yitik Bahar” , Haziran 1995 , 2. Bası , Adam Yayınları , S.20
 
 Turgay FİŞEKÇİ
 
-### Yüzyılın Sonu
+## Yüzyılın Sonu
 
 Bu bürümcük elbise
 onu dokuyanın güzelliğini kattı
@@ -759,7 +766,7 @@ Bir kedi yavrusunu sevmek için
 
 Turgay FİŞEKÇİ
 
-### Ev Ödevleri
+## Ev Ödevleri
 
 Herkesin görevleri olurmuş evde
 Kısacık ev hayatları olanların bile.
@@ -779,7 +786,7 @@ Fatoş el sürdüğünde sanata dönüşür sıradan her şey
 
 Turgay FİŞEKÇİ
 
-### Olgunluk
+## Olgunluk
 
 Güneşin altında
 Kara toprağın üzerinde
@@ -792,7 +799,7 @@ En güzel meyvesine hazırlanan dilim.
 
 Turgay FİŞEKÇİ
 
-### Herşey Yıkılırken 
+## Herşey Yıkılırken 
       Şiiri Ayakta Gördüm
 
 Kıskanılacaksa büyük şair
@@ -829,7 +836,7 @@ Dünyaya beklenilmeyen güzellikler sunan.
 
 Turgay FİŞEKÇİ
 
-### İş Saçmalaması
+## İş Saçmalaması
 
 ---------------------------------------------------------------------------------------
 Varlık Dergisi, Sayı 1134, Mart 2002

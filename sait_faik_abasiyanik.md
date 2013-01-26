@@ -1,6 +1,6 @@
-## Sait Faik ABASIYANIK
+# Sait Faik ABASIYANIK
 
-### Şimdi Sevişme Vakti
+## Şimdi Sevişme Vakti
 
 Çıplak heykeller yapmalıyım.
 Çırılçıplak heykeller

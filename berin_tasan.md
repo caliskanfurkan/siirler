@@ -1,6 +1,6 @@
-## Berin TAŞAN
+# Berin TAŞAN
 
-###  Aç Kapıyı Ben Geldim
+##  Aç Kapıyı Ben Geldim
 
 Korka korka değil, usul usul değil
 Elim yüreğimde çarpa çarpa geldim
@@ -38,7 +38,7 @@ Aç!
 
 Berin TAŞAN
 
-### Ay Çiçekleri
+## Ay Çiçekleri
 
 Yatağımı pencereye getirdim
 Ay çiçekleri güneşe dönecek
@@ -58,7 +58,7 @@ Ay çiçekleri sevinecek.
 
 Berin TAŞAN
 
-### Bırakıp Gitmek Yok
+## Bırakıp Gitmek Yok
 
 Nereye dokunsan
 Dokunduğun yerden
@@ -72,7 +72,7 @@ Bırakıp gitmek yok!
 
 Berin TAŞAN
 
-### Bizden Sonra
+## Bizden Sonra
 
 Biz olmasak da içinde
 Yine demir alacak vapurlar
@@ -90,7 +90,7 @@ Nasıl?
 
 Berin TAŞAN
 
-### Elimi Çeken El
+## Elimi Çeken El
 
 Omzundan havalanan martılar
 Konacak yer bulamıyor
@@ -111,7 +111,7 @@ O martılar mı senin omzundan havalandı
 
 Berin TAŞAN
 
-### Sabahın Seher Vaktinde
+## Sabahın Seher Vaktinde
 
 Yüzünün öptüğüm yanı artık çekimser kalamaz
 Binlerce bayrakla açılmış yürüyor
@@ -139,7 +139,7 @@ Nükleer denemeler yasak.
 
 Berin TAŞAN
 
-### Vatanın Bu Yanı
+## Vatanın Bu Yanı
 
 Vatanın her köşesi aziz
 Çamlıca, Erenköy, Maçka

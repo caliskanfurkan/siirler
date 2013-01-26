@@ -1,6 +1,6 @@
-## Altay ÖMER ERDOĞAN
+# Altay ÖMER ERDOĞAN
 
-### Aşk Ki
+## Aşk Ki
 
 gelip kokuma yerleşen mevsim
 sığınaklarda dilsiz ağrılar ülkesiz şarkılar
@@ -26,7 +26,7 @@ geleceksin saksısına küsen çiçeksen
 
 Altay ÖMER ERDOĞAN
 
-### Dağı Isıt! 
+## Dağı Isıt! 
 Kendini Isıt! Isınan Ne Varsa Bizdendir
 
 sen portakaldan denize bakan bir yoksulluksun Akdeniz'in göbeğinde
@@ -55,7 +55,7 @@ sıfatlarımı geç, zakkumdan say beni
 
 Altay ÖMER ERDOĞAN
 
-### İpi Değil Dengeyi Düşün!
+## İpi Değil Dengeyi Düşün!
 
 İPİ DEĞİL DENGEYİ DÜŞÜN! CAMBAZHANE PARASIYLA ÜÇ
 ÇOCUK OKUTTU AHMET AMCA. KÖPÜKLÜ ORTA KAHVE
@@ -100,7 +100,7 @@ bir tek darağacında sevmedi ipi
 
 Altay ÖMER ERDOĞAN
 
-### Kan da Var 
+## Kan da Var 
 
 Asya yırtılmış bir haritadır kalbinin kapandığı her yerde
 günün anlamını belirten baykuşların yuvasından çıkar harf
@@ -144,7 +144,7 @@ bir şiir iki yerinden yaralar insanı, ben ilkini sana verdim
 
 Altay ÖMER ERDOĞAN
 
-### Kan Gölünü Gördü
+## Kan Gölünü Gördü
 
 damla günler çoğaldı cıvalı bir gökyüzünün ensesinde
 kırıldı kanadı poyrazlarla yarışan serçelerin
@@ -205,7 +205,7 @@ biraz daha boy at
 
 Altay ÖMER ERDOĞAN
 
-### Kasaba
+## Kasaba
 
 sarı sıcak bir ağustos kapımıza dikilmiş
 anahtar paslı ve kilit hafif ürkek
@@ -246,7 +246,7 @@ y u t k u n m a k
 
 Altay ÖMER ERDOĞAN
 
-### Kent Düellosu
+## Kent Düellosu
 
 aşk işgüzardır, söz de...
 
@@ -278,7 +278,7 @@ ve koşulsuz sevişiriz argosu eksik kadınlarla
 
 Altay ÖMER ERDOĞAN
 
-### Kumaş Yalnızlıkları
+## Kumaş Yalnızlıkları
 
 güz kırıklarıyla ilişiyordu yakamıza ayrılık
 yakındık gölgemize, tunç taslardan içtiğimiz
@@ -346,7 +346,7 @@ lâlelerden çarşaf yapıp örtecektik
 
 Altay ÖMER ERDOĞAN
 
-### Otel Yorgunu
+## Otel Yorgunu
 
 Hitit babacan güneşler ağartırdı
 kardeş kanı toprağa karıştığında
@@ -377,7 +377,7 @@ dev aynasında cüceler
 
 Altay ÖMER ERDOĞAN
 
-### Su're
+## Su're
 
 su hangi kanı yıkayan temiz akıcı boşlukta
 hangi aynaya baksam kırık sahibi sözsüz su
@@ -410,7 +410,7 @@ hem ayrımsız olana hem aykırıya
 
 Altay ÖMER ERDOĞAN
 
-### Suyun Bilge Yüzünde
+## Suyun Bilge Yüzünde
 
 hiç anlaşılmamış olan hiç anlatılmamıştır
 bir maşrapadan dökülmemiştir su, yalvaran köküne inancın,
@@ -457,12 +457,13 @@ hiç anlatılmamış olan hiç anlaşılmamıştır
 
 Altay ÖMER ERDOĞAN
 
-### Türkiye'nin Ruhu
+## Türkiye'nin Ruhu
 
 "Uzaklarda, benim gibi yalnız ve ümitsiz
                         birine bırak bu mektubu oğlum;
                         benim gibi birisi olsun, çünkü bizim gibiler
                         birbirlerine ancak kötülük edebilirler."
+
                                                         Oğuz Atay, Korkuyu Beklerken
 
 
@@ -590,7 +591,7 @@ patlasın en büyük günün gümbürtüsü
 
 Altay ÖMER ERDOĞAN
 
-### Uçurumun Yalnız Yüzünde
+## Uçurumun Yalnız Yüzünde
 
 maske yalnızlığı bu bizimki,
 çevre denizlerden balık kokusu, korsan mavisi takıştıran
@@ -638,7 +639,7 @@ uçurum bize kendini verdi.
 
 Altay ÖMER ERDOĞAN
 
-### Yakın
+## Yakın
 
 aşka yeni bir pencere doktor
 açmak gerek gizli öznenin tarihini
@@ -671,7 +672,7 @@ durup durup ölüyorum
 
 Altay ÖMER ERDOĞAN
 
-### Yarasa
+## Yarasa
 
 her zaman geceyi yaşar mağara
 göz bir işe yarasa, taş olur bakış
@@ -699,7 +700,7 @@ yarasa neyle emzirir yavrusunu?
 
 Altay ÖMER ERDOĞAN
 
-### Yüzleşmeye Hazırım Kent
+## Yüzleşmeye Hazırım Kent
 
 YÜZLEŞMEYE HAZIRIM KENT KURGUSU ÇOBANLARLA; BİR AŞK
 ŞİİRİ NİÇİN YAZILIR? ÇOCUKLUĞUMUN DEREBEYİ AKŞAMLARI

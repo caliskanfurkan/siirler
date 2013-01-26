@@ -1,6 +1,6 @@
-## Ömer ŞİŞMAN
+# Ömer ŞİŞMAN
 
-###  Billigrafi 
+##  Billigrafi 
 
 anlamsız bir kelime açtı sol avucumun çizgileri
 buruşuklarından açılan bir mektubu öper gibi
@@ -16,7 +16,7 @@ bil - lig - ra - fi...
 
 Ömer ŞİŞMAN
 
-###  Evren'in Kalbi 
+##  Evren'in Kalbi 
 
 "Hangi hüzün ömürle sınırlı
 Hepsi dönüp duruyor,
@@ -51,7 +51,9 @@ Gecenin karanlığından ağanı.
 
 Ömer ŞİŞMAN
 
-### Kanadım
+## Kanadım
+
+KANADIM
 
 Adımladığım her yer kanadı
 Dokunduğum her yanın...
@@ -78,7 +80,7 @@ kanadım!..
 
 Ömer ŞİŞMAN
 
-###  Kül 
+##  Kül 
 
 Dön kül gibi önünde gülün
 Savrul ağlamaya teşne çocuk kalbinle
@@ -94,7 +96,7 @@ Değmeyecekse, varmasın sırtına da
 
 Ömer ŞİŞMAN
 
-###  Kuyu 
+##  Kuyu 
 
 Salındım karanlığın koynuna bakracıma sığınarak
 Karanlığın hem koynu hem bekçisi kuyuma...
@@ -126,7 +128,7 @@ Yu yu...
 
 Ömer ŞİŞMAN
 
-###  Şiir Kuranın Dramı 
+##  Şiir Kuranın Dramı 
 
 "Kulağa özgü bir hastalıktı şiir,
 Tutarlılık yetmezdi; çocukluğun

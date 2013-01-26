@@ -1,6 +1,6 @@
-## Ahmet OKTAY
+# Ahmet OKTAY
 
-### Acı
+## Acı
 
 Usandım taş basması günler yaşamaktan
 yalnızlığımı büyütüyorum korkunç
@@ -29,7 +29,7 @@ kör kuyular uykuma.
 
 Ahmet OKTAY
 
-### Anı
+## Anı
 
 Yazdı gözlerimi yumduğumda, öğle sonrası;
 dayımdı dutu silkeleyen, çarşafın dört ucunda
@@ -43,7 +43,7 @@ Bellek ve Zaman.
 
 Ahmet OKTAY
 
-### Anneler Günüymüş
+## Anneler Günüymüş
 
 Pancurları dövdü tüm gece yağmur,
 şafakla açtım; dupduruydu gök.
@@ -72,7 +72,7 @@ bahçesine. "Yeşert" dedim her yeri.
 
 Ahmet OKTAY
 
-### Bengi İz
+## Bengi İz
 
 Bir kahkahayla silkindim
 dalıp gittiğim mektuptan;
@@ -109,7 +109,7 @@ bellekte kalır o bengi iz.
 
 Ahmet OKTAY
 
-### Beş Kuruşa Aşk Şarkıları
+## Beş Kuruşa Aşk Şarkıları
 
 Bir yalnızlık büyütürdüm saksıda
 kalandı çok eski günlerden
@@ -169,7 +169,7 @@ gecede alnıma dayalı alnın.
 
 Ahmet OKTAY
 
-### Bir Portre İçin Taslak
+## Bir Portre İçin Taslak
 
 Gece bir geyik bahçesidir bazan
 ürkek, korkulu, nefes nefese,
@@ -257,7 +257,7 @@ Ama hadi, yalnız kalın.
 
 Ahmet OKTAY
 
-### Bütün Erkekler Ölür
+## Bütün Erkekler Ölür
 
 Çünkü gök sıkıntıyla ağar
 rüzgâr buruşur, bir yaprak düşer
@@ -342,7 +342,7 @@ usulca bütün erkekler ölür.
 
 Ahmet OKTAY
 
-### Eski Bakır
+## Eski Bakır
 
 Bir çığlığın içinde yakalıyorum seni
 kaç kez Istanbulsu,
@@ -382,7 +382,7 @@ sev, öp, yitir beni.
 
 Ahmet OKTAY
 
-### Geç Saat
+## Geç Saat
 
 Yorgundu. Düþ görürken
 -ölmüþ müydü ölüyor muydu?
@@ -396,7 +396,7 @@ Kierkegaard'tan,
 
 Ahmet OKTAY
 
-### Gerard De Nerval
+## Gerard De Nerval
 
 Siyahın gezginiyim: Her gün daha derine
 Yanar akşamla caddede vebalı lambalar,
@@ -471,7 +471,7 @@ Gözlem		: Morga kaldırılmadan önce tanındı.
 
 Ahmet OKTAY
 
-### Sığınak
+## Sığınak
 
 Kaçıp sana saklanıyorum akşam oldu mu
 Sana dokununca mı denizleniyor masa
@@ -490,7 +490,7 @@ Kim güzelleşmiyor öpüşünce.
 
 Ahmet OKTAY
 
-### Sırada
+## Sırada
 
 Uzat saçlarını gecenin balkonundan
 isteğimin çok tüylü suyuna.
@@ -521,7 +521,7 @@ yenik gövdemin üstünden.
 
 Ahmet OKTAY
 
-### Tuhaf Duygu
+## Tuhaf Duygu
 
 Dolaþýyorum ne zamandýr
 kalbimde bir gül kesiði;

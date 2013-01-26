@@ -1,6 +1,6 @@
-## Sezai KARAKOÇ
+# Sezai KARAKOÇ
 
-### Anneler ve Çocuklar
+## Anneler ve Çocuklar
 
 Anne öldü mü çocuk
 Bahçenin en yalnýz köþesinde
@@ -19,7 +19,7 @@ Anne ölünce çocuk
 
 Sezai KARAKOÇ
 
-### Balkon
+## Balkon
 
 Çocuk düşerse ölür çünkü balkon
 Ölümün cesur körfezidir evlerde
@@ -43,7 +43,7 @@ Evleri balkonsuz yapan mimarları
 
 Sezai KARAKOÇ
 
-### Çocukluğumuz
+## Çocukluğumuz
 
 Annemin bana öğrettiği ilk kelime
 Allah, şahdamarımdan yakın bana benim içimde
@@ -90,7 +90,7 @@ Dağıldı kalelerin önündeki askerler
 
 Sezai KARAKOÇ
 
-### Hızırla Kırk Saat'ten
+## Hızırla Kırk Saat'ten
 
 2.
 Ey yeşil sarıklı ulu hocalar bunu bana öğretmediniz
@@ -119,7 +119,7 @@ Atlarını yalnız atlarını cana yakın buldum
 
 Sezai KARAKOÇ
 
-### İlk
+## İlk
 
 Yanlış trenden indin seni şehrin aynasından geçirdiler
 Sana baktım yıllarca hep ayni özlem penceresinden
@@ -149,7 +149,7 @@ Denemesi yanlış yapılmış ilk ok
 
 Sezai KARAKOÇ
 
-### Kar Şiiri
+## Kar Şiiri
 
 Karın yağdığını görünce
 Kar tutan toprağı anlayacaksın
@@ -173,7 +173,7 @@ Her şeyi beni anlayınca anlayacaksın
 
 Sezai KARAKOÇ
 
-### Kara Yılan
+## Kara Yılan
 
 Güneşin yeni doğduğunu sana haber veriyorum
 Yağmurun hafifliğini toprağın ağırlığını
@@ -200,7 +200,7 @@ Kara yılan kara yılan kara yılan kara yılan
 
 Sezai KARAKOÇ
 
-### Kav
+## Kav
 
 Otomobil birden çıkıyor yoldan
 Bir deniz kıyısında duruyor
@@ -274,7 +274,7 @@ Ve bütün ışıklar yanar
 
 Sezai KARAKOÇ
 
-### Köpük'ten
+## Köpük'ten
 
 Portakal büyüsüdür yalayan seni beni
 Kentte başlarken gece horozun terk ettiği
@@ -322,7 +322,7 @@ En yeni buluşu intihardır
 
 Sezai KARAKOÇ
 
-### Liliyar
+## Liliyar
 
 Bu kuklaların kukla olmadığı besbelli
 Ne söyledilerse tıpıtıpına gerçek besbelli
@@ -370,7 +370,7 @@ Ben konuşmasını bilmem Lili
 
 Sezai KARAKOÇ
 
-### Mona Rosa
+## Mona Rosa
 
 yah güller, ak güller. 
 Geyve'nin gülleri ve beyaz yatak.
@@ -378,11 +378,13 @@ Kanadı kırık kuş merhamet ister.
 Ah senin yüzünden kana batacak. 
 Mona Rosa. Siyah güller, ak güller.
 
+
 Ulur aya karşı kirli çakallar, 
 Ürkek ürkek bakar tavşanlar dağa.
 Mona Rosa bugün bende bir hal var. 
 Yağmur iri iri düşer toprağa,
 Ulur aya karşı kirli çakallar.
+
 
 Açma pencereni perdeleri çek, 
 Mona Rosa seni görmemeliyim.
@@ -390,11 +392,13 @@ Bir bakışın ölmem için yetecek.
 Anla Mona Rosa ben bir deliyim. 
 Açma pencereni perdeleri çek.
 
+
 Zeytin ağaçları, söğüt gölgesi, 
 Bende çıkar güneş aydınlığına.
 Bir nişan yüzüğü bir kapı sesi. 
 Seni hatırlatır her zaman bana.
 Zeytin ağaçları, söğüt gölgesi.
+
 
 Zambaklar en ıssız yerlerde açar 
 Ve vardır her vahşi çiçekte gurur.
@@ -402,11 +406,13 @@ Bir mumun ardında bekleyen rüzgar,
 Işıksız ruhumu sallar da durur.
 Zambaklar en ıssız yerlerde açar.
 
+
 Ellerin, ellerin ve parmakların 
 Bir nar çiçeğini eziyor gibi.
 Ellerinden belli olur bir kadın, 
 Denizin dibinde geziyor gibi.
 Ellerin, ellerin ve parmakların.
+
 
 Zaman ne de çabuk geçiyor Mona. 
 Saat onikidir söndü lambalar
@@ -414,11 +420,13 @@ Uyu da turnalar girsin rüyana,
 Bakma tuhaf tuhaf göğe bu kadar.
 Zaman ne de çabuk geçiyor Mona.
 
+
 Akşamları gelir incir kuşları, 
 Konarlar bahçemin incirlerine.
 Kiminin rengi ak kiminin sarı. 
 Ah beni vursalar bir kuş yerine.
 Akşamları gelir incir kuşları.
+
 
 Ki ben Mona Rosa bulurum seni 
 İncir kuşlarının bakışlarında.
@@ -463,7 +471,7 @@ Mona Rosa. Siyah güller, ak güller.
 
 Sezai KARAKOÇ
 
-### Monna Rosa 
+## Monna Rosa 
 
 I- AŞK VE ÇİLELER
 
@@ -769,7 +777,7 @@ Ben günah kadar beyazım, o tövbe kadar kara...
 
 Sezai KARAKOÇ
 
-### Şehrazat
+## Şehrazat
 
 Sen gecenin gündüzün dışında
 Sen kalbin atışında kanın akışında
@@ -791,7 +799,7 @@ Sen sevgili sen can sen yarsın
 
 Sezai KARAKOÇ
 
-### Sessiz Müzik
+## Sessiz Müzik
 
 Sen kış güneşi misin
 Yakarsın ısıtmazsın
@@ -815,7 +823,7 @@ Beklediğin adam
 
 Sezai KARAKOÇ
 
-### Sevgi
+## Sevgi
 
 1.
 Ah benim sevgim çiçek örneği
@@ -841,7 +849,7 @@ Anneleriyle anneleriyle anneleriyle
 
 Sezai KARAKOÇ
 
-### Sürgün Ülkeden Başkentler
+## Sürgün Ülkeden Başkentler
   Başkentine
 
 IV
@@ -939,7 +947,7 @@ Ey sevgili
 
 Sezai KARAKOÇ
 
-### Yağmur Duası
+## Yağmur Duası
 
 Ben geldim geleli açmadı gökler
 Ya ben bulutları anlamıyorum
@@ -985,7 +993,7 @@ Ben geldim geleli açmadı gökler
 
 Sezai KARAKOÇ
 
-### Yoktur Gölgesi Türkiye'de
+## Yoktur Gölgesi Türkiye'de
 
 Sabahları gün doğmadan uyanır
 Dilini yutacak olur içi kanlanır

@@ -1,6 +1,6 @@
-## Fikret KIZILOK
+# Fikret KIZILOK
 
-### Bu Kalp Seni Unutur Mu?
+## Bu Kalp Seni Unutur Mu?
 
 Yıllar geçse de üstünden
 Bu kalp seni unutur mu
@@ -47,7 +47,7 @@ Kalbim seni unutur mu
 
 Fikret KIZILOK
 
-### Gönül
+## Gönül
 
 Bunca yıl herkesten kaçtın
 En sonunda buldum sandın
@@ -88,7 +88,7 @@ En sonunda ben de sevdim
 
 Fikret KIZILOK
 
-### Gecenin Tam Üçünde
+## Gecenin Tam Üçünde
 
 Düz değil düzen değil az değil ezen değil
 Boz değil bozan değil
@@ -108,7 +108,7 @@ Oy gecenin tam üçünde gecenin tam üçünde
 
 Fikret KIZILOK
 
-### Kalbim
+## Kalbim
 
 Kalbim
 Neden hep olmazlarda
@@ -122,7 +122,7 @@ Olamadı
 
 Fikret KIZILOK
 
-### Leylim Leylim
+## Leylim Leylim
 
 Kara tren katar katar
 Derdime derdini katar
@@ -148,7 +148,7 @@ A leyli leyli
 
 Fikret KIZILOK
 
-### Yadigâr
+## Yadigâr
 
 Ne derdi var ne tasası
 Dört duvarı çerçevesi
@@ -177,7 +177,7 @@ Kahrolası acılar
 
 Fikret KIZILOK
 
-### Zaman Zaman
+## Zaman Zaman
 
 Bir gün olsun unutunca
 Dışımda kalıyorsun

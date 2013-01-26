@@ -1,6 +1,6 @@
-## M. Özer CİRAVOĞLU
+# M. Özer CİRAVOĞLU
 
-### Adresim
+## Adresim
 
 Uğultulu
 Alıyorum o gülü
@@ -22,7 +22,7 @@ Yalnızlığın öteki adresi
 
 M. Özer CİRAVOĞLU
 
-### Bir Derinlik
+## Bir Derinlik
 
 Ayrılık
 umurunda değil
@@ -45,7 +45,7 @@ Açıyor güzel, bir derinlik!
 
 M. Özer CİRAVOĞLU
 
-### Garip Şey Yaşamak
+## Garip Şey Yaşamak
 
 Garip şey yaşamak
 Avluda
@@ -74,7 +74,7 @@ Kıskıvrak evrene
 
 M. Özer CİRAVOĞLU
 
-### Gül
+## Gül
 
 Eski evde
 Gül verdim
@@ -95,7 +95,7 @@ Nedir önemi, kırılgan gül benim!
 
 M. Özer CİRAVOĞLU
 
-### İzlenim
+## İzlenim
 
 İkinci Dünya Savaşıyla ilgili
 Filmler seyrediyoruz
@@ -118,7 +118,7 @@ Geçmiyor hayat
 
 M. Özer CİRAVOĞLU
 
-### Kriz ve Sevi
+## Kriz ve Sevi
 
 larva
 kendini arıyor
@@ -147,7 +147,7 @@ gül severim
 
 M. Özer CİRAVOĞLU
 
-### Onaysız
+## Onaysız
 
 ceketim dolapta
 seni astılar
@@ -168,7 +168,7 @@ onaysız annemle
 
 M. Özer CİRAVOĞLU
 
-### Seninle...
+## Seninle...
 
 Ölü eti yedim
 Tövbem kabul mü
@@ -185,7 +185,7 @@ gözyaşımızı!
 
 M. Özer CİRAVOĞLU
 
-### Sevgili
+## Sevgili
 
 İnan
 ölçüsü yok yaşamın
@@ -206,7 +206,7 @@ Sen misin o!
 
 M. Özer CİRAVOĞLU
 
-### yalın tarihte
+## yalın tarihte
 
 harç karıyor
 yoksul işçiler
@@ -234,7 +234,7 @@ sevgilim
 
 M. Özer CİRAVOĞLU
 
-### yaşam ağı
+## yaşam ağı
 
 şenay'a
 
@@ -257,7 +257,7 @@ istençle her zaman
 
 M. Özer CİRAVOĞLU
 
-### Yüceliş
+## Yüceliş
 
 Bunca emek
 Ezildi çoğunluğun acımasız diline

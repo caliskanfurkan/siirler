@@ -1,6 +1,6 @@
-## Tuncay ÇELİK
+# Tuncay ÇELİK
 
-### Yalnız Ölüm Susar
+## Yalnız Ölüm Susar
 
 I.
 

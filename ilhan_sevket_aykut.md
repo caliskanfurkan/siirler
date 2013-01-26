@@ -1,6 +1,6 @@
-## İlhan Şevket AYKUT
+# İlhan Şevket AYKUT
 
-###  Bilmeksizin
+##  Bilmeksizin
 
 Bilmeksizin almak nedir,
 Satmak nedir bilmeksizin.
@@ -18,7 +18,7 @@ Olmak ölmek, ölmek olmak.
 
 İlhan Şevket AYKUT
 
-### Evetler Değiller
+## Evetler Değiller
 
 Ben evet,
 Ben değil.
@@ -33,7 +33,7 @@ Ne evet, evet.
 
 İlhan Şevket AYKUT
 
-### İllet
+## İllet
 
 Molla sordu, illet nedir?
 Hallac etti, illet yoktur.
@@ -55,7 +55,7 @@ Adam tanrıya gerekse?
 
 İlhan Şevket AYKUT
 
-### İshak Ağa Çeşmesi
+## İshak Ağa Çeşmesi
 
 Yelesi ışık,
 Yolu aydınlık,
@@ -75,7 +75,7 @@ Sürmüşüm gitmişim,
 
 İlhan Şevket AYKUT
 
-### İşim
+## İşim
 
 Sabah güneşi,
 Uyandı, karşı tepede taranmakta,
@@ -91,7 +91,7 @@ Yok işim.
 
 İlhan Şevket AYKUT
 
-### Vatan
+## Vatan
 
 Bir mevsimin vatan olduğu yerde.
 İstanbulda abrilde.
@@ -105,7 +105,7 @@ Bir mevsimin vatan olduğu yerde.
 
 İlhan Şevket AYKUT
 
-### Yürek
+## Yürek
 
 Yalnızın yüreği,
 İçerisinde sevgilisi.

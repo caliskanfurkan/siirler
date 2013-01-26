@@ -1,6 +1,6 @@
-## Halim Şefik GÜZELSON
+# Halim Şefik GÜZELSON
 
-### Balık Ağzı
+## Balık Ağzı
 
 Bu bir kılıçbalığının öyküsü  
 Yazılmasa da olurdu  
@@ -36,7 +36,7 @@ Rakı için
 
 Halim Şefik GÜZELSON
 
-### 
+## 
   Otopsi
 
 - Orhan Veli'ye ağıt -
@@ -55,7 +55,7 @@ Doğrusu geç kaldılar
 
 Halim Şefik GÜZELSON
 
-### Özyaşam
+## Özyaşam
 
 Onun adı Halim Şefik
 Yapısı has mavi çelik
@@ -94,7 +94,7 @@ Bir okuyun otopsiyi.
 
 Halim Şefik GÜZELSON
 
-### Somut
+## Somut
 
 Şiir bir emekçidir
 Hep güzel şeyler üretir
@@ -103,7 +103,7 @@ Gir koluna bize getir
 
 Halim Şefik GÜZELSON
 
-### Balık 
+## Balık 
 		Ağzı
 
 Bu bir kılıçbalığının öyküsü  

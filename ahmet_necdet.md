@@ -1,6 +1,6 @@
-## Ahmet NECDET
+# Ahmet NECDET
 
-### Ne Çok Enkaz 
+## Ne Çok Enkaz 
 
 sizi bir yerlerden tanır gibiyim
 galiba bodrum'daydı geçen yaz

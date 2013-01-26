@@ -1,194 +1,473 @@
-## Behçet AYSAN
+# Behçet AYSAN
 
-### Kozalak Yaktım Ben De
+## Kozalak Yaktım Ben De
 
+nı
+küllere sıvanmış
+baştan başa dolaşıp
 
+ağrıyan ormanı.
+          
+yağmur dindi sevgilim bak dinle
+          
+her şey dindi, acıysa dinmemiş halde.
+79'ankara
+Behçet AYSAN
+
+(Karşı Gece)
 
 Behçet AYSAN
 
-### İpekten Bir Gecedir Kayar Gider
+## İpekten Bir Gecedir Kayar Gider
 
-
+lar yanar
+tutuştuşturur yüreğimizin çırasını
+Behçet AYSAN
+(Karşı Gece)
 
 Behçet AYSAN
 
-### Gecede Birer Karşı Gecedir Onlar
+## Gecede Birer Karşı Gecedir Onlar
 
-i
+ki
+
             
 bütün gecelerin.
-Beçet AYSAN(Karşı Gece)
+Beçet AYSAN
+(Karşı Gece)
 
 Behçet AYSAN
 
-### Unutulmayan
+## Unutulmayan
+
+da üç şeyi
+iri çakıl tanelerini, çatlamış bir narı
+bir öpüşün bıraktığı harlı lekeyi
+ipekten
+çalınmış
+umutlarla taşırdım
+ah sevgilim derdim, ölüm 
+
+ne kadar çoktu yaşadığımızda. 
 
 
+bize hep beyaz mendil
+sallayan 
+
+ölüm ki, 
+
+iki kapısında 
+
+haki bir yalnızlık
+         
+dikilirdi 
+
+
+ve hatırlatırdı 
+
+bize, güz kuşlarının
+uçup gittiği denizleri.
+bense, yulaf kokan
+dağlı ellerinde
+dolaşmak gibi kolaydır 
+
+sanırdım yaşamak ve sana kansız 
+
+                              
+bir gökyüzü 
+
+getirirdim
+getirebilsem ah,
+     - avlusunda çocukların
+       korkmadan oynadığı
+-
+lalelerle
+donanmış simli bir gökyüzü.
+
+bir öpüşün bıraktığı harlı lekeyi
+çatlamış bir narı, unutmadım.
+Behçet AYSAN
+(Karşı Gece)
 
 Behçet AYSAN
 
-### Örüp İnce Bir Tığla
+## Örüp İnce Bir Tığla
 
-la oynaşmadabir örümcek ve düşüncelerimince bir tığlaörüyor ağını, sessizcegün
+la oynaşmada
+bir örümcek ve düşüncelerim
+ince bir tığla
+örüyor ağını, sessizce
+gün
+
 batıyor.
 
 kara battaniyeli
-bir ölü yürüyor sonrakireç döküntüleri ne kadar da                           
-benziyorona, öldürülmüş bir arkadaşının
+
+bir ölü yürüyor sonra
+kireç döküntüleri ne kadar da 
+                          
+benziyor
+ona, öldürülmüş bir arkadaşının
+
 fenerini
+
 tutuyor, içli bir madenci
+
                     
 şarkısıyla
 
 geçerken
+
 şehrin dikenli telleri arasından.
 
 limanda yük boşaltıyordu kardeşi
+
 dünya geniş
+
      pergeliyle
+
 yer
+
 açıyordu, onunla koşanların
+
 kalbinde ve bir gül ağacının
+
 tomurcuğunda yeniden açıyordu.
 
-sessizcegün
-batıyor, bir aşk bitiyordubir aşk dağılmış
+sessizce
+gün
+
+batıyor, bir aşk bitiyordu
+bir aşk dağılmış
+
         bir gerdanlık gibi.
 
 sakallarım uzuyor, bir yara
-bir yara durmadan işliyordu                             
+
+bir yara durmadan işliyordu
+                             
 kendini
+
 ben de
+
 çekiyordum
+
 derin ağlardan
+
 çekiyordum gölgemi.
 
 sevmiyordum artık
+
 ne sis çanını
+
 ne dağlalesini
 
 günlerim değiyordu
+
 ateşten bir dolunaya.
 Behçet AYSAN
 (Karşı Gece)
 
 Behçet AYSAN
 
-### Keder Atlası
+## Keder Atlası
 
+ilir
 
+ve  niçin
+
+kavruk otlar gibi
+
+             
+tutuşur
+
+o ilk sevdalar
+
+söyleyin bana
+
+             
+ey kitaplar.
+
+bana söyleyin
+
+kim var 
+
+aramızda
+
+biraz ölmeden
+
+bir türkü tutturmuş giden.
+ya kırmızı şapkalı
+
+gelincik, senin için
+
+göz açıp kapayıncaya
+           
+yiter şu bahar
+
+hemen
+
+ölüm gelir
+
+yükselince sular.
+
+söyleyin bana
+
+           ey kitaplar
+var mı
+
+kederin atlasında
+
+tarçın kokulu bir şehir
+
+inmemiş olsun damlarına
+
+gözyaşından
+
+yıldızböcekleri
+
+            ve tarçın
+
+             
+kokulu
+
+bir aşk
+
+hiç ölmeyen.
+Behçet AYSAN
+
+(Karşı Gcce)
 
 Behçet AYSAN
 
-### Forsa
+## Forsa
 
+ezinir
 
+kendi zincirine
+
+vurgun forsa.
+
+devrilen turuncu
+
+bir ayın şavkında
+
+aras gözyaşı akar
+
+hemşeri göçmen kuşa.
+
+horasan'dan yeni
+
+kalkan bir tren
+
+nasıl saplanmışsa
+
+kara ve acıya.
+
+sensin, yüküyle
+
+batmış mavna
+
+kurt ağızlı
+
+gecenin ortasına.
+Behçet AYSAN
+(Karşı Gece)
 
 Behçet AYSAN
 
-### Anış
+## Anış
 
 yıkık manastırın orda
+
 kalbim ki,
-o da yıkıktı.bir keşiş bıçağıyla dağlanmış
+
+o da yıkıktı.
+bir keşiş bıçağıyla dağlanmış
+
 çiçekbozuğu,
 çopur -
+
 bir hayat
-acıtıyordu beni             
+
+acıtıyordu beni
+             
 sevgilim.
+
 her şeyin
+
 hüzne vurduğu yerde
+
 bütün saatlerin,
+
 kuzguni bir denizi
+
               
 çoğaltarak
+
 hayat 
+
 acıtıyordu beni.
 bense geçerdim
-karamuklarla, karabasanların                           
+
+karamuklarla, karabasanların
+                           
 arasından
+
 geçerdim
+
 hiçbir
+
 im
+
 bırakmadan geride
+
 bana en sırlı gelen
+
 acının o en sırlı noktaından.
 
 bin dokuz yüz yetmiş beş'in
+
                           
 ekiminde
+
 yıkık
+
 manastırın orda
+
 kalbim ki, o da.
 
 Behçet AYSAN
 
-### Kanaviçe
+## Kanaviçe
 
+da gezinen
 
+kan işleyen kanaviçesi ömrümün
+
+sarı sarmaşıkların ışıklı gölgesi
+
+ve sensin hüznün yüzgörümlüğü
+
+rüzgarların beyazdan yelesi sen.
+Behçe AYSAN
+(Karşı Gece)
 
 Behçet AYSAN
 
-### Aç Kuşlar
+## Aç Kuşlar
 
-bancaküflü bir ankurutukmuş papatyalarlakitabın ortasında 
+tabanca
+küflü bir an
+kurutukmuş papatyalarla
+kitabın ortasında
+ 
+
  
 
 
-3.hayat, aşıp geçiyor 
-bütün kitaplarıyeni acılar gerekyeni aşklaryaşamaklar ve anlatımlarbeklemiyor bizihiçbir şeyhiçbir yerdesolgun hercaimenekşeve bun, buğulanıp çarpıyorbenimle birlikte
-buzlu bir camın arkasında çarpıyor                                 
-buğulanıp.sesimdişlilerin şarkısına karışıyor. 
+3.
+hayat, aşıp geçiyor 
+
+bütün kitapları
+yeni acılar gerek
+yeni aşklar
+yaşamaklar ve anlatımlar
+beklemiyor bizi
+hiçbir şey
+hiçbir yerde
+solgun hercaimenekşe
+ve bun, buğulanıp çarpıyor
+benimle birlikte
+buzlu bir camın arkasında çarpıyor
+                                 
+buğulanıp.
+sesim
+dişlilerin şarkısına karışıyor. 
 
 
 1979-1981             
+
 Behçet AYSAN 
 
 (Karşı Gece)
 
 Behçet AYSAN
 
-### Tortu
+## Tortu
 
-da geçer, ağla-
+cı da geçer, ağla-
+
 maklı bir şarkı
+
 ayrılıkların
+
 üzerinden.
 
 rüzgar olur
+
 savrulur geçer
+
 sağılır
+
 yaldızlı bir
+
 sabahın ağaran
+
 seherinde, hüznün
-sütbeyazgüğümünden.
-yol olurdüğüm düğüm
+
+sütbeyaz
+güğümünden.
+yol olur
+düğüm düğüm
+
 devrilir kağnı
+
 aşiretler ve
+
 gelincikler göçer.
 
 yıldız olur
+
 kayar mavi
+
 çipil yıldız
+
 dökülmüş yalnızlığın
+
 pirincinden.
 
-gece dehomurtuyla
+gece de
+homurtuyla
+
 kederli bir tren
+
 gibi geçer,
-benimseçiğnenmiş zakkum -
+
+benimse
+çiğnenmiş zakkum -
+
 yüklenmiş yorgun
-kalbimdenaşk da
+
+kalbimden
+aşk da
+
 acı da
+
 her şey ama her şey geçer
+
 kör
+
 bir güvercinin
+
 türküsü
+
 bile.
 
 tortusu kalır.
 
 yaşadıklarını
+
      anmak için beyaz bir yazıya
 
           gecedesin, ay ışığına
@@ -202,22 +481,41 @@ Behçet AYSAN
 
 Behçet AYSAN
 
-### Güvercinleri Sevindirin
+## Güvercinleri Sevindirin
 
-her sabahuyandığımda,gördüğüm düşü hayra yorarımaçmasına açarım dagöğsümün altın kafesini
+her sabah
+uyandığımda,
+gördüğüm düşü hayra yorarım
+açmasına açarım da
+göğsümün altın kafesini
+
 korkarım
+
 ya bu gece
-güvercinleryüreğimden başka bir ülkeye
+
+güvercinler
+yüreğimden başka bir ülkeye
+
 göç etmişlerse.
 
-çünkü, ben ilyashasköy'lü - kör ilyas,şu koca istanbul şehrindeyenicami önündesanki dünyanın bütün               
+çünkü, ben ilyas
+hasköy'lü - 
+kör ilyas,
+şu koca istanbul şehrinde
+yenicami önünde
+sanki dünyanın bütün
+               
 açlarını
+
 doyuruyormuş gibi 
-gururlanan bir sevinçledarı satarımsavrulması için güvercinlere.
+
+gururlanan bir sevinçle
+darı satarım
+savrulması için güvercinlere.
 
 Behçet AYSAN
 
-### Ay Işığı Cinayeti
+## Ay Işığı Cinayeti
 
 sokak fenerine asmış kendini
                          ay ışığının 
@@ -253,7 +551,7 @@ asmış kendini.
 
 Behçet AYSAN
 
-### Bir Eflatun Ölüm
+## Bir Eflatun Ölüm
 
 kırgınım, saçılmış
 bir nar gibiyim
@@ -297,7 +595,7 @@ aynı gökyüzü aynı keder.
 
 Behçet AYSAN
 
-### Dışarda Kar
+## Dışarda Kar
 
 kar yağıyor dışarda
 sokak lambasına düşüyor
@@ -327,60 +625,93 @@ seni seviyorum.
 
 Behçet AYSAN
 
-### Karasevda
+## Karasevda
 
-ak bir yaban güvercinigibiydin aşk             
-vişnelerebulaştın kirlendi beyazın.
-takılamayantelli duvak
+ak bir yaban güvercini
+gibiydin aşk
+             
+vişnelere
+bulaştın kirlendi beyazın.
+takılamayan
+telli duvak
 verilemeyen mendil
-düşlerdekaldın.
-al üstüne mor giymişkörkuyulardakörkuyularda
+düşlerde
+kaldın.
+al üstüne mor giymiş
+körkuyularda
+körkuyularda
 sevdadan delirmiş.
-ah yüzüne bütün kapılar               
-kapanmış seninıtırve yasemin kokulu günah.
-çıkılamayan yıldızgidilemeyen iklim
-kimbilir hangi limanda         
-hangi gemiye                    
-yüklenmiş.al üstüne mor giymişkörkuyulardakörkuyularda
+ah yüzüne bütün kapılar 
+              
+kapanmış senin
+ıtır
+ve yasemin kokulu günah.
+çıkılamayan yıldız
+gidilemeyen iklim
+kimbilir hangi limanda
+         
+hangi gemiye
+                    
+yüklenmiş.
+al üstüne mor giymiş
+körkuyularda
+körkuyularda
 sevdadan delirmiş.
-düşlerdekaldın.
+düşlerde
+kaldın.
 
 Behçet AYSAN
 
-### Kanlı Zambak
+## Kanlı Zambak
 
-gözümle gördüm onuak bir zambağa
-            binmiş                    
+gözümle gördüm onu
+ak bir zambağa
+            binmiş
+                    
             gidiyordu
 zambak dur, sana da
             bulaştı kan.
 bir damla
-            gözyaşındandoğurmuştu anası
+            gözyaşından
+doğurmuştu anası
             onu,
-bir avuç sevinçlebüyüttü.
-bir avuç hüzünlenice zorluklar 
-nice ayrılıklarve saçlarına
-            beyazlar                     
+bir avuç sevinçle
+büyüttü.
+bir avuç hüzünle
+nice zorluklar 
+nice ayrılıklar
+ve saçlarına
+            beyazlar 
+                    
             düşürerek.
-onsekizindeydibir sevgilisi vardı,
-aynı mahalledeneyüpten.
+onsekizindeydi
+bir sevgilisi vardı,
+aynı mahalleden
+eyüpten.
 henüz öpmemişti
             bile
-konfeksiyondaçalışırdı.onu vurdulargözümle gördüm onu
+konfeksiyonda
+çalışırdı.
+onu vurdular
+gözümle gördüm onu
 bir güvercin
             havalandı.
-eyüpte, o basmaperdeli evde,
+eyüpte, o basma
+perdeli evde,
 kurudu saksıdaki
             sardunya
 birdenbire
-çatladıbir fotoğrafın
+çatladı
+bir fotoğrafın
             camı.
 tel çerçeveli
-düştüradyonun üzerinden
+düştü
+radyonun üzerinden
 yere.
 dağıldı
             kitapları
-dağıldı şiirlerve roma hukuku
+dağıldı şiirler
+ve roma hukuku
 güvercin
 konamadı.
 onu vurdular,
@@ -396,7 +727,7 @@ Behçet AYSAN
 
 Behçet AYSAN
 
-### Kuşlar da Gitti
+## Kuşlar da Gitti
 
 yalnızlık senin o konuşkan kuşun
 hani hep duvarlara anlattığın
@@ -414,48 +745,78 @@ vurulmuş başında bir yokuşun.
 
 Behçet AYSAN
 
-### Sevmeyi Unutanlar İçin
+## Sevmeyi Unutanlar İçin
 
-klarınız da. 
+şklarınız da. 
 
 
 yaşamı ölüm 
+
 diye anlatıyorlar size 
+
 yalanı gerçek diye. 
 
 
 ne leylakların 
+
     tomurundan 
+
 haberiniz var 
 
 
 ne önünüzden 
+
 kara bir tabut 
+
 gibi geçen geceden. 
 
 
 sevmeyi unutmuşsunuz kardeşler 
+
 yalan aşklarınız 
+
 da. 
 
 
 Behçet AYSAN 
+
 (karasevda)
 
 Behçet AYSAN
 
-### Karanlıkta Nakış İşleyen Kızlar
+## Karanlıkta Nakış İşleyen Kızlar
   İçin
 
+or kızlar
 
+kızlar yasak düşlerde yalnızlar
+o sakallrında saklı elması
+
+büyüten aynalarında çatlağı
+
+                  
+yalnızlar
+mor bir ayrılığa gazel söyleyen
+turuncu bir aşkla lacivert kedere
+                  
+yalnızlar
+siz de kucaklayın yağmurun sesini
+akasyalar da açar bir gün gelir
+yalnızlar yalnızlar
+karanlıkta nakış işliyor kızlar.
+Behçet AYSAN
+(Karasevda)
 
 Behçet AYSAN
 
-### Beyaz Geceler
+## Beyaz Geceler
 
 anlattıkları 
+
 eskiyen 
+
 aşkaları bırakıp 
+
 yeni yükler aldıkları 
 
 
@@ -463,11 +824,16 @@ beyaz bir gecede. 
 
 
 bilmek isterdim 
+
 çamlıhemşin' li fırıncı 
+
                       
 ustanın 
+
 niçin 
+
 batum'dan göç ettiğini 
+
 kömür yüklü mavnayla 
 
 
@@ -475,30 +841,42 @@ beyaz bir gecede. 
 
 
 beyaz bir gecede 
+
 beyaz bir gecede 
 
 
 savrulmuş 
+
 buralara 
 
 
 saraybosna'dan 
+
 elinde hiç işlemediği  
 
 
                    
 nakışı
 
-kış zorlumakedonya komitacı dolubuğulanmış camları vagonların
-bakışı mavi gözleri dalgıno kadın
+kış zorlu
+makedonya komitacı dolu
+buğulanmış camları vagonların
+bakışı mavi gözleri dalgın
+o kadın
 doğurmuş sanra annemi
-bilmek isterdimbozüyük bilecik arasındabin dokuz yüz kırk yedinin martında
-tipive aç kurtlar      
+bilmek isterdim
+bozüyük bilecik arasında
+bin dokuz yüz kırk yedinin martında
+tipi
+ve aç kurtlar
+      
 saldırınca
 tepesinde bir telgraf
+
                   
 direğinin
-donangencecik hat bakıcısının
+donan
+gencecik hat bakıcısının
 hayatını.
 beyaz bir gecede.
 ne söylenecek
@@ -520,17 +898,49 @@ Behçet AYSAN
 
 Behçet AYSAN
 
-### Ateş Deresi
+## Ateş Deresi
 
+ak kıyılarında şehrin, varoşlarında
+kirli sarı dumanlar yükseliyor
+                      
+bacalarından.
+paslı
+çinkolarla kaplı çatılarında
+geçen yazdan kalmış uçurtma
+                        
+kuyrukları.
+yağmurlu bir öğle üzeri geçtim
+çamurlu yollarından
+bin dokuz yüz seksen birin şubatı.
+on bin işsiz yaşıyor burda
+yozgatlı, erzurumlu, sivaslı
+on bin dul, on bin yoksul ve aç.
+ya çocuklar, dünyanın en güzel
+                         
+çocukları
+yırtık lastikler
+ayaklarında
+okula gidiyorlar, çantalarında
+göçlerin tarihi ve yoksulluğun
+                        
+coğrafyası
 
+taşıdıkları.
+tarihi değiştirecek olan çocuklar
+dünyanın en güzel çocukları.
+Behçet AYSAN
+(Yitik Zaman Peşinde)
 
 Behçet AYSAN
 
-### Çiçekçi Kız
+## Çiçekçi Kız
 
-na papatyalar 
+ına papatyalar 
+
             
-takmışşarkılar 
+takmış
+şarkılar 
+
 söylüyor bir yandan. 
 
 
@@ -538,35 +948,47 @@ kederli şarkılar 
 
 
 haydi 
+
 çiçeklerim var. 
 
 
 bunlar küpe çiçeği 
+
            
 boynu bükük 
+
 ülkem 
+
 gibi. 
 
 
 bunlar mor 
+
          
 beyaz 
+
 kartopu 
+
 çiçekleri 
 
 
 karayazılı 
+
 erguvan 
 
 
 üzerlerine bulaşmış 
+
 abilerimim kanı. 
 
 
 bunlar zebra çiçeği 
+
 bayım, 
+
          
 hiç 
+
          
 görmediniz mi 
 
@@ -575,23 +997,28 @@ taşır aynı gökyüzünde 
 
 
 hem umutlu ayçayı 
+
 hem karanlık bir güneşi 
 
 
 ama sizin gökyüzünüz  
+
        
 var mı ki. 
 
 
 çiçeklerim var 
+
 çiçeklerim 
 
 
 ya küsmüş sardunyalardan 
+
 almaz mısınız 
 
 
 pembe açar 
+
 pembe düşler için 
 
 
@@ -599,6 +1026,7 @@ düşleriniz var mı ki. 
 
 
 yalova termal yolunda 
+
 çiçek satan çiçekçi kız 
 
 saçlarına papatyalar 
@@ -617,7 +1045,7 @@ Behçet AYSAN 
 
 Behçet AYSAN
 
-### Yazmadan Edemedim
+## Yazmadan Edemedim
 
 rüzgâr bu şiiri sana götürsün
 kâğıttan yaptığım
@@ -631,9 +1059,9 @@ yazmadan edemedim
 
 Behçet AYSAN
 
-### Aşkımızın O Kararan
+## Aşkımızın O Kararan
 
-zlıktı
+ızlıktı
              
 her şey tenha.
 2. 
@@ -646,12 +1074,15 @@ tozlu yapraklarında 
 
 
 eski 
+
 anıların 
 
 
-bakın ordabir eylül
+bakın orda
+bir eylül
 
-vurunca hayatımızın               
+vurunca hayatımızın
+               
 bordasına
 ne çıkar
           
@@ -660,6 +1091,7 @@ eylülse eylül
 bakın orda
 
 bir adam saklanıyor
+
 bir otel odasında
 
 esmer gözlüklü
@@ -729,11 +1161,14 @@ Behçet AYSAN
 
 Behçet AYSAN
 
-### Bu aşk, Bu Şehir, Bu Keder
+## Bu aşk, Bu Şehir, Bu Keder
 
-1.hoşça kal ayak izimserseri sokaklarda
+1.
+hoşça kal ayak izim
+serseri sokaklarda
 hoşça kal
-kendine bir başkagökyüzü büyüten
+kendine bir başka
+gökyüzü büyüten
 
 kardeşim
 
@@ -743,30 +1178,38 @@ hoşçakal kal çaldığım
 ıslık
 
 söylediğim türkü
+
 doludizgin karlarda.
 hoşça kal
 annemin
+
 yüzü
 
 hep beyaz yaşmaklı
 
 sırı dökülmüş bir yalnız
+
                           
 aynada.
 
 hoşça kal
 
 dolunayın
+
 altında
 
 ıhlamur ağaçlarına
 
 kazıdığım
+
 şey
 
 hoşça kal uzaklarda yanan
+
 anızların parıltısı hoşça kal.
-2.bir gün gelecek bu gün de
+2.
+bir gün gelecek bu gün de
+
 bir anı olacak nasılsa
 
 oturduğumuz bu masa
@@ -815,15 +1258,19 @@ size bırakarak.
 
 Behçet AYSAN
 
-### Beyaz Başörtülü Kadınlar
+## Beyaz Başörtülü Kadınlar
 
 ğrencisi 
+
 jose antonio yeni ayrıldı arkadaşından 
+
 şehrin ortasından kenar mahallelere 
+
 giden son otobüse koşarak bindi. 
 
 
 mavi bir yıldız bir işaret fişeği 
+
 gibi indi 
 
 
@@ -831,15 +1278,19 @@ gökyüzünden çok aşağılara. 
 
 
 ve  jose antonio 
+
 düşündü ansızın sevgilisini. 
 
 
 otobüs sarsılarak duraklardan 
+
 kalktıkça, uykusu bölünen 
+
 yorgun işçiler birer birer gittiler 
 
 
 ağır homurtularla otobüs 
+
 ağaçlı tepeyi aştı 
 
 
@@ -850,18 +1301,23 @@ saat 23.45, bir çam dalı ıslık çalmakta 
 
 
 karşı balkondaki komşu kadın telaşla 
+
 içeri girdi ve ışıklar silindi. 
 
 
 hiçbir şey anlamadı jose antonio 
+
 güz yaklaşıyordu, hüzün ve sınavlar 
+
 bahçe kapısını yavaşça araladı,
 sabah 
+
 suladığı sardunyaya baktı. 
 
 
 yüreğinde o güne kadar yaşayamadığı
 bir 
+
 telaş, hemencecik gidip yatağa
 uzanmak 
 
@@ -870,6 +1326,7 @@ günün son sigarasını yaktı. 
 
 
 anası babası ve öğrenci kardeşi 
+
 uyumuşlardı, pencereler karanlıktı 
 
 
@@ -877,10 +1334,12 @@ anahtarı cebinden çıkardı 
 
 
 ne çok ışık hepsi yandı 
+
 ağaçların arasında otomobil farları 
 
 
 jose antonio şaşırdı 
+
 silahlar üzerine doğrulmuşlardı. 
 
 
@@ -1111,12 +1570,13 @@ toplandıkları yer.
 
 Behçet AYSAN
 
-### Aşk İçin Prelüdler 1-7
+## Aşk İçin Prelüdler 1-7
 
 ağaç 
 
 
 ağacın  
+
 gölgesinde 
 
 
@@ -1124,6 +1584,7 @@ ben 
 
 
 ve uzanıp giden 
+
 sapsarı bir tül 
 
 
@@ -1134,6 +1595,7 @@ ve bir türkü 
 
 
 "daha senden gayrı aşık mı yoktur 
+
 nedir bu telaşın vay deli gönül" 
 
 
@@ -1141,6 +1603,7 @@ ve bir tren 
 
 
 ne bir düdük çalar 
+
 ne el eder 
 
 
@@ -1149,8 +1612,10 @@ kar yüklü yağmur yüklü 
 
                  
 kalbim gibi 
+
                  
 keder yüklü 
+
 bir tren 
 
 
@@ -1158,26 +1623,37 @@ durmaksızın geçer 
 
 
 o böyle bir akşam böyle bir trene 
+
                      
 bineceğini düşler 
 
 
 ben  
+
 böyle bir akşam böyle bir trenden 
+
                   
 ineceğimi 
+
 avunuruz. 
+
  
 
 
 2. 
+
 sevdalar vardır 
+
 derin kuyularda 
+
                 
 eski sarnıçlarda 
+
                            
 yaşar 
+
 gün görmüş 
+
 acılar bilmiştir 
 
 
@@ -1380,48 +1856,63 @@ Behçet AYSAN
 
 Behçet AYSAN
 
-### Deniz Feneri
+## Deniz Feneri
 
-ırtısısaatin 03'ü vurduğu zamanlar               
+ırtısı
+saatin 03'ü vurduğu zamanlar
+               
 iki yüreği birden ayağa kaldırırdı.
 
         ayaklanan yüreklerden biri olimpos'a
 gizlenirdi
+
         biri anadolu bozkırında.
 
-tam o vakit, suların koşarak                      
+tam o vakit, suların koşarak 
+                     
 rüzgara aktığı
 
-gökyüzünün uçsuz bucaksız denizi durulurdu.bir durulan deniz bendim     biri karşı
+gökyüzünün uçsuz bucaksız denizi durulurdu.
+bir durulan deniz bendim
+     biri karşı
 kıyılarda
 
 ve sabah onun için bir yol bulunurdu
+
     akmaya
 
            kibele koşar
 gelirdi.
 
-ve yine öylesi bir andabir salyangoz tırmanırdı aynı inciri
+ve yine öylesi bir anda
+bir salyangoz tırmanırdı aynı inciri
 bir küflü kilidin tık sesi duyulur
+
 saksılarda aynı sardunyaların gerinmesi
 
-bir yaşlı kadın kalkarsuskun adımlarla yürür
+bir yaşlı kadın kalkar
+suskun adımlarla yürür
 
                      
 terliklerini giyer
 
         istavroz çıkarır veya yasin
+
 okurdu
 
-kilometrelerce uzakta                    
+kilometrelerce uzakta
+                    
 ve aynı anda.
 
-keder bir buğu gibi yükselirdibir şiir başladığı dizeleri yazar
+keder bir buğu gibi yükselirdi
+bir şiir başladığı dizeleri yazar
 
         ocaktaki ateş çıtırtılarla yanardı.
 uçmaya
+
 hazırlanan külrengi bir kuş
-beş uzun yıl sonra sürgünden       
+beş uzun yıl sonra sürgünden
+       
 dönen bir adamın odasına
                            
 girebilirdi.
@@ -1486,73 +1977,113 @@ Behçet AYSAN
 
 Behçet AYSAN
 
-### Takis Petrulas' ın
+## Takis Petrulas' ın
   Selanikli Yıldıza Şiiri
 
 onu yine gece yarısı götürmüşler
+
 yaralı yüreği ve buzukisi masada
-kuru ekmek şarap yarım şiirleryıllardır görmediği bir çocuk resmi
-eksik kalan eksik bırakılan şeyleryazdığı son mektupta söylemiştigurbetse eğer benim için kendi
+
+kuru ekmek şarap yarım şiirler
+yıllardır görmediği bir çocuk resmi
+
+eksik kalan eksik bırakılan şeyler
+yazdığı son mektupta söylemişti
+gurbetse eğer benim için kendi
 ülkem
+
 bir yol, parlak yıldızların yolu
+
 dikenli tellerin arasında bir yol
+
 zeytinlerin limonların arasında.
 
-sürgünde izbe barakalarda birliktekucaklardı seslerimiz yükselir
+sürgünde izbe barakalarda birlikte
+kucaklardı seslerimiz yükselir
 göğe
-hey zor günlerin, acıların kapetanıyine yükselecek yüreğimizin şarkıları
+
+hey zor günlerin, acıların kapetanı
+yine yükselecek yüreğimizin şarkıları
+
 ne nöbetçi dinleyecek ne dar kapı
+
 kara bulutlar ayak altına girecek
+
 gür beyaz kağıtlarda barba hristos.
 
 Behçet AYSAN
 
-### Falanga
+## Falanga
 
-nisize soracak sonra yıldızlar
+ni
+size soracak sonra yıldızlar
+
 dağlar koşacak denize doğru
+
 günler ise özgürlüğe doğru
+
 çıkarın rüzgarın kelepçesini.
 
 çıkarın sözün ağzından kilidi
+
 size soracak sonra geleceğimiz
+
 evlere giden kanlı giysilerle
-baharda açan kardeşim gelincikçıkarın sözün ağzından kilidi.
+
+baharda açan kardeşim gelincik
+çıkarın sözün ağzından kilidi.
 çıkarın ışıkların peçesini
+
 hapishanelerin taş avluları
+
 ve mezarlarda dolaşan analar
+
 şarkılarımızın ecılı ezgileri
+
 çıkarın ışıkların peçesini.
 
 birlikte yürüsün gölgeleri
+
 birlikte yürüsün ölülerimizin.
 
-onu tanımıyordum hiç görmemiştimsinemanın önünde buluşacaktık
+onu tanımıyordum hiç görmemiştim
+sinemanın önünde buluşacaktık
+
 yakasında bir kırmızı karanfil
-benim elimde ikiye katlanmış                    
+
+benim elimde ikiye katlanmış
+                    
 bir avgi olacak.
 
 buluşma saati geçti
+
 kimse gelmedi.
 
 anlamıştım
+
 sintağma alanına kaçmaya başladım.
 
 peşimdeler.
 
 geceye kadar koştum
+
 koyu bir karanlığın içinde.
 
 barba hristos'un anlattıkları
+
 hep aklımdaydı, eski kapetan.
 
 bir gün başkaları da bizi anlatacak
+
 hazır olalım sözlerin
+
        pas tutmayanı için
+
                       
 çamura bulanmamış çığlıklara.
 
 adımız buydu diyelim
+
 yerimiz buydu, işte tarih
 
 ölü ellerle değil
@@ -1633,95 +2164,159 @@ Behçet AYSAN
 
 Behçet AYSAN
 
-### Barba Hristos'un Anlattıkları
+## Barba Hristos'un Anlattıkları
 
 hep yol boyunca düşündüm bunları
+
 sadece kuşlardı aralanınca ölümün kapısı
+
         şarkı söyleyen çıplak ve yalnız.
 
-sesleri çarkların ve dişlilerinseslerine benzeyen kuşlardı.
+sesleri çarkların ve dişlilerin
+seslerine benzeyen kuşlardı.
 
 babam derdi ki,
+
 "bütün tiranlar ölümlüdür"
 
-"acılı günlerde daha çok konuşacaksınama zorda kalınca da susmasını
+"acılı günlerde daha çok konuşacaksın
+ama zorda kalınca da susmasını
 bileceksin"
 
 eskiden merdiven altlarına gizlenen gölgem
+
 o saklı bulutların izlerine yapışmış
+
 gök köpürdüğü zaman çılgın düşlere dalan
 
 çocuktu.
 
-gümüş kararmıyordu ıslak değildi yağmuriğdelerin ve keçi boynuzunun üzerinde
+gümüş kararmıyordu ıslak değildi yağmur
+iğdelerin ve keçi boynuzunun üzerinde
+
             
 henüz gezinmemişti kanlı ellerimiz.
 
 ay yıkılınca
+
    ay yıkılınca
 
            koca bir çınar
 gibi üstümüze
+
            sislerin arasında
 kırmızı bir ay.
 
-kimi sözleri söylemeye sevda yetmemiştiaşkın bile umarsız halleri olurdupeki şimdi kim bildirecekti ateşin
+kimi sözleri söylemeye sevda yetmemişti
+aşkın bile umarsız halleri olurdu
+peki şimdi kim bildirecekti ateşin
 vaktini
 
 bize.
 
 Behçet AYSAN
 
-### Güneş Çaldı Kapımı
+## Güneş Çaldı Kapımı
 
+ldı kapımı
+sürgünden yeni dönmüştüm, makronissos
 
+orda kurak ve ıssız bir yüreğim 
+                           
+vardı
+
+(şimdi sizin yürekleriniz gibi)
+
+onu da getirmiştim.
+
+arkadaşlarım hariç
+
+herkes beni terketmişti.
+
+yaşamım uzun bir deniz yolculuğuna
+
+                            
+dönüşmüştü
+
+git git varılmayan
+
+kıyısız bir deniz.
+
+evet, herkes terketmişti
+
+sevgili ve hüzünlü pire
+
+eleni bile.
+
+ve güneş çaldı kapımı
+kapımı çaldı güneş.
+
+gerisini biliyorsunuz.
+Behçet AYSAN
+(Deniz Feneri)
 
 Behçet AYSAN
 
-### Fesleğenler
+## Fesleğenler
 
 üm.
 
 tam üç uzun yıl geçti, deniz
+
 orda her gün köpürürdü.
 
 ve yaşlı bir kadın her gün ağlardı
 
 hiç dönmeyecek olan
+
        bir balıkçı teknesini bekler gibi
+
                                   
 aynı kıyıda.
 
 çakıl taşlarıyla
+
 rengarenk,
 
 kırmızı mendil ve usul sesli türküleriyle
 oğlundan,
+
 bir tutukevinden gelecek
+
                       
 mektubu.
 
 üç uzun yıl
+
 benim kapımı çalan güneş
+
 onun konuk gecesiyle durmadan yer değiştirdi.
 
 fesleğenler kırağılarla
+
         eski gemi artıkları
+
                
 saban demirleriyle
+
  
+
                                      
 yer değiştirdi.
 
 beklediği mektup
+
 hiç gelmeyecekti.
 
 biraz önce nikos'u tuvalete götürdüler
+
 hücremin önünden geçerken
+
                            
 ıslık çaldı
 
 ve korkunç güzel
+
 bir portakal kokusu yayıldı ortalığa
 
 nikos'un ıslığından.
@@ -1729,6 +2324,7 @@ nikos'un ıslığından.
 oysa sıcak bir geceydi ve yazdı.
 
 işte o portakal kokusu
+
 hatırlattı bana
 
 bir gün dönmüştüm diye başlayan
@@ -1747,65 +2343,103 @@ Behçet AYSAN
 
 Behçet AYSAN
 
-### Takis Petrulas'ın Barba
+## Takis Petrulas'ın Barba
   Hristos'a Şiiri
 
 onu yine gece yarısı götürmüşler
+
 yaralı yüreği ve buzukisi masada
-kuru ekmek şarap yarım şiirleryıllardır görmediği bir çocuk resmi
-eksik kalan eksik bırakılan şeyleryazdığı son mektupta söylemiştigurbetse eğer benim için kendi
+
+kuru ekmek şarap yarım şiirler
+yıllardır görmediği bir çocuk resmi
+
+eksik kalan eksik bırakılan şeyler
+yazdığı son mektupta söylemişti
+gurbetse eğer benim için kendi
 ülkem
+
 bir yol, parlak yıldızların yolu
+
 dikenli tellerin arasında bir yol
+
 zeytinlerin limonların arasında.
 
-sürgünde izbe barakalarda birliktekucaklardı seslerimiz yükselir
+sürgünde izbe barakalarda birlikte
+kucaklardı seslerimiz yükselir
 göğe
-hey zor günlerin, acıların kapetanıyine yükselecek yüreğimizin şarkıları
+
+hey zor günlerin, acıların kapetanı
+yine yükselecek yüreğimizin şarkıları
+
 ne nöbetçi dinleyecek ne dar kapı
+
 kara bulutlar ayak altına girecek
+
 gür beyaz kağıtlarda barba hristos.
 
 Behçet AYSAN
 
-### Tekis
+## Tekis
   Petrulas'ın Selanikli Yıldıza Şiiri
 
 ne zaman kalkacak selanik treni
+
 dolunay buluta girdiği zaman
+
 acı bir siren çalacak ilk önce
+
 yüreğim prangada burkulacak
+
 bir daha ne zaman ve kim bilir.
 ne zaman kalkacak selanik treni
+
 gece mavisi göründüğü zaman
-bir mendil sallayacağım uzak şehreuzak ayrılıklara kara bir mendil
+
+bir mendil sallayacağım uzak şehre
+uzak ayrılıklara kara bir mendil
+
 her şey burda bitmiş midir.
-ne zaman kalkacak selanik treniyine bir yıldız düştüğü zamantutuşacak orda kurumuş otlarbir yıldız ki bizleri anlatangökyüzünden onun için inmiştir.
+ne zaman kalkacak selanik treni
+yine bir yıldız düştüğü zaman
+tutuşacak orda kurumuş otlar
+bir yıldız ki bizleri anlatan
+gökyüzünden onun için inmiştir.
 
 ve günler sonra babulina sokağından
+
 çığlıklarla yeni bir konuk daha gelir
 
 zayıf sarışın mavi gözlü nikos
+
 takis petrulas'ın karşısındaki hücrededir.
 
 evlerde ve işyerlerinde
+
 takvimler 25 nisan 1972'yi göstermektedir.
 böyle anlarda
+
 insan sesi ya da bir şarkı
+
                     
 ekmek gibidir
 su gibidir
+
 üç günlük susuzluğa.
-hani şarkılar vardırdilini bilmediğin
+hani şarkılar vardır
+dilini bilmediğin
 
 bir tek sözcüğü
+
 bütün bir hayatı anlaır sana
 
 manos loizos'un şarkıları gibi.
 
 o gün, öğleden
+
 akşama doğru akarken zaman
+
 ince bir su gibi ve manos loizos'un
+
                     
 şarkıları gibi
 
@@ -1813,56 +2447,82 @@ takis petrulas ikinci şiirini yazar.
 
 Behçet AYSAN
 
-### İşçi Mihali'nin Ölümü
+## İşçi Mihali'nin Ölümü
 
 kurumuş kan çamur lekeli bir fes
-petrol lambasının ölgün ışığındabir gül gibi parıldıyordu yarası.
+
+petrol lambasının ölgün ışığında
+bir gül gibi parıldıyordu yarası.
 
 sakar gençlik, evli, cebinde revolver
-geceleyin gizlice yasak kitaplardoyceorientbank yün ipek şeker.
+
+geceleyin gizlice yasak kitaplar
+doyceorientbank yün ipek şeker.
 
 kahvelerin derme çatma peykeleri
+
 bira meze yongo gazinosu rıhtımda
+
 ayak bileklerinde zil ermeni kızları.
 
 minareler çan kuleleri surlar
+
 trenler cepheye asker götürüyor
+
 1904, karanlık bir oda gibi selanik.
 
 serez çarşısı dokumacılar grevi
+
 ve bütün grevlerin iki önderi
+
 biri rum biri türk, kandiya'dan.
 
 gün ortasında esmer bir gece
+
 veles demirkapı hattı greviydi
+
 bir kurşun, işçi mihali yerde.
 
-kurumuş kan çamur lekeli bir fespetrol lambasının ölgün ışığında
+kurumuş kan çamur lekeli bir fes
+petrol lambasının ölgün ışığında
+
 bir gül gibi parıldıyordu yarası.
 
-hristos henüz kundaktaydı öldürüldüğündebabası. kandiya'dan gelen arkadaşları
+hristos henüz kundaktaydı öldürüldüğünde
+babası. kandiya'dan gelen arkadaşları
+
 onun mavi taşlı mezar boncuğunu çıkartıp
-       mihali'nin eski ceketinin                    
+
+       mihali'nin eski ceketinin
+                    
 cebine koydular ve
+
                                 
 ağladılar.
 
 "giritli doğmak ağır bir şeydi."
+
 kuğulardır ölüme giderken birlikte
+
                            
 şarkı söyleyen.
 
 barbadan bir daha haber alamadım.
+
 ikş yıl sonra yaros adasında, sürgünde öldüğünü
+
                                                        
 öğrenecektim.
 
-aşk için şarkılar söyler dururdunayrılık için şarkılar
+aşk için şarkılar söyler dururdun
+ayrılık için şarkılar
 
 on sekiz yaşın
+
 bir sokak ortasında
 
 gülüp durunca sana
+
 ve yıllar sonra
 
                  
@@ -1893,43 +2553,91 @@ dolaşırken sarı kağıdın üstünde.
 
 Behçet AYSAN
 
-### Kırık Bir Kurşunkalemin Şiiri
+## Kırık Bir Kurşunkalemin Şiiri
 
+tımda gümüş hançer
 
+yürürüm de ölemem
+
+kan damlatır karanfil.
+
+usulca mavi bir kar
+
+kara geceye düşer
+
+tutuşur fundalıklar
+
+gelir kalbimi yakar.
+
+gün olur belki öper
+
+ay ışığı acıyı
+
+o yaralı cerenler
+yanık sulara iner.
+
+yollar uzak ay bedir
+
+sırtımda gümüş hançer
+yürürüm de ölemem
+
+kan damlatır karanfil
+Behçet AYSAN
+(Deniz Feneri)
 
 Behçet AYSAN
 
-### Zeybekiko
+## Zeybekiko
 
+r
+          
 öteki ölümün çarmıha gerilişi
-ve  o ilerde hiç konuşmayan                   
-susuşun üvey yıldızı.             
-solgun, yanıp sönen              
+ve  o ilerde hiç konuşmayan
+                   
+susuşun üvey yıldızı.
+             
+solgun, yanıp sönen
+              
 düşmanlıkların
-bir gün olmayacak düşmanlıklarınolmayacak mitralyözlerin               
+bir gün olmayacak düşmanlıkların
+olmayacak mitralyözlerin
+               
 barikatların
-tutuklu kamplarınınve tel örgülerin parlak yıldızı.
-sana sesleniyorum, sesimi duybeni anla.
+tutuklu kamplarının
+ve tel örgülerin parlak yıldızı.
+sana sesleniyorum, sesimi duy
+beni anla.
       
-bir batık gemiden esen      
+bir batık gemiden esen
+      
 deli rüzgarla
                       
-geldim yanına                      
+geldim yanına
+                      
 senin, deli rüzgarla.
-yağmurdakararmış, adları okunmayan
-kırılmış mermerleri, yosun bağlamışsarıkları, harçları       
-bilemem hangisindedir       
+yağmurda
+kararmış, adları okunmayan
+kırılmış mermerleri, yosun bağlamış
+sarıkları, harçları
+       
+bilemem hangisindedir
+       
 yitirilmiş gömüt taşları
 karların altındadır.
-ilkyaz gelincesürgün açar ölülerimiz             
+ilkyaz gelince
+sürgün açar ölülerimiz
+             
 yan yana.
        
 aynı topraklarda.
-kalkarhoron teperler ve sirtaki.
-giritten dedem seslenirfoçadan senin deden
+kalkar
+horon teperler ve sirtaki.
+giritten dedem seslenir
+foçadan senin deden
         
 ilkyaz gelince
-aynı taştan evlerdeaynı at arabalarına binip
+aynı taştan evlerde
+aynı at arabalarına binip
 verirlerdi aynı selamı
 aynı gelinciklere
 ve aynı suların şarkısıyla.
@@ -1971,53 +2679,36 @@ düşsel bir şair
 
 Behçet AYSAN
 
-### Behçet AYSAN
+## Behçet AYSAN
 
-kırgınım, saçılmışbir nar gibiyim
+kırgınım, saçılmış
+bir nar gibiyim
 sessiz akan bir ırmağım
-                        gecedengit dersen giderimkal dersen kalırım
+
+                        geceden
+git dersen giderim
+kal dersen kalırım
 
 YAPITLARI
 Karşı Gece
   (1983)
+
   Sesler ve Küller (1984 Yaşar Nabi Nayır Şiir Ödülü)
+
   Eylül (1986, 1988
   Ceyhun Atuf Kansu Şiir Ödülü)
+
   Deniz Feneri (1987 Abdi İpekçi Barış ve Dostluk Ödülü)
+
   Şiirler (1990)
+
   Behçet AYSAN Kitabı (1993)
+
   Üç Kardeştiler  (Radyo Oyunu, 1995) 
 KARŞI GECE
-
-
-
-
-
-
 SESLER VE KÜLLER
-
-
-
-
-
-
 EYLÜL
-
-
-
-
 DENİZ FENERİ
-
-
-
-
-
-
-
-
-
-
-
 
     
  

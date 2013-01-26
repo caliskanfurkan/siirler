@@ -1,6 +1,6 @@
-## Berrin TAŞ
+# Berrin TAŞ
 
-### Cehennem Şiirleri
+## Cehennem Şiirleri
 
 18 Aralık 2000
 Akşamüstü...
@@ -42,7 +42,7 @@ yitirmektir günbatımını
 
 Berrin TAŞ
 
-### Erik Ağacının Altında
+## Erik Ağacının Altında
 
 Bir kent neyi anlatır
 kanat çırpışlarıyla gelir

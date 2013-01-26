@@ -1,8 +1,7 @@
-## Cemal SÜREYA
+# Cemal SÜREYA
 
-Cemal SÜREYA
-
-### 1994 Eliyle, Samanyolu'na
+## 1994 Eliyle,
+  Samanyolu'na
 
 Yaşadım, Tanrım,
 Yarım ve uluorta,
@@ -20,28 +19,40 @@ Eşcinsel olurum.
 
 Cemal SÜREYA
 
-### Adam
+## Adam
 
-Adam şapkasına rastladı sokakta
-Kimbilir kimin şapkası
-Adam ne yapıp yapıp hatırladı
-Bir kadın hatırladı sonuna kadar beyaz
-Bir kadın açtı pencereyi sonuna kadar
-Bir  kadın kimbilir kimin karısı
-Adam ne yapıp yapıp hatırladı.
+Adam şapkasına
+            rastladı sokakta
 
-Yıldızlar kıyamet gibiydi kaldırımlarda 
-Çünkü biraz evvel yağmur yağmıştı 
-Adam bulut gibiydi, hatırladı
-Adamın ayaklarının altında
-Yıldızların yıldız olduğu vardı 
-Adam yıldızlara basa basa yürüdü 
-Çünkü biraz önce yağmur yağmıştı.
+            Kimbilir kimin şapkası
 
+            Adam ne yapıp yapıp hatırladı
+
+            Bir kadın hatırladı sonuna kadar beyaz
+
+            Bir kadın açtı pencereyi sonuna kadar
+
+            Bir  kadın kimbilir kimin karısı
+
+            Adam ne yapıp yapıp hatırladı.
+
+            Yıldızlar kıyamet gibiydi kaldırımlarda
+Çünkü biraz evvel
+            yağmur yağmıştı
+Adam bulut gibiydi,
+            hatırladı
+
+            Adamın ayaklarının altında
+
+            Yıldızların yıldız olduğu vardı
+Adam yıldızlara basa
+            basa yürüdü
+Çünkü biraz önce
+            yağmur yağmıştı.
 
 Cemal SÜREYA
 
-### Afrika
+## Afrika
 
 Afrika dediğin bir garip kıta
 El bilir âlem bilir
@@ -51,39 +62,65 @@ Haritalarda
 
 Cemal SÜREYA
 
-### Aşk
+## Aşk
 
-Şimdi sen kalkıp gidiyorsun. Git 
-Gözlerin durur mu onlar da gidiyorlar. Gitsinler.
-Oysa ben senin gözlerinsiz edemem bilirsin 
-Oysa Allah bilir bugün iyi uyanmıştık 
-Sevgideydi ilk açılışı gözlerimizin sırf onaydı 
-Bir kuş konmuş parmaklarıma uzun uzun ötmüştü 
-Bir sevişmek gelmiş bir daha gitmemişti 
-Yoktu dünlerde evelsi günlerdeki yoksulluğumuz 
-Sanki hiç olmamıştı
+Şimdi sen kalkıp
+            gidiyorsun. Git
+Gözlerin durur mu
+            onlar da gidiyorlar. Gitsinler.
 
-Oysa kalbim işte şuracıkta çarpıyordu
-Şurda senin gözlerindeki bakımsız mavi, güzel laflı 
-                                                            İstanbullar
-Şurda da etin çoğalıyordu dokundukça lafların
-                                                            dünyaların
-Öyle düzeltici öyle yerine getiriciydi sevmek
-Ki Karaköy köprüsüne yağmur yağarken
-Bıraksalar gökyüzü kendini ikiye bölecekti
-Çünkü iki kişiydik
+            Oysa ben senin gözlerinsiz edemem bilirsin
+Oysa Allah bilir
+            bugün iyi uyanmıştık
+Sevgideydi ilk
+            açılışı gözlerimizin sırf onaydı
+Bir kuş konmuş
+            parmaklarıma uzun uzun ötmüştü
+Bir sevişmek gelmiş
+            bir daha gitmemişti
+Yoktu dünlerde evelsi
+            günlerdeki yoksulluğumuz
+Sanki hiç
+            olmamıştı
+Oysa kalbim işte
+            şuracıkta çarpıyordu
 
-Oysa bir bardak su yetiyordu saçlarını ıslatmaya
-Bir dilim ekmeğin bir iki zeytinin başınaydı doymamız
-Seni bir kere öpsem ikinin hatırı kalıyordu
-İki kere öpeyim desem üçün boynu bükük
-Yüzünün bitip vücudunun başladığı yerde
-Memelerin vardı memelerin kahramandı sonra 
-Sonrası iyilik güzellik.
+            Şurda senin gözlerindeki bakımsız mavi, güzel
+            laflı
+                                                           
+            İstanbullar
+
+            Şurda da etin çoğalıyordu dokundukça lafların
+
+                                                                       
+            dünyaların
+
+            Öyle düzeltici öyle yerine getiriciydi sevmek
+
+            Ki Karaköy köprüsüne yağmur yağarken
+
+            Bıraksalar gökyüzü kendini ikiye bölecekti
+
+            Çünkü iki kişiydik
+
+            Oysa bir bardak su yetiyordu saçlarını ıslatmaya
+
+            Bir dilim ekmeğin bir iki zeytinin başınaydı
+            doymamız
+
+            Seni bir kere öpsem ikinin hatırı kalıyordu
+
+            İki kere öpeyim desem üçün boynu bükük
+
+            Yüzünün bitip vücudunun başladığı yerde
+
+            Memelerin vardı memelerin kahramandı sonra
+Sonrası iyilik
+            güzellik.
 
 Cemal SÜREYA
 
-### Balzamin
+## Balzamin
 
 Sen el kadar bir kadınsındır
 Sabahlara kadar beyaz ve kirpikli
@@ -100,77 +137,192 @@ Sevgili
 
 Cemal SÜREYA
 
-### Beni Öp Sonra Doğur Beni
+## Beni Öp Sonra
+  Doğur Beni
 
 Şimdi
-utançtır tanelenen
-sarışın çocukların başaklarında.
 
-Ovadan
-gözü bağlı bir leylak kokusu ovadan
-çeviriyor o küçücük güneşimizi.
+            utançtır tanelenen
 
-Taşarak evlerden taraçalardan
-gelip sesime yerleşiyor.
+            sarışın çocukların başaklarında.
 
-Sesimin esnek baldıranı
-sesimin alaca baldıranı.
+            Ovadan
 
-Ve kuşlara doğru
-fildişi: rüzgarın tavrı.
-Dağ: güneş iskeleti.
+            gözü bağlı bir leylak kokusu ovadan
 
-Tahta heykeller arasında
-denizin yavrusu kocaman.
+            çeviriyor o küçücük güneşimizi.
 
-Kan görüyorum taş görüyorum
-bütün heykeller arasında
-karabasan ılık acemi
-- uykusuzluğun sütlü inciri - 
+            Taşarak evlerden taraçalardan
+
+            gelip sesime yerleşiyor.
+
+            Sesimin esnek baldıranı
+
+            sesimin alaca baldıranı.
+
+            Ve kuşlara doğru
+
+            fildişi: rüzgarın tavrı.
+
+            Dağ: güneş iskeleti.
+
+            Tahta heykeller arasında
+
+            denizin yavrusu kocaman.
+
+            Kan görüyorum taş görüyorum
+
+            bütün heykeller arasında
+
+            karabasan ılık acemi
+
+            - uykusuzluğun sütlü inciri -
 kovanlara sızmıyor.
 
-Annem çok küçükken öldü
-beni öp, sonra doğur beni.
+            Annem çok küçükken öldü
+
+            beni öp, sonra doğur beni.
 
 Cemal SÜREYA
 
-### Bu Bizimki
+## Bu Bizimki
 
-Yıkıcı bir aşk bu,Yıkıyor milletin ortasınaTutku yükünü.
-Bölücü bir aşk,Ekmeği suyu bölüyorGünde üç öğün.
-Hain bir aşk bu,Sizin eve hırsız girerOnunkine polis.
-Yasadışı bir aşk ,EvlenmeyiHiç mi hiç düşünmüyor.
-Soyguncu bir aşk bu,En sıradan ezgilerdenSevinçler devşiriyor.
-Kökü dışarda bir aşk,Dante ile Beatrice'inkineFena öykünüyor.
-İşgalci bir aşk bu, Samanlık sevişenin diyorBaşka şey demiyor.
+Yıkıcı bir aşk bu,
+Yıkıyor milletin ortasına
+Tutku yükünü.
+Bölücü bir aşk,
+Ekmeği suyu bölüyor
+Günde üç öğün.
+Hain bir aşk bu,
+Sizin eve hırsız girer
+Onunkine polis.
+Yasadışı bir aşk ,
+Evlenmeyi
+Hiç mi hiç düşünmüyor.
+Soyguncu bir aşk bu,
+En sıradan ezgilerden
+Sevinçler devşiriyor.
+Kökü dışarda bir aşk,
+Dante ile Beatrice'inkine
+Fena öykünüyor.
+İşgalci bir aşk bu, 
+Samanlık sevişenin diyor
+Başka şey demiyor.
 
 Cemal SÜREYA
 
-### Cıgarayı Attım
+## Cıgarayı Attım
   Denize
 
+nu bölüyoruz
+Gökyüzünün o meşhur maviliğinde
 
+Uzun saçlı iri memeli kadınlarıyla
+
+Bir akdeniz şehri çıkabilir içinde
+
+Alıp yaracak olsa yüreğini
+
+Şimdi bir güvercinin
+
+Şimdi sen tam çağındasın yanına varılacak
+
+Önünde durulacak tam elinden tutulacak
+
+Hangi bir elinden güzelim hangi bir
+Bir elinde kızlığın duruyor garip
+huysuz
+
+Öbür elinde yetişkin bir günışığı
+
+Daha öbür elinde de kilometrelerce hürlük
+
+Çalışan insanlar için akşamlara kadar
+
+Toz duman içinde
+
+Bir elinde de boyuna ekmek kesiyorsun
+
+Biz eskiden de en aşağı böyleydik senlen
+
+Bir bulut geçiyorsa onu görürdük
+
+Bir minarenin keyfine diyecek yoksa onu
+
+Bir adam boyuna yoksulluk ediyorsa onu
+
+Ne zaman hürlüğün barışın sevginin aşkına
+
+Bir cıgara atmışsak denize
+
+Sabaha kadar yandı durdu
+1954
+Cemal SÜREYA
+(Üvercinka)
 
 Cemal SÜREYA
 
-### Düello
+## Düello
 
-daDaha büyük bir şey vardırVe daha acıdır buÖlümden de ölüm korkusundan da
-Bakarsın dün en güvendiğin kişiKarşı tarafın şahidi olmuşİşte acıdır bu daÖlümden de korkusundan da
-Daha da acısı vardır amaO da sevdiğin kadınınKarşı tarafı ziyaret etmesidirBu bir nezaket ziyareti de olsaDüello gerçekleşmemiş de olsaAcıdır buOndan da ondan da
-Daha da acısıKılıcın elindeAlnında bir tutam güneşKalakalıyorsun ortada
+da
+Daha büyük bir şey vardır
+Ve daha acıdır bu
+Ölümden de ölüm korkusundan da
+Bakarsın dün en güvendiğin kişi
+Karşı tarafın şahidi olmuş
+İşte acıdır bu da
+Ölümden de korkusundan da
+Daha da acısı vardır ama
+O da sevdiğin kadının
+Karşı tarafı ziyaret etmesidir
+Bu bir nezaket ziyareti de olsa
+Düello gerçekleşmemiş de olsa
+Acıdır bu
+Ondan da ondan da
+Daha da acısı
+Kılıcın elinde
+Alnında bir tutam güneş
+Kalakalıyorsun ortada
 Cemal SÜREYA
 
 Cemal SÜREYA
 
-### Düşüncesi Değil
+## Düşüncesi Değil
   Kendisi
 
+ın
 
+Bir sürü adı vardır.
+Üsküdara'a at yollar.
+
+Fırat suyu bütün bir bölgeyi
+Takma adlarla dolanmak
+
+Zorundadır.
+
+Ölüm güney yarımkürede
+
+Çok sığ ve sonsuz geniş
+
+Bir ırmaktır
+
+Ganj da derler ona
+
+Ölüm deyince
+
+Zamansızlığın ortalarında
+
+İstanbul'da enderun ağaları
+
+Padişahın buyruğuyla
+
+Kartopuna tutar birbirini
+(Sıcak Nal)
+Cemal SÜREYA
 
 Cemal SÜREYA
 
-### Edip Cansever
+## Edip Cansever
 
 Yeşil ipek gömleğinin yakası
 Büyük zamana düşer.
@@ -180,7 +332,7 @@ Fazla şiirden öldü Edip Cansever.
 
 Cemal SÜREYA
 
-### Fotoğraf
+## Fotoğraf
 
 Durakta üç kişi
 Adam kadın ve çocuk
@@ -200,7 +352,7 @@ Hüzünlü şarkılar gibi güzel
 
 Cemal SÜREYA
 
-### Gece Bitkilerinden
+## Gece Bitkilerinden
 
 Gece bitkilerinden korkuyorum,
 Hayır, geceleri bitkilerden!
@@ -217,49 +369,88 @@ Keşke yalnız bunun için sevseydim seni.
 
 Cemal SÜREYA
 
-### Göçebe
+## Göçebe
 
 ın biri
+
 Gözlerimin gemileri kuş istiyor
+
 Açılıp kapandıkça sevdam
+
 Kapanıp açılıyor bir mavi
+
 Şahmaran süt istiyor kefeninden
+
 Üç aylık ölmüş çocukların
-Kerem ile Arzu geliyor Aslı ile KanberAy kana kana batıyor
-Ay kana kana batıyorEşkiyalar gecenin yangınını izliyor
+
+Kerem ile Arzu geliyor Aslı ile Kanber
+Ay kana kana batıyor
+Ay kana kana batıyor
+Eşkiyalar gecenin yangınını izliyor
 uzakta
-Kargapazarı dağlarını dolanan yaşlı ve öfkeli bir                                                     
+
+Kargapazarı dağlarını dolanan yaşlı ve öfkeli bir
+                                                     
 otobüsteyim
+
 Jandarma daima nesirde kalacaktır
+
 Eşkiyalar silahlarını çapraz astıkça türkülerine
+
 Ve bu dağlar böyle eşkiya güzelliği taşıdıkça
+
 Patronun karısını zimmetine geçirip
+
 Amasya'dan Kars'a kaçmakta olan sayman yardımcısıyla
+
 Alevilikten konuşuyoruz uzun süre
+
 Yanımdaki hep bir gazetede Marilym Monroe'nun
+
                                                
 resimlerine bakıyor
+
 Marilyn Monroe öldü diyorum ona
+
 Ölümü siyah bir kakül gibi alnına düşürmesini bildi
+
 Şimdiyse Cennette Nietzsche'nin metresi olması gerekir
-Bunları diyorum daha ne varsa diyorumİşte hiçbir sebep olmadığını sevişmemeyeİşte çocukluğumdan beri içimde
+
+Bunları diyorum daha ne varsa diyorum
+İşte hiçbir sebep olmadığını sevişmemeye
+İşte çocukluğumdan beri içimde
 bir önsezi olduğunu
+
 Bunun bir gün birine rastlamak gibi bir şey olduğunu
+
 Belki de bir günler bunun için Aydın'da
+
                                          
 bulunduğumu
+
 Zaten nedense hep bir şehirden bir şehre yolcu
+
                                                           
 olduğumu
+
 İşte eflatun kakalı çocuklar olduğunu Kütahya'da
+
 Ankara'da dokunak Yozgat'ta becerik olduğunu
+
 Van'da güreşçi develer gibi süslediklerini kamyonları
-İstanbul'da minarelerin lirik olduğunu köprülerinse                                                                         
+
+İstanbul'da minarelerin lirik olduğunu köprülerinse
+                                                                         
 dialektik
-Acemi bir bulut bozuyor bütün görüntüyü eski bir şarkı                                                                         
+
+Acemi bir bulut bozuyor bütün görüntüyü eski bir şarkı
+                                                                         
 gibi
+
 Bu şarkıyı ne zaman duysam aklıma
+
 Sinirli bir elin uysal bir bardağa
+
 Çok yukardan döktüğü bir içki gelir
 
 Sonsuz ve olağanüstü bir bira
@@ -383,7 +574,7 @@ Cemal SÜREYA
 
 Cemal SÜREYA
 
-### Gül
+## Gül
 
 Gülün tam ortasında ağlıyorum
 Her akşam sokak ortasında öldükçe
@@ -405,49 +596,87 @@ Ve zurnanın ucunda yepyeni bir çingene
 
 Cemal SÜREYA
 
-### Ğ Vitamini.
+## Ğ Vitamini.
 
+Bir vitamin buldular
 
+Çalışınca azıcık;
+Yumuşak G vitamini:
+Ulusalcılık!
+(Uçurumda Açan)
+Cemal SÜREYA
 
 Cemal SÜREYA
 
-### Güzelleme
+## Güzelleme
 
-ki artık o kadar olur  Bunlar da saçların işte
-            akşamdan çözülü  Bak bu sensin çocuğum
-            enine boyuna  Bu da yatak olduğuna
-            göre altımızdaki  Sabahlara kadar
+ki artık o kadar olur  
+Bunlar da saçların işte
+            akşamdan çözülü  
+Bak bu sensin çocuğum
+            enine boyuna  
+Bu da yatak olduğuna
+            göre altımızdaki  
+Sabahlara kadar
             koynumda yatmışsın
-            Bak bende yalan yok vallahi billahi  Sen o kadar güzelsin
+
+            Bak bende yalan yok vallahi billahi  
+Sen o kadar güzelsin
             ki artık o kadar olur  
 İşe bak sen gözlerin
-            de burda  Gözlerinin ucu da
-            burda yaşamaya alışık  İyi ki burda yoksa
-            ben ne yapardım  Bak çocuğum kolların
-            işte çıplak işte  Bak gizlisi saklısı
-            kalmadı günümüzün  Gözlerin sabahın
-            sekizinde bana açık  Ne günah işlediysek
+            de burda  
+Gözlerinin ucu da
+            burda yaşamaya alışık  
+İyi ki burda yoksa
+            ben ne yapardım  
+Bak çocuğum kolların
+            işte çıplak işte  
+Bak gizlisi saklısı
+            kalmadı günümüzün  
+Gözlerin sabahın
+            sekizinde bana açık  
+Ne günah işlediysek
             yarı yarıya  
 Sen asıl bunlara
-            bak bunlar dudakların  Bunların konuşması
-            olur öpülmesi olur  Seni usulca öpmüştüm
-            ilk öptüğümde  Vapurdaydık vapur kıyıya
-            gidiyordu  Üç kulaç öteden İstanbul
-            gidiyordu  Uzanmış seni usulca
-            öpmüştüm  Hemen yanımızdan balıklar
+            bak bunlar dudakların  
+Bunların konuşması
+            olur öpülmesi olur  
+Seni usulca öpmüştüm
+            ilk öptüğümde  
+Vapurdaydık vapur kıyıya
+            gidiyordu  
+Üç kulaç öteden İstanbul
+            gidiyordu  
+Uzanmış seni usulca
+            öpmüştüm  
+Hemen yanımızdan balıklar
             gidiyordu.  
 Cemal SÜREYA 
-            (Üvercinka)
+            
+(Üvercinka)
 
 Cemal SÜREYA
 
-### Hükümet
+## Hükümet
 
+nu anladık.
+Yunus Emre'ye de
 
+Bası kartı vermiyor,
+Onu da anladık.
+Ama bu hükümet
+
+Ferman çıkarmış
+
+Karacaoğlan'ı
+
+Otobüse bindirtmiyor.
+(Yeni Yaprak, sayı:11. Kasım 1989)
+Cemal SÜREYA
 
 Cemal SÜREYA
 
-### İntihar
+## İntihar
 
 Sen tam tabancayı
 Şakağına dayamışsın;
@@ -458,14 +687,14 @@ Bir leylak sesi...
 
 Cemal SÜREYA
 
-### Kahvaltı
+## Kahvaltı
 
 Yemek yemek üstüne ne düşünürsünüz bilmem
 Ama kahvaltının mutlulukla bir ilgisi olmalı
 
 Cemal SÜREYA
 
-### Mezartaşı Çiçekleri
+## Mezartaşı Çiçekleri
 
 70.000 aşk ve 90.000.000 dize:
 Ünlü şair İlhan Berk burda yatıyor!
@@ -474,27 +703,94 @@ Yukardaki sayıya bir sıfır da sen ekle.
 
 Cemal SÜREYA
 
-### Nehirler
+## Nehirler
   Boyunca Kadınlar Gördüm
 
+lar
 
+Hepsine yüzer kere rastladım en azdan
+
+Umustsuz sevdalara tutulmak onlarda
+
+Bozkıra doğru seyrele seyrele yaşamak onlarda
+
+Verdi mi adama her şeylerini verirler
+Ben gördüm ne gördümse kadınlarda
+Porsuk nehrinin geçtiği
+
+Kızılırmak parça parça olasın
+Bir parça ekmek siyah, on kuruşluk
+kına kırmızı
+
+Taş toprak arasında türküler arasında
+
+Karanlıkta bir yanları örtük bir yanları üryan
+
+Kocaman gözleriyle oy anam bu kadar dokunaklı
+
+Kimler ürkütmüş acaba bu kadar kadını
+Dicle kıyılarına tiren varınca
+
+Büyük bir gökyüzü git allahım git
+Genel olarak önce kaşları görünür
+
+Sonra bütünsüz uykuları kaşla göz arasında
+
+Yanaklarında çıban izi taşıyan kadınlar
+
+Gül kurusu
+
+Bir gün sizin de yolunuz düşer memlekete
+
+Siz de görürsünüz bunları kadınlarda
+
+Ödevleri  yenilmek olan hep
+
+Bıçakla kemik arasında
+
+Susmakla ağlamak arasında
+
+Yenilmek
+
+Kadınlar
+(1955)
+
+(Üvercinka)
+Cemal SÜREYA
 
 Cemal SÜREYA
 
-### Ölüm
+## Ölüm
 
 Ölüm geliyor aklıma birden ölüm
 Bir ağacın gövdesine sarılıyorum.
 
 Cemal SÜREYA
 
-### Önceleyin
+## Önceleyin
 
+ızlığımla
+benim aramda
+Sonra birden kapılar açılıverdi
+ardına kadar
+Sonra yüzün onun ardından gözlerin
+dudakların
+Sonra her şey çıkıp geldi
+Bir korkusuzluk aldı yürüdü çevremizde
 
+Sen çıkardın utancını duvara astın
+
+Ben masanın üstüne kodum kuralları
+
+Her şey işte böyle oldu önce
+1954
+
+Cemal SÜREYA
+(Üvercinka)
 
 Cemal SÜREYA
 
-### Park
+## Park
 
 Öyle sevdim ki seni
 Öylesine sensin ki!
@@ -503,14 +799,20 @@ Tattırdığın acılar.
 
 Cemal SÜREYA
 
-### San
+## San
 
-Kırmızı bir kuştur soluğumKumral göklerinde saçlarınınSeni kucağıma alıyorumTarifsiz uzuyor bacakların
-Kırmızı bir at oluyor soluğumYüzümün yanmasından anlıyorumYoksuluz gecelerimiz çok kısaDörtnala sevişmek lazım.
+Kırmızı bir kuştur soluğum
+Kumral göklerinde saçlarının
+Seni kucağıma alıyorum
+Tarifsiz uzuyor bacakların
+Kırmızı bir at oluyor soluğum
+Yüzümün yanmasından anlıyorum
+Yoksuluz gecelerimiz çok kısa
+Dörtnala sevişmek lazım.
 
 Cemal SÜREYA
 
-### Sayım
+## Sayım
 
 Ayışığında oturduk
 Bileğinden öptüm seni
@@ -535,31 +837,95 @@ Kaynağından öptüm seni
 
 Cemal SÜREYA
 
-### Söz Yitimi
+## Söz Yitimi
 
+sa bir doğa parçasının
+Altını mı çizdiriyorlar bize?
 
+2.
+Ellerimizde küçük kağıt kutular
+
+Yüzlerimiz asılsız.
+
+3.
+
+Bir yere geldik ki
+
+Hiçbir sokağın adın yok.
+
+4.
+
+Binlerce çocuk,
+Siyah-beyaz bir kuşak,
+
+Ötelerden sessizce.
+
+5.
+
+Cebimde bir paket sigara
+
+Bir tırnak makası
+
+Bir mendil
+
+Ve bir küçük yaratık
+
+Ne olduğunu bilmediğim.
+
+6.
+
+Bir yere geldik ki
+
+Güneş heyy!
+Ay, ayy!
+7.
+Bu toptan içine devrildiğimiz
+
+Bu bir şey, bir değirmi,
+Anlatılmaz bu, bu bir gülümseme.
+
+8.
+
+Öteşiirde
+Batar çıkar sözcüklerimiz.
+(Sıcak Nal)
+Cemal SÜREYA
 
 Cemal SÜREYA
 
-### Şiir
+## Şiir
 
 İstanbullar geminin altında
-Kadınları sorarsan onlar da öyle
-Şişeler de geminin altında, Güzin de
-Allahtan beni kimsecikler görmüyor
-Canımın istediğini yapıyorum
-Çırılçıplak sularda yıkanıyorum, utanıyorumGüzin utanmak istiyor ama nerdeNasıl utanacak bu boş şehirde
 
-Güzin utanmak gerektiğini ileri sürüyorBoyuna ileri sürüyor, gözleri mavi
-Güzinciğim ufak bir kadın bir öpüşlük canı varHakkın var diyorum utanıyorum
+Kadınları sorarsan onlar da öyle
+
+Şişeler de geminin altında, Güzin de
+
+Allahtan beni kimsecikler görmüyor
+
+Canımın istediğini yapıyorum
+
+Çırılçıplak sularda yıkanıyorum, utanıyorum
+Güzin utanmak istiyor ama nerde
+Nasıl utanacak bu boş şehirde
+
+Güzin utanmak gerektiğini ileri sürüyor
+Boyuna ileri sürüyor, gözleri mavi
+
+Güzinciğim ufak bir kadın bir öpüşlük canı var
+Hakkın var diyorum utanıyorum
+
 Ama İstanbullular kadınlar deniz yıldızları
+
 Hepsi hepsi geminin altında
+
 Şişeler de orda çuvalın üstünde
+
 Elimle koymuş gibi biliyorum
 
 Cemal SÜREYA
 
-### Şu da Var
+## Şu da Var
 
 Bir de sen koynumda yatıyorsun
 Güzelsin güzelliğin mutlak amenna
@@ -573,7 +939,7 @@ Ne yapıp yapıp denizi görmek isterim
 
 Cemal SÜREYA
 
-### Tabanca
+## Tabanca
 
 Sigara içenlere ateş etmeyiniz
 Evli bir kadınla rakı içerken
@@ -592,14 +958,14 @@ Ben çok seviyorum siz de seviniz
 
 Cemal SÜREYA
 
-### Tek Yasak
+## Tek Yasak
 
 Özgürlüğün geldiği gün
 O gün ölmek yasak!
 
 Cemal SÜREYA
 
-### Turgut Uyar
+## Turgut Uyar
 
 Ak odada oturur
 Kapısı penceresinden çok
@@ -624,7 +990,7 @@ Hepimizi işten attılar
 
 Cemal SÜREYA
 
-### Üstü Kalsın
+## Üstü Kalsın
 
 Ölüyorum tanrım
 Bu da oldu işte.
@@ -639,64 +1005,102 @@ Fena değildir...
 
 Cemal SÜREYA
 
-### Üvercinka
+## Üvercinka
 
 Böylece bir kere daha boynunlayız sayılı yerlerinden
-En uzun boynun bu senin dayanmaya ya da umudu                                                              
+
+En uzun boynun bu senin dayanmaya ya da umudu 
+                                                             
 kesmemeye
+
 Laleli'den dünyaya doğru giden bir tramvaydayız
+
 Birden nasıl oluyor sen yüreğimi elliyorsun
+
 Ama nasıl oluyor sen yüreğimi eller ellemez
+
 Sevişmek bir kere daha yürürlüğe giriyor
+
 Bütün kara parçalarında
+
                           
 Afrika dahil
 
 Aydınca düşünmeyi iyi biliyorsun eksik olma
+
 Yatakta yatmayı bildiğin kadar
+
 Sayın Tanrıya kalırsa seninle yatmak günah, daha neler
+
 Boşunaymış gibi bunca uzaması saçlarının
+
 Ben böyle canlı saç görmedim ömrümde
+
 Her telinin içinde ayrı bir kalp çarpıyor
+
 Bütün kara parçaları için
+
                           
 Afrika dahil
 Senin bir havan var beni asıl saran
-oOnunla daha bir değere biniyor
+o
+Onunla daha bir değere biniyor
 soluk almak
+
 Sabahları acıktığı için haklı
+
 Gününü kazanıp kurtardı diye güzel
+
 Birçok çiçek adları gibi güzel
+
 En tanınmış kırmızılarla açan
+
 Bütün kara parçalarında
+
                           
 Afrika dahil
 
 Birlikte mısralar düşünüyoruz ama iyi ama kötü
-Boynun diyorum boynunu benim kadar kimse                                                  
+
+Boynun diyorum boynunu benim kadar kimse 
+                                                 
 değerlendiremez
+
 Bir mısra daha söylesek sanki her şey düzelecek
+
 İki adım daha atmıyoruz bizi tutuyorlar
+
 Böylece bizi bir kere daha tutup kurşuna diziyorlar
-Zaten bizi her gün sabahtan akşama kadar kurşuna                                                           
+
+Zaten bizi her gün sabahtan akşama kadar kurşuna
+                                                           
 diziyorlar
+
 Bütün kara parçalarında
+
                            
 Afrika dahil
 
 Burda senin cesaretinden laf açmanın tam da sırası
+
 Kalabalık caddelerde hürlüğün şarkısına katılırkenki
+
 Padişah gibi cesaretti o, alımlı değme kadında yok
+
 Aklıma kadeh tutuşların geliyor
+
 Çiçek Pasajında akşamüstleri
+
 Asıl yoksulluk ondan sonra başlıyor
+
 Bütün kara parçalarında
+
                           
 Afrika hariç değil
 
 Cemal SÜREYA
 
-### Yabancı Dil
+## Yabancı Dil
 
 Beş dil biliyormuş ünlü kişi
 Ünlü ve saygıdeğer
@@ -705,13 +1109,54 @@ Altı eder
 
 Cemal SÜREYA
 
-### Yazmam Daha Aşk Şiiri
+## Yazmam Daha Aşk Şiiri
 
+onu
 
+Kuşlar bakımından uçarı
+
+Çocuk tutumuyla beklenmedik
+
+Uzatmış ay aydınlık karanlığıma
+
+Nerden uzatmışsa tenha boynunu
+
+Dünyanın en güzel kadını oydu
+
+Saçlarını tarasa baştan başa rumeli
+
+Otursa ama hiç oturmaz ki
+
+Kan kadını rüzgardı atların
+
+Hep andım ne yaşanır olduğunu
+
+En çok neresi mi ağzıydı elbet
+
+Bütün duyarlıklara ayarlı
+
+Öpüşlerin türlüsünden elhamra
+
+Sınırsız denizinde çarşafların
+
+Bir gider bir gelirdi işlek ağzı
+
+Ah şimdi benim gözlerim
+
+Bir ağlamaktı tutturmuş gidiyor
+
+Bir kadın gömleği üstümde
+
+Günün maviliği ondan
+
+Gecenin horozu ondan
+(1957)
+Üvercinka
+Cemal SÜREYA
 
 Cemal SÜREYA
 
-### A Butt Cast In The Sea
+## A Butt Cast In The Sea
 
 Share now a pigeon's flight 
 Bluebound along the ancient skies, 
@@ -737,7 +1182,48 @@ In the name of liberty, peace, and love
 It keeps glowing till daybreak.
 
 
+Çeviri:
+
+Cemal SÜREYA
+
+## Rose
+
+Seated at the core of the rose I weep 
+As I die in the street each night 
+Ahead and beyond all unmindful 
+Pang upon pang of dark diminution 
+Of eyes upheld blissful with life 
+
+Your hands are in my caress into dusk 
+Hands forever white forever white 
+Cast into my soul icicles of fright 
+A train a while at the station 
+A man who lost the station to me 
+
+On my face I rub the rose 
+Fallen forlorn over the pavement 
+And cut my body limb by limb 
+Bloodgush doomsday madmusic 
+On the horn a gypsy is reborn
+
 
 Çeviri:
+
+Cemal SÜREYA
+
+## The Yellow Heat
+
+My breath is a red bird 
+In the fair-brown of your hair, 
+As I embrace you 
+Your legs grow long endlessly. 
+
+My breath is a red horse, 
+The burning on my cheeks tell me; 
+We are alone, our nights short, 
+Let us make love at full tilt.
+
+
+Çeviri: Murat NEMET - NEJAT
 
 Cemal SÜREYA

@@ -1,6 +1,6 @@
-## Arkadaş Zekai ÖZGER
+# Arkadaş Zekai ÖZGER
 
-### Aşkla Sana
+## Aşkla Sana
 
 alnını
 dağ ateşiyle ısıtan
@@ -93,7 +93,7 @@ yarın yeni bir yeşillik büyüyecek
 
 Arkadaş Zekai ÖZGER
 
-### Bir Gün Sevişmeyi Bana
+## Bir Gün Sevişmeyi Bana
 
 kandan 
 ve ceninden bir gün daha
@@ -156,7 +156,7 @@ bir gün bana sevişmeyi öğreticek.
 
 Arkadaş Zekai ÖZGER
 
-### Ferhat
+## Ferhat
 
 kara yeller ak yelleri dövende
 sevdanı yüreğine kuşat
@@ -180,7 +180,7 @@ kalırsam vuruşkan şahan gibi
 
 Arkadaş Zekai ÖZGER
 
-### Gezgin
+## Gezgin
 
 dün geldim
 geç kalsam da bağışlanır
@@ -330,7 +330,7 @@ edemezmiş küçükleri kendine kul
 
 Arkadaş Zekai ÖZGER
 
-### Günler Perişan
+## Günler Perişan
 
 yırtarak geçiyor kalbimizden
 hayatı da törpüleyen zaman
@@ -411,7 +411,7 @@ günler perişan
 
 Arkadaş Zekai ÖZGER
 
-### Kan Reçetesi
+## Kan Reçetesi
 
 Kara bir gök için çok şey söylenebilir elbet
 
@@ -522,7 +522,7 @@ sensiz birşey yapamam.
 
 Arkadaş Zekai ÖZGER
 
-### Merhaba Canım
+## Merhaba Canım
 
 ben az konuşan çok yorulan biriyim
 şarabı helvayla içmeyi severim
@@ -557,7 +557,7 @@ zeki müreni seviceksiniz
 
 Arkadaş Zekai ÖZGER
 
-### Orman
+## Orman
 
 yusufçuğum
 kanadından mı vuruldun
@@ -587,7 +587,7 @@ bin yusufçuk konuşacak
 
 Arkadaş Zekai ÖZGER
 
-### Pencere
+## Pencere
 
 pencereyi kapama
 gök dolabilir içeri
@@ -611,7 +611,7 @@ Yürek kendini tanır
 
 Arkadaş Zekai ÖZGER
 
-### Sevdadır
+## Sevdadır
 
 Göğü kucaklayıp getirdim sana
 kokla 
@@ -682,7 +682,7 @@ Oyyy mahpusluk mahpusluk...
 
 Arkadaş Zekai ÖZGER
 
-### Yeryüzü Ağacı
+## Yeryüzü Ağacı
 
 Kış geliyor
 elim yaprak altında
@@ -716,7 +716,7 @@ zahir
 
 Arkadaş Zekai ÖZGER
 
-###       Aşkla Sana
+##       Aşkla Sana
 
 alnını
 dağ ateşiyle ısıtan

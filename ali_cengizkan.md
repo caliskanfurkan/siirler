@@ -1,6 +1,6 @@
-## Ali CENGİZKAN
+# Ali CENGİZKAN
 
-### Az Kan Çok Ter
+## Az Kan Çok Ter
 
 Dökmekle kendini yükümlü sanıyor, zafer!
 
@@ -28,7 +28,7 @@ Ankara, 20 Mayıs 2000
 
 Ali CENGİZKAN
 
-### Alaca Aydınlıkta
+## Alaca Aydınlıkta
 
 Yıkıcı dost'a
 
@@ -68,7 +68,7 @@ Nasılsa vur emri çıkartıldı adımıza.
 
 Ali CENGİZKAN
 
-### Ankara Ankara Güzel
+## Ankara Ankara Güzel
   Ankara'dan
 
 sunu
@@ -161,7 +161,7 @@ Hangi bakanlık mı, kuşkusuz gönlümün bakanlığı.
 
 Ali CENGİZKAN
 
-### Bağımlı Şiir'den
+## Bağımlı Şiir'den
 
 I
 Bütün gün kırlarında dolaştım yurdumun
@@ -250,7 +250,7 @@ Ve sokaklarda onlar dolaşıyor... Hâlâ.
 
 Ali CENGİZKAN
 
-### Dayım Gül Takardı Gömleğimin
+## Dayım Gül Takardı Gömleğimin
   Yakasına
 
 Ve canlıymışçasına, hergün onu sulardı. 
@@ -277,7 +277,7 @@ Seni görse, eminim, mutluluktan ağlardı.
 
 Ali CENGİZKAN
 
-### Fazıl Say İçin Prelüd
+## Fazıl Say İçin Prelüd
 
 İçten içe nasıl ses verir insan kutusu
 Patlar sızan bir gaz ya da tortu
@@ -303,7 +303,7 @@ Aşk, aşk olsun
 
 Ali CENGİZKAN
 
-### Fırtına
+## Fırtına
 
 Düşük yoğunluğa dayanamayan sıvı
 Gibi,bulaşıyordu güvertedeki herkese:
@@ -353,7 +353,7 @@ N.Hikmet R., diye okudu Raşit, ben Raşit.
 
 Ali CENGİZKAN
 
-### Hayat Bahçesi
+## Hayat Bahçesi
 
 Bahçe tarumar. Ama gözler önüne serilen 
 Görüntünün sesi mi olmalı sözler? Serçe 
@@ -394,7 +394,7 @@ O kadar götürüyorsun işte öteye.
 
 Ali CENGİZKAN
 
-### Haydarpaşa Burası
+## Haydarpaşa Burası
 
 Kaç kere yanaştın bu minyatür iskeleye
 Kaç kere bağlandın ve çözüldün, saçlarınla
@@ -418,7 +418,7 @@ Her yan yeşil, yine de kimlik denetimi.
 
 Ali CENGİZKAN
 
-###  Hiçbir Şey Eskisi Gibi
+##  Hiçbir Şey Eskisi Gibi
   Olmayacak
 
 Taş düştüğü yerde kaya
@@ -467,7 +467,7 @@ Eksik olmayacak, eksik olma, belleğimizden.
 
 Ali CENGİZKAN
 
-### Ian Anderson İçin Prelüd
+## Ian Anderson İçin Prelüd
 
 Bir aşkı şiddetlendirmek olabilir mi
 Bir sesi, bir bakışı, bir sarılışı
@@ -515,7 +515,7 @@ Motifi tüm bir yaşam bestesinin:  Aşk
 
 Ali CENGİZKAN
 
-###  Püskürtme
+##  Püskürtme
 
 Herşey yerli yerindeydi, masalar, sandalyeler
             tabldot tepsileri, tabaklarda yemekler
@@ -536,7 +536,7 @@ Herşey yerli yerindeydi, öğrenciler yemekhaneye
 
 Ali CENGİZKAN
 
-### Resim ve Behçet
+## Resim ve Behçet
 
 Bir resmin düşündürdükleri çoğunlukla daha büyüktür re-
 simden çünkü pembe yanaklı oğlan var mıdır yok mudur, güçlü
@@ -571,7 +571,7 @@ lediğim sözden, o resmin fotoğrafından,yaşayan tenden...
 
 Ali CENGİZKAN
 
-### Sekiz Haziran
+## Sekiz Haziran
 
 Ertuğrul için
 
@@ -600,7 +600,7 @@ NOT: Bu şiir Kültür Bakanlığı'nın yöntemleriyle
 
 Ali CENGİZKAN
 
-### Senlere
+## Senlere
 
 Yitik adalardan uçurdum son uçurtmamı.
 Güllerin kırmızısı, tek olsun, bir de beyaz,
@@ -648,7 +648,7 @@ Canların hesabını soracağız, and olsun.
 
 Ali CENGİZKAN
 
-### Solfasol Otobüsü
+## Solfasol Otobüsü
 
 Haydi gel, bir kere daha deniyelim, 
 Mutluluk hakkını kaptırma başkasına. 
@@ -673,7 +673,7 @@ Asu gel, solfasol otobüsüne binelim.
 
 Ali CENGİZKAN
 
-### Söyle Gökyüzü
+## Söyle Gökyüzü
 
 Acıyı kim neyler
 Neyler kasabayı şehirli düşünceler,
@@ -706,7 +706,7 @@ Aşktır, söyle, acıyı kim neyler?
 
 Ali CENGİZKAN
 
-### Taş da Çürür
+## Taş da Çürür
 
 Böyle dedi kaya mezarını temizleyen Rüstem Usta. 
 
@@ -730,7 +730,7 @@ Taş çürüsün.
 
 Ali CENGİZKAN
 
-### Yaşamak Gibi
+## Yaşamak Gibi
 
 -C.A. Kansu'nun anısına- 
 
@@ -764,7 +764,7 @@ Dedem ölümü de sevdi.
 
 Ali CENGİZKAN
 
-###  Yürümek
+##  Yürümek
 
 Aşk da gelir peşimize, biz yürüyüp gideriz
 Kumsalın en ince yerlerine basarak

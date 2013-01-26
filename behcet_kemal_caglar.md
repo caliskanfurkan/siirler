@@ -1,6 +1,6 @@
-## Behçet Kemal ÇAĞLAR
+# Behçet Kemal ÇAĞLAR
 
-### Asırlarca 
+## Asırlarca 
 
 -Dünyanın en büyük ölmezine-
 Ufkunda doğacağım, ufkunda batacağım;
@@ -25,7 +25,7 @@ Mayıs 1933
 
 Behçet Kemal ÇAĞLAR
 
-### Bizi Bize Getirdin
+## Bizi Bize Getirdin
 
 Bozkır sabahında yanan alnımı
 Kıyı akşamında buza getirdin
@@ -53,7 +53,7 @@ Dipte uyuyanı yüze getirdin
 
 Behçet Kemal ÇAĞLAR
 
-### Çankırı'da 
+## Çankırı'da 
 	Akşam
 
 Soluyup kesik kesik
@@ -98,7 +98,7 @@ Der: Benimdir buralar
 
 Behçet Kemal ÇAĞLAR
 
-### Hastalıktan Sonra 
+## Hastalıktan Sonra 
 
 Akacak inci yaş zümrüt oluğa
 Gözlerin meyvada elin ateşte
@@ -117,7 +117,7 @@ Süzgünsün haddeden geçmişçesine
 
 Behçet Kemal ÇAĞLAR
 
-### Her Yerdesin, Nerdesin?
+## Her Yerdesin, Nerdesin?
 
 Bir anıt yapmak için tırmandığım dağda sen
 Çekicime ilk değen taşların içindesin.
@@ -139,7 +139,7 @@ Sen uyanık gördüğüm düşlerin içindesin.
 
 Behçet Kemal ÇAĞLAR
 
-### İki Ses 
+## İki Ses 
 
 Dışardan herkes: - Görmemiş ol, savaş..
 İçimden bir ses: - Konuş! Konuş! Konuş!
@@ -157,7 +157,7 @@ Dışardan herkes: - Bugüne uy, barın..
 
 Behçet Kemal ÇAĞLAR
 
-### İstiyorum
+## İstiyorum
 
 Bir çiçek istiyorum, ben bakmadan solacak;
 Bir kanat istiyorum, beni yerden alacak;
@@ -189,9 +189,10 @@ Bir iman istiyorum uğruna baş koyacak.
 
 Behçet Kemal ÇAĞLAR
 
-### O İhtilâl Bayrağı
+## O İhtilâl Bayrağı
 
 -Ankara'nın 18'inci Atatürk Gününde-
+
 
 
 On sekiz yıl… ne zorlu, ne emsalsiz, ne çetin.

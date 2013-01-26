@@ -1,6 +1,6 @@
-## Suat TAŞER
+# Suat TAŞER
 
-### Doğa Yazıtları 
+## Doğa Yazıtları 
 	Belki De Yuvarlağın Köşeleri
 
 G Ü N       K U R D U
@@ -132,7 +132,7 @@ ağlamışlar gülmüşler
 
 Suat TAŞER
 
-### Hayret Bey Ankara Akşamında
+## Hayret Bey Ankara Akşamında
 
 Güzelim mart ayı kediler
 oğlan kızın penceresinde ıslık
@@ -177,7 +177,7 @@ Ah ulus ah millet
 
 Suat TAŞER
 
-### Hoş Geldin Barış
+## Hoş Geldin Barış
 
 Bir kadın ki doğumcul
 ölümle yaşam kıl payı
@@ -205,7 +205,7 @@ bekliyorum.
 
 Suat TAŞER
 
-### Oldu Bir Kere
+## Oldu Bir Kere
 
 Kızın gözleri yeşildi 
 Saçları bir kucak duman 
@@ -228,7 +228,7 @@ Rüzgârlı bir gecede oluverdi.
 
 Suat TAŞER
 
-### Olmalı
+## Olmalı
 
 Yâr güzel olmalı
 Olunca civelek olmalı
@@ -249,7 +249,7 @@ Sabırlı olmalı
 
 Suat TAŞER
 
-### Umumiyetle Doğru Haber Alan
+## Umumiyetle Doğru Haber Alan
 
 UMUMİYETLE DOĞRU HABER ALAN
 BİR KAYNAKTAN ÖĞRENİLDİĞİNE GÖRE

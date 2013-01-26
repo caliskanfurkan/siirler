@@ -1,6 +1,6 @@
-## Yaşar Nabi NAYIR
+# Yaşar Nabi NAYIR
 
-### Onar Mısra
+## Onar Mısra
 
 II
 
@@ -17,7 +17,7 @@ Böyle saatlerce bak, böyle asırlarca bak.
 
 Yaşar Nabi NAYIR
 
-### Sonbahar
+## Sonbahar
 
 Altın rengi gözleri yanan bir semaverdi
 Ilık bir çay kokusu akardı saçlarından.

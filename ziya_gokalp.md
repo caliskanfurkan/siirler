@@ -1,6 +1,6 @@
-## Ziya GÖKALP
+# Ziya GÖKALP
 
-### Lisan
+## Lisan
 
 Güzel dil Türkçe bize,
 Başka dil gece bize.
@@ -54,7 +54,7 @@ Olmazsa lisânı bir.
 
 Ziya GÖKALP
 
-### Medeniyyet
+## Medeniyyet
 
 Avrupa bir akademi âzaları milletler;
 Her biri bir nurlu deha, çünkü ayrı harsı var.
@@ -74,7 +74,7 @@ Bir âleti yoksa, ahenk gönüllere dokunmaz.
 
 Ziya GÖKALP
 
-### Vatan
+## Vatan
 
 Bir ülke ki camiinde Türkçe ezan okunur,
 Köylü anlar mânasını namazdaki duanın...

@@ -1,6 +1,6 @@
-## Azer YARAN
+# Azer YARAN
 
-### Adanmak Türküsü
+## Adanmak Türküsü
 
 şiirin ulu güzergahında
 duygu memurları düş memurları
@@ -20,7 +20,7 @@ başlangıçların başı sen - sonların sonu
 
 Azer YARAN
 
-### Ağıt
+## Ağıt
 
 Yayınevinde on altı sayfaların çınlayan sessizliği
 ve ölümsüzlüğü kitabın.
@@ -64,7 +64,7 @@ yenilmezliği kitabın.
 
 Azer YARAN
 
-### Ay Üstüne Çeşitleme
+## Ay Üstüne Çeşitleme
 
 Ay yolumun çırası
 iki kavak arası
@@ -120,7 +120,7 @@ işliyor ülkenin kuyumcuları
 
 Azer YARAN
 
-### Kuşları Öldürmeyeceğim
+## Kuşları Öldürmeyeceğim
 
 Anne, iyi askerler olur mu?
 Savaş olursa anne, kötü askerler
@@ -176,7 +176,7 @@ Ocak 1979
 
 Azer YARAN
 
-### Mayıs
+## Mayıs
 
 Dirilişin nöbet günleri
 Yitiyor ihtiyar yosma
@@ -204,7 +204,7 @@ Nerden tutuşturalım zamanı
 
 Azer YARAN
 
-### Otobiyografi
+## Otobiyografi
 
 Yaşadım
 yer yüreğinin atışında taş kanadı
@@ -244,7 +244,7 @@ aktım gurubun gözyaşlarıyla.
 
 Azer YARAN
 
-### Şaire Ağıt
+## Şaire Ağıt
 
 şair ölmüş
 	yas denizi ışıldıyor -
@@ -285,7 +285,7 @@ tanrılar zamanına gömün
 
 Azer YARAN
 
-### Şiirler Okudum Bugün
+## Şiirler Okudum Bugün
 
 Şiirler okudum bugün türkçemin ormanlarında,
 Adım adım dizelerle içimde direncim, sevincim ve acım,
@@ -314,7 +314,7 @@ Yüreğinin tellerinde som altın biriktirir.
 
 Azer YARAN
 
-### Türkü
+## Türkü
 
 Kayanın koynunda
 özgür çiçeğim

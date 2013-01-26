@@ -1,6 +1,6 @@
-## Bekir Sıtkı ERDOĞAN
+# Bekir Sıtkı ERDOĞAN
 
-### Güz Düşünceleri
+## Güz Düşünceleri
 
 Bu sabah gökyüzü daha bir yorgun,
 Daha bir dumanlı,

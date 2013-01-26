@@ -1,6 +1,6 @@
-## Barış PİRHASAN
+# Barış PİRHASAN
 
-### Barbarlar
+## Barbarlar
 
 I
 
@@ -51,7 +51,7 @@ Göz çatlar bebekler ekvatordadırlar.
 
 Barış PİRHASAN
 
-### Kımıltılar Düşesi
+## Kımıltılar Düşesi
 
 ...onun tozlu alnından, memelerinden doğduk
 çatlayan kasıklarından, baldırlarından doğduk.
@@ -130,7 +130,7 @@ Bu şiir sana armağan....
 
 Barış PİRHASAN
 
-### Küçüksu İskelesi
+## Küçüksu İskelesi
 
 Boğazın
 En yalnız
@@ -165,7 +165,7 @@ Küçüksu
 
 Barış PİRHASAN
 
-### Martılar
+## Martılar
 
 Kar yağınca
 Benek benek rüzgârlar
@@ -185,7 +185,7 @@ Konuverirler sırtına
 
 Barış PİRHASAN
 
-### Moby Dick
+## Moby Dick
 
 hale'ye
 
@@ -211,7 +211,7 @@ kimseler beyaz demesin bana
 
 Barış PİRHASAN
 
-### Tarih Kötüdür
+## Tarih Kötüdür
 
 İşte gençliğimin şiirleri
 İlk gençliğimin

@@ -1,6 +1,6 @@
-## Süreyya BERFE
+# Süreyya BERFE
 
-### Bazı Yaralılara
+## Bazı Yaralılara
 
 Nereye bakıyorsun
 İşte yaralı insanların fotoğrafları
@@ -31,7 +31,7 @@ Gün döner gece kısalır
 
 Süreyya BERFE
 
-### Çoban Türküleri
+## Çoban Türküleri
 
 3.
 Dağdan indimse kurt sanma beni
@@ -66,7 +66,7 @@ Kanım karışacak yayla toprağına
 
 Süreyya BERFE
 
-### Gurbet
+## Gurbet
 
 Ayýþýðý unuttu karlarý
 Nerdeyse tipi çýkar
@@ -77,7 +77,7 @@ Bende kaldý kanadý
 
 Süreyya BERFE
 
-### Nedircik Yavrusu
+## Nedircik Yavrusu
 
 Nedir aydınlığı yaratan, günü güne benzeten
 hayatı yaşanır kılan, insanı insan eden?
@@ -93,7 +93,7 @@ destek, dayanak, merdiven?
 
 Süreyya BERFE
 
-### Sevgili Arkadaşım
+## Sevgili Arkadaşım
 
 1.
 Gözlerinin rengi gibi
@@ -156,7 +156,7 @@ Kendisini seviyorum senin gibi
 
 Süreyya BERFE
 
-### Şiir Çalışmaları
+## Şiir Çalışmaları
 
 20.
 Olduğum yerden başlasam yaşamağa;
@@ -182,7 +182,7 @@ değerlendirirsiniz?
 
 Süreyya BERFE
 
-### Tersine Müslüman
+## Tersine Müslüman
 
 Bulanık bir sabah
 Güneş çoktan doğmuş ama parlamıyor
@@ -195,7 +195,7 @@ Ben eve dönüyorum
 
 Süreyya BERFE
 
-### Uçurum, Su, Kırlangıç
+## Uçurum, Su, Kırlangıç
 
 Alnın bir uçurum
 önce gözlerimin
@@ -223,7 +223,7 @@ iki kırlangıç
 
 Süreyya BERFE
 
-### Yangın Yılı
+## Yangın Yılı
 
 Öldürmüşler babamı
 Yangın yılında
@@ -248,7 +248,7 @@ Bastım uyudum
 
 Süreyya BERFE
 
-### Yeni Aşk
+## Yeni Aşk
 
 Yanında oturan ben değilim
 Zamanla dirilen anılar
@@ -273,7 +273,7 @@ Yürekte esen rüzgâr
 
 Süreyya BERFE
 
-### Yeni Güveyi
+## Yeni Güveyi
 
 Davullar zurnalar arasındaki şaşkın güveyi
 Yürümek isterim son yolunu

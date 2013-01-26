@@ -1,6 +1,6 @@
-## Eray CANBERK
+# Eray CANBERK
 
-### Ayrılık Türküleri
+## Ayrılık Türküleri
 
 doğduğum yerden kopup
 doyduğum yere vardım
@@ -28,7 +28,7 @@ alın teri kolay mı
 
 Eray CANBERK
 
-### Değişip Yok Olan Bir Kenti Anımsayarak
+## Değişip Yok Olan Bir Kenti Anımsayarak
 
 bu kent büyük bir ihaneti gizliyor
 sabahlara dek inlemesinden belli
@@ -50,7 +50,7 @@ bir çiçek bırakıyorum gecenin başladığı yere
 
 Eray CANBERK
 
-### İçten İçe
+## İçten İçe
 
 sevdam seni durmadan
 can evinde yeşertir
@@ -74,7 +74,7 @@ bitim belirli nokta
 
 Eray CANBERK
 
-### Sanı
+## Sanı
 
 hiç değişmedi san
 sen öyle

@@ -1,6 +1,6 @@
-## Kağan KÖK
+# Kağan KÖK
 
-###  Arteaga 
+##  Arteaga 
 
 Arteaga giderken kanatlı bir gemi imgesi
 Başıma gelecek felaketlerin teknesi
@@ -22,7 +22,7 @@ Arteaga gider ben kalırım
 
 Kağan KÖK
 
-###  Aşklar Sarnıcı 
+##  Aşklar Sarnıcı 
 
 Bir gün dur da kederli yazlara bak
 Zamanın içinden
@@ -43,7 +43,7 @@ Bir yaz gününden öğrendin şiiri
 
 Kağan KÖK
 
-###  Çiftçiler 
+##  Çiftçiler 
 
 Yorgunluklar senin, Labradores
 Ve kulağımdaki ezik ses
@@ -62,7 +62,7 @@ Yorgunluk değil bu sensin: söz bahçesi
 
 Kağan KÖK
 
-###  Çıkış 
+##  Çıkış 
 
 Nesneler sana bırakır kendini
 Kılı kıpırdamaz bir dağ
@@ -86,10 +86,11 @@ Aldanışların akasya ağaçları
 
 Kağan KÖK
 
-###  Çocuk ve Veba 
+##  Çocuk ve Veba 
 
 aşklarsa baglanmak için iyidir
            	-ne farkeder ?
+
 			Hilmi YAVUZ
 
 
@@ -109,7 +110,7 @@ Durdururlar hayatı bir anda.
 
 Kağan KÖK
 
-###  Final 
+##  Final 
 
 Edip Cansever'e
 Siz sıradanlığın ölümcül yayına gerin oklarınızı
@@ -133,7 +134,7 @@ Bugünden dünü görebilmek
 
 Kağan KÖK
 
-###  Fizik Yaz ve Psişe 
+##  Fizik Yaz ve Psişe 
 
 SIZI
 
@@ -160,7 +161,7 @@ Ta ki bir gün devrilene dek
 
 Kağan KÖK
 
-###  Gölgeler 
+##  Gölgeler 
 
 Çıkarırsam bir gün özetini
 Tükenmez bir kalemle yaşadığım bu hayatın
@@ -171,7 +172,7 @@ Bir hayat bir başka hayatın gölgesidir zira
 
 Kağan KÖK
 
-###  Gravitasyon 
+##  Gravitasyon 
 
 Ana rahmidir uçurumun ağzı
 Hayata itildiğimiz
@@ -187,7 +188,7 @@ Ey yaşamak denen mecaz.
 
 Kağan KÖK
 
-###  Hallac 
+##  Hallac 
 
 Yazın derisini yüzdüler
 Gövdesini bana gömdüler
@@ -196,7 +197,7 @@ Uçuk renkler uçtu dağ dağa küstü
 
 Kağan KÖK
 
-###  İcmal 
+##  İcmal 
 
 Zamandan sorumlu olan kendi
 O sözcükleri kaç yalan dile çevirdi
@@ -218,7 +219,7 @@ Sanki aynı anlama gelirdi
 
 Kağan KÖK
 
-###  İritasyon 
+##  İritasyon 
 
 Zaman : duvarsız ev
 Kör yalnızlık direnç
@@ -234,7 +235,7 @@ Sizin olsun şâkulî düzler
 
 Kağan KÖK
 
-###  Kum Resmi 
+##  Kum Resmi 
 
 Rilke'ye
                                   
@@ -254,7 +255,7 @@ Korku resimleri çizer kalbine
 
 Kağan KÖK
 
-###  Kuyu 
+##  Kuyu 
 
 İçsiz bir kuyu derinliği hayatım
 Şimdi peşpeşe tüm yüzeyler yüzeysel
@@ -266,7 +267,7 @@ Hem zamanı bıraktım bütün aşklarda
 
 Kağan KÖK
 
-###  Ölümsüz 
+##  Ölümsüz 
 
 çocukluk ve ortanca benden kalan
 bilinsin şu gülibrişim gençliğim
@@ -283,7 +284,7 @@ bilir her zaman, ölmemek eldedir.
 
 Kağan KÖK
 
-###  Ruh Ve Girdap 
+##  Ruh Ve Girdap 
 
 Ruh girdabıyla döner geriye
 Bakarım donuk yanık kalıp öyle 	
@@ -311,7 +312,7 @@ Ah! hiç sayılmamış karşılaşmalar
 
 Kağan KÖK
 
-###  Satranç 
+##  Satranç 
 
 Artık yıkılıyor üstüme bu kent
 Bir ben mi kaldım şiirbent
@@ -326,7 +327,7 @@ Kıskanç
 
 Kağan KÖK
 
-###  Tahta Kutu 
+##  Tahta Kutu 
 
 İçimde sihirli tahta bir kutu var
 İçine atılır temiz kirli acılar
@@ -356,7 +357,7 @@ Kutular.......kutular.......kutular
 
 Kağan KÖK
 
-###  Tavaf 
+##  Tavaf 
 
 Ah o tenha deneyimhanede
 Zamanın ipini çeke çeke
@@ -377,7 +378,7 @@ Farkında mısın sanki sözüm sana
 
 Kağan KÖK
 
-###  Zaman ve Çocuk 
+##  Zaman ve Çocuk 
 
 Gözlerini zamana değdirme çocuk yanarsın
 Buruşur suratın

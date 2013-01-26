@@ -1,6 +1,6 @@
-## Ceyhun ATUF KANSU
+# Ceyhun ATUF KANSU
 
-### Arılar
+## Arılar
 
 Emdiniz arılarım elma çiçeklerini,
 Doldurdunuz bahçenin bütün peteklerini
@@ -19,7 +19,7 @@ Sofranızda bana da bir yer açın arılar.
 
 Ceyhun ATUF KANSU
 
-### Bağımsızlık Gülü
+## Bağımsızlık Gülü
 
 Yerden alıp o gülü
 Hangi gülü?
@@ -54,7 +54,7 @@ Yediveren bağımsızlık gülü!
 
 Ceyhun ATUF KANSU
 
-### Bekleyen Kadının Günü
+## Bekleyen Kadının Günü
 
 Kadınım saçlarını tarar aynada,
 Benim parmaklarım değmişçesine.
@@ -79,7 +79,7 @@ karşılar, beni yıllarca beklemişçesine.
 
 Ceyhun ATUF KANSU
 
-###  Çocukluk Aşkı
+##  Çocukluk Aşkı
 
 Düşün, düşün ki anne ben daha çok küçüğüm,
 Ilık ellerimden tut, beraber götür beni,
@@ -113,7 +113,7 @@ Bütün zenginliğimi verir onu alırız.
 
 Ceyhun ATUF KANSU
 
-###  Dünyanın Bütün Çiçekleri
+##  Dünyanın Bütün Çiçekleri
 
 "Bana çiçek getirin, dünyanın bütün
 çiçeklerini buraya getirin!"
@@ -194,7 +194,7 @@ Dünyanın bütün çiçeklerini getirin buraya.
 
 Ceyhun ATUF KANSU
 
-### Kar Türküsü
+## Kar Türküsü
 
 Kâr ve kapital, kar ve kapital, kâr ve kapital
 Aldım eve geliyorum, aldım eve geliyorum
@@ -227,7 +227,7 @@ Kar altında, kar altında, kar altında.
 
 Ceyhun ATUF KANSU
 
-### Kızamuk Ağıdı
+## Kızamuk Ağıdı
 
 Ben, gamlı, donuk kış güneşi,
 Çıplak dallarda, sessiz dinleniyordum.
@@ -303,7 +303,7 @@ Ah diyeceğim, ah dökeceğim yol üstüne
 
 Ceyhun ATUF KANSU
 
-###  Lirik Şarkı
+##  Lirik Şarkı
 
 Öt, güzel serçe, öt yeşil çalıda,
 Sabahın sesini duyayım senden,
@@ -327,7 +327,7 @@ Senin pencereni serçen unutmuş.
 
 Ceyhun ATUF KANSU
 
-###  Lumumba
+##  Lumumba
 
 Aldandın sen 
 Aldandım ben.
@@ -388,7 +388,7 @@ Bedeni delik deşik zenci baba!
 
 Ceyhun ATUF KANSU
 
-### Uyuyan Güzel Anneye
+## Uyuyan Güzel Anneye
 
 Anne, bahar geliyor uyansana
 Çık altın eşikte bekle beni,
@@ -407,7 +407,7 @@ Anne bahar geliyor uyansana.
 
 Ceyhun ATUF KANSU
 
-###  Uzun Hava
+##  Uzun Hava
 
 dumanlı dağın çobanı garip yıldız
 yağmurlar yağmasına yağıyor
@@ -442,7 +442,7 @@ ben ölmeylen kahpe dünya yıkılır
 
 Ceyhun ATUF KANSU
 
-###  Yanık Hava
+##  Yanık Hava
 
 Maviler içinde gördüm bir gün menevşemi
 Yayla tutmuş başlamış aşkımın gül mevsimi.

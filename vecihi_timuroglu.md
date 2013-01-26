@@ -1,6 +1,6 @@
-## Vecihi TİMUROĞLU
+# Vecihi TİMUROĞLU
 
-### Beste-Nigar
+## Beste-Nigar
 
 Yalnızım su almış sandalım
 Fırtınaya tutulmuşum karanlıktayım
@@ -25,7 +25,7 @@ Güz acısı çekiyorum
 
 Vecihi TİMUROĞLU
 
-### Güne Çıkış
+## Güne Çıkış
 
 Simin'e
 
@@ -46,7 +46,7 @@ Ve ateşe çeviriyor nefesleri
 
 Vecihi TİMUROĞLU
 
-### Orada Duran
+## Orada Duran
 
 Dün gece gördüm seni
 Ay doğarken oradaydın

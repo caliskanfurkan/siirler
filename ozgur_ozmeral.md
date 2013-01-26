@@ -1,6 +1,6 @@
-## Özgür ÖZMERAL
+# Özgür ÖZMERAL
 
-### Aster
+## Aster
 
 I
 
@@ -58,7 +58,7 @@ daha çok geceydi
 
 Özgür ÖZMERAL
 
-### Avcı
+## Avcı
 
 yerçekimi kanununa muhalefetten
 yargılanmadı hiç uçaklar
@@ -70,7 +70,7 @@ avcılar
 
 Özgür ÖZMERAL
 
-### Beyaz Kir
+## Beyaz Kir
 
 soğuk mahzendi yüreğim zamana aldırmayan
 filizlenen tenime deyen kar tanesi
@@ -101,7 +101,7 @@ demir bulutlara gizlerken var oluşumu
 
 Özgür ÖZMERAL
 
-### Bildiğim Adlar
+## Bildiğim Adlar
 
 şifre:
 yok olan kimliğimize işlenmiş
@@ -199,7 +199,7 @@ romanın baş ağrısı
 
 Özgür ÖZMERAL
 
-### Bilinçaltımla Söyleşi....
+## Bilinçaltımla Söyleşi....
 
 uzağa gidiyordun önündeki kırmızılıkların çok uzağına
 kapılarını parmak izlerinden sıyırdın. yaktın
@@ -249,7 +249,7 @@ uzak sendin sen yakını tanımayan ....
 
 Özgür ÖZMERAL
 
-### Çocuklar Hiç Gelmiyor
+## Çocuklar Hiç Gelmiyor
 
 I
 ben de ıssız bir buluşma olabilecek kadar gül kokuluyum
@@ -292,7 +292,7 @@ aceleci bir aşk bu ölüm gibi bir aşk. bir suçlu gibi
 
 Özgür ÖZMERAL
 
-### Donuk Resim
+## Donuk Resim
 
 I
 uzak donuk bir resmin hikayesidir
@@ -342,7 +342,7 @@ senin kendini gizleyemediğin resim
 
 Özgür ÖZMERAL
 
-### Eşsesli Hüzünler
+## Eşsesli Hüzünler
 
 I
 sen bir bozkır çağında eskilerine bürünememiş
@@ -447,7 +447,7 @@ sürükleyemediysem suç benim
 
 Özgür ÖZMERAL
 
-### Gerçeküstü(ne) Çeşitlemeler
+## Gerçeküstü(ne) Çeşitlemeler
 
 iki kapım var kilitli biri
 fakat açılıyor itince
@@ -492,7 +492,7 @@ sahnesinde tebessümünü yakıyor içlendiğim kadın
 
 Özgür ÖZMERAL
 
-### Olmadı
+## Olmadı
 
 düşerken kar tanesi bir sözü ikiye bölmüştük
 içimden kopup giden bir şeydi tanrı
@@ -536,11 +536,12 @@ tutsağı oldum tüm başlangıçların.
 
 Özgür ÖZMERAL
 
-### Ölüm Ve Ateş
+## Ölüm Ve Ateş
 
 Önce toprak bozuldu
                                                  aklımızdaki toprak.
                                                      (A.Cengizkan)
+
 
 
 
@@ -558,7 +559,7 @@ ben suyla kardeş oldukça
 
 Özgür ÖZMERAL
 
-### Sağanak Altında Çizilen Son 
+## Sağanak Altında Çizilen Son 
 Resim
 
 "yavuz demirci'ye"
@@ -616,7 +617,7 @@ bütünden parçalar çalmaktı içimizdeki katil özlemi
 
 Özgür ÖZMERAL
 
-### Sergilerde Çocukluğum
+## Sergilerde Çocukluğum
 
 I
 en çok kırık merdivenlerden kovuldun
@@ -691,7 +692,7 @@ unutmadım asım usta
 
 Özgür ÖZMERAL
 
-### Sözleşme
+## Sözleşme
 
 sana tülden kokularla geldi yaşam
 				uzlaştın
@@ -715,7 +716,7 @@ ilmeksiz teyelsiz terzim benim
 
 Özgür ÖZMERAL
 
-### Sürgün
+## Sürgün
 
 o gözyaşları değdiğinde toprağa
 acı filizlenir toprağın kokusu değişir
@@ -746,7 +747,7 @@ bastığın topraksa ey gözlerim eski bir yalan
 
 Özgür ÖZMERAL
 
-### Tiz Bir Melodi
+## Tiz Bir Melodi
 
 ses ve buhur
 ardımız tiz bir melodidir
@@ -772,7 +773,7 @@ ardımız tiz bir melodidir
 
 Özgür ÖZMERAL
 
-### Veda
+## Veda
 
 karabasan
 içimizden geçen bir kör nehir

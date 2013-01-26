@@ -1,6 +1,6 @@
-## Cahit ZARİFOĞLU
+# Cahit ZARİFOĞLU
 
-### İşaret Çocukları
+## İşaret Çocukları
 
 Yasin okunan tütsü tüten çarşılardan
 Geçerdi babam
@@ -67,7 +67,7 @@ Ellerimden kayan aydınlık günlerim
 
 Cahit ZARİFOĞLU
 
-### Kartal Ölüsü
+## Kartal Ölüsü
 
 Tabutunuz
 Pırıl pırıl çivileri ve talaş kokuyor
@@ -85,7 +85,7 @@ Ve o koca denizlerin kirlenip ağrımasından
 
 Cahit ZARİFOĞLU
 
-### Su
+## Su
 
 1.
 Taşlanan kadınlar yankır

@@ -1,6 +1,6 @@
-## Sevencan KESERKAYA
+# Sevencan KESERKAYA
 
-### Bin İnci Çiçeği 
+## Bin İnci Çiçeği 
 Olur Sular
 
 şu anda taa öte ucunda dünyanın
@@ -18,7 +18,7 @@ gel-gitlerle...
 
 Sevencan KESERKAYA
 
-### Günlere Dair
+## Günlere Dair
 
 sevinçler eğreti,
 iğnesi kırılmış broş gibi
@@ -48,7 +48,7 @@ sözlerimi düne bağlayamadan.
 
 Sevencan KESERKAYA
 
-### Sana Geldim
+## Sana Geldim
 
 zamanı çözmek güçtü
 koştururken gece yarısı rüzgârlarına
@@ -70,7 +70,7 @@ sana geldim.
 
 Sevencan KESERKAYA
 
-### Senden Yana
+## Senden Yana
 
 seni ben
 eski zamanlarda

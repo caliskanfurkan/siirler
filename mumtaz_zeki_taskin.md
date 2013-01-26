@@ -1,6 +1,6 @@
-## Mümtaz Zeki TAŞKIN
+# Mümtaz Zeki TAŞKIN
 
-### Hayti Adaları
+## Hayti Adaları
 
 Bir istiridyedir bizim ada
                           Dada..

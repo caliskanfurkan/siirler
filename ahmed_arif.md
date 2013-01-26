@@ -1,6 +1,6 @@
-## Ahmed ARİF
+# Ahmed ARİF
 
-### 
+## 
 
 Beşikler vermişim Nuh'a
    Salıncaklar, hamaklar,
@@ -75,7 +75,7 @@ Beşikler vermişim Nuh'a
 
 Ahmed ARİF
 
-### Akşam Erken İner Mahpushaneye
+## Akşam Erken İner Mahpushaneye
 
 Akşam erken iner mahpushaneye.
   Ejderha olsan kar etmez.
@@ -121,7 +121,7 @@ Akşam erken iner mahpushaneye.
 
 Ahmed ARİF
 
-### Anadolu
+## Anadolu
 
 Beşikler vermişim Nuh'a
    Salıncaklar, hamaklar,
@@ -196,7 +196,7 @@ Beşikler vermişim Nuh'a
 
 Ahmed ARİF
 
-### Ay Karanlık
+## Ay Karanlık
 
 Maviye
     Maviye çalar  gözlerin,
@@ -237,7 +237,7 @@ Maviye
 
 Ahmed ARİF
 
-### Bu Zindan Bu Kırgın Bu Can Pazarı
+## Bu Zindan Bu Kırgın Bu Can Pazarı
 
 Gördüler
    Yedi cihan,
@@ -312,10 +312,10 @@ Gördüler
 
 Ahmed ARİF
 
-### Diyarbekir Kalesinden notlar ve Adiloş Bebenin
+## Diyarbekir Kalesinden notlar ve Adiloş Bebenin
   Ninnisi
 
-elim
+z elim
    Ayvasına, narına can dayanamazken,
    Kırar boynumu yürürüm.
    Kurdun, kuşun bileceği hal değil,
@@ -335,7 +335,9 @@ elim
    Bir de ağzı var dili yok
    Diyarbekir Kalesi...
    
-   2.
+  
+ 2.
+
 
    Açar, 
    Kan kırmızı yediverenler
@@ -351,6 +353,7 @@ elim
    Seni düşünmenin tadı...
    
    3.
+
    
    Hamravat suyu dondu,
    Diclede dört parmak buz,
@@ -399,7 +402,7 @@ elim
 
 Ahmed ARİF
 
-### Hani Kurşun Sıksan Geçmez Geceden
+## Hani Kurşun Sıksan Geçmez Geceden
 
 t harmanları, yığınaklar,
    Kurulmuş çetin dağlarında vatanların.
@@ -455,170 +458,280 @@ t harmanları, yığınaklar,
 
 Ahmed ARİF
 
-### Hasretinden Prangalar Eskittim
+## Hasretinden Prangalar Eskittim
 
 Seni, anlatabilmek seni.
+
    İyi çocuklara, kahramanlara.
+
    Seni anlatabilmek seni,
+
    Namussuza, halden bilmeze,
+
    Kahpe yalana.
 
    Ard- arda kaç zemheri,
+
    Kurt uyur, kuş uyur, zindan uyurdu.
+
    Dışarda gürül- gürül akan bir dünya...           
+
    Bir ben uyumadım,
+
    Kaç leylim bahar,
+
    Hasretinden prangalar eskittim.
+
    Saçlarına kan gülleri takayım,
+
    Bir o yana 
+
    Bir bu yana...
 
    Seni bağırabilsem seni,
+
    Dipsiz kuyulara,
+
    Akan yıldıza,
+
    Bir kibrit çöpüne varana,
+
    Okyanusun en ıssız dalgasına
+
    Düşmüş bir kibrit çöpüne.
 
    Yitirmiş tılsımını ilk sevmelerin,
+
    Yitirmiş öpücükleri,
+
    Payı yok, apansız inen akşamlardan,
+
    Bir kadeh, bir cıgara, dalıp gidene,
+
    Seni anlatabilsem seni...
+
    Yokluğun, Cehennemin öbür adıdır
+
    Üşüyorum, kapama gözlerini...
 
 Ahmed ARİF
 
-### İçerde
+## İçerde
 
 Haberin var mı taş duvar?
+
   Demir kapı, kör pencere,
+
   Yastığım, ranzam, zincirim,
+
   Uğruna ölümlere gidip geldiğim,
+
   Zulamdaki mahzun resim,
+
   Haberin var mi?
+
   Görüşmecim, yeşil soğan göndermiş,
+
   Karanfil kokuyor cıgaram
+
   Dağlarına bahar gelmiş memleketimin...
 
 Ahmed ARİF
 
-### Kara
+## Kara
 
 Çarpmış,
+
    Paramparça etmiş,
+
    Kara sütü, kara sevdayla seni...
+
    Ve kara memelerinde dişlerin asi,
+
    Karadır, upuzun yattığın gece,
+
    Felek, ah ettirir, boynun kıl - ince...         
+
    Cihanlar, çocuklar, kuşlar içinde
+
    Sızlar bir yerlerin
+
    Adsız ve kayıp
+
    Sızlar, usul-usul, dargın,
+
    Ve kan tadında bir konca,
+
    Damıtır kendini mısralarınca...
 
    De be aslan karam,
+
    De yiğit karam,
+
    Hangi kalemin yazısı,
+
    Zorlu yazısı,
+
    Belanda?
 
    Anadan doğma nişan mı,
+
    Sütlü barut damgası mı,
+
    Bir gece parçası mı kaburgandaki?
+
    Kız kakülü, ne hal eylermiş teni,
+
    Ellerin, deli hoyrat,
+
    Ellerin, susuz, yangın.
+
    Ellerin ooooy alarga...
 
    De be aslan karam,
+
    De yiğit karam,
+
    Hangi güzelin diş yeri,
+
    Mavi diş yeri,
+
    Sevdanda?
 
    Vurmuş,
+
    Demirlerin çapraz gölgesi,
+
    Alnın galip ve serin.
+
    Künyen çizileli kaç yıldız uçtu,
+
    Kaç ayva sarardı, kaç kız sevişti,
+
    Gelmemiş, kimselerin...
 
    De be aslan karam,
+
    De yiğit karam,
+
    Hangi zehirin meltemi,
+
    Saran meltemi,
+
    Hülyanda?
 
    Hakikatli dostun muydu,
+
    Can koyduğun ustan mıydı,
+
    Bir uyumaz hasmın mıydı,
+
    "Ooooof" de bunlar olsun muydu?
 
    De be aslan karam,
+
    De yiğit karam,
+
    Hangi kahpenin hançeri,
+
    Saklı hançeri,
 
    Yaranda?
 
 Ahmed ARİF
 
-### Karanfil Sokağı
+## Karanfil Sokağı
 
 Tekmil ufuklar kışladı
+
    Dört yön,onaltı rüzgar
+
    Ve yedi iklim beş kıta
+
    Kar altındadır.
 
    Kavuşmak ilmindeyiz bütün fasıllar
+
    Ray, asfalt, şose, makadam
+
    Benim sarp yolum, patikam
+
    Toros, Anti-toros ve asi Fırat
+
    Tütün, pamuk, buğday ovaları,çeltikler          
+
    Vatanım boylu boyunca
+
    Kar altındadır.
 
    Döğüşenler de var bu havalarda
+
    El, ayak buz kesmiş, yürek cehennem
+
    Ümit, öfkeli ve mahzun
+
    Ümit, sapına kadar namuslu
+
    Dağlara çekilmiş
+
    Kar altındadır.
 
    Şarkılar bilirim çığ tutmuş
+
    Resimler, heykeller, destanlar
+
    Usta ellerin yapısı
+
    Kolsuz,yarı çıplak Venüs
+
    Trans-nonain sokağı
+
    Garcia Lorca'nın mezarı,
+
    Ve gözbebekleri Pierre Curie'nin
+
    Kar altındadır.
 
    Duvarları katı sabır taşından
+
    Kar altındadır varoşlar,
+
    Hasretim nazlıdır Ankara.
+
    Dumanlı havayı kurt sevsin
+
    Asfalttan yürüsün Aralık,
+
    Sevmem, netameli aydır.
+
    Bir başka ama bilemem
+
    Bir kaçıncı bahara kalmıştır vuslat
+
    Kalbim, bu zulümlü sevda,
+
    Kar altındadır.
 
    Gecekondularda hava bulanık puslu
+
    Altındağ gökleri kümülüslü
+
    Ekmeğe, aşka ve ömre
+
    Küfeleriyle hükmeden
+
    Ciğerleri küçük, elleri büyük
+
    Nefesleri yetmez avuçlarına
+
    -İlkokul çağında hepsi-
+
    Kenar çocukları
+
    Kar altındadır.
 
    Hatıp Çay'ın öte yüzü ılıman
+
    Bulvarlar çakırkeyf Yenişehir'de
 
    Karanfil Sokağında gün açmış
@@ -643,7 +756,7 @@ Tekmil ufuklar kışladı
 
 Ahmed ARİF
 
-### Leylim Leylim
+## Leylim Leylim
 
 zın yarısı
    Al - yeşil bahar,
@@ -720,9 +833,10 @@ zın yarısı
 
 Ahmed ARİF
 
-### Merhaba
+## Merhaba
 
 MERHABA
+
 
    Gün açar,
    Karın verir yağmurlu toprak.
@@ -755,56 +869,99 @@ MERHABA
 
 Ahmed ARİF
 
-### Otuz Üç Kurşun
+## Otuz Üç Kurşun
 
 ene dağıdır
+
    Tanyeri atanda Van'da 
+
    Bu dağ Nemrut yavrusudur 
+
    Tanyeri atanda Nemruda karşı 
+
    Bir yanın çığ tutar, Kafkas ufkudur     
+
    Bir yanın seccade Acem mülküdür 
+
    Doruklarda buzulların salkımı
+
    Firari guvercinler su başlarında 
+
    Ve karaca sürüsü, 
+
    Keklik takımı...
+
    
+
    Yiğitlik inkar gelinmez 
+
    Tek'e - tek doğüşte yenilmediler 
+
    Bin yıllardan bu yan, bura uşağı
+
    Gel haberi nerden verek 
+
    Turna sürüsü değil bu 
+
    Gökte yıldız burcu değil 
+
    Otuzüç kurşunlu yürek 
+
    Otuzuç kan pınarı 
+
    Akmaz, 
+
    Göl olmuş bu dağda... 
 
    2. 
    Yokuşun dibinden bir tavşan kalktı 
+
    Sırtı alacakır 
+
    Karnı sütbeyaz
+
    Garip, ikicanlı, bir dağ tavşanı 
+
    Yüreği ağzında öyle zavallı 
+
    Tövbeye getirir insanı 
+
    Tenhaydı, tenhaydı vakitler 
+
    Kusursuz, çırılçıplak bir şafaktı
+
    
+
    Baktı otuzüçten biri 
+
    Karnında açlığın ağır boşluğu 
+
    Saç, sakal bir karış 
+
    Yakasında bit, 
+
    Baktı kolları vurulu, 
+
    Cehennem yurekli bir yiğit, 
+
    Bir garip tavşana, 
+
    Bir gerilere. 
 
    Düştü nazlı filintası aklına, 
+
    Yastığı altında küsmüş, 
+
    Düştü, Harran ovasından getirdiği tay 
+
    Perçemi mavi boncuklu, 
+
    Alnında akıtma 
+
    Üç topuğu ak, 
+
    Eşkini hovarda, kıvrak, 
+
    Doru, seglavi kısrağı. 
 
    Nasıl uçmuşlardı Hozat önünde!
@@ -1006,14 +1163,14 @@ ene dağıdır
 
  
                              
-
                                                 Fotoğraf: Çerkes Karadağ
 
 Ahmed ARİF
 
-### Sevdan Beni
+## Sevdan Beni
 
 SEVDAN BENİ
+
 
    Terketmedi sevdan beni,
    Aç kaldım, susuz kaldım,
@@ -1026,7 +1183,7 @@ SEVDAN BENİ
 
 Ahmed ARİF
 
-### Suskun
+## Suskun
 
 Sus, kimseler duymasın.
    Duymasın ölürüm ha.
@@ -1112,48 +1269,73 @@ Sus, kimseler duymasın.
 
 Ahmed ARİF
 
-### Unutamadığım
+## Unutamadığım
 
 Açardın,
+
    Yalnızlığımda
+
    Mavi ve yeşil,
+
    Açardın.
+
    Tavşan kanı, kınalı - berrak.
+
    Yenerdim acıları, kahpelikleri...       
 
    Gitmek,
+
    Gözlerinde gitmek sürgüne.
+
    Yatmak,
+
    Gözlerinde yatmak zindanı
+
    Gözlerin hani?
 
    "To be or not to be" değil.
+
    "Cogito ergo sum" hiç değil...
+
    Asıl iş, anlamak kaçınılmaz'ı,
+
    Durdurulmaz çığı
+
    Sonsuz akımı.
 
    İçmek,
+
    Gözlerinde içmek ayışığını.
+
    Varmak,
+
    Gözlerinde varmak can tılsımına.
+
    Gözlerin hani?
 
    Canımın gizlisinde bir can idin ki
+
    Kan değil sevdamız akardı geceye,
+
    Sıktıkça cellad,
+
    Kemendi...
 
    Duymak,
+
    Gözlerinde duymak üç - ağaçları
+
    Susmak,
+
    Gözlerinde susmak,
+
    Ustura gibi...
+
    Gözlerin hani?
 
 Ahmed ARİF
 
-### Uy Havar!
+## Uy Havar!
 
 Yangınlar,
    Kahpe fakları,
@@ -1218,7 +1400,7 @@ Yangınlar,
 
 Ahmed ARİF
 
-### Vay Kurban
+## Vay Kurban
 
 Dağlarının, dağlarının ardı,
    Nazlıdır.
@@ -1315,7 +1497,7 @@ Dağlarının, dağlarının ardı,
 
 Ahmed ARİF
 
-### Yalnız Değiliz
+## Yalnız Değiliz
 
 Bir ufka vardık ki artık
    Yalnız değiliz sevgilim.
@@ -1399,9 +1581,10 @@ Bir ufka vardık ki artık
 
 Ahmed ARİF
 
-### Onur da Ağlar
+## Onur da Ağlar
 
 ONUR DA AĞLAR
+
 
      Gözlerinin pınarında
      Bir bulut,
@@ -1442,7 +1625,7 @@ ONUR DA AĞLAR
 
 Ahmed ARİF
 
-### isimsiz
+## isimsiz
 
 Bir akşam üstüdür şarabî
 Bahçeler ve dağlar üzre hükümran
@@ -1477,33 +1660,32 @@ Sevdan ölünecek kadar güzel
 Kanunu yapanlar ihtiyar.
 
 
-
  
 Şiir, Refik Durbaş'ın "Ahmed Arif Anlatıyor: KALBİM DİNAMİT KUYUSU" adlı kitabından alınmıştır.
 Şiir, 1947 yılında "Meydan" adlı dergide yayınlanmıştır.
 
 Ahmed ARİF
 
-### isimsiz
+## isimsiz
 
 Şiir, Refik Durbaş'ın "Ahmed ARİF Anlatıyor: KALBİM DİNAMİT KUYUSU" adlı kitabından alınmıştır.
 Ahmed ARİF'in delikanlıyken Afyon'da, lisenin birinci sınıfındayken yazdığı şiir.
 
 Ahmed ARİF
 
-### isimsiz
+## isimsiz
 
 Şiir, Refik Durbaş'ın "Ahmed Arif Anlatıyor: KALBİM DİNAMİT KUYUSU" adlı kitabından alınmıştır.
 
 Ahmed ARİF
 
-### isimsiz
+## isimsiz
 
 Şiir, Refik Durbaş'ın "Ahmed Arif Anlatıyor: KALBİM DİNAMİT KUYUSU" adlı kitabından alınmıştır.
 
 Ahmed ARİF
 
-### Kalbim Dinamit
+## Kalbim Dinamit
 Kuyusu'ndan Bölümler
 
 'NDAN BÖLÜMLER
@@ -1554,12 +1736,11 @@ Dinamit kuyusu...
 
 
 
-
 Şiir, Refik Durbaş'ın "Ahmed Arif Anlatıyor: KALBİM DİNAMİT KUYUSU" adlı kitabından alınmıştır.
 
 Ahmed ARİF
 
-### Rüstemo
+## Rüstemo
 
 Modan yaylasına eşkin almadan
    Maktela üzerinde sağımız
@@ -1618,7 +1799,7 @@ Modan yaylasına eşkin almadan
 
 Ahmed ARİF
 
-### Togliatti
+## Togliatti
 
 Palmiro, Palmiro şanlı işçi
 Sıcak yaralarındaki barut kokusu
@@ -1637,13 +1818,12 @@ Ve bütün sinyorların korkusu
 Ürkmüştür manastır fareleri.
 
 
-
 Şiir Refik Durbaş'ın "Ahmed Arif Anlatıyor: KALBİM DİNAMİT KUYUSU" adlı kitabından alınmıştır. 
 Kitapta Ahmed Arif şiirin adının "Togliatti" olmadığını; aslında bir ismi olmadığını ifade ediyor.
 
 Ahmed ARİF
 
-### Tutuklu
+## Tutuklu
 
 Birden
 Kurşun yemiş gibi susar
@@ -1671,12 +1851,11 @@ Canavar götürür gibi
 İki süngü
 
 
-
 1951 Ankara Cezaevi
 
 Ahmed ARİF
 
-### Yurdum Benim Şahdamarım
+## Yurdum Benim Şahdamarım
 
 Engereğin dişlerine işledim,
 Ağu dişlerine
@@ -1735,7 +1914,505 @@ Askıda çığ...
 
 
 
-
 Şiir, Refik Durbaş'ın "Ahmed Arif Anlatıyor: KALBİM DİNAMİT KUYUSU" adlı kitabından alınmıştır.
+
+Ahmed ARİF
+
+## Ay Karanlık
+
+Maviye
+    Maviye çalar  gözlerin,
+    Yangın mavisine
+    Rüzgarda asi,
+    Körsem,
+    Senden gayrısına yoksam,       
+    Bozuksam,
+    Can benim, düş benim,
+    Ellere nesi?
+    Hadi gel,
+    Ay karanlık...
+
+    İtten aç,
+    Yılandan çıplak,
+    Vurgun ve bela
+    Gelip durmuşsam kapına
+    Var mı ki doymazlığım?
+    İlle  de ille
+    Sevmelerim,
+    Sevmelerim gibisi?
+    Oturmuş yazıcılar
+    Fermanım yazar
+    N'olur gel,
+    Ay karanlık...
+
+    Dört yanım puşt zulası,
+    Dost yüzlü,
+    Dost gülücüklü
+    Cıgaramdan yanar.
+    Alnım öperler,
+    Suskun, hayın, çıyansı.
+    Dört yanım puşt zulası,
+    Dönerim dönerim çıkmaz.
+    En leylim  gecede ölesim tutmuş,
+    Etme gel,
+    Ay karanlık...
+
+Ahmed ARİF
+
+## Hasretinden Prangalar Eskittim,
+
+Seni, anlatabilmek seni.
+
+   İyi çocuklara, kahramanlara.
+
+   Seni anlatabilmek seni,
+
+   Namussuza, halden bilmeze,
+
+   Kahpe yalana.
+
+   Ard- arda kaç zemheri,
+
+   Kurt uyur, kuş uyur, zindan uyurdu.
+
+   Dışarda gürül- gürül akan bir dünya...           
+
+   Bir ben uyumadım,
+
+   Kaç leylim bahar,
+
+   Hasretinden prangalar eskittim.
+
+   Saçlarına kan gülleri takayım,
+
+   Bir o yana 
+
+   Bir bu yana...
+
+   Seni bağırabilsem seni,
+
+   Dipsiz kuyulara,
+
+   Akan yıldıza,
+
+   Bir kibrit çöpüne varana,
+
+   Okyanusun en ıssız dalgasına
+
+   Düşmüş bir kibrit çöpüne.
+
+   Yitirmiş tılsımını ilk sevmelerin,
+
+   Yitirmiş öpücükleri,
+
+   Payı yok, apansız inen akşamlardan,
+
+   Bir kadeh, bir cıgara, dalıp gidene,
+
+   Seni anlatabilsem seni...
+
+   Yokluğun, Cehennemin öbür adıdır
+
+   Üşüyorum, kapama gözlerini...
+
+Ahmed ARİF
+
+## Kara
+
+Çarpmış,
+
+   Paramparça etmiş,
+
+   Kara sütü, kara sevdayla seni...
+
+   Ve kara memelerinde dişlerin asi,
+
+   Karadır, upuzun yattığın gece,
+
+   Felek, ah ettirir, boynun kıl - ince...         
+
+   Cihanlar, çocuklar, kuşlar içinde
+
+   Sızlar bir yerlerin
+
+   Adsız ve kayıp
+
+   Sızlar, usul-usul, dargın,
+
+   Ve kan tadında bir konca,
+
+   Damıtır kendini mısralarınca...
+
+   De be aslan karam,
+
+   De yiğit karam,
+
+   Hangi kalemin yazısı,
+
+   Zorlu yazısı,
+
+   Belanda?
+
+   Anadan doğma nişan mı,
+
+   Sütlü barut damgası mı,
+
+   Bir gece parçası mı kaburgandaki?
+
+   Kız kakülü, ne hal eylermiş teni,
+
+   Ellerin, deli hoyrat,
+
+   Ellerin, susuz, yangın.
+
+   Ellerin ooooy alarga...
+
+   De be aslan karam,
+
+   De yiğit karam,
+
+   Hangi güzelin diş yeri,
+
+   Mavi diş yeri,
+
+   Sevdanda?
+
+   Vurmuş,
+
+   Demirlerin çapraz gölgesi,
+
+   Alnın galip ve serin.
+
+   Künyen çizileli kaç yıldız uçtu,
+
+   Kaç ayva sarardı, kaç kız sevişti,
+
+   Gelmemiş, kimselerin...
+
+   De be aslan karam,
+
+   De yiğit karam,
+
+   Hangi zehirin meltemi,
+
+   Saran meltemi,
+
+   Hülyanda?
+
+   Hakikatli dostun muydu,
+
+   Can koyduğun ustan mıydı,
+
+   Bir uyumaz hasmın mıydı,
+
+   "Ooooof" de bunlar olsun muydu?
+
+   De be aslan karam,
+
+   De yiğit karam,
+
+   Hangi kahpenin hançeri,
+
+   Saklı hançeri,
+
+   Yaranda?
+
+Ahmed ARİF
+
+## Otuzüç Kurşun, 
+
+ene dağıdır
+
+   Tanyeri atanda Van'da 
+
+   Bu dağ Nemrut yavrusudur 
+
+   Tanyeri atanda Nemruda karşı 
+
+   Bir yanın çığ tutar, Kafkas ufkudur     
+
+   Bir yanın seccade Acem mülküdür 
+
+   Doruklarda buzulların salkımı
+
+   Firari guvercinler su başlarında 
+
+   Ve karaca sürüsü, 
+
+   Keklik takımı...
+
+   
+
+   Yiğitlik inkar gelinmez 
+
+   Tek'e - tek doğüşte yenilmediler 
+
+   Bin yıllardan bu yan, bura uşağı
+
+   Gel haberi nerden verek 
+
+   Turna sürüsü değil bu 
+
+   Gökte yıldız burcu değil 
+
+   Otuzüç kurşunlu yürek 
+
+   Otuzuç kan pınarı 
+
+   Akmaz, 
+
+   Göl olmuş bu dağda... 
+
+   2. 
+   Yokuşun dibinden bir tavşan kalktı 
+
+   Sırtı alacakır 
+
+   Karnı sütbeyaz
+
+   Garip, ikicanlı, bir dağ tavşanı 
+
+   Yüreği ağzında öyle zavallı 
+
+   Tövbeye getirir insanı 
+
+   Tenhaydı, tenhaydı vakitler 
+
+   Kusursuz, çırılçıplak bir şafaktı
+
+   
+
+   Baktı otuzüçten biri 
+
+   Karnında açlığın ağır boşluğu 
+
+   Saç, sakal bir karış 
+
+   Yakasında bit, 
+
+   Baktı kolları vurulu, 
+
+   Cehennem yurekli bir yiğit, 
+
+   Bir garip tavşana, 
+
+   Bir gerilere. 
+
+   Düştü nazlı filintası aklına, 
+
+   Yastığı altında küsmüş, 
+
+   Düştü, Harran ovasından getirdiği tay 
+
+   Perçemi mavi boncuklu, 
+
+   Alnında akıtma 
+
+   Üç topuğu ak, 
+
+   Eşkini hovarda, kıvrak, 
+
+   Doru, seglavi kısrağı. 
+
+   Nasıl uçmuşlardı Hozat önünde!
+
+   Şimdi, böyle çaresiz ve bağlı, 
+
+   Böyle arkasında bir soğuk namlu 
+
+   Bulunmayaydı, 
+
+   Sığınabilirdi yuceltilere... 
+
+   Bu dağlar, kardeş dağlar, kadrini bilir,      
+
+   Evvel Allah bu eller utandırmaz adamı, 
+
+   Yanan cıgaranın külünü, 
+
+   Güneşlerde çatal kıvılcımlanan 
+
+   Engereğin dilini, 
+
+   İlk atımda uçuran 
+
+   Usta elleri... 
+
+   Bu gözler, bir kere bile faka basmadı 
+
+   Çığ bekleyen boğazların kıyametini 
+
+   Karlı, yumuşacık hıyanetini 
+
+   Uçurumların, 
+
+   Önceden bilen gözleri... 
+
+   Çaresiz
+
+   Vurulacaktı, 
+
+   Buyruk kesindi, 
+
+   Gayrı gözlerini kör sürüngenler 
+
+   Yüreğini leş kuşları yesindi...
+
+   3. 
+   Vurulmuşum 
+
+   Dağların kuytuluk bir boğazında 
+
+   Vakitlerden bir sabah namazında 
+
+   Yatarım         
+
+   Kanlı, upuzun... 
+
+   Vurulmuşum 
+
+   Düşüm, gecelerden kara 
+
+   Bir hayra yoranım çıkmaz 
+
+   Canım alırlar ecelsiz 
+
+   Sığdıramam kitaplara 
+
+   Şifre buyurmuş bir paşa 
+
+   Vurulmuşum hiç sorgusuz, yargısız 
+
+   Kirvem, hallarımı aynı böyle yaz 
+
+   Rivayet sanılır belki 
+
+   Gül memeler değil 
+
+   Domdom kurşunu 
+
+   Paramparça ağzımdaki... 
+
+   4.
+   Ölüm buyruğunu uyguladılar, 
+
+   Mavi dağ dumanını 
+
+   ve uyur-uyanık seher yelini 
+
+   Kanlara buladılar. 
+
+   Sonra oracıkta tüfek çattılar 
+
+   Koynumuzu usul-usul yoklayıp 
+
+   Aradılar. 
+
+   Didik-didik ettiler 
+
+   Kirmanşah dokuması al kuşağımı 
+
+   Tespihimi, tabakamı alıp gittiler 
+
+   Hepsi de armağandı Acemelinden... 
+
+   Kirveyiz, kardeşiz, kanla bağlıyız 
+
+   Karşıyaka köyleri, obalarıyla 
+
+   Kız alıp vermişiz yüzyıllar boyu, 
+
+   Komşuyuz yaka yakaya 
+
+   Birbirine karışır tavuklarımız 
+
+   Bilmezlikten değil, 
+
+   Fıkaralıktan 
+
+   Pasaporta ısınmamış içimiz 
+
+   Budur katlimize sebep suçumuz, 
+
+   Gayrı eşkiyaya çıkar adımız 
+
+   Kaçakçıya 
+
+   Soyguncuya 
+
+   Hayına... 
+
+   Kirvem hallarımı aynı böyle yaz 
+
+   Rivayet sanılır belki 
+
+   Gül memeler değil 
+
+   Domdom kurşunu 
+
+   Paramparça ağzımdaki... 
+
+  
+
+   5.
+ 
+
+   Vurun ulan, 
+
+   Vurun, 
+
+   Ben kolay ölmem. 
+
+   Ocakta küllenmiş közüm, 
+
+   Karnımda sözüm var 
+
+   Haldan bilene. 
+
+   Babam gözlerini verdi Urfa önünde 
+
+   Üç de kardaşını 
+
+   Üç nazlı selvi, 
+
+   Ömrüne doymamış üç dağ parçası. 
+
+   Burçlardan, tepelerden, minarelerden 
+
+   Kirve, hısım, dağların çocukları 
+
+   Fransız Kuşatmasına karşı koyanda
+
+   Bıyıkları yeni terlemiş daha 
+
+   Benim küçük dayım Nazif 
+
+   Yakışıklı, 
+
+   Hafif,    
+
+   İyi süvari 
+
+   Vurun kardaş demiş
+
+   Namus günüdür 
+
+   Ve şaha kaldırmış atını. 
+
+   Kirvem hallarımı aynı böyle yaz 
+
+   Rivayet sanılır belki 
+
+   Gül memeler değil 
+
+   Domdom kurşunu 
+
+   Paramparça ağzımdaki...  
+
+                                                         
+
+ 
+                             
+                                                Fotoğraf: Çerkes Karadağ
 
 Ahmed ARİF

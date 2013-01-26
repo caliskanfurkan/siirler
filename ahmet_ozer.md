@@ -1,6 +1,6 @@
-## Ahmet ÖZER
+# Ahmet ÖZER
 
-###  Bir Bakışta
+##  Bir Bakışta
 
 ürktü içimdeki kuşlar
 bir katar kanat sesi yıkadı
@@ -19,7 +19,7 @@ en güzel günlerimizi bırakarak ardımızda.
 
 Ahmet ÖZER
 
-###  Bir Kapının İki Yüzü
+##  Bir Kapının İki Yüzü
 
 bir kapının bir yüzü gökyüzüdür
 bir yüzünde ağıtı gizlidir tüm annelerin.
@@ -65,7 +65,7 @@ dışarısı hüzne sefer eyler düşlerimizi içerek.
 
 Ahmet ÖZER
 
-### Buğday ve Toprak
+## Buğday ve Toprak
 
 pencereyi açtım
 elma ağacı serçe cıvıltısı
@@ -82,7 +82,7 @@ kırlangıçların göğü biçişine bakarak.
 
 Ahmet ÖZER
 
-### Gecenin Kanayan Yerinden
+## Gecenin Kanayan Yerinden
 
 gece yarısı bir el dokunuyor soluğuma
 bir aşkın kan damlası karışıyor yağmura
@@ -118,7 +118,7 @@ istasyonların uykusunu yitirmiş derinliğine
 
 Ahmet ÖZER
 
-###  Günle Dokunan
+##  Günle Dokunan
 
 yürüdüm gecenin bir yerlerine tutunarak
 gökyüzünü dolduran yıldızlar altında
@@ -141,7 +141,7 @@ yeşeren çocuk sesleridir dünyayı tutan.
 
 Ahmet ÖZER
 
-### Hazar'a Ay Döküldü
+## Hazar'a Ay Döküldü
 
 göle bakan dağın ufkunda
 bir kadın uzanır iki canlıdır
@@ -174,7 +174,7 @@ biri gecedir gündüzün yastığına yüzünü seren.
 
 Ahmet ÖZER
 
-### Kız ve Anne
+## Kız ve Anne
 
 ayakkabıları büyüktü annemin
 onlarda yorgun ayakları
@@ -204,7 +204,7 @@ anne olmuştum.
 
 Ahmet ÖZER
 
-### Ne Zaman Nerdeyiz
+## Ne Zaman Nerdeyiz
 
 şimdi burdaysak bir yanımızla
 bir yanımız savrulur dünyanın bütün ırmaklarıyla
@@ -250,7 +250,7 @@ kanayan yaramıza koyarız/alkıma dönüşen
 
 Ahmet ÖZER
 
-###  Sizden Sonra
+##  Sizden Sonra
 
 önümüzde sonsuzluğu toprağın
 taşları ve dikenleri ve gökyüzünü iterek
@@ -275,7 +275,7 @@ uykuyu unutmuş iki göz dalıyor şafağa
 
 Ahmet ÖZER
 
-###  Söyle Yüzüm Tanığımsın
+##  Söyle Yüzüm Tanığımsın
 
 aşk eskidi/yollar uzun
 bir dalga kırıldı yüzümde
@@ -303,7 +303,7 @@ kuşlar gider/sonbahardır.
 
 Ahmet ÖZER
 
-### Tanık Günler
+## Tanık Günler
 
 Günler
 Hüznü yüklenip
@@ -332,7 +332,7 @@ Acımayı öğrenmeyen tarihe.
 
 Ahmet ÖZER
 
-### Yağmur Yerine
+## Yağmur Yerine
 
 1935 yazında
 nazım/sare teyze

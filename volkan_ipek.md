@@ -1,105 +1,181 @@
-## Volkan İPEK
+# Volkan İPEK
 
-### Ölümlü Akarsu
+## Ölümlü Akarsu
+
+ÖLÜMLÜ AKARSU
 
 Aktığı her yere,
+
 Kırgınlığını götüren bir akarsuyum…
+
 Ellerine saçıldım…
+
 Yüzüne çarpılmak için…
 
 Ayaklarının arasından geçerek,
+
 Su diyen çocuklarına yetişen akarsuyum…
+
 Nice denizlerde kendimi gizledim,
+
 Kızaran yüzümü saklamak için…
 
 Önündeki bentlerden aşamayan,
+
 Asırlık taşları eriten,
+
 Doğumundan çok
+
 denize öldüğü yer önemli olan,
+
 kıvrımlı bir coğrafyayım…
+
 Bir ders kitabında
+
 ölmeden önce, 
+
 son isteğim tenine dolanmak, 
+
 her bir hücrendeki acıyı yıkamak…
 
 Volkan İPEK
 
-### İsim, Şehir, Savaş
+## İsim, Şehir, Savaş
 
 - Lebanon - 
 
 Su bir bıçak gibi yalıyor sırtımı…
+
 Yaralar kaşınmaya başlayınca iyileşirdi hani…
+
 Masa başında dik otursa bile
+
 Hamal ruhunu hep taşeron yollara bırakan adamlar
+
 Koridorlarda iki büklüm
+
 Selamlama vaziyetinde gezerken,
+
 Bizim burada tek derdimiz ulusal sanılan kutularımızda 
+
 Uysal haberler görmekti.
+
 Şehir girişlerinde tabelalara
+
 Artı bir yazacak kadar muzurduk…
+
 Su bir bıçak gibi bileniyor sırtımda…
+
 Yaralar tütün basınca iyileşirdi hani.
+
 Hiç sevinç gözyaşı dökmedi orada analar,
+
 Artık kimseye ıslak bir mektup gelmeyecek oradan…
+
 Ki oranın tek suçu,
+
 Elle çizilemeyecek kadar zor bir bayrağa sahip olmak…
+
 Su bir bıçak gibi yarıyor sırtımı…
+
 Yaralar kabuk bağlayınca iyileşirdi hani.
+
 Bir taşralı genç sevdalının
+
 En büyük bedduasıdır
+
 Yüreğine taş otursun,
+
 Ki hiçbir şiirinin baş harflerini 
+
 Esmer güzelin adına adayamadan ölecek…
 
 Volkan İPEK
 
-### Küskün Destancık
+## Küskün Destancık
+
+KÜSKÜN DESTANCIK
 
 Hasan, 
+
 Küskün Hasan,
+
 Ali’den olma, Fatma’dan doğma,
+
 Vefasızlıktan ölme…
+
 Saçlarına iyi bakan,
+
 Sakallarını taramadan sokağa çıkmayan,
+
 Arabasını sırtından eksik etmeden 
+
 yürüyen
+
 yürüyen
+
 yürüyen…
+
 İnsanların küstürdüğüne bakıp hayata küsmeyen,
+
 Sakalını saçına yoldaş edip uzatan…
+
 Küskün Hasan,
+
 Köpekleri ve çöpleri dışında her şeye küsen,
+
 Küskün…
+
 Her gece çıkar tiksinilen fakirliğinden,
+
 İki köpeği bağlar arabasına, 
+
 Yürür, denize eşit gider yolu.
+
 Sahilden kaybolur bazen, sırtını verip tırmanır yokuşu,
 
 Hafif bir yel eserse kıpırdanır saçları, uçuşur.
+
 Döner gülümser ara sıra köpeklerine,
+
 Sıcaklığını yeniden bulur,
+
 Saçını sakalına yoldaş edip uzatır.
+
 Arkasına nice yoldaşı takılır,
+
 Eski İstanbul’un tenhalığını bulur gecenin boş sokaklarında.
+
 Ampulünü gevşetmiştir dünyanın,
 
 Tek harfine gözünü kaydırmadan,
+
 Çin seddine hayran olmayan,
 
 Bir köpeklerine bir de çöpüne bakar Hasan.
+
 Saçını sakalına rüzgâr edip uzatır.
+
 Gazeteleri eşeleyip atar kenara,
 
 Bombalardan bihaber Hasan 
+
 Ki yıllar önce tövbe etti.
+
 Etliyi sütlüyü bırakıp çöplüğü seçti. 
+
 Dünyanın çöpünü toplayan Hasan,
+
 Bir gece daha çıktı temizliğe,
+
 Çöpten çıkaracağı ekmeğine…
+
 Simi dökülmüş aynasında taradı saçını sakalını,
+
 “İpek gibi” dedi içinden,
+
 Annesinin saçlarını düşündü,
+
 Baktı köpeklerine, ışıldayan gözleriyle,
 
 Vurdu arabasını sırtına.
@@ -404,90 +480,158 @@ Bekledi çeyrek asır sonra nezaret hanenin penceresinden
 
 Volkan İPEK
 
-### Ölü Ebe
+## Ölü Ebe
 
-Bir deri 
+ÖLÜ 
+EBE
+
+            Bir deri 
 bir kemiğin eline dokunurken…
  
 Yerim,
+
 Göğüm,
+
 Günüm,
+
 Gecem,
+
 Sobe…
+
 Elim,
+
 Dilim,
+
 Göz bebeğim,
+
 Ebe…
+
 Üç yüz dersem
+
 Öl,
+
 Üç yüz bir dersem
+
 Ölme…
+
 Bir romana imrenip,
+
 Yattığından beri tozlu döşeğe
+
 Uğultularımızı sayıyorum,
+
 Doksan sekiz
+
 Doksan dokuz
+
 Yüz
+
 Önüm,
+
 Arkam,
+
 Sağım, 
+
 Solum,
+
 Güz.
+
 Burada adalet
+
 İnsanların
+
 Etinden,
+
 Umudundan,
+
 Sigarasının dumanından
+
 Sağlanırken…
+
 Sağırlığımızı sayıyorum…
+
 Yüz doksan dört dersem
+
 Öl
+
 Yüz doksan beş dersem
+
 Ölme…
+
 Utancımızı sayıyorum,
+
 En hafifinden beş yıl yatıran
+
 Bir asiliği
+
 Dökerken önündeki kâğıda
+
 Şair,
+
 Titreyen ellerimizi sayıyorum…
+
 İki yüz doksan yedi dersem
+
 Öl
+
 İki yüz doksan sekiz dersem
+
 Ölme…
 
 Volkan İPEK
 
-### Şeytan Bacağı
+## Şeytan Bacağı
 
+ŞEYTAN BACAĞI
 Kırkikindi yağmurlarını maarifli takvimden
+
                                       öğrenirken
+
 Bir sonbaharın daha geçtiğini 
+
                        gördüm…
+
 Elimde hâlâ bir çift şeytan bacağı,
+
 kırılmayı bekleyen…
 
 Volkan İPEK
 
-### Yokuş
+## Yokuş
 
+YOKUŞ
 Salmışsın kendini,
+
 Ömrünün son yokuşundan aşağı,
+
 Yapma diyenler en geride,
+
 Yerlere kapaklanmışlar…
+
 İnsanın kuş hali bu olsa gerek,
+
 Bir yokuştan aşağı unutmak ayaklarını…
+
 Unutmak geçmişteki nasihatleri…
 
 Acı tebessümleri,
+
 Haydarpaşa’dan el sallamaları,
+
 Kutlamayı bıraktığın doğum günlerini,
+
 Giderek büyüyen burnunu,
+
 Her kavgada evi terk etmeyi düşündüğün ergenliğini…
+
 Hepsini unutmak…
+
 Hepsini Beyazıt’ta sergiye yatırmak…
 
 Uçuyorsun var mı ötesi,
+
 Ölüyorsun,
+
 var mı kuşların kefeni?
 
 Volkan İPEK

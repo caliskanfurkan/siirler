@@ -1,8 +1,9 @@
-## Ahmet UYSAL
+# Ahmet UYSAL
 
-### Sularla
+## Sularla
 
 Sularla, , Yeni Biçem Yayınları, Haziran 1994 
+
 Sularla, Ahmet Uysal'ın 'olgunluk' verimlerini içeren,
       varoluşun özbilinçle doğrulandığı bir yapıt; dağlanmış bir ömrün
       izdüşümü. her dize şairin her durakta vurgun yemiş yaşamıyla örtüşen
@@ -15,34 +16,44 @@ Uysal'ın şiiri; halk, divan ve çağdaş Türk şiirinin köklü
 Sularda'daki şiirlerin genel dokusunda biraz kırık,
       ama yaşama sevincini aşkla kutsayan bir duyarlık var. Uysal'ın suyu,
       'uykusuz' bir su.
+
       Evet, 'ince' şiirler... Bürümcük inceliğinde, öpüş tadında.
 
 Ahmet UYSAL
 
-### Uzak Yazlarda
+## Uzak Yazlarda
 
 Uzak Yazlarda, , Düşlem Yayınları, Nisan 1998
+
 Tuzlu bir köpük iziyle
+
       Savrulan kumdur omzunda
+
       Suyla sınadığın şiirler
+
       Bir dergiye düşürür adını
  
 Orada bir nehir ağzında
+
       unutulur son gülüşün
+
       Naif bir şairin yüzüne
+
       Çizer kuşlar gökyüzünü
 
 Ahmet UYSAL
 
-### Acının Gümüşü
+## Acının Gümüşü
 
-nu
+bunu
+
       yaşam ki
+
           şiirle sonsuzdur"
 
 Ahmet UYSAL
 
-### Gece Sözleri
+## Gece Sözleri
 
 Geceyle dinlemeli genişleyen
 Bir ağacın gövdesini
@@ -65,7 +76,7 @@ Gecenin en ince yerinde
 
 Ahmet UYSAL
 
-### Kırgın Günler Göçebesi
+## Kırgın Günler Göçebesi
 
 Yurdun neresiydi senin
 Ey rüzgâra bürünen göçebe
@@ -112,7 +123,7 @@ Ey rüzgâra bürünen göçebe
 
 Ahmet UYSAL
 
-### Öpüş Tadında
+## Öpüş Tadında
 
 Bir şiir
 Tek bir şiir yazmalıyım
@@ -131,7 +142,7 @@ Olmalı o şiir de
 
 Ahmet UYSAL
 
-### Sana Ne Söylesem Ömrüm
+## Sana Ne Söylesem Ömrüm
 
 Güz geldi ah, güle ne söylesem
 Sana ne söylesem ömrüm
@@ -170,7 +181,7 @@ Bir yoğunluğa koy günlerini
 
 Ahmet UYSAL
 
-### Şiire Yetmeyen Zaman
+## Şiire Yetmeyen Zaman
 
 Şiire yetmeyen zaman
 Nasıl da yanılttı seni
@@ -194,7 +205,7 @@ Soluk soluğa bir güzel
 
 Ahmet UYSAL
 
-### Son Durakta
+## Son Durakta
 
 Bir düşteydin bunca yıl
 Boynunda şiir ilmeği
@@ -215,7 +226,7 @@ Sana bir şiir yazımı uzak
 
 Ahmet UYSAL
 
-### Sözdüşü Metinler
+## Sözdüşü Metinler
 
 Sen ki bir sözdüşüydün
 Ulaşan en eski aşklara
@@ -240,7 +251,7 @@ Aşk ki bir sözdüşüdür
 
 Ahmet UYSAL
 
-### Dörtlükler
+## Dörtlükler
 
 Geceyi aldattım suç ortağı
 	arıyorum kendime
@@ -264,13 +275,13 @@ Yere düşürdüm aşk burcundan
 
 Ahmet UYSAL
 
-### Evvel Zaman Şairleri
+## Evvel Zaman Şairleri
 
-
+şiir
 
 Ahmet UYSAL
 
-### Güz Gömleği
+## Güz Gömleği
 
 Güz gömleği giydi şiir
 Hüzün sanıyor görenler
@@ -291,7 +302,7 @@ O gömleği giydi şiir
 
 Ahmet UYSAL
 
-### Güz Sonu Şiirleri
+## Güz Sonu Şiirleri
 
 Her şey hazır belki
 	yarın giderim
@@ -325,7 +336,7 @@ Kırık bir dal ucuna döner
 
 Ahmet UYSAL
 
-### İnce Bir Hançer
+## İnce Bir Hançer
 
 Issız bozkırda usul esen
 	yaz yelidir hançer
@@ -364,7 +375,7 @@ Ne zaman kaygan bir kın
 
 Ahmet UYSAL
 
-### Şehirlerdir Acıtan Kalbimi
+## Şehirlerdir Acıtan Kalbimi
 
 Şehrini arayan bir nehirdim
 Arar gibi eski bir sevgiliyi
@@ -402,7 +413,7 @@ Birinden ötekine geçip gitsem de
 
 Ahmet UYSAL
 
-### Sisli Şehirlerde Kalan
+## Sisli Şehirlerde Kalan
 
 Sisli şehirler bıraktın bana
 Erken ölümünü kuşların
@@ -429,7 +440,7 @@ Sivri bir hançer bıraktın bana
 
 Ahmet UYSAL
 
-### Sonsuz ve Büyülü
+## Sonsuz ve Büyülü
 
 Yarım ve kırgın bir umudu
 		ekliyor günlere
@@ -469,7 +480,7 @@ Sonsuz ve büyülü bir iklim
 
 Ahmet UYSAL
 
-### Uzanışı İnceydi Ülkemin
+## Uzanışı İnceydi Ülkemin
 
 Kuşların uçtuğunu
 	görmedik
@@ -494,7 +505,7 @@ Sonsuz gökyüzüydü
 
 Ahmet UYSAL
 
-### Yarım Kaldı Son Serüven
+## Yarım Kaldı Son Serüven
 
 Sen öyle düş içindeyken
 Silindi suda sureti
@@ -521,7 +532,7 @@ Yarım kaldı son serüven
 
 Ahmet UYSAL
 
-### Gece Tanımları / 2
+## Gece Tanımları / 2
 
 bir kadın tenidir gece
 ay ışığında soyunan
@@ -536,7 +547,7 @@ kayınca şiir örtüsü
 
 Ahmet UYSAL
 
-### Güzaltı Şiirler
+## Güzaltı Şiirler
 
 hüseyin'e, hidayet'e
 
@@ -562,7 +573,7 @@ yalnızca gül alıp satmadığını bir şairin
 
 Ahmet UYSAL
 
-### Kalıt
+## Kalıt
 
 cemal süreya'nın öldüğü
 yaşı da geçtim
@@ -584,7 +595,7 @@ kaldı bana onlardan
 
 Ahmet UYSAL
 
-### Ölçümler Sözlüğü
+## Ölçümler Sözlüğü
 
 hüzün/ölçer
 rüzgâr: hüzün ölçeridir eylülün,
@@ -607,7 +618,7 @@ uyaklar düşüren uzak rüzgârlara
 
 Ahmet UYSAL
 
-### Sonsuz
+## Sonsuz
 
 yaz geçer günlerin tortusu
 şiirden sorulur
@@ -634,7 +645,7 @@ yaşam ki şiirle sonsuzdur
 
 Ahmet UYSAL
 
-### Sözlük
+## Sözlük
 
 leylâk: yağmurlu günlerde
 mora boyar gecenin örtüsünü

@@ -1,20 +1,23 @@
-## Ergun TAVLAN
+# Ergun TAVLAN
 
-### Papa
+## Papa
 
 Kırılgan erkek otu. Avrupa'ya sürdü, rüzgâr aradı
 Hayatını kendinden korumayı bu gönüllü
 sürgünde öğrendi: silahlara eda: avlanmadı
 boksa ve balığa gitmedi. Ayran gönüllü
 
+
 biri için sadır sabır isteyen ülkelere gitti
 Kalıcı ülkelerdi. İnsanda kalırlardı
 Şayaklarını, kâğıt valizlerini attı: o ülkeleri
 hep ikinci el kedilerle yürüdü
 
+
 çıkarken anlamını unutur insan meselâ paltosunu
 unutmaz: biz hayattan üşüdükçe üşüdükçe nikolay
 unutmabunu: kedi bizi soyan bir anlam
+
 
 
 Müntehir bir Odysseus olarak Amerka'ya döndü

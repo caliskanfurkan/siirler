@@ -1,8 +1,9 @@
-## Mustafa SUPHİ
+# Mustafa SUPHİ
 
-### Adressi Filika
+## Adressi Filika
 
-Aydın Yeşilyurt için
+ADRESSİ FİLİKA
+                              Aydın Yeşilyurt için
 
 kiralık bir hayatın kıyısında
 kiralık bir katil gibi durdum hep
@@ -18,7 +19,7 @@ fırtınalı bir deniz de
 
 Mustafa SUPHİ
 
-### Aradıklarım
+## Aradıklarım
 
 Akşam olunca kuşlar
 Sesimin bir yerlerine sığınır
@@ -39,7 +40,7 @@ Ağlıyorum, ağlıyorum ilk kez utanmadan.
 
 Mustafa SUPHİ
 
-### Arzuhal
+## Arzuhal
 
 Sevda Sözleri büyütmüyorum
 Cemal Süreya gibi sevda gömütlüklerinde
@@ -66,7 +67,7 @@ Bende geleyim yanınıza
 
 Mustafa SUPHİ
 
-### Bağışla
+## Bağışla
 
 Ne çok kapılardan
 Ne çok yalnızlıklardan döndüm
@@ -89,7 +90,7 @@ Acı ki sunağımdır
 
 Mustafa SUPHİ
 
-### Boş Koy Tregadyası
+## Boş Koy Tregadyası
 
 Ey Urfa  ey peygamberler şehri
 Kerpiç yüzlü boz sokaklarında
@@ -109,7 +110,7 @@ Küçümencik namusunla
 
 Mustafa SUPHİ
 
-### Değil Yaşanası Değil
+## Değil Yaşanası Değil
 
 Oturmuşumda Anadolu şivesiyle
 Ağıtlar yakmışım tanrıların göz yaşlarına Hiç üşenmeden Kür(t)i hicazkar
@@ -130,10 +131,11 @@ yanlış bir baharda
 
 Mustafa SUPHİ
 
-### Geride 
+## Geride 
 	Kalan
 
--Nazan'a-
+-
+Nazan'a-
 
 Gel konuk ol yüreğime demiştim
 Geldim
@@ -157,7 +159,7 @@ Akrepler de ağlıyor, duyuyor musun?
 
 Mustafa SUPHİ
 
-### İroni
+## İroni
 
 I.
 Geride gotik sancılar bırakarak
@@ -177,14 +179,14 @@ Bütün aşkları gözetime alarak.
 
 Mustafa SUPHİ
 
-### Mucize
+## Mucize
 
 Emir Sultan değilim ki nereden bulayım kırk deve altını varıp Nilüfer Çayı'na doldurayım taşları heybeye akan su altın olsun diye fitne gelmiş gece uykuda neylersin Haber salın tastamam ettim tedariki Molla Fenari kıysın nikahı Evrenos ve Hunt kız tanık
 29 Eylül 2006 Adana
 
 Mustafa SUPHİ
 
-### Ne İstiyorsan O
+## Ne İstiyorsan O
 
 kim satın alır ki ikinci el hüzünlerimi
 ben şimdi ne yapayım kendimi
@@ -203,13 +205,13 @@ fahişeleri ve minareleri bol olan bu şehirde çengeliyle,çengisiyle,çingenes
 
 Mustafa SUPHİ
 
-### Nerede
+## Nerede
 
 aklım yok ki sende kalsın kalmasın hüznüm bir İstanbul vapuru ki çığlık çığlığa martılar ki dünden kederli ah şimdi Üsküdar olmak vardı neyleyeyim bensizliğimi yalnızlığım ki veresiye
 
 Mustafa SUPHİ
 
-### Özür Dilerim
+## Özür Dilerim
 
 Biz ne tren yolculukları yaptık
 Uzak istasyonlara senle
@@ -225,7 +227,7 @@ Hoşçakal demeliyim bu aşka
 
 Mustafa SUPHİ
 
-### Sanrı
+## Sanrı
 
 Ah, ah Elia ben İkarusum yandığım ateşi bilirim sen bilir misin? bana verdiğin sunakla besliyorum şiirimi uygarlıkların başkenti Mezopotamya da
 
@@ -233,13 +235,13 @@ Ah, ah Elia ben İkarusum yandığım ateşi bilirim sen bilir misin? bana verdi
 
 Mustafa SUPHİ
 
-### Sitemdir
+## Sitemdir
 
 Her kentin girişinde önce mezarlıklar karşılar beni ve kısır döngüyle dönüyor dönme dolap sevgilim ki gurbet gibi duruyor yüreğimde Kabahat O'nun değil kabahat ateşin ateş ki nasıl yaktığını bilmiyor sürgün edilmiş zamanda kapanırken tarih
 
 Mustafa SUPHİ
 
-### Sonra
+## Sonra
 
 Rehin alıyorum bütün ırmakları
 yağmurlardan bir Şehremini Vakti
@@ -257,7 +259,7 @@ zemberiyi karşılarken
 
 Mustafa SUPHİ
 
-### Sulardaki Yüreğim
+## Sulardaki Yüreğim
 
 bütün acılar yediemin yüreğimde
 bütün hüzünleri zimmetledim
@@ -287,15 +289,16 @@ sabrımın sınandığı isyanda
 
 Mustafa SUPHİ
 
-### Sulardaki Yüreğim 1
+## Sulardaki Yüreğim 1
 
 Vekiliyim bütün acıların. Geri vermiyorum arta kalan ne varsa geri vermiyorum Dicle Fırat a kavuşana kadar ey koynunda beslendiğim türküler Kömürhan da küsmüş Bakmıyor Harputa Ey Amed! surların kenti.
+
 
 Yalnızlıkların Dar zamanlara mı sıkıştı dar sokakların Bilmez misin ki Fıratı Başım gözüm üstüne akar kaçıncı mevsimden düşüyor ayrılık kaçıncı vurgunlarda kimsesizliğim ve neden aynalardan geri dönüyor sesim Bingölün bin bölünmüşlüğün de kimler çalar sözcüklerimi bilirim. ben bilirim sabrımın sınandığı isyanda çıkmaz oluyor çıkmaz sokaklar kendi çıkmazlarından neyleyim ay şavkını bırakmış Fırat a bense yüreğimi Hazala
 
 Mustafa SUPHİ
 
-### Taziye
+## Taziye
 
 Tuz buz ettim
 Yalınkat ettiğimiz dergahımızı
@@ -313,13 +316,13 @@ Bu şehri terk etmekten başka
 
 Mustafa SUPHİ
 
-### Telef
+## Telef
 
 Nice yalnızlıklar eskittim ve razı geldim kimsesizliğimi kendimle kalabalık kılmaya bir tren çığlığından önce Koyamadım fanusa çaldığım ateşi ve yasak meyvesini yedim Havva nın sen bana sakınırken gece yarısı üçden sonra
 
 Mustafa SUPHİ
 
-### Vedadır
+## Vedadır
 
 Bir sürgündü yaşanan kapanırken bir tarih Bu yüzden, mitolojilerden esin beklemek gerekmez tanrıların seviştiğini görmek için.
 Çünkü aşk tanrıçası Eros böyle buyurdu.
@@ -337,7 +340,7 @@ Neden böyle düşündüm ve neden erimlerime ulaşamıyorum yine de bırakabild
 
 Mustafa SUPHİ
 
-### Yanılsamalar
+## Yanılsamalar
 
 Napalımlarla  sınanmış ömrün
 Süvarisiydim Amedde...
@@ -355,7 +358,7 @@ Sanır ki kızılcıklar serpeceğim ekilmemiş tarlalarına Kaç çoğalmalarda
 
 Mustafa SUPHİ
 
-### Yaşam Yanılsamadır
+## Yaşam Yanılsamadır
 
 Bir aşkın adı mıydı tesadüf ya da çoğalmaların Terkedilmiş kederdeyken kimsesizliğim Bronz bir aşk doğdu sezaryanla Sevgilim gurbet gibi dururken yüreğimde Selamın geldi Kağızmandan Kendini mektup sanan bir zarf ile
 
@@ -374,7 +377,7 @@ Ah şu İstanbulun yağmurları ne kadar da utangaç
 
 Mustafa SUPHİ
 
-### Yetişemiyorum
+## Yetişemiyorum
 
 Gecenin kılcal damarlarından geçip
 Yağmurun altında sevişiyoruz
@@ -389,7 +392,7 @@ Geçiyor iklimi doygun bulutların
 
 Mustafa SUPHİ
 
-### Yıkık Keder
+## Yıkık Keder
 
 Yirmidört ayar bir yalnızlık benimkisi
 Harran Ovasından Elbistan'a dek
@@ -397,13 +400,13 @@ ve Diyarbekir surları dibin de tanıdığım ardında ve önün de yıkıntıla
 
 Mustafa SUPHİ
 
-### Yok
+## Yok
 
 İntiharlar büyütüyorum içimde en sevilmedik yerimden vurmak için kendimi
 
 Mustafa SUPHİ
 
-### Yollarda
+## Yollarda
 
 Ey Dicle ey, bulanık yüzlü asi kız beş ayrı damardan bıraktım soğuk tenine tırıvırıları ak diye kollarımda kıvrılarak Fiskaya köprüsünde bıraktım yansıyan yüzümü haber almışam Erina dan gittiğim yollar hüznü olmuş kim vurduya gitmesin diye Siverek de aşk hızla gidiyorum sıfır asfalt urhai'ye 3/ 9 / 2006 aned 4 / 9 / 2006 urfa
 

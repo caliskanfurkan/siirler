@@ -1,6 +1,6 @@
-## Roni MARGULIES
+# Roni MARGULIES
 
-###  Çağımızda Her Aşk 
+##  Çağımızda Her Aşk 
 
 Ayrıntılardan arındırsam hayatımı;
 desem ki: ben Elsa'yı çok sevdim.
@@ -39,7 +39,7 @@ yenildik işte herkes gibi.
 
 Roni MARGULIES
 
-###  Cavit Bey'in Karısına Son Mektubu 
+##  Cavit Bey'in Karısına Son Mektubu 
 
 Büyükada'yı düşünüyorum bozkırın ortasında.
 Hatırlıyor musun son verdiğimiz ziyafeti?
@@ -76,7 +76,7 @@ Mahkemem bu sabah sonuçlandı.
 
 Roni MARGULIES
 
-###  Dr. Reşid Bey'in Vasiyetnamesi 
+##  Dr. Reşid Bey'in Vasiyetnamesi 
 
 Pek sevgili refikam ve çocuklarım,
 Beşiktaş'ta bostanlar arasında bir evde,
@@ -122,7 +122,7 @@ Ne çare, olmadı işte. Elveda sevdiklerim.
 
 Roni MARGULIES
 
-###  Emanuel Karasu Efendi Sürgünde 
+##  Emanuel Karasu Efendi Sürgünde 
 
 Başmabeyincisinin anılarında okumuştum.
 "Yıldız'a gelen Heyet-i Mebusan'dan
@@ -162,7 +162,7 @@ Ben ki on yıldır kendim sürgündeyim!
 
 Roni MARGULIES
 
-###  Gelgit 
+##  Gelgit 
 
 İlk geldiğimde İngiltere'ye
 yıllardan yetmiş iki yılında
@@ -196,7 +196,7 @@ Elsa kaldı yatağı gibi nehrin hayatımda.
 
 Roni MARGULIES
 
-### Hatib-i Şehir'in Tifüsten Ölümü 
+## Hatib-i Şehir'in Tifüsten Ölümü 
 
 Tek bir şey istemişti hayatı boyunca Ömer Naci.
 Bab-ı âli baskınında fırlayıp askerlerin önüne,
@@ -228,7 +228,7 @@ Ne yapalım, tifüsten ölmek varmış kaderde."
 
 Roni MARGULIES
 
-###  İki Kentin Öyküsü 
+##  İki Kentin Öyküsü 
 
 Otuzdört yaşıma bastığım gün
 yıllarımı Londra'yla İstanbul arasında
@@ -285,7 +285,7 @@ Durakladım. Bilmem aklımdan neler geçti.
 
 Roni MARGULIES
 
-###  İttihat Ve Terakki Kâtib-i Umumisi Mithat Şükrü Bey'in Hüznü 
+##  İttihat Ve Terakki Kâtib-i Umumisi Mithat Şükrü Bey'in Hüznü 
 
 Ben mebus olmak istemedim.
 Malta sürgününden hemen sonraydı,
@@ -321,7 +321,7 @@ Hey gidi koca Mithat! Hey gidi devran!
 
 Roni MARGULIES
 
-### M'agapas? 
+## M'agapas? 
 
 Kanada romanını öğrendim,
 benim kalemimden Külebi okuyan
@@ -344,7 +344,7 @@ ne de artık öğrenmeyeceğim herhangi bir dilde.
 
 Roni MARGULIES
 
-###  Mendirek 
+##  Mendirek 
 
 Antik mendireğin ucunda
 vaktinden evvel kararıyor hava,
@@ -368,7 +368,7 @@ Sadece mendirek ve zeytinlikler.
 
 Roni MARGULIES
 
-###  Mizana 
+##  Mizana 
 
 Basit şeyler oldu istediklerim hep:
 Çok çeşitli içkiler içmek;
@@ -395,7 +395,7 @@ Elsa'ya dönebileceğim artık indiğimde.
 
 Roni MARGULIES
 
-###  Şişe 
+##  Şişe 
 
 Her paylaştığımız şarap şişesi
 uzun bir ayindi adeta,
@@ -415,7 +415,7 @@ Keskin kenarlarını paylaşıyoruz.
 
 Roni MARGULIES
 
-###  Sofia 
+##  Sofia 
 
 O zaman öyle düşünmüyorduk kuşkusuz ama,
 çok gençtik o zamanlar gibi geliyor şimdi bana.
@@ -448,8 +448,13 @@ hafifçe gülümseyen bir ifade belirir yüzünde adeta.
 
 Roni MARGULIES
 
-###  Sonsöz
+##  Sonsöz
   : Yaşlı Bir İttihatçı'nın Belki De Düşünmüş Olabilecekleri 
+
+YAŞLI BİR İTTİHATÇI'NIN BELKİ DE DÜŞÜNMÜŞ OLABİLECEKLERİ
+
+
+
 
 Dün Hüseyin Cahit hapse girdi.
 Yarın hücresinde basacak seksen yaşına.
@@ -486,7 +491,7 @@ Bir yandan bizler tarihi değiştirdik.
 
 Roni MARGULIES
 
-###  Tıraş Olurken 
+##  Tıraş Olurken 
 
 Yüzüme dokunurdu Elsa.
 Oturmuş ben kitap okumaya çalışırken.
@@ -507,7 +512,7 @@ bu yüz başka.
 
 Roni MARGULIES
 
-###  Umut 
+##  Umut 
 
 Kafam tıraşlı, yeni dönmüşüm askerden,
 bir zemberek boşanmak üzereyken içimde,

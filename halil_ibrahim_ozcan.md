@@ -1,6 +1,6 @@
-## Halil İbrahim ÖZCAN
+# Halil İbrahim ÖZCAN
 
-### Denge
+## Denge
 
 bizlerden dışarı gidemiyor vahşet
 kan-tetik ilişkisi: İntikam
@@ -21,7 +21,7 @@ kalemlerini koltuklarında saklarlar
 
 Halil İbrahim ÖZCAN
 
-### Şaşırtmaca Oyunundaki Nü
+## Şaşırtmaca Oyunundaki Nü
 
 şişi vurduğumda soluk fotoğrafın örtüsünden içeri
 akıl sır ermez neden yeniden doğururum ki
@@ -41,7 +41,7 @@ kar düşer kalır beyaz kalabalığından içeri
 
 Halil İbrahim ÖZCAN
 
-### Sehpa
+## Sehpa
 
 kelimeler puslu yollarında hâlâ mürekkeplerini boşaltabiliyor
 ipek gürültülü karanlıkta

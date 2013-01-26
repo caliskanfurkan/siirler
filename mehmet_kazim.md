@@ -1,6 +1,6 @@
-## Mehmet KÂZIM
+# Mehmet KÂZIM
 
-### Bir Yokuşa İki Bakış
+## Bir Yokuşa İki Bakış
 
 I.	Yokuşları İzmir'in unutulmuş
 Bir kol açımı sokakları
@@ -18,7 +18,7 @@ Yaşlı arnavut kaldırımları
 
 Mehmet KÂZIM
 
-### Gündüz - Dış - Sokak İçi
+## Gündüz - Dış - Sokak İçi
 
 (Oksijen saçlı ve ağzı cikletli kızlar göz süzer, ince favorili bıçkın delikanlılara. Bu  şehir azgın bir kedi gibi kendi çocuklarını yer)
 
@@ -40,7 +40,7 @@ Bu tarihsiz sokaklardan yırtmalı.
 
 Mehmet KÂZIM
 
-### Savruluyor
+## Savruluyor
   Zamanda Ömrümüz ve Şairler Hep Söyler Bunu
 
 Aragon'a
@@ -124,7 +124,7 @@ Karanlık ışığı doğurabilir
 
 Mehmet KÂZIM
 
-### Tanık ve İzleyen
+## Tanık ve İzleyen
 
 Bir nehrin akışını
 Bir kadının saklı acısını

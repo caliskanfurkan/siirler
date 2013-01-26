@@ -1,6 +1,6 @@
-## İlhami ÇİÇEK
+# İlhami ÇİÇEK
 
-### Satranç Dersleri I
+## Satranç Dersleri I
 
 uzun bir nehirdir satranç
 kıvrak ve uzatarak boynunu
@@ -46,7 +46,7 @@ bizim atlar
 
 İlhami ÇİÇEK
 
-### Satranç Dersleri II
+## Satranç Dersleri II
 
 nicoldu onca oyuncu
 oyarak
@@ -111,7 +111,7 @@ tutup üzengisinden öpüp koklamalı
 
 İlhami ÇİÇEK
 
-### Satranç Dersleri III
+## Satranç Dersleri III
 
 söyleyelim eBir
 ha
@@ -153,7 +153,7 @@ sana hizmet danışayım
 
 İlhami ÇİÇEK
 
-### Satranç Dersleri IV
+## Satranç Dersleri IV
 
 hüzün
 yalındır - dağdan
@@ -174,7 +174,7 @@ sınav
 
 İlhami ÇİÇEK
 
-### Satranç Dersleri V
+## Satranç Dersleri V
 
 bir oyuna rasgeldim
 her taşı yakup hüznü
@@ -204,7 +204,7 @@ kalınabilir miydi?'
 
 İlhami ÇİÇEK
 
-### Satranç Dersleri VI
+## Satranç Dersleri VI
 
 bu hüznün
 mesnevisi yazılmadı
@@ -265,7 +265,7 @@ sevgili gecem diye
 
 İlhami ÇİÇEK
 
-### Satranç Dersleri VII
+## Satranç Dersleri VII
 
 şebçerağ
 söndü mü
@@ -386,7 +386,7 @@ sorulmayacak mıdır
 
 İlhami ÇİÇEK
 
-### Satranç Dersleri VIII
+## Satranç Dersleri VIII
 
 (kıstak)
 

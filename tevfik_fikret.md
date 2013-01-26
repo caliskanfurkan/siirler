@@ -1,6 +1,6 @@
-## Tevfik FİKRET
+# Tevfik FİKRET
 
-### Halûk'un Bayramı
+## Halûk'un Bayramı
 
 Baban diyor ki: "Meserret çocukların, yalnız
 Çocukların payıdır! Ey güzel çocuk, dinle;
@@ -22,7 +22,7 @@ Sevinmiyor şu yetim, ağlıyor...Hâluk, dinle!
 
 Tevfik FİKRET
 
-### Kuşlarla
+## Kuşlarla
 
 Kuşlar uçar,
 Ben koşarım."
@@ -35,7 +35,7 @@ Hepinizle yarışım var.
 
 Tevfik FİKRET
 
-### Küçük Asker
+## Küçük Asker
 
 Küçük asker, silah elde
 Kahramanca ilerliyor
@@ -79,7 +79,7 @@ Haksızlığa karşı sakla...
 
 Tevfik FİKRET
 
-### Sis
+## Sis
 
 Sarmış yine âfâkını bir dûd-ı munannid,
 Bir zulmet-i beyzâ ki peyâpey mütezâyid.

@@ -1,6 +1,6 @@
-## İlhan BÜYÜKCEBECİ
+# İlhan BÜYÜKCEBECİ
 
-###  Ömrüm
+##  Ömrüm
 
 Ah ömrüm
 Kamburu yalnızlığımın
@@ -18,7 +18,7 @@ Yaşın eskir yıldızlar kadar....
 
 İlhan BÜYÜKCEBECİ
 
-### Yakın Güz
+## Yakın Güz
 
 Alnın çizilmiş
 "Kıran Resimleri" için

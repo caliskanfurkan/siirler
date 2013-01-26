@@ -1,9 +1,12 @@
-## Rıfat ILGAZ
+# Rıfat ILGAZ
 
-### Bütün Şiirleri
+## Bütün Şiirleri
+
+RIFAT ILGAZ
 
 Bütün Şiirleri (1927-1991), , Çınar 
 Yayınları, 2003, Yayına Hazırlayan:Aydın Ilgaz
+
 Hemen bütün şiirlerin 
     mevzuu, kendi küçük dertleri, arzuları. Ama hayret! Bunların hiçbiri sadece 
     Rıfat Ilgaz'ın dertleri değil... Sosyal şiir nedir diyenlere bu kitabı 
@@ -16,8 +19,9 @@ Hemen bütün şiirlerin
 
 Rıfat ILGAZ
 
-### Alişim
+## Alişim
 
+ALİŞİM
 Kasnağından fırlayan kayışa
 kaptırdın mı kolunu Alişim!
 Daha dün öğle paydosundan önce
@@ -43,7 +47,7 @@ Kızlarda emektar sazın gibi
 
 Rıfat ILGAZ
 
-### Aydın Mısın
+## Aydın Mısın
 
 Kilim gibi dokumada mutsuzluğu
 Gidip gelen kara kuşlar havada
@@ -82,7 +86,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Bilmeyecekler
+## Bilmeyecekler
 
 Geride kalanlara ne bırakacağım,
 Çocuklarıma,
@@ -114,7 +118,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Bir Kozada
+## Bir Kozada
 
 Geç kalmadık tam zamanı
 İş başlamaktaydı başladık
@@ -143,7 +147,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Bir Sınavsa Eğer
+## Bir Sınavsa Eğer
 
 Girdiğim çıktığım yerler tanığımdır
 Kapımı çalanlar gece yarılarında
@@ -173,7 +177,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Biraz Daha Sabır
+## Biraz Daha Sabır
 
 Gözünü yıldırmasın karakış, 
 Altında sağlama yatağın, 
@@ -206,7 +210,7 @@ Biraz daha sabır!
 
 Rıfat ILGAZ
 
-### Biz Dar Geçit Bekçileri
+## Biz Dar Geçit Bekçileri
 
 Yaşam durur mu biz yerimizde saysak bile
 Hele bunalımlı bir döneme girdik mi
@@ -252,7 +256,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Biz Taşra Memurları
+## Biz Taşra Memurları
 
 Kamyondan indiğim gün, 
 Tanıttılar kahve arkadaşlarımı, 
@@ -364,7 +368,7 @@ Arpalıktan dönüyor!
 
 Rıfat ILGAZ
 
-### Bizim Kasabamız
+## Bizim Kasabamız
 
 Ortasındayız memleketin, 
 Uzak değiliz Ankara'dan 
@@ -415,7 +419,7 @@ Dövünek de dizden mi olak."
 
 Rıfat ILGAZ
 
-### Bu da Bir Özgürlük Şiiri
+## Bu da Bir Özgürlük Şiiri
 
 1944 yılındasın yanlışın yok,
 Kıştı girdiğin, temmuz ortasındasın.
@@ -469,7 +473,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Bunca Yüzyıldır
+## Bunca Yüzyıldır
 
 Biz uygarız haaa!..
 Biz, diyorsam… Yanlış anlaşılmasın,
@@ -526,7 +530,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Cenaze
+## Cenaze
 
 Omuzlanınca tabutun
 ilk defa kurtuldu ayakların topraktan;
@@ -552,7 +556,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Çember
+## Çember
 
 Büyük kentlerde artık
 Çocuklar çember çevirmiyorlar…
@@ -576,7 +580,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Çocuklarınız İçin
+## Çocuklarınız İçin
 
 Savaş sonrası sayımlarda
 Şu kadar ölü, şu kadar yaralı
@@ -636,7 +640,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Defneler Gibi
+## Defneler Gibi
 
 Sevdim döl döş torun torba
 Taflan gürlüğü çoğaldım
@@ -671,7 +675,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Defneler Ölmez
+## Defneler Ölmez
 
 Bir mevsim var ki üşütür yeşilliğimi
 Ben geceyle gündüzü bilirim yılları değil.
@@ -706,7 +710,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Dört Mevsim
+## Dört Mevsim
 
 YÜZYIL'ımı dörde böldüm…
 Her bölümü bir mevsim,
@@ -720,7 +724,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Durmak Yok
+## Durmak Yok
 
 Başka iş gelse elimden
 Bırakırım kâğıdı, kalemi!
@@ -785,7 +789,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Elif'in Babası
+## Elif'in Babası
 
 Bir yürekli kişiydi
 Elif'in babası bir aydın kişi
@@ -830,7 +834,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Evcilik
+## Evcilik
 
 Küçüklerin en güzel yanı
 -Evcilik oynarlarken izledim-
@@ -858,7 +862,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Geç Azizim Geç
+## Geç Azizim Geç
 
 Biz de yaşarız azizim, 
 Yaşamaya gelince, biz de yaşarız ama, 
@@ -911,7 +915,7 @@ Yontulmamış sesimizle cevabı hazır:
 
 Rıfat ILGAZ
 
-### Gençlik Parkı
+## Gençlik Parkı
 
 Bütün sokakları bu kentin Gençlik Parkı'na açılır
 Bir sevgi ilkyaz sıcaklığında
@@ -950,7 +954,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Gidenleri Anlatıyorum
+## Gidenleri Anlatıyorum
 
 İştahımın gücünden arta kalan
 Yarım dilim ekmekten utanıyorum
@@ -983,7 +987,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Gidişini Anlatıyorum
+## Gidişini Anlatıyorum
 
 Sen gidiyorsun ya işine yetişmek için
 Saçlarını, gözlerini, ellerini
@@ -1011,7 +1015,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Gökdelen
+## Gökdelen
 
 Yüzyıllara ışık tutan
 Bir kadın kıyıda ağlamaklı
@@ -1036,7 +1040,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-###  Gözlerinde Akisler
+##  Gözlerinde Akisler
 
 İçimde bir nağme var ufukların sesinden...
 Sıyrılsam vücudumun bir gün çerçevesinden
@@ -1056,7 +1060,7 @@ Kendini seyredeyim karanlık gözlerinde.
 
 Rıfat ILGAZ
 
-### Güneşten Uzak
+## Güneşten Uzak
 
 Konuklarımız için yıkadık sizin için
 Kıyılarımızı bol köpüklü dalgalarla kıştan
@@ -1127,7 +1131,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Güvercinim Uyur mu?
+## Güvercinim Uyur mu?
 
 Sömürgen cami güvercinleri sizin olsun
 O doyumsuz lapacı güvercinler
@@ -1166,7 +1170,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Hep Böyle
+## Hep Böyle
 
 Anlaşıldı kara günler için doğmuşuz,
 İçli dışlı olmuşuz acılarla.
@@ -1201,7 +1205,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Her Dilde
+## Her Dilde
 
 Hangi dilde ağlar çocuklar,
 Hangi dilde güler
@@ -1237,7 +1241,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Heybeli
+## Heybeli
 
 Nasıl sevmezsin Heybeli'yi,
 Ne evim, ne bahçem var,
@@ -1271,7 +1275,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### İçelim!
+## İçelim!
 
 İşte bir aradayız!
 Sağlığından haber beklediklerimiz yanımızda,
@@ -1313,7 +1317,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### İsteklerimi Anlatıyorum
+## İsteklerimi Anlatıyorum
 
 Hastanenin saçağına kuşlar konuyor
 Güvercinler, gözleri umut yeşili
@@ -1353,7 +1357,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Kara Taş Üstüne
+## Kara Taş Üstüne
 
 Bu kahır dolu şehirde 
 Bir Nasip Teyze vardı.
@@ -1380,7 +1384,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Kardeşlik
+## Kardeşlik
 
 Okullarda hep kardeşiz,
 Şaban kardeş, Ali kardeş, Osman kardeş
@@ -1410,7 +1414,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Karton Kulelerden
+## Karton Kulelerden
 
 Tükenen bir şey vardı yerine koyamadığınız
 Kurşundan bir bulut düşlerinizin üstünde
@@ -1451,7 +1455,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Kasabamız
+## Kasabamız
 
 Martıların düşürdüğü tohumdan 
 Filizlendiğine inandığım kasabamız 
@@ -1468,7 +1472,7 @@ Belki de ölüler böyle istiyor.
 
 Rıfat ILGAZ
 
-### Kısalar, Köseler
+## Kısalar, Köseler
 
 Gelmişler de bir araya
 Ermişler, ermemişler,
@@ -1508,7 +1512,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Kitaplar
+## Kitaplar
 
 Üç odalı bir ev kiraladığım gün,
 kurtulacak kitaplarım
@@ -1545,7 +1549,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Komşuluk
+## Komşuluk
 
 Derdimiz bize yeterken
 komşulardaki de tuz biber eker,
@@ -1587,7 +1591,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Körüz Biz
+## Körüz Biz
 
 Ne varsa otu ot çiçeği çiçek yapan
 Tan yerinden söken umut ışığı
@@ -1629,7 +1633,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Kuş Misali
+## Kuş Misali
 
 I
 
@@ -1697,7 +1701,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Leylaklarını Anlatıyorum
+## Leylaklarını Anlatıyorum
 
 Leylak getiriyorsun bana güneşli bir gün
 Onu saçlarından topladığın belli
@@ -1723,7 +1727,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Ocak Katırı Alagöz
+## Ocak Katırı Alagöz
 
 Pelit ovasında,
 Nanepınar'da bir ocak…
@@ -1776,7 +1780,10 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Oğlum - I -
+## Oğlum - I -
+
+I
+
 
 Ben de düşkündüm oyuna, 
 Ben de kumları avuçlar 
@@ -1820,7 +1827,9 @@ Kâğıtlarından uçak yapmada!
 
 Rıfat ILGAZ
 
-### Oğlum - II -
+## Oğlum - II -
+
+II
 
 Sen büyük şehirlerin çocuğusun 
 Kıyıda köşede büyümedin bizim gibi. 
@@ -1859,7 +1868,12 @@ Hangi okulda yetiştireyim seni,
 
 Rıfat ILGAZ
 
-### Oğlum - III -
+## Oğlum - III -
+
+III
+
+
+
 
 Hiç de meraklı değilsin çiçeğe, 
 Komşunun saksısını sen kuruttun, 
@@ -1896,7 +1910,10 @@ Memleket üzümlerini salkım salkım
 
 Rıfat ILGAZ
 
-### Oğlum - IV - 
+## Oğlum - IV - 
+
+IV
+
 
 Seni saksıda gül yetiştirir gibi 
 Yetiştirmedik, tek başına 
@@ -1939,7 +1956,7 @@ Daha şimdiden!
 
 Rıfat ILGAZ
 
-### Öğünsek mi?
+## Öğünsek mi?
 
 Kerem de girdi sıraya
 Boğaziçi'nde bir lisede yatılı…
@@ -1970,7 +1987,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Okutma Üzerine
+## Okutma Üzerine
 
 SINIF'ın ozanıyım mimli,
 HABABAM SINIFI'nın yazarıyım ünlü.
@@ -2004,7 +2021,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Ormanız Biz
+## Ormanız Biz
 
 Yaşayıp gidiyoruz bir arada
 Meşe, çam, köknar, kayın…
@@ -2032,13 +2049,48 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Parmaklığın Ötesinden I
+## Parmaklığın Ötesinden I
 
-İnsanları alabildiğine sevmeyi,Bırakmazlar yanına.Böyle çekersin cezasınıÜç duvar bir kapı arasında;Onlardan ayrıBöyle onlardan uzak.Yasak sana,boylu boyunca sokaklar,Bahçeler, yalı kahveleri.Dostlara şimdi mektup değil,Bir selam yasak!Kapılar demir sürgülü,çifte kilitli,Kapalı, hürriyete giden yollar;İçerdeki içerde mahzun,Dışardaki dışarda.Buradaki her şey sade:Ekmek ve su,düşünceler...Emirler çeşitli:Kapıda kilik,emir,Uzakta düdük,emir,Emir, dışarda dikilen nöbetçi.Hürriyeti çoktan unuttum,O yemyeşil masalların kızıdırEskiden sevilmiş.Bir ince hastalıktır olsa olsa,O şimdi ciğerlerimde.Şu pencereye verdim kendimi,Bütün üzüntülere karşılık,Boğazın suları üzerinden Karşı sırtlara açılmış pencereye.Üsküdar’ı bilmezdim eskiden,Burada ısınıverdi kanım.Vurgunum şu Kızkulesi’ne;Ne de şirin görünüyorUzaktan Karacaahmet;Hiç de söyledikleri gibi değil,Bana düşündürmüyor ölümü.
+İnsanları alabildiğine sevmeyi,
+Bırakmazlar yanına.
+Böyle çekersin cezasını
+Üç duvar bir kapı arasında;
+Onlardan ayrı
+Böyle onlardan uzak.
+Yasak sana,boylu boyunca sokaklar,
+Bahçeler, yalı kahveleri.
+Dostlara şimdi mektup değil,
+Bir selam yasak!
+Kapılar demir sürgülü,çifte kilitli,
+Kapalı, hürriyete giden yollar;
+İçerdeki içerde mahzun,
+Dışardaki dışarda.
+Buradaki her şey sade:
+Ekmek ve su,düşünceler...
+Emirler çeşitli:
+Kapıda kilik,emir,
+Uzakta düdük,emir,
+Emir, dışarda dikilen nöbetçi.
+Hürriyeti çoktan unuttum,
+O yemyeşil masalların kızıdır
+Eskiden sevilmiş.
+Bir ince hastalıktır olsa olsa,
+O şimdi ciğerlerimde.
+Şu pencereye verdim kendimi,
+Bütün üzüntülere karşılık,
+Boğazın suları üzerinden 
+Karşı sırtlara açılmış pencereye.
+Üsküdar’ı bilmezdim eskiden,
+Burada ısınıverdi kanım.
+Vurgunum şu Kızkulesi’ne;
+Ne de şirin görünüyor
+Uzaktan Karacaahmet;
+Hiç de söyledikleri gibi değil,
+Bana düşündürmüyor ölümü.
 
 Rıfat ILGAZ
 
-### Parmaklığın Ötesinden II
+## Parmaklığın Ötesinden II
 
 Şu sefer bayrağını çekmiş vapur 
 Bizim Karadeniz'e gider. 
@@ -2068,7 +2120,7 @@ Vursa vursa karaya.
 
 Rıfat ILGAZ
 
-### Parmaklığın Ötesinden III
+## Parmaklığın Ötesinden III
 
 Göremedik sıkıntısız yaşandığını, 
 Rahatın şiirini yazamadık, 
@@ -2107,7 +2159,7 @@ Dudaklarımızda kaldı!
 
 Rıfat ILGAZ
 
-### Sahipsiz
+## Sahipsiz
 
 Düşündürür hasta halimde beni:
 Cenaze sabahları, koğuşta;
@@ -2130,7 +2182,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Saltanat
+## Saltanat
 
 Sen otellerde benim konuğum
 Bense dar günlerde senin evinde...
@@ -2164,7 +2216,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Sarıyazmalı
+## Sarıyazmalı
 
 Ya dertlisin, ya sevdalı…
 Eşsiz kalmış keklik misin?
@@ -2223,7 +2275,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Selinti
+## Selinti
 
 Sen yedi denizin selintisi
 Acımasız karayellerle gelen
@@ -2255,7 +2307,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Sen Bu Çerçevede
+## Sen Bu Çerçevede
 
 Kim çekmişse çekmiş bu resmini.
 Kendinden de renkler katmış çekerken.
@@ -2319,7 +2371,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Senin Neyin Eksik?
+## Senin Neyin Eksik?
 
 Boyun bosun yerinde,
 Omuzların adamakıllı geniş.
@@ -2352,7 +2404,7 @@ Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ
 
-### Son Şiirim
+## Son Şiirim
 
 Elim birine değsin,
 Isıtayım üşüdüyse
@@ -2363,7 +2415,7 @@ Boşagitmesin son sıcaklığım!
 
 Rıfat ILGAZ
 
-###  Sularda Güneş Olmak
+##  Sularda Güneş Olmak
 
 I
 
@@ -2399,27 +2451,6 @@ Bu daha güzel
 
  
 Güvercinim Uyur mu adlı şiir kitabından 1974
-Bütün Şiirleri 1927-1991(Çınar Yayınları)
-
-Rıfat ILGAZ
-
-### Şiirde
-
-Önce şiirde sevdim kavgayı
-Özgürlüğü kelime kelime şiirde.
-Mısra mısra sevdim yaşamayı,
-Öfkeyi de, sevinci de…
-Senin ışıklı günlerin,
-Benim iyimser dostlarım 
-Hepsi hepsi şiirde.
-Ne varsa yitirdiğim…
-Bütün bulduklarım şiirde.
-Kafiyeden önce gelen
-Sevgilerimiz mi sade,
-Sürgün de var
-Hapis de.
-
-Devam adlı şiir kitabından 1943
 Bütün Şiirleri 1927-1991(Çınar Yayınları)
 
 Rıfat ILGAZ

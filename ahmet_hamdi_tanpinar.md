@@ -1,9 +1,10 @@
-## Ahmet HAMDİ TANPINAR
+# Ahmet HAMDİ TANPINAR
 
-### Annem İçin
+## Annem İçin
 
 Bir günümüz bile sensiz geçmezken
              Şimdi mezarına hasretiz anne...
+
 
 Issız bir mezarlık, kimsesiz bir yer
 Gölgesinde ulu, loş bir mâbedin
@@ -27,7 +28,7 @@ Bir başka ölüydük bu toprakta biz.
 
 Ahmet HAMDİ TANPINAR
 
-### Başımızın Üstünde Bir
+## Başımızın Üstünde Bir
   Bulutun
 
 Başımızın üstünde bir bulutun
@@ -39,7 +40,7 @@ Yarınsız insanların gecesi.
 
 Ahmet HAMDİ TANPINAR
 
-### Bursa'da Zaman
+## Bursa'da Zaman
 
 Bursa'da bir eski cami avlusu,
 Küçük şadırvanda şakırdıyan su;
@@ -92,7 +93,7 @@ Beyaz bahçesinde su seslerinin.
 
 Ahmet HAMDİ TANPINAR
 
-### Bütün Yaz
+## Bütün Yaz
 
 Ne güzel  geçti bütün yaz,
 Geceler küçük bahçede...
@@ -108,7 +109,7 @@ Geceler küçük bahçede.
 
 Ahmet HAMDİ TANPINAR
 
-### Eşik
+## Eşik
 
 Bu yekpâre akış, durgun, derinden...
 Her aynada yalnız kendi görünen
@@ -230,7 +231,7 @@ Güvercin topuklu sükût gezinsin.
 
 Ahmet HAMDİ TANPINAR
 
-### Günlerimiz
+## Günlerimiz
 
 İçlenme, beyhudedir, maziyi sakın anma!
 O vefasız yavruya benzer ki günlerimiz.
@@ -244,7 +245,7 @@ Ve bir gün bir çukurda bulunur iskeleti.
 
 Ahmet HAMDİ TANPINAR
 
-### 
+## 
   Hatırlama
 
 Sen akşamlar kadar büyülü, sıcak,
@@ -258,7 +259,7 @@ Mehtabı kırılmış dal uçlarından.
 
 Ahmet HAMDİ TANPINAR
 
-### Mavi, Maviydi Gökyüzü
+## Mavi, Maviydi Gökyüzü
 
 Mavi, maviydi gökyüzü
 Bulutlar beyaz, beyazdı
@@ -287,7 +288,7 @@ Ve beni çıldırtan hüzün
 
 Ahmet HAMDİ TANPINAR
 
-### Ne İçindeyim Zamanın
+## Ne İçindeyim Zamanın
 
 Ne içindeyim zamanın,
 Ne de büsbütün dışında;
@@ -311,7 +312,7 @@ Ortasında yüzmekteyim.
 
 Ahmet HAMDİ TANPINAR
 
-### Sabah
+## Sabah
 
 Serin rüzgârlara pencereni aç!
 Karşında fecirle değişen ağaç,
@@ -326,7 +327,7 @@ Mademki geceden daha güzelsin!
 
 Ahmet HAMDİ TANPINAR
 
-### Selâm Olsun
+## Selâm Olsun
 
 Selâm olsun bizden güzel dünyaya
 Bahçelerde hâlâ güller açar mı?
@@ -345,7 +346,7 @@ Adımızı soran, arayan var mı?...
 
 Ahmet HAMDİ TANPINAR
 
-### Yağmur
+## Yağmur
 
 Uyu! Gözlerinde renksiz bir perde, 
 Bir parça uzaklaþ kederlerinden. 

@@ -1,22 +1,30 @@
-## Yalvaç URAL
+# Yalvaç URAL
 
-### Sayrılık
+## Sayrılık
 
 İnsanın yavrusu çocuk
+
 Koyununki kuzu
+
 Keçinin oğlak
+
 Ceylanın ceren
+
 Atın tay
+
 Devenin daylak
 
 Tilkininki neden tilki
+
 Kurtun neden kurt
+
 Yılanın neden yılan
+
 Hiç düşündünüz mü çocuklar?
 
 Yalvaç URAL
 
-### Büyükler ve Çocuk Kitapları
+## Büyükler ve Çocuk Kitapları
 
 Hafta sonları
 Kitabevine gidiyorum
@@ -33,23 +41,34 @@ Gazeteleri arasında
 
 Yalvaç URAL
 
-### Sayrılık
+## Sayrılık
 
 Küçük bir çocuk 
+
 Hasta olunca
+
 Çatlar omzundaki boncuk
+
 Küser Tanrı'ya serçeler
+
 Döker çiçeklerini
+
 Elma ağaçları
+
 "Göz oldu
+
 Soz oldu" der dedeler
 
 Ağlar analar
+
 Ağlar Babalar
+
 Küçük bir çocuk
+
 Hasta olunca
 
 Sanki yaralanır umutlar
+
 Gökten kayar yıldızlar
 
 Yalvaç URAL

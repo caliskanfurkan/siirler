@@ -1,6 +1,6 @@
-## Cahit Sıtkı TARANCI
+# Cahit Sıtkı TARANCI
 
-### Abbas
+## Abbas
 
 Haydi Abbas, vakit tamam;
 Akşam diyordun işte oldu akşam.
@@ -21,7 +21,7 @@ Yaşamak istiyorum gençliğimi yeni baştan.
 
 Cahit Sıtkı TARANCI
 
-### Affet Bizi Lamba
+## Affet Bizi Lamba
 
 Öyle sarmaş dolaş olduk,
 O kadar geçtik ki kendimizden
@@ -41,7 +41,7 @@ Gecemiz sana emanet.
 
 Cahit Sıtkı TARANCI
 
-### Akrostiş
+## Akrostiş
 
 Var olan bir sen, bir ben, bir de bu bahar.
 Elden ne gelir ki? Güzelsin, gençliğin var.
@@ -54,7 +54,7 @@ Dünyada aşkımız ölüm gibi mukadder.
 
 Cahit Sıtkı TARANCI
 
-### Aşk İle
+## Aşk İle
 
 Baktım ki gökyüzü baştan başa bulut
 Unut diyor o güzel günleri unut
@@ -72,7 +72,7 @@ Avladım sonunda o civân kekliği
 
 Cahit Sıtkı TARANCI
 
-### Bir Şey
+## Bir Şey
 
 I.
 Bir şey ki hava gibi ekmek gibi su gibi
@@ -100,11 +100,12 @@ Ne güzel şey dünyada hür olmak hür
 Benerci Jokond Varan Üç Bedrettin
 Hey kahpe felek ne oyunlar ettin
 En yavuz evlâdı bu memleketin
+
  ağabey hapislerde çürür
 
 Cahit Sıtkı TARANCI
 
-### Bir Ölünün Ağzından
+## Bir Ölünün Ağzından
 
 Kabrime çiçek getirenlere gülerim;
 Gafil kişilermiş şu insanlar vesselâm;
@@ -113,7 +114,7 @@ Ben o çiçeklerdeyim, ben o çiçeklerim.
 
 Cahit Sıtkı TARANCI
 
-### Biz Nerdeyiz Sevgilim?
+## Biz Nerdeyiz Sevgilim?
 
 Gecesi benden, mehtabı senden
 Bir bahçesi var ki aşkımızın,
@@ -129,7 +130,7 @@ Sahiden biz nerdeyiz sevgilim?
 
 Cahit Sıtkı TARANCI
 
-### Bugün Cuma
+## Bugün Cuma
 
 Bugün cuma;
 Büyükannemi hatırlıyorum,
@@ -149,7 +150,7 @@ Günahkar olduğumu hatırlayarak.
 
 Cahit Sıtkı TARANCI
 
-### Çocukluk
+## Çocukluk
 
 Affan Dede'ye para saydım,
 Sattı bana çocukluğumu.
@@ -167,7 +168,7 @@ Hiç bitmese horoz şekerim!
 
 Cahit Sıtkı TARANCI
 
-### Desem ki
+## Desem ki
 
 Desem ki vakitlerden bir Nisan akşamıdır,
 Rüzgârların en ferahlatıcısı senden esiyor,
@@ -203,7 +204,7 @@ Ortalığa düşmüşüm seni arıyorum.
 
 Cahit Sıtkı TARANCI
 
-### Değişik
+## Değişik
 
 Sen her gün başka bir güzel olsan
 Ben her gün başka bir âşık
@@ -217,7 +218,7 @@ Sen her gün başka bir güzel olsan
 
 Cahit Sıtkı TARANCI
 
-### Düşten Güzel
+## Düşten Güzel
 
 İlktir baharın gömlümce geldiği
 İlktir hem sarhoş hem ayık olduğum
@@ -232,7 +233,7 @@ Sende murada erdim kırk yaşımda
 
 Cahit Sıtkı TARANCI
 
-### Gün Eksilmesin Penceremden
+## Gün Eksilmesin Penceremden
 
 Ne doğan güne hükmüm geçer,
 Ne halden anlayan bulunur;
@@ -245,7 +246,7 @@ Gün eksilmesin penceremden!
 
 Cahit Sıtkı TARANCI
 
-### Hepimize Dair
+## Hepimize Dair
 
 Yalnız kendi başın mı dertli sanırsın,
 Gölgesi yeryüzünde avare insan?
@@ -258,7 +259,7 @@ Vızıltısı şikâyet makamındadır.
 
 Cahit Sıtkı TARANCI
 
-### Kar ve Hatıralar
+## Kar ve Hatıralar
 
 Kar yağıyor, yine kar, yine kar, yine mahşer gibi kar.
 Sanki güller içinde gülen taze kadınlar,
@@ -272,7 +273,7 @@ Beyaz bir sükût işte: kar yağıyor, kar, kar, kar...
 
 Cahit Sıtkı TARANCI
 
-### Korkunç Güzel
+## Korkunç Güzel
 
 Bu el titremesi kadeh tutarken
 Bu yaşta nasıl koyuyor insana
@@ -286,7 +287,7 @@ Tutmuş bırakmaz bizi bir sıkımlık
 
 Cahit Sıtkı TARANCI
 
-### Memleket İsterim
+## Memleket İsterim
 
 Memleket isterim
 Gök mavi, dal yeşil, tarla sarı olsun;
@@ -306,7 +307,7 @@ Olursa bir şikâyet ölümden olsun.
 
 Cahit Sıtkı TARANCI
 
-### Misafir
+## Misafir
 
 Bir gece misafirim olsan yeter,
 Dolar odama lavanta kokusu;
@@ -325,7 +326,7 @@ Odama misafir olduğun gece.
 
 Cahit Sıtkı TARANCI
 
-### Nü
+## Nü
 
 Uykusuz gecemde bir kadın!
 Gözlerinin ay ışığında
@@ -338,7 +339,7 @@ Duymadan güzel ve bahtiyar!
 
 Cahit Sıtkı TARANCI
 
-### Otuz Beş Yaş Şiiri
+## Otuz Beş Yaş Şiiri
 
 Yaş otuz beş! yolun yarısı eder.
 Dante gibi ortasındayız ömrün.
@@ -378,7 +379,7 @@ Taht misali o musalla taşında.
 
 Cahit Sıtkı TARANCI
 
-### Ölümden Sonra
+## Ölümden Sonra
 
 Öldük, ölümden bir şeyler umarak.
 Bir büyük boşlukta bozuldu büyü.
@@ -394,7 +395,7 @@ Akarsuda aksimizden eser yok.
 
 Cahit Sıtkı TARANCI
 
-### Ömrümde Sükut
+## Ömrümde Sükut
 
 Çıngıraksız, rehbersiz deve kervanı nasıl,
 İpekli mallarını kimseye göstermeden,
@@ -407,7 +408,7 @@ Yaşayıp öldüğümü kimseler bilmeyecek!
 
 Cahit Sıtkı TARANCI
 
-### Şiir
+## Şiir
 
 Kızoğlan kız güzelliğinde şiir;
 Hem sevgili hem dost hem anne yüzü.
@@ -420,7 +421,7 @@ Bir kerre karar kıldık bu hayalde.
 
 Cahit Sıtkı TARANCI
 
-### I Want A 
+## I Want A 
 	Country
 
 I want a country 
@@ -438,7 +439,6 @@ on winter days let everyone have hose and home
 I want a country 
 let living be like loving fromthe heart 
 if there must be complaint, let it be of death
-
 
 
 Translated by Bernard LEWIS

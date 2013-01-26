@@ -1,6 +1,6 @@
-## Erol ÇANKAYA
+# Erol ÇANKAYA
 
-### Alesta
+## Alesta
 
 Hadi kalbine bir kurşun daha sık, yekin
 Bir yanda dürülü dururken mektupların
@@ -67,7 +67,7 @@ Yağan kar altında usulca beklesin silâhın.
 
 Erol ÇANKAYA
 
-### Asıl Adı Gökyüzü
+## Asıl Adı Gökyüzü
 
 Bir gülün çizdiği boşlukta bakışlarım
 Hız istiyorum, bir bulut aralığında o
@@ -195,7 +195,7 @@ Asıl adı gökyüzü!
 
 Erol ÇANKAYA
 
-### Her Şeyi Kuşatır Sevda
+## Her Şeyi Kuşatır Sevda
 
 Gizem deyip başlıyorum adına
 Cılız bir güneş, soldu solacak

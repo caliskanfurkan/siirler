@@ -1,6 +1,6 @@
-## Veysel ÇOLAK
+# Veysel ÇOLAK
 
-### Birlikte Yalnızlıklar
+## Birlikte Yalnızlıklar
 
 Varlığın bir saldırma değilse yorulursun ölmekten
 yaşamak dediğin anlamlı bir sıkıntı
@@ -30,7 +30,7 @@ Bir elmadasın, çekirdeğin daha içerde.
 
 Veysel ÇOLAK
 
-### Giz
+## Giz
 
 Hızla çıktım içinizden, deriniz oldum
 yüzünüz gibi değişe değişe maskeler edinen
@@ -52,7 +52,7 @@ dili kesiktim, bir azınlıktım kendime
 
 Veysel ÇOLAK
 
-### İçin
+## İçin
 
 Hiçbir gecede yokum, artık bilemem
 uykularını kırdığın yeri, ışığın karanlık
@@ -91,7 +91,7 @@ için.
 
 Veysel ÇOLAK
 
-### Kanama
+## Kanama
 
 Kumunu yitirmiş bir çölün hüznü
 önemlidir bir düş'ün depreminden
@@ -119,7 +119,7 @@ Nereme dokunsanız gül tadında bir sancı.
 
 Veysel ÇOLAK
 
-### Ne Desem Yalan Olur
+## Ne Desem Yalan Olur
 
 Dünyası olmamış, duyguları ayaklanmamış hiç
 onunduk oysa, tutuşurduk; ama üşürdük gene.
@@ -151,7 +151,7 @@ bulaşıcı bir aşkla ne desem yalan olur.
 
 Veysel ÇOLAK
 
-### Terleten Kelimeler
+## Terleten Kelimeler
 
 Kalabalık bir aşk bu, ortasından bir halk geçiyor
 başlatarak kentleri alacakaranlıktan. Ama konumuz gökyüzü
@@ -182,7 +182,7 @@ Yanlışımız aşk, tam ortasından bir halk geçiyor.
 
 Veysel ÇOLAK
 
-### Yara Bir Başkasında Kanayan 
+## Yara Bir Başkasında Kanayan 
 	Benim
 
 Bir su köpüğünde bulmuşlar beni
@@ -199,7 +199,7 @@ ne zaman buluşsak anlarlar bunu
 
 Veysel ÇOLAK
 
-### Yüzyüze
+## Yüzyüze
 
 Zaman da ölür
 Kimse beni bu kentle barıştıramaz

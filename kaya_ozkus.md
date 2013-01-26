@@ -1,6 +1,6 @@
-## Kaya ÖZKUŞ
+# Kaya ÖZKUŞ
 
-### Aç Gözlerini Bana
+## Aç Gözlerini Bana
 
 Beynim günün içinden geçiyor
 zaman, ağır bir mengene

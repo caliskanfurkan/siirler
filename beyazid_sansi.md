@@ -1,6 +1,6 @@
-## Beyazıd SANSI
+# Beyazıd SANSI
 
-### Edirne Türküsü
+## Edirne Türküsü
 
 Arda, Tunca, Meriç üç güzel kardeş
 Var mıdır dünyada sizden güzel eş

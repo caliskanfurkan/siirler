@@ -1,6 +1,6 @@
-## Şükrü ERBAŞ
+# Şükrü ERBAŞ
 
-### Acı İlişki
+## Acı İlişki
 
 Sevgilim,
 Bir ülke senin gövden kadar masum olsaydı
@@ -13,7 +13,7 @@ Bir tek anne oğlunu devletten sormazdı...
 
 Şükrü ERBAŞ
 
-### Ağaran Bir Suyum
+## Ağaran Bir Suyum
 
 Nerden mi anlıyorum yaşlandığımı 
 Kadınlar gittikçe daha güzel 
@@ -44,7 +44,7 @@ Kadınlar daha güzel kadınlar daha uzak...
 
 Şükrü ERBAŞ
 
-### Aykırı Yaşamak
+## Aykırı Yaşamak
 
 Geriye bakarak yanıtlıyoruz birbirimizi
 Bir destek aranır bir güç alırcasına
@@ -83,7 +83,7 @@ Anılar inançlar incelikler düşler..
 
 Şükrü ERBAŞ
 
-### Denizin Ayrıcalığı
+## Denizin Ayrıcalığı
 
 Kül uzun sürer, demiştim
 Yenilgisini kutsayan bir sesle
@@ -112,7 +112,7 @@ Masmavi büyüyor bozkır geldiğimden beri...
 
 Şükrü ERBAŞ
 
-### Kar Yağışı
+## Kar Yağışı
 
 Yalnızlığın sesinden bir resim yaptım
 Karanlık kalabalıklardan süzdüm ışığını.
@@ -138,7 +138,7 @@ Ben bir aşkın kar yağışından geliyorum...
 
 Şükrü ERBAŞ
 
-### Kimse Temizim Demesin
+## Kimse Temizim Demesin
 
 Sonra onlar çılgınlık bitip 
 Sürü dağılınca, yapayalnız gecelerde 
@@ -174,7 +174,7 @@ Tütmez mi kirpiklerinde "dumanı lekesiz biri"?..
 
 Şükrü ERBAŞ
 
-### Kocaman Bir Çocuğu Öpüyorsun
+## Kocaman Bir Çocuğu Öpüyorsun
 
 Sen bende neleri öpüyorsun bir bilsen 
 Herkesin perde perde çekildiği bir akşam 
@@ -212,7 +212,7 @@ Bir solgunluktan doğan kocaman bir çocuğu öpüyorsun.
 
 Şükrü ERBAŞ
 
-### Koşaradım
+## Koşaradım
 
 Gittikçe yalnızlaşıyorsunuz insan kardeşlerim 
 Ne bir ortak sevinciniz kaldı sizi çoğaltacak 
@@ -258,7 +258,7 @@ Duymadan bir gün olsun dünyayı iliklerinizde..
 
 Şükrü ERBAŞ
 
-### Küçük Acılar
+## Küçük Acılar
 
 Ağzı çirkin bir kadın
 Yalnızlığında bile
@@ -302,7 +302,7 @@ Bu da bir acıdır.
 
 Şükrü ERBAŞ
 
-### Ömür Hanımla Güz Konuşmaları
+## Ömür Hanımla Güz Konuşmaları
 
 ...Ve güz geldi Ömür hanım. Dünya aydınlık sabahlarını 
 yitiriyor usul usul. İnsanın içini karartan bulutların seferi var 
@@ -493,7 +493,7 @@ Ankara, Güz/1983
 
 Şükrü ERBAŞ
 
-### Üç Nokta
+## Üç Nokta
 
 Büyük konuşanlar 
 Alınlarında eğri olmayanlar 
@@ -525,7 +525,7 @@ O mevsimim ki herkesten yapılmış
 
 Şükrü ERBAŞ
 
-### Yolculuktan
+## Yolculuktan
 
 Ve İstanbul geldi, bir halk şenliğinde
 Gömmüş otuzdört ölüsünü Mayıs mavilerine..

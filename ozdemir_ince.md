@@ -1,6 +1,6 @@
-## Özdemir İNCE
+# Özdemir İNCE
 
-### ateş bilgisi
+## ateş bilgisi
 
 Çok eski bir gelenektir bizde
 ateşe bakıp geleceği okumak,
@@ -19,7 +19,7 @@ eriyen rüzgârınla.
 
 Özdemir İNCE
 
-### cemal süreya için
+## cemal süreya için
 
 Yoruldu menzil atları
 gülbank çeken güneşin altında
@@ -43,7 +43,7 @@ Gündönümü! Söyle, nerede öteki yarım?
 
 Özdemir İNCE
 
-### comandante che guevera
+## comandante che guevera
 
 Bir kent var, dilimi konuşmayan
 Comandante Che Guevera
@@ -62,7 +62,7 @@ Comandante Che Guevera
 
 Özdemir İNCE
 
-### Bir Kent Yaşamak
+## Bir Kent Yaşamak
 
 Bir kenti yaşamak
 ona boyun eğmektir-
@@ -84,7 +84,7 @@ nedir mutluluğu bir tutsağın?
 
 Özdemir İNCE
 
-### Durum
+## Durum
 
 Pazar günü geçmek bilmiyor
 Birden bir kavak fışkırıyor pencereden
@@ -118,7 +118,7 @@ Kentim biraz uzakta, donatılmış bir gemi.
 
 Özdemir İNCE
 
-### Evren Yorumcusu
+## Evren Yorumcusu
 
 Atlayarak çiz dünyayý,
 gerçekler söylenmeyen alanlarda kalsýn,
@@ -129,7 +129,7 @@ yüreðindedir yaþamýn bütün ipuçlarý.
 
 Özdemir İNCE
 
-### Ey Oğul Yazıcı Olursan
+## Ey Oğul Yazıcı Olursan
 
 Ey oğul bir gün yazıcı olursan 
 gözü gözünde yüreği yüreğinde eli elinde 
@@ -157,7 +157,7 @@ onu güzel ölüyü anlat ülkemin çocuklarına
 
 Özdemir İNCE
 
-### nazar
+## nazar
 
 Bir avcı geçiyor karanlık sokaklardan,
 hovarda çalım, levent endam, çinili gece,
@@ -181,7 +181,7 @@ Herdem, güneş pençeli bir nevcivan.
 
 Özdemir İNCE
 
-### Pay
+## Pay
 
 Ev kurmak için bir zaman
 tarla açmak için bir zaman
@@ -209,7 +209,7 @@ yaþamak için bir zaman
 
 Özdemir İNCE
 
-### Yakarı
+## Yakarı
 
 -Şairler esnafı pîri Hasan bin Sâbit'e-
 İdris peygamber, terzilerin pîri,

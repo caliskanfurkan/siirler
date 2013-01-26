@@ -1,16 +1,60 @@
-## Ali Erdem URAL
+# Ali Erdem URAL
 
-### Dünyanın Görmediğim Kadınları
+## Dünyanın Görmediğim Kadınları
   İçin
 
-Dünyanın görmediğim kadınları içinBir sigara daha yaktım, bir dal incittimGörmediğim kentleri içinEskiye dair hatırlayacaklarımı yazdımBütün güzel kadınların siyah saçları
-vardı,Yaşlı adamın intihar ettiği yerden başladımEsrik bir Nisan sabahı hiç beklenmeyen yerden.Ve sizleri hatırladımŞaşırmış mıydınız,  sizleri hatırladım.Üstünüzü örttümÜşümüştünüz.Ürkekti bakışlarınız, emin değildinizKorkuyordunuz belli kiAnlayamıyordunuzKesinlikle anlayamıyordunuzKötü davranmışlardı sizeKötü davranacaklardı sizeAnneniz yanağınızdan bir kere öpmüştüSizleri hatırladım.Sizi ben de ne diye sevecektim kiDaha vardıZamanınız gelecektiEni konu bir keşkeydi hayatınızİşe yaramaz bir Nisan yağmurundaİntihar eden yaşlı adam kadar keşke.Çirkindiniz, arkadaşlarınız da.
+Dünyanın görmediğim kadınları için
+Bir sigara daha yaktım, bir dal incittim
+Görmediğim kentleri için
+Eskiye dair hatırlayacaklarımı yazdım
+Bütün güzel kadınların siyah saçları
+vardı,
+Yaşlı adamın intihar ettiği yerden başladım
+Esrik bir Nisan sabahı hiç beklenmeyen yerden.
+Ve sizleri hatırladım
+Şaşırmış mıydınız,  sizleri hatırladım.
+Üstünüzü örttüm
+Üşümüştünüz.
+Ürkekti bakışlarınız, emin değildiniz
+Korkuyordunuz belli ki
+Anlayamıyordunuz
+Kesinlikle anlayamıyordunuz
+Kötü davranmışlardı size
+Kötü davranacaklardı size
+Anneniz yanağınızdan bir kere öpmüştü
+Sizleri hatırladım.
+Sizi ben de ne diye sevecektim ki
+Daha vardı
+Zamanınız gelecekti
+Eni konu bir keşkeydi hayatınız
+İşe yaramaz bir Nisan yağmurunda
+İntihar eden yaşlı adam kadar keşke.
+Çirkindiniz, arkadaşlarınız da.
 Bir kara parçasıdır yaşlı adamın bu
-ölümü;Hiçten parça parça..Üstümde yine aynı ceket vardıYine aynı sararmış fotoğraf cebimdeYine aynı dişlerim, parmaklarımAynı gözlerim vardı- Sizi ilk kez gören bu gözlerim -Yine uyuyordumHiçten parça parça, en çok da gölgesi...
-Benzi solmuş aynalaraHayatını anlattı yaşlı adam- Aynalar mıydı tek onunla yaşlanan -Donuk yeşil paltosu - ona benzeyen -Bin dokuz yüz otuz dokuz yılındaSavaş çıkacaktı belki de - yine bir ayna
-söylemişti -Paltosu ve kimbilir nerede bir ayna,Hiç evlenmedi yaşlı adam.
-Bir sigara daha yaktımYaşlı adamınDünyanın görmediği kadınları için- Dünyanın görmediğim kadınları için başka
-başkadır herkese, durağan -Yakmasa mıydım?
+ölümü;
+Hiçten parça parça..
+Üstümde yine aynı ceket vardı
+Yine aynı sararmış fotoğraf cebimde
+Yine aynı dişlerim, parmaklarım
+Aynı gözlerim vardı
+- Sizi ilk kez gören bu gözlerim -
+Yine uyuyordum
+Hiçten parça parça, en çok da gölgesi...
+Benzi solmuş aynalara
+Hayatını anlattı yaşlı adam
+- Aynalar mıydı tek onunla yaşlanan -
+Donuk yeşil paltosu - ona benzeyen -
+Bin dokuz yüz otuz dokuz yılında
+Savaş çıkacaktı belki de - yine bir ayna
+söylemişti -
+Paltosu ve kimbilir nerede bir ayna,
+Hiç evlenmedi yaşlı adam.
+Bir sigara daha yaktım
+Yaşlı adamın
+Dünyanın görmediği kadınları için
+- Dünyanın görmediğim kadınları için başka
+başkadır herkese, durağan -
+Yakmasa mıydım?
 Öyle ya belki de yakmasa mıydım;
 Ama ne farkımız kalırdı o zaman
 İlkel dağ tanrılarından
@@ -77,44 +121,95 @@ Bulamadık.
 
 Ali Erdem URAL
 
-### Evcilik
+## Evcilik
 
-Görmedim, duymadım, söylemedim maymunlardan hangisiydim ben?Çıplaktık, gelmiştik, görmüştük ve yenmiştik utancı ama,Zaman kipini şaşırmış bir cümle gibi ürkektik ve elele dolaşacağız dün,Sen pembe tuşlu bir piyanoydunVe ben seninle evlenmek istiyordum.Biliyordum, babaları içinde en çok beni sevecekti çocukların,Meraklar içindeydim; benim ilk karım olur muydun?VeniVidiVici.
+Görmedim, duymadım, söylemedim maymunlardan hangisiydim ben?
+Çıplaktık, gelmiştik, görmüştük ve yenmiştik utancı ama,
+Zaman kipini şaşırmış bir cümle gibi ürkektik ve elele dolaşacağız dün,
+Sen pembe tuşlu bir piyanoydun
+Ve ben seninle evlenmek istiyordum.
+Biliyordum, babaları içinde en çok beni sevecekti çocukların,
+Meraklar içindeydim; benim ilk karım olur muydun?
+Veni
+Vidi
+Vici.
 
 Ali Erdem URAL
 
-### Gen
+## Gen
 
-Ya da dünyanın en güzel kibir kelimesi: “Böbür” gibi göğüslerin,İçin için kan ağladığın, âdetin olduğu üzere yine artık hiçbirşeyin tadı yok günlerindeki kırmızı                                                                                                                      kırmızı sersemliğin,Tatlarında, anlaşılmamaktan muzdarip gizli gözyaşları, anneni çağrıştıran,Ondokuz sene dört ay sakladıktan sonra babana verişi vücudunu ablan için anneni,Sinemada her yatak odası sahnesinde deliye dönen anneni,Beni kızının arkadaşından daha bir farklı kucaklayan anneni,Ve gazetedeki kadın resimlerine hala eski bir alışkanlıkla bakan babanı.Tatlar gibi alışkanlıklarında, unutulmuşluktan muzdarip gözyaşları, anneninkilere karışan ve seni                                                                                                                  çağrıştıran henüz bugün-Böğürtlen Safsatana gömülmüşken ben  -ne zaman bitecek-  seni çağrıştıran gözyaşları…Ne söylenebilir ki?Babana çekmişsin…
+Ya da dünyanın en güzel kibir kelimesi: “Böbür” gibi göğüslerin,
+İçin için kan ağladığın, âdetin olduğu üzere yine artık hiçbirşeyin tadı yok günlerindeki kırmızı
+                                                                                                                      kırmızı sersemliğin,
+Tatlarında, anlaşılmamaktan muzdarip gizli gözyaşları, anneni çağrıştıran,
+Ondokuz sene dört ay sakladıktan sonra babana verişi vücudunu ablan için anneni,
+Sinemada her yatak odası sahnesinde deliye dönen anneni,
+Beni kızının arkadaşından daha bir farklı kucaklayan anneni,
+Ve gazetedeki kadın resimlerine hala eski bir alışkanlıkla bakan babanı.
+Tatlar gibi alışkanlıklarında, unutulmuşluktan muzdarip gözyaşları, anneninkilere karışan ve seni
+                                                                                                                  çağrıştıran henüz bugün-
+Böğürtlen Safsatana gömülmüşken ben  -ne zaman bitecek-  seni çağrıştıran gözyaşları…
+Ne söylenebilir ki?
+Babana çekmişsin…
 
 Ali Erdem URAL
 
-### Kelebek
+## Kelebek
 
 Sana kelebeklerini getirdim.
 
 Ali Erdem URAL
 
-### Miş Gibi Kadın
+## Miş Gibi Kadın
 
-duk da;Kadınlar düşünülmeye değer…
-Miş gibi kadın;Sadece sesin olsaydı,Sesinle sevişseydim senin;Mis gibi kadın deseydim sesineNefis göğüs uçları olsaydı sesininDokunmak hoşuma gitseydiKasıkları olsaydı gezmelerimi mezara götüreceğimKasıkları olsaydı sesinin sadece benim.Miş gibi kadın, orgazmsız seni,Uykularımı nereye kaçırdın? demeseydim ama
-dedim amaKasıkları olsaydı sesinin sadece benim,Miş gibi kadın, yapamadım/n/k işteNe güzel bir dündü demeseydim ama dedim amaSesin de beni çok sevseydiHayatımda yeni hiç bir şey olmazsa olmasın
-olabilseydi,Istiklal marşı çalsaydı radyolar sesine her
+duk da;
+Kadınlar düşünülmeye değer…
+Miş gibi kadın;
+Sadece sesin olsaydı,
+Sesinle sevişseydim senin;
+Mis gibi kadın deseydim sesine
+Nefis göğüs uçları olsaydı sesinin
+Dokunmak hoşuma gitseydi
+Kasıkları olsaydı gezmelerimi mezara götüreceğim
+Kasıkları olsaydı sesinin sadece benim.
+Miş gibi kadın, orgazmsız seni,
+Uykularımı nereye kaçırdın? demeseydim ama
+dedim ama
+Kasıkları olsaydı sesinin sadece benim,
+Miş gibi kadın, yapamadım/n/k işte
+Ne güzel bir dündü demeseydim ama dedim ama
+Sesin de beni çok sevseydi
+Hayatımda yeni hiç bir şey olmazsa olmasın
+olabilseydi,
+Istiklal marşı çalsaydı radyolar sesine her
 baktığımda …
 Sonra üstüme döküldüm.
+
   
   
 2
-Şairin notu:Beni kadınlar büyüttü… Artık hiçbiri yaşamıyor.
+Şairin notu:
+Beni kadınlar büyüttü… Artık hiçbiri yaşamıyor.
 Onlar beni döverek büyüttüler, ben onları överek öldürdüm.
 Önce üstüme döküldüm sonra yine üstüme …
-Sessiz harflerin başyapıtıGökkuşağı gözlerinin hasır çantasında güneşi
-saklayanHer yağmur yağdığındaBenim yerime oCüce cinlerle sevişen siz;Hay Allah! Arkadan ne kadar da sana benziyorsunuz…Senin de küçücük gözleri vardı günaydın öpücükleri
+Sessiz harflerin başyapıtı
+Gökkuşağı gözlerinin hasır çantasında güneşi
+saklayan
+Her yağmur yağdığında
+Benim yerime o
+Cüce cinlerle sevişen siz;
+Hay Allah! Arkadan ne kadar da sana benziyorsunuz…
+Senin de küçücük gözleri vardı günaydın öpücükleri
 kocaman.
-Birden size kanım ısındı;Bu kadar yeter, biraz daha sevişelim isterseniz…
-Ne kadınlar geldi geçti,Ne kadınlar gelip geçerken verdi,Istanbul hepsini gördü,Sallanan iskemlesinde şöyle bir doğrulupSakalını sıvazlayıp fısıldadı:(hep böyle kısa
-konuşurdu…)Bu kadar yeter;
+Birden size kanım ısındı;
+Bu kadar yeter, biraz daha sevişelim isterseniz…
+Ne kadınlar geldi geçti,
+Ne kadınlar gelip geçerken verdi,
+Istanbul hepsini gördü,
+Sallanan iskemlesinde şöyle bir doğrulup
+Sakalını sıvazlayıp fısıldadı:(hep böyle kısa
+konuşurdu…)
+Bu kadar yeter;
 Aşık ol ve köşene çekil artık…
 Istanbul gerçek bir budalaydı, ya da belki de değildi…
 Ve doğrusu kaybolmuştum, ya da belkide değildi…
@@ -180,40 +275,76 @@ Nah biliyorsunuz …
 
 Ali Erdem URAL
 
-### Patates Patates
+## Patates Patates
 
-Alekto, Tisiphone ve Magaira'ya.                                                                                                
-Bu üç tanrıçanın, kan kokusu alarak suç işleyenlerin,                                                                                                
-özellikle de katillerin peşine takılıp, suçluyu sürekli                                                                                                
+Alekto, Tisiphone ve Magaira'ya.
+                                                                                                
+Bu üç tanrıçanın, kan kokusu alarak suç işleyenlerin,
+                                                                                                
+özellikle de katillerin peşine takılıp, suçluyu sürekli
+                                                                                                
 takip ederek çıldırttıkları söylenir...
 1
-Yalan söylediğin yere elbetDöneceğim sana zamanıGeldiğinde...Renkleri ve günahı ve şiiri
-icat eden insanoğlu.Ve kadını...Sese cevap veren sese cevap
-veren ses,Ulaşılamayan sonuçlarBulunamayan renkler unutmaya!...
+Yalan söylediğin yere elbet
+Döneceğim sana zamanı
+Geldiğinde...
+Renkleri ve günahı ve şiiri
+icat eden insanoğlu.
+Ve kadını...
+Sese cevap veren sese cevap
+veren ses,
+Ulaşılamayan sonuçlar
+Bulunamayan renkler unutmaya!...
 Hey şair!, çocukluğu uzun,
-renkleri ne yapacaksın şimdi?Renkler olmasaydı asla hamile
-kalamazdı Meryem dedi ben usulca.Hey şair!, çocukluğu uzun,
-annen bir melek miydi her dem mutlu?İsa peygamber pembeydi pek
-tabii, şair şiir yazamaz, belki şiir şairi;Küçük sırrımız olsun bu
-bizimHiç anlamadığın İnka şarkıları
-gibi: şiir şairi yazar dedi ben yine usulca...Orgazmın tavuskuşunun
-renklerinde yanılsaması gibiÇaresiz ve anlamsızBir intikam seninkisi,Benim suçum değil ki saatin 2,
-4 ya da 9 olmasının farketmemesi ya da ne kadar
-da büyük bir gururla taşırıyorolması geniş ölümlü kızın
-göğüslerini...Ayrıca şu an saat iki,Ve de ben şiire inanmıyorum
+renkleri ne yapacaksın şimdi?
+Renkler olmasaydı asla hamile
+kalamazdı Meryem dedi ben usulca.
+Hey şair!, çocukluğu uzun,
+annen bir melek miydi her dem mutlu?
+İsa peygamber pembeydi pek
+tabii, şair şiir yazamaz, belki şiir şairi;
+Küçük sırrımız olsun bu
+bizim
+Hiç anlamadığın İnka şarkıları
+gibi: şiir şairi yazar dedi ben yine usulca...
+Orgazmın tavuskuşunun
+renklerinde yanılsaması gibi
+Çaresiz ve anlamsız
+Bir intikam seninkisi,
+Benim suçum değil ki saatin 2,
+4 ya da 9 olması
+nın farketmemesi ya da ne kadar
+da büyük bir gururla taşırıyor
+olması geniş ölümlü kızın
+göğüslerini...
+Ayrıca şu an saat iki,
+Ve de ben şiire inanmıyorum
 dedi ben. (hep böyle usulca konuşurdu ...)
   
 2 (imgeseyrekbölüm)
+
   
 Peygamber bile olamadığından
-yakınan bir arkadaşım vardı,Onu ben peygamber yapamadım,
-seni ben sevemedim, beni sen terkedemedin,Hepsi ama hepsi benim suçum,
-artık bundan eminim:Hepsi benim suçum...Konunun daima kadınlara gelmesi,Şiirin beni yazarken hala ısrarla
-Beatrice harfleri kullanması, bu da benim suçum...Alekto, Tisiphone, Magaira;
-rahat bırakın artık beni...Hatırlasana kız arkadaşım;İlk kez içine girdiğimdeNe de güzel kokardı kasımpatıları
-belki de;Gecemsiz olmayan sen; pembe
-ayaklı demiştin...Bir kilo ben bir kilo senden o
-zaman da daha ağırdıVe ben bir daha ayaklarıma
+yakınan bir arkadaşım vardı,
+Onu ben peygamber yapamadım,
+seni ben sevemedim, beni sen terkedemedin,
+Hepsi ama hepsi benim suçum,
+artık bundan eminim:
+Hepsi benim suçum...
+Konunun daima kadınlara gelmesi,
+Şiirin beni yazarken hala ısrarla
+Beatrice harfleri kullanması, bu da benim suçum...
+Alekto, Tisiphone, Magaira;
+rahat bırakın artık beni...
+Hatırlasana kız arkadaşım;
+İlk kez içine girdiğimde
+Ne de güzel kokardı kasımpatıları
+belki de;
+Gecemsiz olmayan sen; pembe
+ayaklı demiştin...
+Bir kilo ben bir kilo senden o
+zaman da daha ağırdı
+Ve ben bir daha ayaklarıma
 bakamadım.
 Denilebilir ki ecil İnka şarkılarındandır
 am'a
@@ -319,23 +450,53 @@ dedi ben.
 
 Ali Erdem URAL
 
-### Tarak Satan Çocuklara Mi Minör Konçerto
+## Tarak Satan Çocuklara Mi Minör Konçerto
 
-evüz etmiş bakışlarıyla
-hüzün hüzün kokan-Ki onlar bile benim kadar yalnız
-değil kendilerine-Dünya hafifçe durduğunda bile hiç
-korkmayan.Sana istemediğin bir isim koymak
-istemem,Ben aslında…Ben…Hiç orgazm olamamış kadınlarınSuçu muyum benÇocuklarını döven babaların?Seni belkide nasıl sevdiğimeBir inansanAslında o kadar da kötü biri
-olmadığımaIlk şiiri bir mezartaşında şimdi;Belkide sen olabilecek kızına ağlayan
-bir anneninBir avuç avuntusu ben!Ben…Annen…Beatrice yine mi sen?Uzun zaman oldu, nasılsın?-Hı hı… evet tabii…-Vay, çok iyi, sevindim…-Evet.-Tabii ki.-Evet.-Tam değil.-Yo hayır, şiir yazıyordum işte,
+Hayat tecevüz etmiş bakışlarıyla
+hüzün hüzün kokan
+-Ki onlar bile benim kadar yalnız
+değil kendilerine-
+Dünya hafifçe durduğunda bile hiç
+korkmayan.
+Sana istemediğin bir isim koymak
+istemem,
+Ben aslında…
+Ben…
+Hiç orgazm olamamış kadınların
+Suçu muyum ben
+Çocuklarını döven babaların?
+Seni belkide nasıl sevdiğime
+Bir inansan
+Aslında o kadar da kötü biri
+olmadığıma
+Ilk şiiri bir mezartaşında şimdi;
+Belkide sen olabilecek kızına ağlayan
+bir annenin
+Bir avuç avuntusu ben!
+Ben…
+Annen…
+Beatrice yine mi sen?
+Uzun zaman oldu, nasılsın?
+-Hı hı… evet tabii…
+-Vay, çok iyi, sevindim…
+-Evet.
+-Tabii ki.
+-Evet.
+-Tam değil.
+-Yo hayır, şiir yazıyordum işte,
 bilirsin…
+
   
+
   
   
 Andante Moderato
+
   
 Bana çalışıyordur tüm
-yumurtaları;Seninle sevişmelerimizDoğacak kızımın ayakları kadar
+yumurtaları;
+Seninle sevişmelerimiz
+Doğacak kızımın ayakları kadar
 güzel…
 Babanı fazla sevmeyecekler kızım…
 Ayıpları kayıpları insanların
@@ -425,30 +586,45 @@ Bitti artık bu şiir…
 
 Ali Erdem URAL
 
-### Yiyen (Japon Kelepçe Birimi)
+## Yiyen (Japon Kelepçe Birimi)
 
 Matematikten korkan çocuklarımız olmalı
 ilkin, 
+
 Merminin açtığı yaradan akan kanın kırmızısından
 korkan, 
+
 Yılandan değil belki ama çıkardığı sesten.
+
 
 Bakışlarında ruhunun fotoğrafta hapsolduğuna
 inanan kızılderili 
+
 nin inceliği olan çocuklar, 
+
 Çocuklarımız olmalı daha daha; 
+
 Öldürmeli sonra onları bir kalemde. 
+
 Aniden. 
+
 Sebepsiz. 
+
 Ki yer gök yanlış doluydu, 
+
 Hatırlamalı ardından, en güzel çocuğun
 
+
 En sevdiği masalı: 
+
 Sonunda patladı sürekli 
+
                                       
 yanlış 
+
                                                  
 yiyen 
+
                                                             
 kuş.
 

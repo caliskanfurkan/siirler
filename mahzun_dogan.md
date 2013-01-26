@@ -1,24 +1,24 @@
-## M. Mahzun DOĞAN
+# M. Mahzun DOĞAN
 
-### Önce Ellerim Uyanır
-
-
-
-M. Mahzun DOĞAN
-
-### Sesimde Mimozalar
+## Önce Ellerim Uyanır
 
 
 
 M. Mahzun DOĞAN
 
-### Labirent ve Lunapark
+## Sesimde Mimozalar
 
 
 
 M. Mahzun DOĞAN
 
-### Kar Yağıyor Yeryüzünün Kalbine
+## Labirent ve Lunapark
+
+
+
+M. Mahzun DOĞAN
+
+## Kar Yağıyor Yeryüzünün Kalbine
 
 “Aykırılığı ve uyumsuzluğu yaşama çizgisi ile örtüşen
     bir şiirin içinden soluk alıp verir M. Mahzun Doğan. 1980 sonrası Türk şiirinin
@@ -30,7 +30,7 @@ Yaşama ve yaşamayı bütün olanaklarıyla çoğaltma gücü. Tanıktır, tan�
 
 M. Mahzun DOĞAN
 
-### Annelerin Sesi Mavi
+## Annelerin Sesi Mavi
 
 Annelerin Sesi Mavi, Mahzun Doğan'ın anne şiirleri 
     seçkisi. Seçkinin yıllar süren titiz bir çalışmanın ürünü olduğu hemen 
@@ -39,7 +39,7 @@ Annelerin Sesi Mavi, Mahzun Doğan'ın anne şiirleri
 
 M. Mahzun DOĞAN
 
-### Attila İlhan Evde Yok
+## Attila İlhan Evde Yok
 
 Anımsarım. Anımsamak, değiştirir manzarayı
 koluma girer Pia
@@ -66,7 +66,7 @@ kalbini neyle yıkasa?
 
 M. Mahzun DOĞAN
 
-### Bağdat, Kalbim
+## Bağdat, Kalbim
 
 Sana yalan söylediler onbaşı
 Burada çocuğum ben, burada
@@ -106,7 +106,7 @@ Masalların omzunda kal!
 
 M. Mahzun DOĞAN
 
-### Bağışlanamam
+## Bağışlanamam
 
 Okuma Odasından :  
 
@@ -115,7 +115,7 @@ Okuma Odasından :
 
 M. Mahzun DOĞAN
 
-### Bilinmeyene Şarkı
+## Bilinmeyene Şarkı
 
 Hangi denizin sularında yol alıyor gemi,
 neresi bu güverteden seyrettiğim şehir?
@@ -137,7 +137,7 @@ diyorum, sensin bekleyen beni
 
 M. Mahzun DOĞAN
 
-### Dahil
+## Dahil
 
 Titriyor aynasında suyun, o mavi bisiklet
 gölgesi zikzaklar çizerek derine, daha
@@ -175,6 +175,7 @@ Gitarın göğsüne vuran parmağın olayım Eren
 3 Haziran 2006, Ankara
 
 
+
 (*) 2 Haziran 2006’da Asi’nin (Balkar) yazdığı mektup:
 “Sevgili Mahzun,
 Hasan’ı toprağa saklamaya Bodrum’a gidiyorum.
@@ -182,7 +183,7 @@ Asi,”
 
 M. Mahzun DOĞAN
 
-### Eşkiyanın Elleri, Fesleğenler ve Kanayan
+## Eşkiyanın Elleri, Fesleğenler ve Kanayan
 
 Eşkiyanın elleri, fesleğenler ve kanayan
 
@@ -208,7 +209,7 @@ seni özlüyor fesleğenleri okşadıkça
 
 M. Mahzun DOĞAN
 
-### Gelmedin
+## Gelmedin
 
 Kırılmış bir cama döndü gök
 evsiz barksızların konakladığı eski bir handa
@@ -233,7 +234,7 @@ kalbim
 
 M. Mahzun DOĞAN
 
-### Masal Ve Tramvay
+## Masal Ve Tramvay
 
 -Ece Ayhan'a,
 "Bir Askeri Şairin Ölümü!" için-
@@ -275,7 +276,7 @@ Nisan göğü
 
 M. Mahzun DOĞAN
 
-### Nâr-ı Beyza
+## Nâr-ı Beyza
 
 Bir mırıldanış dilimin döndüğü, bakar merdivenleri
 yıkayan dökümlü şeffaf etek uçlarından, küçük
@@ -311,7 +312,7 @@ Bir kızıllık çöksün ufka… Beni seslemeyin! O, Ahmet Haşim’i ister
 
 M. Mahzun DOĞAN
 
-### Ömrüm
+## Ömrüm
 
 Tıka basa dolu sayfaları
 Harfleri eğri büğrü
@@ -324,7 +325,7 @@ Okuduğum en uzun yalnızlık
 
 M. Mahzun DOĞAN
 
-### Ramallah Ramallah
+## Ramallah Ramallah
 
 Menekşelerin anısı
 göğün kalbi
@@ -351,7 +352,7 @@ yırttılar
 
 M. Mahzun DOĞAN
 
-### Rükû
+## Rükû
 
 Sonra babamı öldürdüm gidin görün
 buzlu camlara yapışıp kaldı gölgesi
@@ -397,7 +398,7 @@ Babamı anlatın bana
 
 M. Mahzun DOĞAN
 
-### Temmuz Ayında Annem
+## Temmuz Ayında Annem
 
 Temmuz ayında annem uykuya daldı
 
@@ -420,7 +421,7 @@ Temmuz ayında yeryüzü öksüz kaldı
 
 M. Mahzun DOĞAN
 
-### Yürürken Cıgara İçmemeli
+## Yürürken Cıgara İçmemeli
 
 1.
 
@@ -499,11 +500,5 @@ dalgalandırır göğü
 Benim annem çiçek
 badem dallarından gülümser
 baharda
-
-M. Mahzun DOĞAN
-
-### 
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
 
 M. Mahzun DOĞAN

@@ -1,6 +1,6 @@
-## Talip APAYDIN
+# Talip APAYDIN
 
-###  Aşk İklimi
+##  Aşk İklimi
 
 On sekiz yaşın nisan günleri
 Dünya bir kızın gözlerinden ibaret
@@ -18,7 +18,7 @@ Düşüp ardına gidebilirim
 
 Talip APAYDIN
 
-### Bahara Doğru
+## Bahara Doğru
 
 Günler nisandan mayısa doğru gidiyor
 Dumanlı dağlarının üstünde bir yeri
@@ -32,7 +32,7 @@ Ulaşmak o yalnızlığa kimsesizliğe
 
 Talip APAYDIN
 
-### Bencil
+## Bencil
 
 Bencillik en çürük yanımız
 Her an çeker paçamızdan
@@ -54,7 +54,7 @@ Pisliklerden arınırız
 
 Talip APAYDIN
 
-### Davet
+## Davet
 
 Sana lodos demişiz
 Bize alıştığın gibi gel
@@ -71,7 +71,7 @@ Güldür bizi
 
 Talip APAYDIN
 
-### İlhan İçin
+## İlhan İçin
 
 Hiç bu kadar kararmadı gökyüzü
 Hiç bu kadar kirlenmedi sular
@@ -82,7 +82,7 @@ Hadi yanıtlayın kızartıp yüzünüzü
 
 Talip APAYDIN
 
-### Kendi Şarkım
+## Kendi Şarkım
 
 Yalnızlık tarlasının geniş düzünde
 Tek başına yaşıyan kuşlar gibi
@@ -101,7 +101,7 @@ Git kafamdan yalnızlık
 
 Talip APAYDIN
 
-### Susuzluk
+## Susuzluk
 
 Susadım
 Bozkırlar ortasında

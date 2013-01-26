@@ -1,6 +1,6 @@
-## Ömer Faruk TOPRAK
+# Ömer Faruk TOPRAK
 
-###  Böyle Her Akşam
+##  Böyle Her Akşam
 
 Sakın gözlerin yollarda kalma
 Rüzgâr dağıtmış olsa da saçlarını
@@ -26,7 +26,7 @@ Pencereleri ardına kadar açık kulübemiz
 
 Ömer Faruk TOPRAK
 
-### Dağda Ateş Yakanlar
+## Dağda Ateş Yakanlar
 
 -Bu saatte Kuzey Afrikanın
                         dağlarında ateş yakanlar var-
@@ -79,7 +79,7 @@ Bütün özgür yaşayan insanlara karşı
 
 Ömer Faruk TOPRAK
 
-### Memleketim
+## Memleketim
 
 usandım artık hazin mısralar okumaktan
 neyleyim akşam yaklaşıyor dostum
@@ -126,7 +126,7 @@ mektuplarımda adı torbamda ekmeği var
 
 Ömer Faruk TOPRAK
 
-### Saadetimiz
+## Saadetimiz
 
 Dağlara doğru koşuyorum
 Arkamdan deniz sesi geliyor
@@ -148,7 +148,7 @@ Islak otların üzerinde
 
 Ömer Faruk TOPRAK
 
-### Salıncak
+## Salıncak
 
 durup dinlenmeden akan bir ırmakla
 binsek ağrı dağının salıncağına
@@ -165,7 +165,7 @@ okudukça bahar yağmuru çiseler içime
 
 Ömer Faruk TOPRAK
 
-### Sırtüstü
+## Sırtüstü
 
 Otları tutuşturup yaklaştı mı akşam
 İçimde karanfil kokulu

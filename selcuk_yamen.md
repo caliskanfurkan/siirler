@@ -1,6 +1,6 @@
-## Selçuk YAMEN
+# Selçuk YAMEN
 
-### Bir de Martha Vardı
+## Bir de Martha Vardı
 
 Bir de Martha vardı
 Söyleşirdik
@@ -62,7 +62,7 @@ Martha topla beni: yalnızca gidelim!..
 
 Selçuk YAMEN
 
-### İhanet
+## İhanet
 
 Zamanı çaldığımız bedenlerimizde
 geçmişin düşlerini büyütüyorduk yeniden
@@ -84,45 +84,96 @@ ve aynalar olmadan bakamıyordum artık.
 
 Selçuk YAMEN
 
-### İskemle ya da 
+## İskemle ya da 
 	Sen Mavi Giyin Ben Denizi Unuturum
 
+m 
+ 
 saatler 
-yorulmadan ben gideyim her şey değişti, 
-her şey değişiyor biz bunu unuttukbiz bunu unuttuk 
-yeni şeyler için bekleşiyoruzruhlarımız yeni 
-biçimler kuracak, buna niçin inanalımgece iniyor 
-yüzlerimize alışalımgece iniyor 
-korkularımız asla bitmeyecekkapılar ve 
-gözetleme delikleri burunlarımızı şekillendirecekkapılar ve 
-gözetleme delikleresokaklar, içki 
-satıcıları, iskemlebiz buna 
-oturacağız, buna alışacağız kimi şeyler sürecekiçerlerde kimi 
-sevinçlerimiz olacak, unutalım iskemlezehre de panzehre 
-de iskemlesandalye olmayı 
-düşlememişti çam ağacı sandalye olmayı 
-düşlememişti çam ağacıbuna inanalımtaşlardan, 
-sopalardan bir ateş gezegeni...bekçiler, 
-yargılayıcılar...iskemle...kafka okumuşsun, 
-bachman okumuşsun, başka şeyleroysa bizim 
-gerçeğimiz tekerleği döndürmeyi bilmiyor  acı bizi 
-değiştiriyorbıçakları 
-değiştiriyorum, elmaları değiştiriyorumdışarsı bu değilçünkü yüzüm 
-anlamımdır sizi bağışlayamamçünkü yüzüm 
-anlamımdır sizi doğrulayamamkareler, kareler
+yorulmadan ben gideyim
+ 
+her şey değişti, 
+her şey değişiyor biz bunu unuttuk
+biz bunu unuttuk 
+yeni şeyler için bekleşiyoruz
+ruhlarımız yeni 
+biçimler kuracak, buna niçin inanalım
+gece iniyor 
+yüzlerimize alışalım
+gece iniyor 
+korkularımız asla bitmeyecek
+kapılar ve 
+gözetleme delikleri burunlarımızı şekillendirecek
+kapılar ve 
+gözetleme deliklere
+sokaklar, içki 
+satıcıları, iskemle
+biz buna 
+oturacağız, buna alışacağız kimi şeyler sürecek
+içerlerde kimi 
+sevinçlerimiz olacak, unutalım iskemle
+zehre de panzehre 
+de iskemle
+sandalye olmayı 
+düşlememişti çam ağacı
+ 
+sandalye olmayı 
+düşlememişti çam ağacı
+buna inanalım
+taşlardan, 
+sopalardan bir ateş gezegeni...
+bekçiler, 
+yargılayıcılar...iskemle...
+kafka okumuşsun, 
+bachman okumuşsun, başka şeyler
+oysa bizim 
+gerçeğimiz tekerleği döndürmeyi bilmiyor
+ 
+ 
+acı bizi 
+değiştiriyor
+bıçakları 
+değiştiriyorum, elmaları değiştiriyorum
+dışarsı bu değil
+çünkü yüzüm 
+anlamımdır sizi bağışlayamam
+çünkü yüzüm 
+anlamımdır sizi doğrulayamam
+kareler, kareler
+
 onüçbinbeşyüzseksenbir diyorum
-onüçbinbeşyüzseksenbire inanmıyorumher şey yavaş, 
-her şey yavaşbiz hızlanıyoruz,bir kadın, bir 
-oda, bir kedi, kedi hızla 
-acıkıyor  süt oluyorum, 
-dökülüyorum, bu her şeyi yatıştırır bu her şeyi 
-yatıştırır, hiçbir şeyi açıklamazçocuklar: etten 
-ve sevinçtenbunlar son 
-grevcileri yeryüzünündışarsı bu değil  o yatağı 
-değiştirelim, geniş duruyor oda, bu gerçeko yatağı 
-değiştirelim, kimi şeyler küçülsüngardıroplar, 
-şifoniyerler, kırmızı beşik...boşdolduralım, o 
-bize sorsun  ahmet kimdioda gidiyor, kedi 
+
+onüçbinbeşyüzseksenbire inanmıyorum
+her şey yavaş, 
+her şey yavaş
+biz hızlanıyoruz,
+bir kadın, bir 
+oda, bir kedi, 
+kedi hızla 
+acıkıyor  
+süt oluyorum, 
+dökülüyorum, bu her şeyi yatıştırır 
+bu her şeyi 
+yatıştırır, hiçbir şeyi açıklamaz
+çocuklar: etten 
+ve sevinçten
+bunlar son 
+grevcileri yeryüzünün
+dışarsı bu değil
+ 
+ 
+o yatağı 
+değiştirelim, geniş duruyor oda, bu gerçek
+o yatağı 
+değiştirelim, kimi şeyler küçülsün
+gardıroplar, 
+şifoniyerler, kırmızı beşik...boş
+dolduralım, o 
+bize sorsun
+ 
+ 
+ahmet kimdi
+oda gidiyor, kedi 
 gidiyor
 oda bizden 
 başkası değil
@@ -176,10 +227,66 @@ birden astı !
 
 Selçuk YAMEN
 
-### Süpürge - Çalı Tipi
+## Süpürge - Çalı Tipi
 
-SÜPÜRGE – Çalı Tipi -   yürüdü bahçe  bir geri 35 gerginim a  dönelim yedi  kars o her şeyin satıldığı dükkânlarda...  ileri ondört piçler değiştirir tarihidemirdendi...bu tarlaları ben ektim yağmur, ben toplayacağım  yaklaş onaltı ‘ruhum tehlikedeydi’otlar çıtırdıyordu ayaklarımın altındatraktörleri bekliyordu ellerimben hangi ülkedeydimellerim hangi ülkedeelektrik vermişlerdi, televizyonlar kurmuşlardı evlereorda gördümbize benzemiyordu yüzleribize benzemiyordu evlerireklâmlar çıkıyordu gün boyukadınlar, bakımlı-güzel, hızlıydı otomobillersilahlar patlıyor, içkiler içiliyordu durmadanben bunları çocuklara anlatamam...o gün bıraktım sevdiğim kadınıçıtırtı dindi        bir ileriankara neden mavisi yok şehrin, 
-diyordu adam bekle 
+SÜPÜRGE – Çalı Tipi - 
+ 
+ 
+yürüdü bahçe
+ 
+ 
+bir geri 35
+ 
+gerginim
+ 
+a
+ 
+ 
+dönelim yedi  kars
+ 
+o her şeyin satıldığı dükkânlarda...
+ 
+ 
+ileri ondört
+ 
+piçler değiştirir tarihi
+demirdendi...
+bu tarlaları ben ektim yağmur, ben toplayacağım
+ 
+ 
+yaklaş onaltı
+ 
+‘ruhum tehlikedeydi’
+otlar çıtırdıyordu ayaklarımın altında
+traktörleri bekliyordu ellerim
+ben hangi ülkedeydim
+ellerim hangi ülkede
+elektrik vermişlerdi, televizyonlar kurmuşlardı evlere
+orda gördüm
+bize benzemiyordu yüzleri
+bize benzemiyordu evleri
+reklâmlar çıkıyordu gün boyu
+kadınlar, bakımlı-güzel, hızlıydı otomobiller
+silahlar patlıyor, içkiler içiliyordu durmadan
+ben bunları çocuklara anlatamam...
+o gün bıraktım sevdiğim kadını
+çıtırtı dindi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bir ileri
+ankara
+ 
+neden mavisi yok şehrin, 
+diyordu adam
+ 
+bekle
+ 
 bir suç işleyelim
 şehre gitmeyelim
  

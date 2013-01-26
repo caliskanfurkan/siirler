@@ -1,6 +1,6 @@
-## Murathan MUNGAN
+# Murathan MUNGAN
 
-### Başkalarının Gecesi
+## Başkalarının Gecesi
 
 Görünmeyeni görmenin azabı
 İçimizde durmadan ödediğimiz
@@ -23,96 +23,169 @@ Başkalarının gecesi bitmedi daha
 
 Murathan MUNGAN
 
-### Bu ne Biçim Hayat
+## Bu ne Biçim Hayat
 
 Bu ne biçim kel 
+
 Hem merhemi var 
+
 Hem sürmüyor başına  
+
 Bu ne biçim biçimler 
+
 İstediğiniz kadar çoğaltılabilir 
+
 Memleket çok müsait buna 
+
 Örneğin yeni bir komşu taşındı
 karşıya 
+
 Bir baktım Fahriye Abla! 
+
 Kırk yıllık bir rötar yapmış 
+
 Erzincan Treni 
+
 Ben gelmişim şu yaşıma  
+
 O ise şiirdeki yaşından gün almamış
 daha 
+
 Benimki ne biçim hayat 
+
 Uymuyor ne gördüklerime 
+
               
 ne duyduklarıma  
+
               
 ne okuduklarıma  
+
 Ben  ne biçim benim 
+
 Ne kendime benziyorum 
+
 Ne başkalarına  
 
 
 (23 Haziran 1991,Ludwigshafen) 
+
 Mürekkep Balığı
 
 Murathan MUNGAN
 
-### Bis
+## Bis
 
-Maske ölmek isteğidir sevgilimtakma yüzlerle yaşamak kendi
-tarihimizibüyük kopmalar gerekiyor büyük
-hayatlar içinKötülük her çağda din değiştiriyorunutmanın borçları ödeniyorruhun imkanları adınaKundakçı laser yakıyor jeneriğiŞairler gibi sözcüklere tapıyoruz
-bu dilsiz dünyadaanlam ve kelimelerin içinde
-bulunduğu komaprova ediyor başka yüzyılların
-aynalarındaher kip kullanım hattında buruşuyoraşk yoksa ölüm de yokboşlukta kenetlenen ilk buluşmaçekimine girdiğimiztarihin parçalayamadığı çekirdekHiçbir oyun sonuna kadar masum
-kalmazbunce reel yaşanırken cinnetin
-enkazıMetropoller hem İhtilal hem
-Devletel değmeden ayıklanmış ruhun
-bütün kanalları yayına hazıroysa dehşet yatıyor derinliklerimizdedans bittiğinde birimiz ölecekGümüş Kurşun hangisine sıkılmalı?geniş tut bu dansın adımlarınıiçimdeki demir kelebekbaşkalarının gözlerini kamaştıransavaş boyalarıdır imgenin dolaşımındabulmaca kayıtlarına Siyah Karehikayeler kendi yasalarının
-içinden geçtikçekramp içindesinizyaygın vahşet günlük ölüm over
+Maske ölmek isteğidir sevgilim
+takma yüzlerle yaşamak kendi
+tarihimizi
+büyük kopmalar gerekiyor büyük
+hayatlar için
+Kötülük her çağda din değiştiriyor
+unutmanın borçları ödeniyor
+ruhun imkanları adına
+Kundakçı laser yakıyor jeneriği
+Şairler gibi sözcüklere tapıyoruz
+bu dilsiz dünyada
+anlam ve kelimelerin içinde
+bulunduğu koma
+prova ediyor başka yüzyılların
+aynalarında
+her kip kullanım hattında buruşuyor
+aşk yoksa ölüm de yok
+boşlukta kenetlenen ilk buluşma
+çekimine girdiğimiz
+tarihin parçalayamadığı çekirdek
+Hiçbir oyun sonuna kadar masum
+kalmaz
+bunce reel yaşanırken cinnetin
+enkazı
+Metropoller hem İhtilal hem
+Devlet
+el değmeden ayıklanmış ruhun
+bütün kanalları yayına hazır
+oysa dehşet yatıyor derinliklerimizde
+dans bittiğinde birimiz ölecek
+Gümüş Kurşun hangisine sıkılmalı?
+geniş tut bu dansın adımlarını
+içimdeki demir kelebek
+başkalarının gözlerini kamaştıran
+savaş boyalarıdır imgenin dolaşımında
+bulmaca kayıtlarına Siyah Kare
+hikayeler kendi yasalarının
+içinden geçtikçe
+kramp içindesiniz
+yaygın vahşet günlük ölüm over
 dose
 
 Murathan MUNGAN
 
-### Cam Yaz
+## Cam Yaz
 
 Adını arayan rumuz 
+
 Eylüllerden yaz yap bana 
+
 Bir dönümlük bir dünyada 
+
 Şiirim mıntıka temizliği 
+
 Cam şişelere koyduğum 
+
 Eylüllerden yaz yap bana 
+
 Bir dönümlük bir çocukluk 
+
 gökkuşağı uçurtma 
+
 mayın mantar ütopya 
+
 yalancı mücevherler gibi 
+
 birbirine benzemeyen şiirler
 yazdım 
+
 okyanusa karşı ağladım sonra 
+
 Bak ay karışıyor akşama 
+
 Acemi mevsimlerdi 
+
 Aşk adı altında yıllarca
 tek kale top oynadım 
+
 Cam üfledi şiirlerimi 
+
 Batık gökkuşağı, patlamış
 mayın 
+
 yırtık uçurtma 
+
 Eylül gelmeden bavulumda
 ütopya 
+
 Kendime trenlerden ayrılık
 aldım 
+
 bak ay karışıyor alnıma 
+
 Adını arayan rumuz 
+
 bu mantar sende kalsın 
+
 Yırt at bu şiiri okuduktan
 sonra 
 
 
 (5 Aralık 1989) 
+
 3 Haziran 1991 
+
 İstanbul, Ludwigshafen
 
 Murathan MUNGAN
 
-### Diyalektik Mutsuzluklar
+## Diyalektik Mutsuzluklar
 
 bir uzak sabah denizidir gittiğin kapı 
 ellerinde rüzgârın taşınmaz çamurları var 
@@ -152,7 +225,7 @@ dokunmasam eşkîya uykusuzluğu çetin silâhlar gibi
 
 Murathan MUNGAN
 
-### Geçilmez Deniz
+## Geçilmez Deniz
 
 I-
 
@@ -185,12 +258,14 @@ bir gün siz de katilleri seversiniz
 
 Murathan MUNGAN
 
-### İzin
+## İzin
 
 Bilmediğiniz kelimelerin altını
 çizin, derdi Öğretmenim. 
+
 Bunca yıl, bunca yol, bunca
 hayat ve kitaptan 
+
 sonra bütün kelimelerin altını
 çiziyorum 
 
@@ -199,129 +274,192 @@ sonra bütün kelimelerin altını
 
 
 (25 Nisan 1998) 
+
 (Mürekkep Balığı)
 
 Murathan MUNGAN
 
-### Kupon
+## Kupon
 
 KUPON 
 
 
 ucuz bir efsane alın  
+
 gündelik yaşamınızdan 
+
 bir İmge biçin kendinize 
+
 pazarın ürettiği görünmez
 kumaşlardan 
+
 ya da değişik tarihli parçalardan 
+
 yüzünüzü ısmarlayın 
+
 yukarıdan aşağıya üç 
+
 soldan sağa beş 
+
 üç beş kişi 
+
 sığdırın kendinize 
+
 yedeğinizde bulunsun 
+
 malum, bu durumlar belli
 olmaz 
+
 her çekiliş için farklı 
+
 kuponlar 
+
 bu durak olmazsa önümüzdeki
 durak  
+
 ilerleyelim beyler  
+
 öldürdükçe içimizi önde boş
 yer var 
 
 
 (1988) 
+
 Haziran 1991 
+
 İstanbul-Ludwigshafen 
+
 (Mürekkep Balığı)
 
 Murathan MUNGAN
 
-### Manşet
+## Manşet
 
-e ihtiyacım var, günler
+te ihtiyacım var, günler
 tekdüze 
+
 Karton filmlerden yapılma bütün
 serüvenlerin 
+
 içinden geçtiğimiz karanlık tünel
 bizim olmayan gündelik 
+
 Büyük bir köy artık bana tanınan,
 dünya! 
+
                                  
 ölüm tek ticaretin 
+
 Biz söyleriz başkalarına kalır
 kelimeler 
+
 sanal gerçeklikler için vurguna
 inmiş manşet 
+
 Gözlerimize attıkları bandın sakladığı
 karanlık 
+
 kimsenin ofsetinde kazınmıyor yalan
 sarmal grafik 
+
 kendine çevriniyor 
+
 Biz söyleriz başkalarına kalır
 kelimeler 
+
 Rekabetten başka yapacak bir şey
 bırakmıyorlar bize 
+
 Şerefin, haysiyetin, adaletin ve
 ümidin 
+
 eski moda öyküsüne bir biletim
 var, alıp cezalı bir biletle 
+
 değiştiriyorlar. Sesim hiçbir metinde
-tanınmayacak böylegiderse. 
+tanınmayacak böyle
+giderse. 
+
     Aşık olmak istiyorum. 
+
     Kendileri koyuyorlar
 kuralları. Naklen yayınlamak 
+
 istiyorlar bütün duygularımı. Güzel
 pişmanlıklar yaşamak 
+
 istiyorum, bırakmıyorlar, sterilize
 ediyorlar hemen yaşadığım 
+
 her anı. Hilesiz kuşlar bile kartpostallarda
 tuzağa düşürülüyor, 
+
 Tebrik ediliyor; poz verdiriliyor
 kanatlarına. 
+
     Pozdan putlar
 yaratılıyor her yanda, afişlerde, ekranlarda, 
+
 vitrinlerde, sokak pozlara tapmaya
 zorlanıyor insanlar. 
+
 Zorlandıklarını hiç anlamıyorlar. 
+
      Her yerde
 bela var. Olmayacak yerlerde üşüyorum. 
+
 Çarşaflarımı denetliyorlar ben
 yokken. Pencereme konan kuşları 
+
 takibe alıyorlar. Tek kişilik bir
 içbükey zaman bile 
+
 bırakmıyorlar bana. 
+
     Çıkmasam odam
 gömleğim oluyor. Çıkmasam sokaklar tundra. 
+
     Aynaya bile
 şebekemi gösteriyorum. 
+
     Bakın kimseyi
 dövmek istemiyorum. Aktör de olmak 
+
 istemiyorum. Vücuduma ve ruhuma
 muhtacım. Rahat 
+
 bırakmıyorlar. Yerimi bilmeliyim
 gitmeden önce. İzmarit olmak 
+
 istemiyorum. Gençken ve yeniyken
 bir şeyler denemeliyim. Önce 
+
 bir manşet bulmalıyım kendime,
 her şeye bir manşetten 
+
 başlamalıyım. 
 
 
     O zamanları anlatmak
 istiyorum. 
+
     Zamanı öğrenmeye
 çalışırken yitirdiğimiz zamanları. 
+
     Ölümden anlayan
 bir yanımız vardı gene de 
+
     Sesimiz açılırdı.
 Uyurken korkardık. Sıçrardık uyku 
+
 arasında ya da birinin elini tutardık 
+
     Gecenin koyu
 kibrinde gölgelense de erden masumiyetimiz 
+
     gelip geçerdik
 her şeyin yanı başından 
+
     derinleşmekti
 en büyük tehlike 
 
@@ -541,72 +679,116 @@ Murathan MUNGAN
 
 Murathan MUNGAN
 
-### Maske
+## Maske
 
-ingeriye dönen etiket 
+isingeriye dönen etiket 
+
 bak gökyüzünde takma bulutlar 
+
 ümitlerini yükseğe ayarla 
+
 ve bataklık halılarında dinlen 
+
 ey kutsal beden 
+
 sana da gelecek sıra 
+
 pilindeki kuraklık yetmiyor değil
 mi 
+
 hatıranın yüksek gerilimine 
+
 başkalarının bantlarında batıp
 çıkıyor sesin 
+
 kağıttan intihar kuleleri 
+
 eteklerinde dipnotlarıyla devrildi
 tek tek 
+
 bilgisayarlarının depoladığı vahşetten
 çıkış alıyor 
+
 yeni bir maskenin formülleri 
+
 granite dönüşsün diye iskelet 
 iskelet ve etiket 
+
 Doğru, kolay silinebilir bir muşambadır
 seks 
+
 ateşten geçirir karton filmleri 
+
 bazukalar altında kadife gece 
+
 leoparlar öldü sevgilim, parslar,
 jaguarlar 
+
 çölü olmayan bedeviler platoların
 yeni aynalar 
+
 tinerle sil maskeni, ekrandaki
 görüntüyü ayarla 
+
 volümünü kıs kalbinin, dahili hatta
 seni arıyorlar 
 
 
 Haziran 1991 
+
 Ludwingshafen 
-Murathan MUNGAN
 
 Murathan MUNGAN
 
-### Metal
+Murathan MUNGAN
 
-pencerede kedi yalnızlığımetal bir ay fener 
+## Metal
+
+METAL 
+
+
+pencerede kedi yalnızlığı
+metal bir ay fener 
+
 böyle gecelerde yağmurun sesi 
+
 kağıt hışırtısına benzer 
+
 ışık yıllarının karanlık hızında 
+
 yedi askı daha asılı yıldızlara 
+
 takıyorum kulaklıklarımı 
+
 dalmaya ve uçmaya hazır 
+
 iki kişi olarak 
+
 bölündüğüm yerde 
+
 hard'n'heavy slowları 
+
 yer değiştiriyor içimde bütün kişilikler 
+
 tek başıma oynadığım çin ruleti 
+
 bir jeton, bir zıpkın 
+
 aynı anda işliyor 
+
 kaatil ile maktul arasındaki en kısa yol 
+
 kalkış takımları infilak ediyor 
+
 dans bittiğinde birimiz ölecek 
+
 büyük plato bildiriyor koşulları: 
+
 tek kişilik düello bir metal tango!
 
 Murathan MUNGAN
 
-### Mırıldandıklarım
+## Mırıldandıklarım
 
 Kırdın mı incittin mi birilerini 
 Kimleri kazandım, yitirdiklerim kimler? 
@@ -656,7 +838,7 @@ Senin ve benim , yani bizim için...
 
 Murathan MUNGAN
 
-### Omayra
+## Omayra
 
 Cevabı ömür süren bir soru bıraktım sana 
 Mendili kan kokan sevgili arkadaşım 
@@ -795,21 +977,51 @@ olduğun yerde kal kımıldama!
 
 Murathan MUNGAN
 
-### Peynir Tenekesi
+## Peynir Tenekesi
 
-nasır bağlamış elleriyüreğinin kapısını yıllarca                   
-kapalı tuta tutayağmur öncesi bir buluta gizlenmişunutmuş olsa gerekzorludur, öç alır pişmanlığın ellerigetirir kor insanı bilmediği bir
+PEYNİR TENEKESİ
+nasır bağlamış elleri
+yüreğinin kapısını yıllarca
+                   
+kapalı tuta tuta
+yağmur öncesi bir buluta gizlenmiş
+unutmuş olsa gerek
+zorludur, öç alır pişmanlığın elleri
+getirir kor insanı bilmediği bir
 hududa
 
 Murathan MUNGAN
 
-### Sis Çanları
+## Sis Çanları
 
-ağır yol, uzak yapılaryaklaşmak için yaklaşık tanımlaronlarla çıktık yolayollarda kaldıksis bastı her yanıtutukluk çeken silahlar gibisözcükler, fısıltılar, mırıldanışlareksilerek vardık bir yapıyaO mu, değil mi?Kim bilebilir şimdikılavuzlar şehitşehitler haingözlerimiz karanlık bir pusudaçoğumuz büyümüş, kimimiz ölmüşkendimiz bile tanıdık değiliz artıkgözümüzden silinen düşün sabahındaönümüzde açılan yeni bir uzayŞimdiki Zamana ait bomboş ve ölü anlarne başka yer ne başka zamanbizler için hala biryerlerde çalınansis çanları varbelki bir gün buluşur diyeaynı ormanda kaybolan çocuklar
+SİS ÇANLARI
+ağır yol, uzak yapılar
+yaklaşmak için yaklaşık tanımlar
+onlarla çıktık yola
+yollarda kaldık
+sis bastı her yanı
+tutukluk çeken silahlar gibi
+sözcükler, fısıltılar, mırıldanışlar
+eksilerek vardık bir yapıya
+O mu, değil mi?
+Kim bilebilir şimdi
+kılavuzlar şehit
+şehitler hain
+gözlerimiz karanlık bir pusuda
+çoğumuz büyümüş, kimimiz ölmüş
+kendimiz bile tanıdık değiliz artık
+gözümüzden silinen düşün sabahında
+önümüzde açılan yeni bir uzay
+Şimdiki Zamana ait bomboş ve ölü anlar
+ne başka yer ne başka zaman
+bizler için hala biryerlerde çalınan
+sis çanları var
+belki bir gün buluşur diye
+aynı ormanda kaybolan çocuklar
 
 Murathan MUNGAN
 
-### Sizden Saklı
+## Sizden Saklı
 
 gelmediniz, ben hep sizi bekledim
 eksilen yanlarımla
@@ -826,7 +1038,7 @@ biraz daha sizden saklı eskidim
 
 Murathan MUNGAN
 
-### Sözler, Yaprak
+## Sözler, Yaprak
 
 bazı sözler karanlıkta söylenir, diyorum uykularımın birinde
 bazı sözler hiçbir zaman, diyorum kendi sesime uyanırken
@@ -850,54 +1062,91 @@ kendi sesimize uyandığımız rüyalarda
 
 Murathan MUNGAN
 
-### Yalnız Bir Opera
+## Yalnız Bir Opera
 
+YALNIZ 
+BİR OPERA
 ölü bir yılan gibi yatıyordu aramızda
+
 yorgun, kirli ve umutsuz geçmişim
+
 oysa bilmediğin bir şey vardı sevgilim
+
 Ben sende bütün aşklarımı temize çektim
 
 imrendiğin, öfkelendiğin
+
 kızdığın ya da kıskandığın diyelim
+
 yani yaşamışlık sandığın
+
 Geçmişim
+
 dile dökülmeyenin tenhalığında
+
 kaçırılan bakışlarda
+
 gündeliğin başıboş ayrıntılarında 
+
 zaman zaman geri tepip duruyordu. Ve elbet üzerinde durulmuyordu.
+
 Sense kendini hala hayatımdaki herhangi biri sanıyordun, biraz daha
+
 fazla sevdiğim, biraz daha önem verdiğim.
 
 Başlangıçta doğruydu belki. Sıradan bir serüven, rastgele bir ilişki
+
 gibi başlayıp, gün günden hayatıma yayılan, büyüyüp kök salan ,
+
 benliğimi kavrayıp, varlığımı ele geçiren bir aşka bedellendin.
+
 Ve hala bilmiyordun sevgilim
+
 Ben sende bütün aşklarımı temize çektim
+
 Anladığındaysa yapacak tek şey kalmıştı sana
+
 Bütün kazananlar gibi
+
 Terk ettin
 
       Yaz başıydı gittiğinde. Ardından, senin için üç lirik parça
+
 yazmaya karar vermiştim. Kimsesiz bir yazdı. Yoktun. Kimsesizdim.
+
 Çıkılmış bir yolun ilk durağında bir mevsim bekledim durdum.
+
       Çünkü ben aşkın bütün çağlarından geliyordum.
 
        
+
       Sanırım lirik sözcüğü en çok yüzüne yakışıyordu
+
       yüzündeki kuşkun kedere, gür kirpiklerinin altından
+
       kısık lambalar gibi ışıyan gözlerine
+
       çerçevesine sığmayan
+
       munis, sokulgan, hüzünlü resimlerine
+
       lirik sözcüğü en çok yüzüne yakışıyordu
 
       
+
       Yaz başıydı gittiğinde. Sersemletici bir rüzgar gibi geçmişti
+
 Mayıs. Seni bir şiire düşündükçe kanat gibi, tüy gibi, dokunmak gibi
+
 uçucu ve yumuşak şeyler geliyordu aklıma. Önceki şiirlerimde hiç kullanmadığım 
 bu sözcük usulca düşüyordu bir kağıt aklığına, belki de 
+
 ilk kez giriyordu yazdıklarıma, hayatıma.
+
       Yaz başıydı gittiğinde. Bir aşkın ilk günleriydi daha. Aşk mıydı,
+
 değil miydi? Bunu o günler kim bilebilirdi? "Eylül'de aynı yerde ve
+
 aynı insan olmamı isteyen" notunu buldum kapımda. Altına saat: 16.00
 
 diye yazmıştın, ve saat 16.04'tü onu bulduğumda.
@@ -1317,7 +1566,7 @@ Sonra tımarhanelerde tımar edilen ruhum
 
 Murathan MUNGAN
 
-### 
+## 
 	Murathan MUNGAN Üzerine Bir Anlatı Denemesi 
 
 düşüyor birden aklıma. Eve döndüğümde, kulağımdan gitmeyen 
@@ -1357,17 +1606,24 @@ kabul edilerek yola devam edilecekti.
 alandan kendini soyutlamanın imgesi olarak çıkıyordu karşımıza. Ramis Dara, “yer 
 altı, gizil, kale, sarnıç, tutsak, zula, mahpus, post vb” sözcüklerle, Mungan’ın 
 sürekli olarak örtünme, kapanma durumlarına
+
 göndermeler yaptığının altını çizer. Buna kendini, kendi özgür bireysel alanını 
 korumayı da eklemek gerekir.
      "...Siz ey! kimliklerini maskelerine gömenler..."
+
      "...başkalarını giyinmekle başlar cinnet..."
+
      "...haydi gidin aynalara gömün maskelerinizi..."
+
      "...kendinden başkasını kuşanma sakın
+
      "yol senin, iz senin, menzil senindir..."
 
 derken, ya da:
      "...fantazilerini koru,ölümü kolla,anılarını sakla...
+
      ey ölüme hudut yaşayan, olmadı! tehlikeyi tekrarla...
+
      hem bu kadar umutsuzken, mutsuz olunur mu hiç..."
 
 derken neyi önermektedir Mungan, buna bakmak gerektiğini düşünmüşümdür hep. 
@@ -1415,7 +1671,6 @@ yanındayız / çünkü biliyoruz ki –biz devrim mecburları – hiçbir yere 
 bir yere kaçamayız / kaçamayız...” Bana öyle geliyor ki Mungan, sol gösterip 
 sağı iyi vuruyor. Detaylı bir incelemeden geçme çizgisinden sürekli uzaklaşıyor, 
 çünkü sürekli yazıyor yazıyor. Şimdiden yirmiyi geçti kitaplarının sayısı. 
-
 
 , ne çevre kirliliği, ne 
 emek/sermaye çelişkisi, ne kıstırılan köleci yaşam o kadar ilgilendirmiyor. Bir 

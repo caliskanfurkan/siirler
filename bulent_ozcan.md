@@ -1,6 +1,6 @@
-## Bülent ÖZCAN
+# Bülent ÖZCAN
 
-### Adı: Gül
+## Adı: Gül
 
 Gülü vurmuşlar Gül Sokağı'nda, 
 Uzanmış üç adım yatıyordu gül... 
@@ -16,7 +16,7 @@ Uzanmış üç adım yatıyordu gül...
 
 Bülent ÖZCAN
 
-### Ağıtı Yaralı Kuşlar Konar 
+## Ağıtı Yaralı Kuşlar Konar 
 	Alnıma
 
 Ağıtı yaralı kuşlar konar alnıma 
@@ -47,7 +47,7 @@ Hüznüme usul usul yağar kar...
 
 Bülent ÖZCAN
 
-### Aşk İnsana Kanatlar Verir
+## Aşk İnsana Kanatlar Verir
 
 Aşk insana kanatlar verir 
 Yürek gideceği yeri bilir 
@@ -61,23 +61,43 @@ Güçlü, dingin, coşkun kanatlar
 
 Bülent ÖZCAN
 
-### Bağışla Beni Şiir
+## Bağışla Beni Şiir
 
-Bağışla beni şiir, Bu yıl da yeni yılın umut veren ilk şiirini 
-yazamadım...Bu ayazda, sokakta evsiz barksız insanları 
-düşündüm...Daha dün güneşe aldanıp da sürgün veren 
-filizi;Kursağı boş sığınağına varamayan kuşu,
+Bağışla beni şiir, 
+Bu yıl da yeni yılın umut veren ilk şiirini 
+yazamadım...
+Bu ayazda, sokakta evsiz barksız insanları 
+düşündüm...
+Daha dün güneşe aldanıp da sürgün veren 
+filizi;
+Kursağı boş sığınağına varamayan kuşu,
+
 Bir şiirde okyanusu üç yılda geçen serçeyi 
-düşündüm...Dünyanın dört bir yanında ölüm gibi büyüyen 
-açlığı;Bitmek bilmeyen savaşları, Acılı anaların daha da artacağını, Ölüm oruçlarını, acıyı, zulmü ve kan 
-emicileri; İşbirlikçileri, itirafçıları, Yağlı urganlarıyla iftiracıları düşündüm...Yeni Hiroşimalara gebe dünyayı;İşkenceyi, kayıpları, katliamları,Zevki sefa içinde tepinenKapitalizmin insan kanlarıyla besili 
-hayvanlarını düşündüm...Üzüldüm, ağladım, tiksindim...Ve sıktım yumruğumu dağ gibi bir öfkeyleKavgayı güzel eyleyen emeğin önünde saygıyla 
-eğildim...Bağışla beni şiir, Bu yıl da yeni yılın 
+düşündüm...
+Dünyanın dört bir yanında ölüm gibi büyüyen 
+açlığı;
+Bitmek bilmeyen savaşları, 
+Acılı anaların daha da artacağını, 
+Ölüm oruçlarını, acıyı, zulmü ve kan 
+emicileri; 
+İşbirlikçileri, itirafçıları, 
+Yağlı urganlarıyla iftiracıları düşündüm...
+Yeni Hiroşimalara gebe dünyayı;
+İşkenceyi, kayıpları, katliamları,
+Zevki sefa içinde tepinen
+Kapitalizmin insan kanlarıyla besili 
+hayvanlarını düşündüm...
+Üzüldüm, ağladım, tiksindim...
+Ve sıktım yumruğumu dağ gibi bir öfkeyle
+Kavgayı güzel eyleyen emeğin önünde saygıyla 
+eğildim...
+Bağışla beni şiir, 
+Bu yıl da yeni yılın 
 umut veren ilk şiirini yazamadım...
 
 Bülent ÖZCAN
 
-### Ben O Zamanlar Genç Bir 
+## Ben O Zamanlar Genç Bir 
 	Şairdim
 
 Ben o zamanlar genç bir şairdim 
@@ -148,7 +168,7 @@ Aklımı alan gözleriydi...
 
 Bülent ÖZCAN
 
-### Çocukluk Mevsimi
+## Çocukluk Mevsimi
 
 Çocukluk mevsimi ne çabuk geçti, 
 Hayaller güzeldi, düşler güzeldi... 
@@ -167,7 +187,7 @@ Gözümden süzülen yaşlar güzeldi...
 
 Bülent ÖZCAN
 
-### Devran Ters Yöne Dönüyor
+## Devran Ters Yöne Dönüyor
 
 Dönüyor devran dönüyor, 
 Devran ters yöne dönüyor... 
@@ -191,7 +211,7 @@ Devran ters yöne dönüyor...
 
 Bülent ÖZCAN
 
-### Düş Örten
+## Düş Örten
 
 Salınır şiirim uykuda 
 Yanar diri imgelerim 
@@ -210,7 +230,7 @@ Denizini görmediğin...
 
 Bülent ÖZCAN
 
-### En Güzel Ben Ölürüm!..
+## En Güzel Ben Ölürüm!..
 
 Böyle umut doluyken tepeden tırnağa 
 Böyle seviyorken seni amansız 
@@ -221,7 +241,7 @@ K e s i n!..
 
 Bülent ÖZCAN
 
-### En Güzeli Şiirlerin
+## En Güzeli Şiirlerin
 
 Sözcükler değil ama 
 O'nu bana bir ana 
@@ -239,7 +259,7 @@ H
 
 Bülent ÖZCAN
 
-### Ezgisi Mavi
+## Ezgisi Mavi
 
 Usul usul açıyorsun içimde
 düş ırmağı bir göğü güzelliyorsun
@@ -258,7 +278,7 @@ dokunduğum an kanıyorsun
 
 Bülent ÖZCAN
 
-### Filler Kitap Okumaz Şiir Yazar
+## Filler Kitap Okumaz Şiir Yazar
 
 Harflerin gövdesinden kan mı sızar 
 Ürkütülmüş sözcükler nereye kaçar 
@@ -269,7 +289,7 @@ Filler kitap okumaz şiir yazar! ..
 
 Bülent ÖZCAN
 
-### Gelincik Tozları
+## Gelincik Tozları
 
 Okumadan atladığın sayfalar,
 Hayatının kırık notlarıdır...
@@ -283,7 +303,7 @@ Havada uçuşan gelincik tozlarıdır...
 
 Bülent ÖZCAN
 
-### İz-düş-im
+## İz-düş-im
 
 Ey zaman
 kırık aynam
@@ -299,7 +319,7 @@ makinist olayım
 
 Bülent ÖZCAN
 
-### Kanayan Ömrüm Benim
+## Kanayan Ömrüm Benim
 
 Anam 
 Hep aynı güzel kadın 
@@ -338,7 +358,7 @@ Kanayan ömrüm benim
 
 Bülent ÖZCAN
 
-### Savaş
+## Savaş
 
 Savaşın dili olsa konuşur
 Yüreği olsa duyar
@@ -359,7 +379,7 @@ Yenince insan olur...
 
 Bülent ÖZCAN
 
-### Sen Elmasını Yedin!..
+## Sen Elmasını Yedin!..
 
 Sen elmasını yedin 
 Göğün kuşları hatırlamıyor seni 
@@ -370,23 +390,50 @@ Göğün kuşları hatırlamıyor seni...
 
 Bülent ÖZCAN
 
-### Sur Ayinleri
+## Sur Ayinleri
 
 sinsi bir sin gibidir 
-zulasında simyanın       siner 
-sesine suların    d    ö     k ü l             ü              
+zulasında simyanın
+       siner 
+sesine suların
+    d 
+   ö
+     k ü l 
+            ü
+              
 
 r                                                   .
-                                                                .                  
-h                                         .                    a        
-                           n                   
-r                                  ı                    
-f                            r                       
-l                     a                        
-e                l                        
-r            r                          i      
-u                             s 
- III. Misli menendi görülmemiş o sevdalı gül/üşü/nşiirine          d            ö               k                 ü                     l/e
+
+                                                                .
+                  
+h                                         .
+                    a        
+                           n 
+                  
+r                                  ı
+                    
+f                            r
+                       
+l                     a
+                        
+e                l
+                        
+r            r
+                          i      
+u
+                             s 
+
+ 
+III.
+ 
+Misli menendi görülmemiş 
+o sevdalı gül/üşü/n
+şiirine 
+         d
+            ö
+               k
+                 ü 
+                    l/e
                        n 
                           
 kül/dür şair
@@ -484,7 +531,7 @@ z
 
 Bülent ÖZCAN
 
-### Yalnızlıktan Üşüyor 
+## Yalnızlıktan Üşüyor 
 	İçimde Kelimeler
 
 Kederden kendime köprüler yapıyorum
@@ -504,7 +551,7 @@ Yalnızlıktan üşüyor içimde kelimeler
 
 Bülent ÖZCAN
 
-### Anka Kuşu
+## Anka Kuşu
 
 Koparır bir fırtına,
 Alır seni sırtına.
@@ -518,7 +565,7 @@ O da bizimle güler...
 
 Bülent ÖZCAN
 
-### Canım Annem
+## Canım Annem
 
 Yemeyip de yediren,
 Giymeyip de giydiren,
@@ -532,7 +579,7 @@ Canım annem, gül annem.
 
 Bülent ÖZCAN
 
-### Çocuk Nazlı Bir Çiçek
+## Çocuk Nazlı Bir Çiçek
 
 Kızınca üzülecek, 
 Kırılıp incinecek, 
@@ -551,7 +598,7 @@ Zamanla büyüyecek,
 
 Bülent ÖZCAN
 
-### Karınca
+## Karınca
 
 Bir buğday tanesine
 Dört elle sarılıyor.
@@ -565,7 +612,7 @@ Var mı hiç adam olan?
 
 Bülent ÖZCAN
 
-### Körebe
+## Körebe
 
 Gece
 Gündüz
@@ -578,7 +625,7 @@ Sobe!..
 
 Bülent ÖZCAN
 
-### Okumak Gerek
+## Okumak Gerek
 
 Daha çok şey bilmek için,
 İleriyi görmek için,

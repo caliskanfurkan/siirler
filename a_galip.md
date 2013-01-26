@@ -1,10 +1,11 @@
-## A. GALİP
+# A. GALİP
 
-### Müntehir
+## Müntehir
   Aşklar
 
 Müntehir Aşklar, ,
 Virtüel Yayınları, Mayıs 2000
+
 Aşk
 
     bir nevi ilm-i simyadır ki alimi yoktur
@@ -16,14 +17,15 @@ Aşk
     metropol söylemlerine itibar etmeden yaşanan gerçekliği, aşk potasından eriterek,
     kendisi için kurduğu dilin çatısı ile şiirler yazan A. Galip, "Müntehir
     Aşklar"da, şiirsel bir söyleme hakim olduğunu da ortaya koyuyor. A. Galip, bu ilk
-    kitabında, şiirin salt bir güzel söz söyleme
+    kitabında, şiirin salt bir güzel söz 
+söyleme
     sanatı olmadığını gösteriyor. "Aşka kabil dil mi yok" diyerek, şiirsel
     bir aşk dili de oluşturmaya çalışan şair A. Galip, bu ilk kitabında gelecek vadeden
     şairlerden olduğunu gösteriyor.
 
 A. GALİP
 
-### Bir Gize Uyanış
+## Bir Gize Uyanış
 
 Beyninde dolaşan sorulara 
 Yanıt
@@ -268,7 +270,7 @@ Yeniden soyuldu
 
 A. GALİP
 
-### Hüzün
+## Hüzün
 
 YANKI
 
@@ -332,7 +334,7 @@ Aah...
 
 A. GALİP
 
-### Öfke
+## Öfke
 
 I 
 
@@ -406,7 +408,7 @@ Ve cinayet fikri çıldırtıyor beni
 
 A. GALİP
 
-### Yakarış
+## Yakarış
 
 Çağlar boyunca acıya ve sevince
 Şahitlik eden bu nehir
@@ -440,7 +442,7 @@ Zulme vur
 
 A. GALİP
 
-### Zaman
+## Zaman
 
 Akışı olmayan bir göl sanıp
 Her sabah serin dokunuşlarına uyandığım

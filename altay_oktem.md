@@ -1,6 +1,6 @@
-## Altay ÖKTEM
+# Altay ÖKTEM
 
-###  Açık Kalp Ameliyatı
+##  Açık Kalp Ameliyatı
 
 hepimize yeter bu aşk aralık tut kalbini
 üşürsen temmuz tut, kar tanesinin
@@ -33,7 +33,7 @@ kayıp bir turuncu kokusu var havada
 
 Altay ÖKTEM
 
-### Aşk
+## Aşk
 
 biz seninle ikimiz şubat gibiydik 
 kayadan düşsek ağrımazdı bir yerimiz 
@@ -56,7 +56,7 @@ aynıdır zaten çoğalır kan kaybettikçe
 
 Altay ÖKTEM
 
-### Aşk Üç Kişiliktir
+## Aşk Üç Kişiliktir
 
 yüzümde metresine dantelli don almış
 taşralı tüccar mutluluğu var
@@ -89,7 +89,7 @@ sapından koparılmış gül kırmızısı
 
 Altay ÖKTEM
 
-### Ayna
+## Ayna
 
 beni yanlış evlerde aradılar, süt dökmüş kedilerin,
 kapısı kilitli dağların yamacında. gereğinden fazla
@@ -115,7 +115,7 @@ beni yanlış öptüler aslında.
 
 Altay ÖKTEM
 
-### Ders
+## Ders
 
 -neden yalnızca geçmişin tarihi yazılır?
 hocam, bir akarsu; adı yeryüzünde olmayan
@@ -140,7 +140,7 @@ artık vurabilirim seni
 
 Altay ÖKTEM
 
-### Herşey: Oda Kırbaç Ayna'dan
+## Herşey: Oda Kırbaç Ayna'dan
 
 EK III: DÜŞLER
 
@@ -205,7 +205,7 @@ hiçbir zaman söyleyemedim sana
 
 Altay ÖKTEM
 
-### İbranice Sevdim Seni
+## İbranice Sevdim Seni
 
 ezik bir kuşun kanadını okşar gibi
 boynu kırılmış bir simitçinin yerlere yayılan
@@ -229,7 +229,7 @@ ibranice sevdim seni
 
 Altay ÖKTEM
 
-### Kediler
+## Kediler
 
 krallara yakışır asılmak
 bir tüyün usulca düşüşü yere
@@ -254,7 +254,7 @@ kafka, kutsa beni bu gece
 
 Altay ÖKTEM
 
-### Kuşlarım Üşüyor
+## Kuşlarım Üşüyor
 
 cebime tıktığım kuşlar çok üşüyor
 ben de üşüyorum desem kim inanır
@@ -282,7 +282,7 @@ anne, hangi sayıdan başlayacağım?
 
 Altay ÖKTEM
 
-### Masal
+## Masal
 
 kavrulmuş bir karıncanın sağ salim
 yuvasına dönüşü şarkılarda anlatılmaz
@@ -315,7 +315,7 @@ kavrulmuş bir karınca kararınca; anca.
 
 Altay ÖKTEM
 
-### Maveraünnehir Dökülmez!
+## Maveraünnehir Dökülmez!
 
 belki seni severim umurumdasın 
 yalnızsın, yaralısın, sarışınsın 
@@ -343,7 +343,7 @@ gibisin, ıslaksın, çok uzaktasın
 
 Altay ÖKTEM
 
-### Şiddet, Elbet
+## Şiddet, Elbet
 
 bilgece susuyoruz artık saklamayalım 
 yıldızları tartaklanmış bir sonbahar gecesi 
@@ -376,7 +376,7 @@ elbet.
 
 Altay ÖKTEM
 
-### Yalnızlık Cinayettir
+## Yalnızlık Cinayettir
 
 kendime kuytu bir ölüm arıyorum yalnızca kendime
 düşlerime sokak kedilerinin gözleri giriyor, korkuyorum

@@ -1,6 +1,6 @@
-## Niyazi AKINCIOĞLU
+# Niyazi AKINCIOĞLU
 
-### Ajans
+## Ajans
 
 Radyoda bir hüzzam şarkı var
 dışarda sümbül havası,
@@ -62,7 +62,7 @@ unutulmaz!
 
 Niyazi AKINCIOĞLU
 
-### Bursa
+## Bursa
 
 Adını ilk defa
 Yedibelâ Rasimin hançerinde okudum.
@@ -143,7 +143,7 @@ Yıkılmasaydı mihrap!..
 
 Niyazi AKINCIOĞLU
 
-### Edirne
+## Edirne
 
 Bir yerde görürsen ki;
 Ağır ve edalı akar
@@ -210,7 +210,7 @@ Sen çıkardın beni baştan."
 
 Niyazi AKINCIOĞLU
 
-### Kuş Kanadından
+## Kuş Kanadından
 
 Halim selim değilim,
 baştan kara ettiğim günler olur benim de.
@@ -280,7 +280,7 @@ ben, arımdan ölürüm.
 
 Niyazi AKINCIOĞLU
 
-### Selam
+## Selam
 
 Selamın geçiyor besbelli,
 yeşerdi telgraf direkleri;
@@ -295,7 +295,7 @@ Ben deli-divane olsam,
 
 Niyazi AKINCIOĞLU
 
-### Yağmur Duası
+## Yağmur Duası
 
 Görünmez ellerin sağdığı bulut,
 Yağmur ki Allaha bağlanan umut;

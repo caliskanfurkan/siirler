@@ -1,6 +1,6 @@
-## Uluğ TURANLIOĞLU
+# Uluğ TURANLIOĞLU
 
-### Meriç
+## Meriç
 
 Gönlüm gibi dalgın, kanlı sularında,
 Bir gam dünyasını yıkılırken gördüm.

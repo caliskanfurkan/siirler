@@ -1,6 +1,6 @@
-## Neyzen TEVFİK
+# Neyzen TEVFİK
 
-### 
+## 
   Abdülhamid'in Ağzından Bir Nutk-ı Hümâyun
 
 Kal'a-i âsâr-ı zulme verdim istihkâm-ı tam
@@ -26,7 +26,7 @@ Fasl-ı dâvâ eylemek'çün rûz-i mahşerde kıyâm!
 
 Neyzen TEVFİK
 
-### Dörtlükler
+## Dörtlükler
 
 *
 Kime sordumsa seni, doğru cevap vermediler;
@@ -84,7 +84,7 @@ Yurdu şâhâne cehâlet yeni baştan bürüdü.
 
 Neyzen TEVFİK
 
-### İkilikler
+## İkilikler
 
 *
 Türkü yine o türkü, sazlarda tel değişti,
@@ -110,7 +110,7 @@ Nasıl olsa kabahat sahibini terk etmez.
 
 Neyzen TEVFİK
 
-### Koşma
+## Koşma
 
 Dudağında yangın varmış dediler,
 Tâ ezelden yayan koşarak geldim.

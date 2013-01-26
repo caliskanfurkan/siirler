@@ -1,6 +1,6 @@
-## Arif Nihat ASYA
+# Arif Nihat ASYA
 
-### Bayrak
+## Bayrak
 
 Ey mavi göklerin beyaz ve kızıl süsü,
 Kız kardeşimin gelinliği, şehidimin son örtüsü,
@@ -35,7 +35,7 @@ Söyle, seni oraya dikeyim!
 
 Arif Nihat ASYA
 
-### Fetih Marşı
+## Fetih Marşı
 
 Yelkenler biçilecek, yelkenler dikilecek;
 Dağlardan çektiriler, kalyonlar çekilecek;

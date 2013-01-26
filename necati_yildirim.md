@@ -1,6 +1,6 @@
-## Necati YILDIRIM
+# Necati YILDIRIM
 
-###  Güneş Şarkısı
+##  Güneş Şarkısı
 
 büyük yangınım karanlıktaki çoban yıldızım
 kanlar sızarken toprağa sımsıcak ölü kanları
@@ -44,7 +44,7 @@ gül koydum acılara gül koydum
 
 Necati YILDIRIM
 
-### Mayıs Notları
+## Mayıs Notları
 
 1
 
@@ -149,7 +149,7 @@ sigaranı bir soluk daha çekersin
 
 Necati YILDIRIM
 
-### Pandelis Gutis
+## Pandelis Gutis
 
 ş geldin pandelis gutis*
 yurduna, izmir'e hoş geldin
@@ -179,6 +179,7 @@ ayrılık biter, kırılır zincir
 
 
 
+
 * Pandelis Gutis: Yunanistan Barış Konseyi üyesi. 
 Babası, İzmir'in işgali sırasında öldürülür. 
 Pandelis'i bir Türk kadını emzirir. 
@@ -187,7 +188,7 @@ IV. Dikili Kültür ve Sanat Festivali'ne katıldı.
 
 Necati YILDIRIM
 
-### Sevda Diyorlar Derdime
+## Sevda Diyorlar Derdime
 
 gözlerini hiç görmedim gözlerinden başlamalıyım
 ışıklarını söndürme kapın da açık kalsın geceleri

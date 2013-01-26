@@ -1,6 +1,6 @@
-## Arif DİNO
+# Arif DİNO
 
-###  2+2=4 
+##  2+2=4 
 
 Biri yer 
 Biri bakar
@@ -11,13 +11,13 @@ Kıyamet ondan kopar
 
 Arif DİNO
 
-###  Beddua 
+##  Beddua 
 
 Döner kebab dönmez olsun
 
 Arif DİNO
 
-###  Berhayatız 
+##  Berhayatız 
 
 Canavar düdüğü gibi
 Naramızı atıyoruz.
@@ -26,7 +26,7 @@ Hamdolsun hayatdayız!
 
 Arif DİNO
 
-###  Bir Varmış 
+##  Bir Varmış 
 
 Yok´u
 Yok eden
@@ -48,7 +48,7 @@ Bahtiyar yaşadılar.
 
 Arif DİNO
 
-###  Boğaziçi 
+##  Boğaziçi 
 
 Geceler 
 Gemiyle dönmez
@@ -57,7 +57,7 @@ Telli pullu gelinler.
 
 Arif DİNO
 
-###  Çukurova 
+##  Çukurova 
 
 Çukurova sabır ovasıdır
 Lokmasını
@@ -71,7 +71,7 @@ bilir.
 
 Arif DİNO
 
-###  El Fatiha 
+##  El Fatiha 
 
 Gülmeler,sevinç
 Ağlamalar,keder
@@ -80,7 +80,7 @@ Annem öldü
 
 Arif DİNO
 
-###  İbrani Üçlüsü 
+##  İbrani Üçlüsü 
 
 En güzel Sülamlıların
 kutsal Yahud korusunun çiçeği
@@ -93,7 +93,7 @@ kana bulanmış altın tepsisi Salome'nin.
 
 Arif DİNO
 
-###  Masal 
+##  Masal 
 
 Asaf Halet Çelebi´ye
 
@@ -118,7 +118,7 @@ Ve
 
 Arif DİNO
 
-###  Matematik Şiir Gözlerin 
+##  Matematik Şiir Gözlerin 
 
 iki matematik nokta
 iki büyük yuvarlar siyah
@@ -136,7 +136,7 @@ yakalamak için sonsuzluğu
 
 Arif DİNO
 
-###  Ölüm Şiiri 
+##  Ölüm Şiiri 
 
 Yaşamın gürültüleri suskunluklarını bulandırdı
 buna gülüyorsun simdi çünkü boş kafanda
@@ -144,11 +144,14 @@ yer alan yanlızca tutsaklık
 
 Arif DİNO
 
-### Şevket Rado ile Röportaj
+## Şevket Rado ile Röportaj
 
 ....
+
     
+
       - Bu şiirlerde size zevk veren nedir?
+
       - Çok kuvvetli bir lirizm. Bunu size ancak bir
 misalle anlatabilirim. Bir tramvay tasavvur edin Süratle giderken vatman ani
 bir surette tramvayı durdurdu. Ayakta olanlar birbirlerinin üstüne süratle düştüler.
@@ -157,41 +160,52 @@ Yere düşüp kalkanlardan biri yüzüme bakıp pek haklı olarak:"Ne gülüyors
 efendi? Az kaldı kolum kırılacaktı!"diyor. O zaman işe şuurum müdahale
 ederek cevap veriyorum: "Ayakta duranları devrilen iskambil kağıtlarına
 benzetimde gayri ihtiyari güldüm."
+
        İşte şiirde böyledir.Hislerimiz gayri
 şuuri olarak doğar,aklın müdahalesi ve mantık onu sonradan izah eder.Lirizm
 ise hissin ifadesidir.Mantığın müdahalesi hislerimizin,yani lirizmin sükutu
 demektir.Tramvaydaki hadiseye nasıl gülmüşsem şiiri de öyle beğeniyorum.
 Bence mantıktan lirizmi çıkardınız mı mantıksızlık kalır.
+
        Yani:
+
         Mantık-Lirizm=Mantıksızlık.
+
         Bana öyle geliyor ki gerçeğin ihraç
 edilmesi,sanatı kendi sahasına daha fazla yakınlaştırmıştır.Sanatta mantığın
 ihracı son asırda türlü türlü ifade edilmiştir.mesela Franz Kafka,
 Rimbaud'nun tamamen aksi bir yol takip eder. Fevkalade bir mantıkla manasız
 neticelere varır.Yaptığı lirizm onda da çok kuvvetlidir.Misalleri çoğalta
 bilirim.Fakat itiyadımı kaybetmemek için bunu da kısa kesiyorum.
+
        - Sizin şiirlerinizde mana var mıdır?..
 sualime cevap vermediniz. Mesela sizin son çıkan:     
 
+
            Taştan mantar
 tarlası;
+
             Çok yaşasın
 ölüler!
+
 diye  iki satırdan ibaret ne demek istediğiniz anlaşılamamış.
+
        - Şiirlerimde mana vardır. Fakat ihtimal
 anlamak biraz güç. Size bu şiirin manasını söyleyeyim: Mezarlıktaki o sıra
 sıra mezarlar bana mantar tarlası hissini veriyor ve ölülerin ebediyet
 arzusu gibi görünüyor. Şiirim bu hissin ifadesidir ve anlayanlar için değil,anlamayanlar
 için lirizmi yüksek olabilir.
+
         İşte 
 'nun ağzından şiirlerinin
 bir izahı.
 
 Arif DİNO
 
-### Arif Dino Öldü.
+## Arif Dino Öldü.
 
 ......
+
        Şimdiki,menfaatinden başka bir şey düşünmeyen
 neslin kolay kolay anlamayacağı nokta :başkaları için son lokmasına
 kadar,her şeyini verebilmek fazileti.'nun asıl orijinal tarafı
@@ -199,17 +213,22 @@ buydu...Onda para mefhumunun teşekkül etmediğini söylemiştim.Yanlış,
 galiba. O, parayı sırf başkalarına vermek için kazanırdı. Onun en büyük
 saadeti, Köprü'den parayla geçildiği devirler;bir yandan bir yana rahatça
 geçebilmekten ibaretti.
+
  ......
+
        Bir zaman dillerde dolaşan,tek mısralık
 şiiri:
 
                                     
 "Döner kebab dönmez olsun!"
+
 şiiri, ilk defa birlikte Nuruosmaniye'den çıkdığımız sırada, kebabcıların
 önünden geçerken Arif'in dudaklarından dökülmüştü... Çok neşeli olduğu
 zamanlar, Fransızca şiir yazardı.Yani söylerdi. Bu kendi eserleri, daha yakınlarında
 herhalde vardır.
+
 ......
+
       Bir gece,sahilden geçen Boğaz içi vapurunun
 şıkır şıkır ışıklar akışına bakıp söylediği tek mısra hala hatırımda:
 

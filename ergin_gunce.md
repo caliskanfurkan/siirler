@@ -1,6 +1,6 @@
-## Ergin GÜNÇE
+# Ergin GÜNÇE
 
-###  Gencölmek
+##  Gencölmek
 
 Ay mıdır kar mıdır pencerede
 Boğulmuş çocukları martılara taşıyan
@@ -31,7 +31,7 @@ Ay kar gibidir pencerede
 
 Ergin GÜNÇE
 
-###  Mandolin
+##  Mandolin
 
 Eski bir mandolindi ölümdü anlatılan
 Kır kahvesinde çocuklara çalardı
@@ -56,7 +56,7 @@ Uzak bir mandolin kulaklarında kalan
 
 Ergin GÜNÇE
 
-###  Türkiye Kadar Bir Çiçek
+##  Türkiye Kadar Bir Çiçek
 
 Soğuk suda çarpa çarpa yıkadım
 Yüzümün niyeti bir aşk şiiri

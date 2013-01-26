@@ -1,19 +1,21 @@
-## Mehmet KIYAT
+# Mehmet KIYAT
 
-### Çakmaktaşı
+## Çakmaktaşı
 
+MEHMET KIYAT
 Çakmaktaşı,
 , Doku Yayınları, Haziran 2003
 
 Mehmet KIYAT
 
-### Güneşe Düşen Gölge
+## Güneşe Düşen Gölge
 
+MEHMET KIYAT
 Güneşe Düşen Gölge, , Doku Yayınları, Haziran 2004
 
 Mehmet KIYAT
 
-### Bekçi
+## Bekçi
 
 Ayılardan kurtardığımız yaban balı
 
@@ -34,7 +36,7 @@ Kanatlanarak
 
 Mehmet KIYAT
 
-### Dost Delisi
+## Dost Delisi
 
 Kötülüğün ötesinde bekleyen
 
@@ -56,7 +58,7 @@ Evreni yüreğinde gezdiren
 
 Mehmet KIYAT
 
-### Erinç
+## Erinç
 
 Bir taşkınlık gibi bekleyerek 
 
@@ -88,7 +90,7 @@ Kapalı kapılar ardında
 
 Mehmet KIYAT
 
-### Gülüşün
+## Gülüşün
 
 Yeni biçilmiş çim kokusu gülüşün
 Irmakları yola düşüren özlem
@@ -105,7 +107,7 @@ ilk dizesi şiirlerimin
 
 Mehmet KIYAT
 
-### İpucu
+## İpucu
 
 Sonsuzluğun ipucunu buldum
                                                 yanına aldı bizi 
@@ -129,7 +131,7 @@ Sevincinden
 
 Mehmet KIYAT
 
-### İsteksiz
+## İsteksiz
 
 Su baskınları 
 
@@ -163,7 +165,7 @@ Nice beklenti
 
 Mehmet KIYAT
 
-### Kimsesiz
+## Kimsesiz
 
 Aymazlığın ölçütüdür savaş
 
@@ -197,7 +199,7 @@ Ussuz
 
 Mehmet KIYAT
 
-### Kötülük Çarkına Tutunanlar
+## Kötülük Çarkına Tutunanlar
 
 Güneşe kıçını dönmüş
 
@@ -217,7 +219,7 @@ Sevinç yok
 
 Mehmet KIYAT
 
-### Sarmaşıklar
+## Sarmaşıklar
 
 Taşkınlığım
 
@@ -250,7 +252,7 @@ Hep yanında tutan
 
 Mehmet KIYAT
 
-### Savaş Ve Ölüm
+## Savaş Ve Ölüm
 
 Yoksunluğun derin kuyusunda
 
@@ -269,7 +271,7 @@ Savaşın tetiğini çekiyor
 
 Mehmet KIYAT
 
-### Unutursa
+## Unutursa
 
 Kuş uçmayı
 

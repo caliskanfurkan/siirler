@@ -1,6 +1,6 @@
-## Erdoğan ALKAN
+# Erdoğan ALKAN
 
-### Büyü
+## Büyü
 
 Şeytan dağındaki mağarada
 Duydum  Büyücü bir kadın yaşarmış
@@ -44,7 +44,7 @@ Uydurdum bu yaşanmamış öyküyü
 
 Erdoğan ALKAN
 
-### Miras
+## Miras
 
 Karşılıksız sevdalardan usandım
 Artık unutacağım bankadaki kızı

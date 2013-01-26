@@ -1,6 +1,6 @@
-## Ali PÜSKÜLLÜOĞLU
+# Ali PÜSKÜLLÜOĞLU
 
-### Arkadaş
+## Arkadaş
 
 Arkadaş, iyi bir günü
 Sakla kötü günlere
@@ -25,7 +25,7 @@ Ezberle ve sakın unutma
 
 Ali PÜSKÜLLÜOĞLU
 
-### Aşktır Geride Kalan
+## Aşktır Geride Kalan
 
 İnkâr etmem aşkı
 Ağzı bir elma tadı ağzımda
@@ -50,7 +50,7 @@ Bir serçe
 
 Ali PÜSKÜLLÜOĞLU
 
-### Behçet'e Ağıt
+## Behçet'e Ağıt
 
 Herkes bir şey söylüyor
 Kimi aşk diyor kimi ilkyaz
@@ -78,7 +78,7 @@ Ak kendi kendine, yaşım!
 
 Ali PÜSKÜLLÜOĞLU
 
-### Çobanıl
+## Çobanıl
 
 Ey tarlakuşlarının titreşip durduğu masmavi geniş alan, 
 Güz geldi mi çiylerle ıslanan kırlar, 
@@ -118,7 +118,7 @@ Ey tarlakuşlarının titreşip durduğu masmavi geniş alan
 
 Ali PÜSKÜLLÜOĞLU
 
-### Eskidikçe
+## Eskidikçe
 
 Güneşi karşılıyoruz mutlu çığlıklarla öperek, 
 Dağı, ovayı 
@@ -172,7 +172,7 @@ Haydi sen de var uykuya:
 
 Ali PÜSKÜLLÜOĞLU
 
-### Günün Herhangi Bir Saati
+## Günün Herhangi Bir Saati
 
 Bir yıldız, bir karanlık
 düştü şavkı suya.
@@ -212,7 +212,7 @@ her zamanla hiçbir zaman arasında.
 
 Ali PÜSKÜLLÜOĞLU
 
-### Şiir Tanrısına Yakarış
+## Şiir Tanrısına Yakarış
 
 Bağışla unutmuşsam, unuttum 
 sanma yine de; 
@@ -237,7 +237,7 @@ duysun çığlığımı dünya!
 
 Ali PÜSKÜLLÜOĞLU
 
-### Yaşlanmış Bir Gemici Gibi
+## Yaşlanmış Bir Gemici Gibi
 
 Ben bir korsan gemisinde doğup büyüyen
 Denizciye benzerim,
@@ -252,7 +252,7 @@ Günlerce yemsiz kalmış martılar.
 
 Ali PÜSKÜLLÜOĞLU
 
-### 
+## 
     Ali Püsküllüoğlu
 
 YAŞAMI
@@ -260,25 +260,32 @@ YAŞAMI
 YAPITLARI
 Pembe
   Beyaz (1955)
+
   Aydınlık İçinde (1956)
+
   Karanfilli Saksı (1958)
+
   Uzun Atlar Denizi (1962)
+
   Sırtımızda Kızgın Güneş (1965)
+
   Unutma Onları (1976)
+
   Yaz ve Yağmur (1978)
+
   Gül, Sevgili Yurdum (1984)
+
   Eskidikçe (1992)
+
   Babadat (1998, toplu şiirler)
 ŞİİRLERİ
-
-
-
-
 
  
 ÇEVİRİ ŞİİRLERİ
  -
 	
-20 Aralık 1989 , , Ahmet Say,
+
+20 Aralık 1989 
+, , Ahmet Say,
 
 Ali PÜSKÜLLÜOĞLU

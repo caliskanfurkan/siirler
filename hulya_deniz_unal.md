@@ -1,6 +1,6 @@
-## Hülya Deniz ÜNAL
+# Hülya Deniz ÜNAL
 
-### Ada Küstü
+## Ada Küstü
 
 Aşkın uzunuymuş ihanet
 Boynuma dolanan gecikmiş takvim
@@ -36,7 +36,7 @@ Zamanların acıttığı bilinirken üstelik
 
 Hülya Deniz ÜNAL
 
-### Ateş Böceği
+## Ateş Böceği
 
 Parçalandı kalkanım artık gökyüzü
 Alçalarak damlıyor ikindi artığı
@@ -60,7 +60,7 @@ Sönüyor ateş böceklerinin ışıklı kanatları
 
 Hülya Deniz ÜNAL
 
-### Ayak İzleri
+## Ayak İzleri
 
 Görüşürüz. Yarısı sevinir yüzünün
 kaçarak gider yarısı. Ayak izlerin
@@ -92,7 +92,7 @@ ritmik bulantı, kaybolan inci.
 
 Hülya Deniz ÜNAL
 
-### Bırakacak Kadar
+## Bırakacak Kadar
 
 Bu kadar sevilebildim
 Bırakacak kadar sevebildim hep
@@ -129,7 +129,7 @@ Bıraksalar akacaktım
 
 Hülya Deniz ÜNAL
 
-### Bulut
+## Bulut
 
 Zamandır bizi büyüten gölge
 Ve yağmur, su baskınları
@@ -156,10 +156,11 @@ Hüznü kurut!
 
 Hülya Deniz ÜNAL
 
-### Çamur
+## Çamur
 
 "Herkesin dünyada bir kimsesi vardır, çamurun kimsesi yoktur"
                                                                                             İlhan Berk
+
 
 Gözleriniz tehlikeli, elleriniz
 kızamık dökerken ortanca
@@ -192,7 +193,7 @@ bulunur!. Koma halinde...
 
 Hülya Deniz ÜNAL
 
-### Göbek Bağı
+## Göbek Bağı
 
 Kim itecek bakalım
 Beni hangi bahane
@@ -233,7 +234,7 @@ Gri yaldızlı betona
 
 Hülya Deniz ÜNAL
 
-### Karşılaşma
+## Karşılaşma
 
 Birbirine açılan sokaklarda rastlardım
 Kapılardan benden önce girerdi yalnızlığım
@@ -264,7 +265,7 @@ Gömemezdik cenazeyi içimizdeki bize
 
 Hülya Deniz ÜNAL
 
-### Nezaket Kuralı
+## Nezaket Kuralı
 
 Gitmediğin hiçbir uzak kalmasın
 Yakınlarda kaybolma ihtimalin yüksek
@@ -292,10 +293,11 @@ Bir güzel boğul tekne!.. Alabora olmadan
 
 Hülya Deniz ÜNAL
 
-### Ödeşme
+## Ödeşme
 
 "Bütün tepelerin üstü sessizdir"
                                                               Goethe
+
 
 
 O şehir, kabuk tutmayan yara

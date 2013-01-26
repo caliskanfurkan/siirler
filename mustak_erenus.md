@@ -1,6 +1,6 @@
-## Müştak ERENUS
+# Müştak ERENUS
 
-### Biraz Daha
+## Biraz Daha
 
 Bir uzun öykü biter
 Yorulur kişileri
@@ -45,7 +45,7 @@ o güzel güne uyanır.
 
 Müştak ERENUS
 
-### Bu Günler
+## Bu Günler
 
 Üstümüzde bu şaşkın bulutlar
 Küskün bir telâşın peşinde
@@ -60,7 +60,7 @@ Yedirmeyiz kimseye.
 
 Müştak ERENUS
 
-### Çocuklar Ağlamasın
+## Çocuklar Ağlamasın
 
 Çocuklar Ağlamasın 
 Hiç ağlamasın 
@@ -76,7 +76,7 @@ Hiç ağlamasın
 
 Müştak ERENUS
 
-### Deliler
+## Deliler
 
 Bir gök var üstümüzde
 Yıldızlar bir ipte dizi
@@ -89,7 +89,7 @@ Deli
 
 Müştak ERENUS
 
-### Elin Bozuğu
+## Elin Bozuğu
 
 Sen karanlıkta hiç türkü söyledin mi
 Türkü söyledin mi hiç karanlığa
@@ -102,7 +102,7 @@ Hadi be.
 
 Müştak ERENUS
 
-### Günün İçindeki
+## Günün İçindeki
 
 Bu bağışlanmak isteği de
 Nerden çıktı şimdi
@@ -128,7 +128,7 @@ Göğün mavisine
 
 Müştak ERENUS
 
-### İnadın Güzeli
+## İnadın Güzeli
 
 Kuzguncukta nenemin evi
 Nazarlığı yumurtadan çiçekler
@@ -146,7 +146,7 @@ Yaşayacağım diyorum.
 
 Müştak ERENUS
 
-### İtiniz
+## İtiniz
 
 Sıraselvilere yeni dikilen
 Beşyıldızlı otelin koca kapısına
@@ -161,7 +161,7 @@ Koca dünyayı çocuklarıyla
 
 Müştak ERENUS
 
-### Kapın Çalınıyor
+## Kapın Çalınıyor
 
 Bir söğüt dalının yeşilini getirdim sana
 Üstünde kelebeğin mavisi
@@ -172,7 +172,7 @@ Geldim bu söz dinlemez sevgiyle böyle.
 
 Müştak ERENUS
 
-### Kimi Kime
+## Kimi Kime
 
 Muteber bir dünya vatandaşı olaraktan
 Bulutlara dayayıp merdiveni
@@ -185,7 +185,7 @@ Ne hale getirdiniz şu dünyayı be
 
 Müştak ERENUS
 
-### Lorca Kardeşim
+## Lorca Kardeşim
 
 Ölmek istemiyorum diyordu içinden.
 İri taşlı kirli bir duvar önünde
@@ -225,7 +225,7 @@ Koca kafalı bir koyun otlattılar.
 
 Müştak ERENUS
 
-### Merhaba Yeryüzü
+## Merhaba Yeryüzü
 
 Eşref saati hayra dolu
 Bir cömert günün ortasında
@@ -256,7 +256,7 @@ Dağ başındaki bir keşiş inadıyla
 
 Müştak ERENUS
 
-### Ölmeye Vakit Yok
+## Ölmeye Vakit Yok
 
 İnanmak gerekir güne 
 Bütün dertleriyle dün 
@@ -286,7 +286,7 @@ Ali
 
 Müştak ERENUS
 
-### Taşlı Yazı
+## Taşlı Yazı
 
 Üç el yamanmıştı geceye sivri
 Korkunun ötesinde ateş yakmıştı çocuk
@@ -330,7 +330,7 @@ Kimse bir şey diyemedi.
 
 Müştak ERENUS
 
-### Yarına Açan Gül
+## Yarına Açan Gül
 
 Gergefte kırmızı bir gül gibiyiz
 Umutlu ve keyifli
@@ -345,7 +345,7 @@ Böyle elele.
 
 Müştak ERENUS
 
-### Yeneni Sevmem Yenileni Hiç
+## Yeneni Sevmem Yenileni Hiç
 
 Taş kodum taş üstüne 
 Yedirmedim özüme bu çileyi 
@@ -363,7 +363,7 @@ Yaşar görürler bu efendiler kendilerini.
 
 Müştak ERENUS
 
-### Yüreğin Var Ya Yüreğin
+## Yüreğin Var Ya Yüreğin
 
 Geceleri yıldızlar örter üstünü
 Bilirsin de yine üşürsün.

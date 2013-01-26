@@ -1,9 +1,10 @@
-## Arif DAMAR
+# Arif DAMAR
 
-### 31 Ekim 1964 
+## 31 Ekim 1964 
 
 Suç kanıtı karanfiller beyazdı
          Savcı söyledi yazıcı yazdı
+
 
 Kanlı bir gömlek değildi
 Tüfek tabanca bıçak
@@ -27,7 +28,7 @@ Kırk karanfildi kırkı da beyaz
 
 Arif DAMAR
 
-### Alıcı Kuş
+## Alıcı Kuş
 
 Vurur düşlerine ozanın
 Güneş kızgınlığından birkaç ağustos
@@ -64,7 +65,7 @@ Alıcı kuşu kardeşliğin.
 
 Arif DAMAR
 
-### Ben Beni
+## Ben Beni
 
 Ben beni sarpa vurdum ben de böyleyim
 Korkulu sular boyu yalçını diki
@@ -93,7 +94,7 @@ Bir gün gelir toprağın suya aşkından
 
 Arif DAMAR
 
-### Beni Unut
+## Beni Unut
 
 Açık pencereden sesleniyor,
 ağacın yapraklarına söyletiyor:
@@ -133,7 +134,7 @@ Olmayacak bir zamanda sesleniyor:
 
 Arif DAMAR
 
-### Büyük Hüner
+## Büyük Hüner
 
 İnsanları sevmek kolay değil,
 bir hürriyet bu
@@ -167,7 +168,7 @@ insanlarla beraber.
 
 Arif DAMAR
 
-### Che
+## Che
 
 Bir sesti O
 Bütün sesler içinde ayrı
@@ -213,7 +214,7 @@ Yolu da var gidilecek
 
 Arif DAMAR
 
-### Da 
+## Da 
 
 Ben seni seviyordum seni sevdim
 Islak buzağıları seviyordum seni sevdim
@@ -237,7 +238,7 @@ Ayın ondördünü
 
 Arif DAMAR
 
-### Dar Açı
+## Dar Açı
 
 Uzun saçlar yakışırdı sana uzun yıllar
 Bir gökyüzü bitince öteki başlardı
@@ -256,7 +257,7 @@ Bir gökyüzü bitince öteki başlardı.
 
 Arif DAMAR
 
-### Dayanılmaz
+## Dayanılmaz
 
 Gözlerini ölüm bürüdü onların
 korkulu rüyalarda uyanıyorlar uykularından.
@@ -341,7 +342,7 @@ DAYANILMAZ...
 
 Arif DAMAR
 
-### Dörtlük
+## Dörtlük
 
 Bir elim ekmekte bir elim sende
 Bir elim gerçekte bir elim sende
@@ -350,7 +351,7 @@ Bir elim gelecekte bir elim sende
 
 Arif DAMAR
 
-### Dur Dur
+## Dur Dur
 
 Gecem erken dur dur
 Gözlerine bakmazsam uzun bakmazsam
@@ -372,7 +373,7 @@ Gecem erken inecek
 
 Arif DAMAR
 
-### Gitme Kal
+## Gitme Kal
 
 Nice nice acıları aklına getir
 Bunca yoksulluğu aklına getir
@@ -405,7 +406,7 @@ Ne çok severdik seni aklına getir
 
 Arif DAMAR
 
-### Her Gün Yaşamak
+## Her Gün Yaşamak
 
 Işıklı günlerinde düşün,
 memleketini, dostlarını, sevgilini,
@@ -431,7 +432,7 @@ yaşamak her gün...
 
 Arif DAMAR
 
-### Hissen Yok Bu Akşamda Senin
+## Hissen Yok Bu Akşamda Senin
 
 Hissen yok bu akşamda senin
 sen öğleden beri
@@ -469,7 +470,7 @@ mısralarımda olsun uyan!..
 
 Arif DAMAR
 
-### İkinci Dünya Harbinden 
+## İkinci Dünya Harbinden 
 Portreler - I
 
 Belli söylediğin türküden
@@ -510,7 +511,7 @@ yan yana ve omuz omuzayız.
 
 Arif DAMAR
 
-### İkinci Dünya Harbinden 
+## İkinci Dünya Harbinden 
 Portreler - II
 
 Harbin yorgunluğu kalkmış üzerinden
@@ -531,7 +532,7 @@ duvardaki resmine bakıp gülümseyecektir
 
 Arif DAMAR
 
-### İkinci Dünya Harbinden 
+## İkinci Dünya Harbinden 
 Portreler - III
 
 O öylece kalacak :
@@ -552,7 +553,7 @@ Ah ellerin ne kadar soğuk!..
 
 Arif DAMAR
 
-### İkinci Dünya Harbinden 
+## İkinci Dünya Harbinden 
 Portreler - IV
 
 Silahın düştü elinden
@@ -580,7 +581,7 @@ Ondan sonra bir hayal parçasısın.
 
 Arif DAMAR
 
-### Kedi Aklı
+## Kedi Aklı
 
 Bir diyeceğim yoktu hüzünden yana
 Yıpranıyordu kötü kadınlarda aşkım pis karanlıklarda
@@ -607,7 +608,7 @@ Ne iyi etmişim uyur uykularında
 
 Arif DAMAR
 
-### Postacı
+## Postacı
 
 Hüzün postacısıyım çoktan
 Sürüklesin kasım yeli beni de
@@ -627,7 +628,7 @@ Güzün
 
 Arif DAMAR
 
-### Saat Sekizi Geç Vurdu
+## Saat Sekizi Geç Vurdu
 
 Kime ne desem 
 Boyuna kendimi dinliyordum eski yağmurları dinliyordum
@@ -649,7 +650,7 @@ Düşünmeden biliyordum
 
 Arif DAMAR
 
-### Saksı
+## Saksı
 
 Elimde demin
 Küçük bir saksı vardı
@@ -663,7 +664,7 @@ Bomboş
 
 Arif DAMAR
 
-### Seslerin Ayak Sesi
+## Seslerin Ayak Sesi
 
 Kırlangıçlar dönecek yakında
 Açılacak onurlu kapıları
@@ -695,7 +696,7 @@ Seslerin ayak sesi
 
 Arif DAMAR
 
-### Sokak
+## Sokak
 
 Önce yağan kara gülümsedi
 Kaçıştı sonra yalın ayak çocuklar
@@ -714,14 +715,14 @@ Bir uçurtma tellere takılırken
 
 Arif DAMAR
 
-### Sunu
+## Sunu
 
 İlle de görmek için mi beklenir güzel günler
 Beklemek de güzel
 
 Arif DAMAR
 
-### Yoksulduk Dünyayı Sevdik
+## Yoksulduk Dünyayı Sevdik
 
 Öyle uzak
 Gitgide
@@ -781,7 +782,7 @@ Hiç yaşamadı belki
 
 Arif DAMAR
 
-### Yol Gider Ah Nasıl da
+## Yol Gider Ah Nasıl da
 
 De bana
 Anlat hadi
@@ -856,7 +857,7 @@ Takır takır
 
 Arif DAMAR
 
-### Yol Yorgunu
+## Yol Yorgunu
 
 Bana bir türkü öğretsen
 Ayın aydınlığında söylesem
@@ -881,7 +882,7 @@ Hem söylesem hem yürüsem
 
 Arif DAMAR
 
-### Vietnam
+## Vietnam
 
 Vietnam için yazmadın dedi Akşit
       Vietnam için şiir yazılmaz

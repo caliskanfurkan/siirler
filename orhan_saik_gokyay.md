@@ -1,6 +1,6 @@
-## Orhan Şaik GÖKYAY
+# Orhan Şaik GÖKYAY
 
-### Bu Vatan Kimin
+## Bu Vatan Kimin
 
 Bu vatan toprağın kara bağrında
 Sıradağlar gibi duranlarındır,
@@ -34,7 +34,7 @@ Topun namlusundan görenlerindir.
 
 Orhan Şaik GÖKYAY
 
-### Yas
+## Yas
 
 Dökün yaprağınızı dallarım dökün,
 Akın yaslı yaslı sularım akın.

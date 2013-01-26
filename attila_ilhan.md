@@ -1,32 +1,6 @@
-## Attila İLHAN
+# Attila İLHAN
 
-### YAŞAMI
-
-15 Haziran 1925 tarihinde Menemen (İzmir)' de doğdu. İzmir'de
-Karşıyaka Cumhuriyet İlkokulu' ve Karşıyaka Ortaokulu'nu bitirdi. İzmir
-Atatürk Lisesi'nde öğrenci iken, Türk Ceza Kanunu'nun 141. maddesine aykırı
-davranma savıyla  tutuklandı, okulundan uzaklaştırıldı. Danıştay
-kararı ile yeniden öğrenim hakkı kazanarak İstanbul Işık Lisesi'ni
-bitirdi. İstanbul Üniversitesi Hukuk Fakültesi'nde başladığı yüksek öğrenimini
-yarıda bırakarak 1949-1965 arasında aralıklı olarak altı yıl Paris'te yaşamını
-sürdürdü. Dönüşünde gazetecilik, yayın yönetmenliği, yayın danışmanlığı,
-yazarlıkla yaşamını kazandı. 
- Yeni Edebiyat, Yücel, Genç
-Nesil, Fikirler, Varlık, Aile, Yirminci Asır, Seçilmiş Hikâyeler, Kaynak,
-Ufuklar, Mavi, Yeditepe, Dost, Yelken, Ataç, Yön, Milliyet Sanat, Sanat Olayı 
-dergilerinde şiirleri yayınlandı. Garip ve İkinci Yeni şiirine karşıydı.
-Mavi dergisinde Maviciler diye bilinen toplumsal gerçekçilik akımının sözcüsü
-oldu. Şiiri başlangıçta Nâzım Hikmet ve halk şiirinin biçimsel özelliklerinden
-etkiler taşıyordu. Zamanla taşkın, çarpıcı,
-belleklerde kolay yer eden imgelerle örülü, toplumsallaşmış bireyi temel
-alan, kimi zaman öykülemeye dayalı, divan şiiri olanaklarından da
-yararlanmayı bilen, duyarlılığı yüksek bir nitelik kazandı. 
-
-11 Ekim 2005 tarihinde İstanbul'da yaşamını yitirdi.
-
-Attila İLHAN
-
-### Adım Sonbahar
+## Adım Sonbahar
 
 nasıl iş bu
 her yanına çiçek yağmış
@@ -42,7 +16,7 @@ usul usul
 
 Attila İLHAN
 
-### An Gelir
+## An Gelir
 
 an gelir
 paldır küldür yıkılır bulutlar
@@ -93,7 +67,7 @@ görünmez bir mezarlıktır zaman
 
 Attila İLHAN
 
-### Belâ Çiçeği
+## Belâ Çiçeği
 
 alsancak garı'na devrildiler
 gece garın saati belâ çiçeği
@@ -118,7 +92,7 @@ vagonlar usul usul kımıldıyordu
 
 Attila İLHAN
 
-### Ben Sana Mecburum
+## Ben Sana Mecburum
 
 Ben sana mecburum bilemezsin 
 Adını mıh gibi aklımda tutuyorum 
@@ -168,7 +142,7 @@ Ben sana mecburum bilemezsin.
 
 Attila İLHAN
 
-### Böyle Bir Sevmek
+## Böyle Bir Sevmek
 
 ne kadınlar sevdim zaten yoktular
 yağmur giyerlerdi sonbaharla bir
@@ -193,7 +167,7 @@ böyle bir sevmek görülmemiştir
 
 Attila İLHAN
 
-### Cebbar Oğlu Mehemmed
+## Cebbar Oğlu Mehemmed
 
 kaman cıvarına bahar gelince
 yıkılır ovadan apdal çadırları
@@ -321,7 +295,7 @@ ve kemal koymuşlar adını
 
 Attila İLHAN
 
-### Cinayet Saati
+## Cinayet Saati
 
 haliç'te bir vapuru vurdular dört kişi
 demirlemişti eli kolu bağlıydı ağlıyordu
@@ -357,11 +331,12 @@ ben vursam kendimi vuracaktım
 
 Attila İLHAN
 
-### Duvar
+## Duvar
 
 - bu şiir ikinci dünya savaşı içinde
                                               kahredilen bütün dünya duvarları
                                               için yazılmıştır.-
+
 
 ben bir duvarım hiç güneş görmedim
 sen hiç güneş görmemiş bir başka duvar
@@ -440,7 +415,7 @@ ah öyle bakmayın utanırız kahroluruz
 
 Attila İLHAN
 
-### Elde Var Hüzün
+## Elde Var Hüzün
 
 söyleşir
 evvelce biz bu tenhalarda
@@ -467,7 +442,7 @@ birikip yeniden sıçramak için
 
 Attila İLHAN
 
-### Kim O?
+## Kim O?
 
 kapının ziliyle sıçradım
 gecenin saat üçü
@@ -482,7 +457,7 @@ polisten bırakmışlar
 
 Attila İLHAN
 
-### Kimi Sevsem Sensin
+## Kimi Sevsem Sensin
 
 kimi sevsem sensin / hayret
 sevgi hepsini nasıl değiştiriyor
@@ -513,7 +488,7 @@ in misin cin misin anlamıyorum
 
 Attila İLHAN
 
-### Kirli Yüzlü Melekler
+## Kirli Yüzlü Melekler
 
 sayende sayebân olduk istanbul şehri
 sayende sebil olduk aç kaldık sefil olduk
@@ -553,7 +528,7 @@ kahrolasın istanbul şehri
 
 Attila İLHAN
 
-### Muhayyer
+## Muhayyer
 
 önemli gizli boyutlarıyla yeryüzündeki yaşantımız
 ne kadar azdır yaşadığımızdan yaşadığımızı sandığımız
@@ -578,7 +553,7 @@ ne kadar azdır yaşadığımızdan yaşadığımızı sandığımız
 
 Attila İLHAN
 
-### Mustafa Kemal
+## Mustafa Kemal
 
 dağ başını efkâr almış
 gümüş dere durmaz ağlar
@@ -647,7 +622,7 @@ mustafa'm mustafa  kemal'im
 
 Attila İLHAN
 
-### Pia
+## Pia
 
 ne olur kim olduğunu bilsem pia'nın
 ellerini bir tutsam ölsem
@@ -678,7 +653,7 @@ ellerini tutabilsem pia'nın
 
 Attila İLHAN
 
-### Rüzgâr Gülü
+## Rüzgâr Gülü
 
 önümden çekilirsen istanbul görünecek
 nerede olduğumu bileceğim
@@ -725,7 +700,7 @@ nerede olduğumuzu bilsek
 
 Attila İLHAN
 
-### Sana Ne Yaptılar
+## Sana Ne Yaptılar
 
 O sabah mı çıkmıştın, bir gün önce mi 
 Bir bıçağın ağzında yürür gibiydin 
@@ -755,7 +730,7 @@ O sabah mı çıkmıştın, bir gün önce mi
 
 Attila İLHAN
 
-### Sisler Bulvarı
+## Sisler Bulvarı
 
 elinin arkasında güneş duruyordu
 aylardan kasımdı üşüyorduk
@@ -838,7 +813,7 @@ artık kalbimi susturamıyorum
 
 Attila İLHAN
 
-### Sultan-ı Yegâh
+## Sultan-ı Yegâh
 
 şamdanları donanınca eski zaman sevdalarının
 başlar ay doğarken saltanatı sultan-ı yegâhın
@@ -860,7 +835,7 @@ başlar ay doğarken saltanatı sultan-ı yegâhın
 
 Attila İLHAN
 
-### Tutuklunun Günlüğü'nden
+## Tutuklunun Günlüğü'nden
 
 / salı gecesi /
 
@@ -934,7 +909,7 @@ gizle de yargılansak 3.ağırceza'da
 
 Attila İLHAN
 
-### Üçüncü Şahsın Şiiri
+## Üçüncü Şahsın Şiiri
 
 gözlerin gözlerime değince
 felâketim olurdu ağlardım
@@ -971,7 +946,7 @@ felâketim olurdu ağlardım
 
 Attila İLHAN
 
-### Yağmur Kaçağı
+## Yağmur Kaçağı
 
 elimden tut yoksa düşeceğim
 yoksa bir bir yıldızlar düşecek
@@ -994,7 +969,7 @@ yağmur beni götürecek yoksa beni
 
 Attila İLHAN
 
-### An Gelir
+## An Gelir
 
 an gelir
 paldır küldür yıkılır bulutlar
@@ -1045,7 +1020,7 @@ görünmez bir mezarlıktır zaman
 
 Attila İLHAN
 
-### Böyle Bir Sevmek
+## Böyle Bir Sevmek
 
 ne kadınlar sevdim zaten yoktular
 yağmur giyerlerdi sonbaharla bir
@@ -1070,7 +1045,7 @@ böyle bir sevmek görülmemiştir
 
 Attila İLHAN
 
-### Cinayet Saati
+## Cinayet Saati
 
 haliç'te bir vapuru vurdular dört kişi
 demirlemişti eli kolu bağlıydı ağlıyordu

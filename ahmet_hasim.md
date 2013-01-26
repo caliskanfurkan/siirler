@@ -1,6 +1,6 @@
-## Ahmet HAŞİM
+# Ahmet HAŞİM
 
-###  Ağaç
+##  Ağaç
 
 Gün bitti. Ağaçta neş'e söndü.
 Yaprak âteş oldu. Kuş da yâkut.
@@ -9,7 +9,7 @@ Havzın suyu erguvâna döndü.
 
 Ahmet HAŞİM
 
-###  Bir Günün Sonunda Arzû
+##  Bir Günün Sonunda Arzû
 
 Yorgun gözümün halkalarında
 Güller gibi fecr oldu nümâyân,
@@ -31,7 +31,7 @@ Göllerde bu dem bir kamış olsam!
 
 Ahmet HAŞİM
 
-### Bir Yaz Gecesi Hatırası
+## Bir Yaz Gecesi Hatırası
 
 İşveyle, fısıltıyla, gülüşle,
 Olmuş şeb-i sevdâ yine bî-hâb
@@ -45,7 +45,7 @@ Vuslat demi bir kuş gibi bî-tâb...
 
 Ahmet HAŞİM
 
-###  Bülbül
+##  Bülbül
 
 Bir gamlı hazânın seherinde
 Isrâra ne hâcet yine bülbül?
@@ -57,7 +57,7 @@ Gün doğmada bir başka ziyâda...
 
 Ahmet HAŞİM
 
-### Havuz
+## Havuz
 
 Akşam yine toplandı derinde...
 
@@ -71,7 +71,7 @@ Yıldızlar onun güldür elinde...
 
 Ahmet HAŞİM
 
-### Karanfil
+## Karanfil
 
 Yârin dudağından getirilmiş
 Bir katre âlevdir bu karanfil,
@@ -83,7 +83,7 @@ Gönlüm ona pervâne kesildi...
 
 Ahmet HAŞİM
 
-### Merdiven
+## Merdiven
 
 Ağır, ağır çıkacaksın bu merdivenlerden,
 Eteklerinde güneş rengi bir yığın yaprak,
@@ -101,7 +101,7 @@ Kızıl havâları seyret ki akşam olmakta...
 
 Ahmet HAŞİM
 
-### Mukaddime
+## Mukaddime
 
 Karaosmanzâde Câvide Hayri Hanımefendi'ye
 
@@ -122,7 +122,7 @@ Karşında şu gülgûn piyâle!..
 
 Ahmet HAŞİM
 
-###  O Belde
+##  O Belde
 
 Denizlerden
 Esen bu ince havâ saçlarınla eğlensin.
@@ -190,7 +190,7 @@ Bu nefy ü hicre, müebbed bu yerde mahkûmuz...
 
 Ahmet HAŞİM
 
-### Parıltı
+## Parıltı
 
 Âteş gibi bir nehir akıyordu
 Rûhumla o rûhun arasından
@@ -204,7 +204,7 @@ Vurdukça bu aşkın ona aksi...
 
 Ahmet HAŞİM
 
-###  Şafakta
+##  Şafakta
 
 Dönsek mi bu aşkın şafağından
 Gitsek mi ekaalîm-i leyâle?
@@ -218,7 +218,7 @@ Zulmet bizi çekmekte visale...
 
 Ahmet HAŞİM
 
-###  Süvârî
+##  Süvârî
 
 Şu bakır zirvelerin ardından
 Bir süvârî geliyor kan rengi.
@@ -232,7 +232,7 @@ Uçuyor parçalanan bayraklar!
 
 Ahmet HAŞİM
 
-### Tahattur
+## Tahattur
 
 Bir Acem bahçesi, bir seccâde,
 Dolduran havzı ateşten bâde...
@@ -246,7 +246,7 @@ Bu sönen, gölgelenen dünyâda!
 
 Ahmet HAŞİM
 
-### Yarı Yol
+## Yarı Yol
 
 Nasıl istersen öyle dinle, bakın:
 Dalların zirvesindeyiz ancak,

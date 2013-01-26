@@ -1,6 +1,6 @@
-## Ece AYHAN
+# Ece AYHAN
 
-### Açık Atlas
+## Açık Atlas
 
 Hayattan ders veriyor diye öğretmenleri kızdıran
 Tuzu bir bulmuş çocukları saklamadan güldüren dünyaya
@@ -32,7 +32,7 @@ Ne yani çocuklar hiç gülmeyecekler mi?
 
 Ece AYHAN
 
-### Anka
+## Anka
 
 1.	İmzasız bir yazı yayınlanır bir gün Babıali'de. Boğazlar üzerine bir ankabakışı Çamlıca'dan.
 
@@ -44,7 +44,7 @@ Ece AYHAN
 
 Ece AYHAN
 
-### Bakışsız Bir Kedi Kara
+## Bakışsız Bir Kedi Kara
 
 Gelir dalgın bir cambaz. Geç saatlerin denizinden. Üfler lambayı. Uzanır
 ağladığım yanıma. Danyal yalvaç için. Aşağıda bir kör kadın. Hısım. Sayıklarbir dilde 
@@ -55,7 +55,7 @@ Bir korsan gemisi! girmiş körfeze.
 
 Ece AYHAN
 
-### Bir Elişi Tanrısı İçin Ağıt
+## Bir Elişi Tanrısı İçin Ağıt
 
 Peki nasıl oldu da hatırladı denizde boğulduğunu
 nasıl oldu da peki anlatamıyorum biliyorsun
@@ -70,7 +70,7 @@ Kantocu peruz sahiden yaşadı mı patron?
 
 Ece AYHAN
 
-### Çapalı Karşı
+## Çapalı Karşı
 
 Kollarında eski balık dövmeleri
 teodor kasap perhiz ahali içmez
@@ -93,14 +93,14 @@ dağlar gibi yalnızlık ne güzel bir hiç.
 
 Ece AYHAN
 
-### Dökulecekler
+## Dökulecekler
 
 1.	Uç Doðu. Anadolu'yu anlatacaktýr öðretmen. Haritayý asar.
 2.	Bütün sýnýf korkmuþtur; göller, ýrmaklar dökülecekler!
 
 Ece AYHAN
 
-### Fayton
+## Fayton
 
 Erol Gülercan'a
 
@@ -120,7 +120,7 @@ cezayir menekşelerini seçip satın alışından olabilir mi ablamın.
 
 Ece AYHAN
 
-### Kılıç
+## Kılıç
 
 M.Ç. için
 
@@ -136,7 +136,7 @@ karaltıları! Ağlıyan bir melez ben.
 
 Ece AYHAN
 
-### Kınar Hanımın Denizleri
+## Kınar Hanımın Denizleri
 
 Bir çakıl taşları gülümseyişi ağlarmış karafaki rakısıyla
 şimdi dipsiz kuyulara su olan kınar hanım'dan
@@ -154,7 +154,7 @@ gibi bir üzünç sökün edermiş akşamları ağlarken kuyulara kınar
 
 Ece AYHAN
 
-### Meçhul Öğrenci Anıtı
+## Meçhul Öğrenci Anıtı
 
 Buraya bakın, burada, bu kara mermerin altında
 Bir teneffüs daha yaşasaydı
@@ -181,7 +181,7 @@ Bütün sınıf sana çocuk bayramlarında zarfsız kuşlar gönderecek.
 
 Ece AYHAN
 
-### Melahat Geçilmez
+## Melahat Geçilmez
 
 1.	Gazetelerde ak kara bir resmi otuz yıllık. Arkasında mülki taksimatlı bir harita.
 Komiserin odasında ağırlanırmış.
@@ -196,7 +196,7 @@ Delikleri balmumuyla örterler.
 
 Ece AYHAN
 
-### Mor Külhani
+## Mor Külhani
 
 1.Şiirimiz karadır abiler
 
@@ -255,7 +255,7 @@ Düzayak çivit badanalı bir kent nasıl kurulur abiler?
 
 Ece AYHAN
 
-### Orta İkiden Ayrılan Çocuklar
+## Orta İkiden Ayrılan Çocuklar
       İçin Şiirler
 
 Sivil ölümden konuşuyoruz dağılan neftilikler
@@ -276,7 +276,7 @@ süsüne kaçılmamış bir cenaze törenine gitmek için.
 
 Ece AYHAN
 
-### Sentez
+## Sentez
 
 Şu taşbasması
 İşkence Usülleri kitabı
@@ -295,14 +295,14 @@ Hayatımıza.
 
 Ece AYHAN
 
-### Şiir ve Kadavra
+## Şiir ve Kadavra
 
 1. Perşömen kağıtlar okunduğunda, kıvrıktırlar; şiirin ve
 2. kadavranın içi açılmamıştır, insan insanın hiç.
 
 Ece AYHAN
 
-### Usta İşi
+## Usta İşi
 
 1.Fakir kuş hiç unutmaz, kitapların yakıldığı yıldı
 
@@ -328,7 +328,7 @@ Tarihte nice ve nite şehzade bilmeden atını taşımıştır
 
 Ece AYHAN
 
-### Yalınayak Şiirdir
+## Yalınayak Şiirdir
 
 1.Biz tüzüklerle çarpışarak büyüdük kardeşim
 
@@ -352,7 +352,7 @@ Hangi çocukların neye imrenmesi yalınayak şiirdir?
 
 Ece AYHAN
 
-### Yort savul
+## Yort savul
 
 Arif Çağlar için
 
@@ -382,7 +382,7 @@ Arif Çağlar için
 
 Ece AYHAN
 
-### Zambaklı Padişah
+## Zambaklı Padişah
 
 Ne zaman elleri zambaklı padişah olursam
 Sana uzun heceli bir kent vereceğim

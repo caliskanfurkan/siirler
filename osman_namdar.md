@@ -1,6 +1,6 @@
-## Osman NAMDAR
+# Osman NAMDAR
 
-### Aşkıveda
+## Aşkıveda
 
 Ellerin bir elmayı ikiye bölüyor, elmas
 bir bıçak yerine. bölüşüyoruz kuşları
@@ -22,7 +22,7 @@ birden akşam oluyor sularda.
 
 Osman NAMDAR
 
-### Guguk Kuşu
+## Guguk Kuşu
 
 Düze çıkamazdı ya annem. kör kıtlık
 çağlarından, genç(liğini) kızlığını bırakıp
@@ -53,7 +53,7 @@ yalnızlığıyla çocukluğundan.
 
 Osman NAMDAR
 
-### Güzel Ülke
+## Güzel Ülke
 
 Dağlarına hazırlanan bir gerilladır kalbim
 azar azar büyüyen bir isyan ateşindeysem
@@ -84,7 +84,7 @@ kalbimde.
 
 Osman NAMDAR
 
-### Han
+## Han
 
 senin için!
 dalların arasından geçen kuşlar akıtır ırmakları;
@@ -106,7 +106,7 @@ ben uğrarım zaman zaman.
 
 Osman NAMDAR
 
-### Islak Mukavva
+## Islak Mukavva
 
 Gözlerimde elmas olarak birikir çapaklar. kuşları
 unutarak saçaklarda düşürülen cenin artıkları köprü
@@ -130,7 +130,7 @@ kalkıyorum yaşamın sürümünden, ıslak bir mukavva üstünde.
 
 Osman NAMDAR
 
-### İyi Zamanlar İçin
+## İyi Zamanlar İçin
 
 Sen uçurumumsun, eskizlerden devşirdiğim
 resmi bir başlangıcım olmadığından tazeyim böyle,
@@ -145,9 +145,10 @@ en güzel kromozomlarımla döllendi kalbim.
 
 Osman NAMDAR
 
-### Kuşlar Dersi
+## Kuşlar Dersi
 
-kovul ki kendindenkendine yeni bir yurt bul!
+kovul ki kendinden
+kendine yeni bir yurt bul!
 
 üstnot: Ölü kuşlar uçmaz oğul
 kovul ki kendinden
@@ -166,20 +167,24 @@ sınıfta kaldık devlet ve ben!
 
 ten bakıra dönmüşken gün bakıra sen
 yanıtsız bir soru buldum kendimde:
+
 Gördün mü, kuşlar mı uçtu ne?
 
 Osman NAMDAR
 
-### Ölmezlik Kuşu
+## Ölmezlik Kuşu
 
-Düşünü görür düşünür: resne'den çıkar niyazi,
+Düşünü görür düşünür: 
+resne'den çıkar niyazi,
 balkana bakar güne tutup elini, ovaya bakar; dört bir yana:
 eğriceli tay gibi huzursuzdur memleket
 belki hurriyyet bir geyiğin alaca göğsündedir,
 dağlarda ya da niyazi'nin geyiğe sözündedir:
 
+
 ama artık ne niyazi ottur, ne bu geyik ettir,
 niyazi ve geyik  saf sevgiden ibarettir.
+
 
 kuşlardan mütevellit bir kuştur Zümrüdüankâ;
 bir şair ağlamaklı olur atını sürer azgın sulara
@@ -188,17 +193,19 @@ silah sesleri çın çın öter sehere karşı ovalarda
 yankılanır çöl olur sonra, insan hurriyete susadıkça
 geyiğim vurulur döşünden, sekisinden, sakarından:
 
+
 Tren istasyonlarında bekler ölüm kahpece
 Niyazi dayanır elbette sırtındaki hançere
 Ölünür mü sandın ten tabuta girince
 Geyiğim meler dağlarda niyazi diye diye.
+
 
 niyaziler ölmez, geyikler ölmedikçe!
 geyikler ölmez, niyaziler ölmedikçe!
 
 Osman NAMDAR
 
-### Ses
+## Ses
 
 geçip gideceğim; üveyiklerle, kekliklerle,
 bir kertenkeleyle çalılar arasından.

@@ -1,6 +1,6 @@
-## Soysal EKİNCİ
+# Soysal EKİNCİ
 
-### Anama Şiir 
+## Anama Şiir 
 
 değil bir değil beş on
                                              anaların olsa yıl 365 gün yetmez
@@ -44,7 +44,7 @@ kayalar su saklayacak kuşlar için
 
 Soysal EKİNCİ
 
-### Firar Türküsü 
+## Firar Türküsü 
 
 oturmuşum bir köşeye
 bir kuş tutsak ellerimde
@@ -121,7 +121,7 @@ haydi yoldaşlar camlara
 
 Soysal EKİNCİ
 
-### Hasretini Çekerken 
+## Hasretini Çekerken 
 
 kavuşmanın yerindeyiz tam yerinde sevgilim
 ele bakıp bu havayı ellerinle iteleme
@@ -178,7 +178,7 @@ Kasım 87
 
 Soysal EKİNCİ
 
-### İlk Kıssa 
+## İlk Kıssa 
 
 Kırkına kadar ne aşk ne ölüm umrundadır insanın
 Her şey hayvani bir intikam duygusuyla harcanır
@@ -191,7 +191,10 @@ Ki soysuzlar aklanırken kamuda soylular karalanır
 
 Soysal EKİNCİ
 
-### Yoksa Ben Ölmek Yerine 
+## Yoksa Ben Ölmek Yerine 
+
+YOKSA BEN ÖLMEK YERİNE "DURUM ŞİİRLERİ"Mİ YAZSAM
+
 
 1
 İhanetler silsilesinden geçtim

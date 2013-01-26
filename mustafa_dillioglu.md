@@ -1,6 +1,6 @@
-## Mustafa DİLLİOĞLU
+# Mustafa DİLLİOĞLU
 
-### bir anda
+## bir anda
 
 bir anda
 
@@ -12,7 +12,7 @@ misketlerim ve ben
 
 Mustafa DİLLİOĞLU
 
-### bir sabah vakti
+## bir sabah vakti
 
 uzun bir yolculuğa çıkalım seninle
 bir sabah vakti
@@ -21,7 +21,7 @@ bütün hüzünlerin üstünü örterek
 
 Mustafa DİLLİOĞLU
 
-### gözlerim
+## gözlerim
 
 gözlerim
 
@@ -40,7 +40,7 @@ gözlerim alınır
 
 Mustafa DİLLİOĞLU
 
-###  ismin 
+##  ismin 
 beş hali
 
 ismin beş hali
@@ -52,7 +52,7 @@ biri sensiz
 
 Mustafa DİLLİOĞLU
 
-### sevgilisi 
+## sevgilisi 
 uzaklara giden adam
 
 sevgilisi uzaklara giden adam

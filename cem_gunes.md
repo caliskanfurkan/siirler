@@ -1,6 +1,6 @@
-## Cem GÜNEŞ
+# Cem GÜNEŞ
 
-### Bir Zamanlar
+## Bir Zamanlar
 Okulumuz
 
 Tozlu, ıslak
@@ -45,7 +45,7 @@ sandığımızdan çok şeyler vermiş bizlere
 
 Cem GÜNEŞ
 
-### Krallığa Çağrı
+## Krallığa Çağrı
 
 KRALLIĞA ÇAĞRI
 Dört bir yanına haber salına krallığımızın
@@ -86,14 +86,17 @@ SEN KAL
  
 Svalbard: Norveç'in kuzeyinde ve krallığa bağlı
 adalar grubu.
+
 Finmark, Agder, Oppland, Trondelag: Norveç'in değişik bölgeleri.
+
 Herjedalen: Kalmar birliğinin dağılmasından önce Norveç'e
 ait olan, ancak 
+
 şimdi İsveç sınırları içinde bulunan bölge.
 
 Cem GÜNEŞ
 
-### Olanlar Oldu
+## Olanlar Oldu
 
 Adını yazmıştım camın buğusuna
 
@@ -154,7 +157,7 @@ rastlanan, çınara benzer bir ağaç.
 
 Cem GÜNEŞ
 
-### Şatonun İçinde
+## Şatonun İçinde
 
 Bir coşkudur sürüp gidiyor
 
@@ -168,36 +171,51 @@ donmuş bunlar!.. donmuş!.. donmuş!..
 
 Cem GÜNEŞ
 
-### SIR... PERDE... AYNA...
+## SIR... PERDE... AYNA...
 
 Çatlak bir ayna
+
 sekizyüzaltmış sayfalık günlük
+
 sayısız tarihler
+
 altmış sayfa özlem
+
 bir sayfa iz birakmadan kayıp...
+
 görecegiz!
 
 bir sigara kaldı elde
+
 bir de mumu üflemek
+
 kurtuluş yanlızlığa kral olmak mı?
 
 gözün perdesi var anladık!
+
 kötülük onu istiyor
+
 kararsızlar onunla bakıyor
+
 filozoflar çekiştiriyor
 
 aynada gördün kendini... anladık!
+
 her gün başka şeye dikkat ediyorsun... yüzünde.?
+
 aynalar farklılık gösteriyor
+
 onlara yer bulmak zor
+
 aynada dunyayı göreceğiz
 
 yanıtı bulmak içinse
+
 geçmişe döneceğiz.
 
 Cem GÜNEŞ
 
-### Şiirler
+## Şiirler
 
 ŞİİRLER
 Şiirler, yaşanacağı yaşanmışın, yaşanabilinirmişin
@@ -216,7 +234,7 @@ bir "şeyin" baruta kibrit vurması ile dökülür kağıtlara...
 
 Cem GÜNEŞ
 
-### Yarım Kalan
+## Yarım Kalan
 
 Sonbahar-96
 

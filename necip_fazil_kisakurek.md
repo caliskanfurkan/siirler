@@ -1,6 +1,6 @@
-## Necip Fazıl KISAKÜREK
+# Necip Fazıl KISAKÜREK
 
-### Akşam
+## Akşam
 
 Güneş çekildi demin,
 Doğdu bir renk akşamı.
@@ -14,21 +14,21 @@ Sandım bir cenk akşamı...
 
 Necip Fazıl KISAKÜREK
 
-### Aşk
+## Aşk
 
 Rabbim, Rabbim, bu işin, bildim neymiş Türkçesi;
 Senin aşkın ateştir, ateşin gül bahçesi...
 
 Necip Fazıl KISAKÜREK
 
-### Aşk ve Korku
+## Aşk ve Korku
 
 Aşk korkuya peçedir, korku da aşka perde,
 Allah'tan nasıl korkmaz, insan O'nu sever de...
 
 Necip Fazıl KISAKÜREK
 
-### Aydınlık
+## Aydınlık
 
 Uyan yârim, uyan, söndü yıldızlar,
 Gün, karşı tepeden doğmak üzredir.
@@ -47,7 +47,7 @@ Bu aydınlık beni boğmak üzredir.
 
 Necip Fazıl KISAKÜREK
 
-### Beklenen
+## Beklenen
 
 Ne hasta bekler sabahı,
 Ne taze ölüyü mezar.
@@ -61,7 +61,7 @@ Gelme, artık neye yarar?
 
 Necip Fazıl KISAKÜREK
 
-### Bekleyen
+## Bekleyen
 
 Sen, kaçan ürkek ceylânsın dağda,
 Ben, peşine düşmüş bir canavarım!
@@ -90,14 +90,14 @@ Toprağında bir taş olur, beklerim...
 
 Necip Fazıl KISAKÜREK
 
-### Bu Dünya
+## Bu Dünya
 
 Bu dünya bir tamam'dan eksiklikler âlemi;
 Kopuşlar, ayrılıklar, kesiklikler âlemi...
 
 Necip Fazıl KISAKÜREK
 
-### Bu Yağmur
+## Bu Yağmur
 
 Bu yağmur, bu yağmur, bu kıldan ince,
 Nefesten yumuşak, yağan bu yağmur.
@@ -116,7 +116,7 @@ Sulardan, seslerden ve gecelerden...
 
 Necip Fazıl KISAKÜREK
 
-### Canım İstanbul
+## Canım İstanbul
 
 Ruhumu eritip de kalıpta dondurmuşlar;
 Onu İstanbul diye toprağa kondurmuşlar.
@@ -176,7 +176,7 @@ Güleni şöyle dursun, ağlayanı bahtiyar...
 
 Necip Fazıl KISAKÜREK
 
-### Çile
+## Çile
 
 Gaiblerden bir ses geldi: Bu adam,
 Gezdirsin boşluğu ense kökünde!
@@ -335,7 +335,7 @@ Biricik meselem, Sonsuz'a varmak...
 
 Necip Fazıl KISAKÜREK
 
-### Dağlarda Şarkı Söyle
+## Dağlarda Şarkı Söyle
 
 Al eline bir değnek,
 Tırman dağlara, söyle!
@@ -349,7 +349,7 @@ Dağlarda şarkı söyle!
 
 Necip Fazıl KISAKÜREK
 
-### Geçilmez
+## Geçilmez
 
 Bu kapıdan kol ve kanat kırılmadan geçilmez;           
 Eşten, dosttan, sevgiliden ayrılmadan geçilmez.
@@ -368,21 +368,21 @@ Geçitlerin, kilitlerin yalnız O'nda şifresi;
 
 Necip Fazıl KISAKÜREK
 
-### Güle Güle
+## Güle Güle
 
 Bu gömlek dikiş tutmaz hep söküle söküle;
 Bütüne gel deseler ve gitsek güle güle...
 
 Necip Fazıl KISAKÜREK
 
-###  Hâtıra
+##  Hâtıra
 
 Renk renk hâtıralarım oda oda silindi;
 Anne kokan bir Türkçem vardı, o da silindi.
 
 Necip Fazıl KISAKÜREK
 
-### Hayal
+## Hayal
 
 Bu akşam bir ateş duyup etimde
 Kadın, kadın diye içimi oydum.
@@ -401,7 +401,7 @@ Ey kadın, bu akşam sana da doydum.
 
 Necip Fazıl KISAKÜREK
 
-### Hayat Mayat
+## Hayat Mayat
 
 Hayat, mayat diyorlar
 Benim gözüm mayat'ta
@@ -415,7 +415,7 @@ Manata doðru gitsem
 
 Necip Fazıl KISAKÜREK
 
-### Heykel
+## Heykel
   
 
 Yıllar bir gözyaşı olup da kaymış
@@ -434,14 +434,14 @@ Bir ıssız bahçenin uzaklarında.
 
 Necip Fazıl KISAKÜREK
 
-### Kadın
+## Kadın
 
 Bir ufuk ki, ne Mecnun varabildi, ne Ferhad;
 Bir ufuk ki, ilâhî sırrı bekleyen serhad...
 
 Necip Fazıl KISAKÜREK
 
-### Kaldırımlar
+## Kaldırımlar
   
 
 I
@@ -529,7 +529,7 @@ Bilirim, kalkmayacak, bir yâr gibi başımdan...
 
 Necip Fazıl KISAKÜREK
 
-### Mangal
+## Mangal
 
 Bana tül gibi ince
 Bir hülya verir mangal.
@@ -543,21 +543,21 @@ Sabaha erir mangal...
 
 Necip Fazıl KISAKÜREK
 
-### Meçhul
+## Meçhul
 
 Sordular: Adresi ne?.. Çeşmeye karşı, dedim;
 "Çanakkale içinde aynalı çarşı" dedim.
 
 Necip Fazıl KISAKÜREK
 
-### Mukayese
+## Mukayese
 
 Çıbanımız çok derin, işletemez yakılar;
 Nerde bizim şarkımız, nerde öbür şarkılar?
 
 Necip Fazıl KISAKÜREK
 
-###  Örümcek Ağı
+##  Örümcek Ağı
 
 Duvara, bir titiz örümcek gibi,
 İnce dertlerimle işledim bir ağ.
@@ -571,7 +571,7 @@ Eserim duvarın bir köşesinde;
 
 Necip Fazıl KISAKÜREK
 
-### Otel Odaları
+## Otel Odaları
 
 Bir merhamettir yanan, daracık odaların,
 İsli lâmbalarında, isli lâmbalarında.
@@ -596,7 +596,7 @@ Otel odalarında, otel odalarında!...
 
 Necip Fazıl KISAKÜREK
 
-### Sakarya Türküsü
+## Sakarya Türküsü
 
 İnsan bu, su misali, kıvrım kıvrım akar ya;
 Bir yanda akan benim, öbür yanda Sakarya.
@@ -656,7 +656,7 @@ Yüzüstü çok süründün, ayağa kalk, Sakarya!..
 
 Necip Fazıl KISAKÜREK
 
-### Sayıklama
+## Sayıklama
 
 Kedim, ayak ucuma büzülmüş, uyumakta;
 İplik iplik sarıyor sükûtu bir yumakta,
@@ -685,7 +685,7 @@ Bahsetse yaşamanın tadından başucumda,
 
 Necip Fazıl KISAKÜREK
 
-### Serseri
+## Serseri
 
 Yeryüzünde yalnız benim serseri,
 Yeryüzünde yalnız ben derbederim.
@@ -704,7 +704,7 @@ Gölgemin peşinden yürür giderim...
 
 Necip Fazıl KISAKÜREK
 
-###  Tâ Maverâdan
+##  Tâ Maverâdan
 
 Rüzgâr öyle esti, öyle esti ki,
 Her şey uçup gitti, kaldı Yaradan.
@@ -718,7 +718,7 @@ Seni çağıran var, tâ maverâdan!
 
 Necip Fazıl KISAKÜREK
 
-### Yunus Emre
+## Yunus Emre
 
 Kaç mevsim bekleyim daha kapında,
 Ayağımda zincir, boynumda kement?
@@ -737,7 +737,7 @@ Medet ey dervişim, Yunus'um medet!
 
 Necip Fazıl KISAKÜREK
 
-### Anneciğim
+## Anneciğim
 
 Ak saçlı başını alıp eline,
 Kara hülyalara dal anneciğim!
@@ -756,7 +756,7 @@ Beni de beraber al anneciğim!...
 
 Necip Fazıl KISAKÜREK
 
-### Ayrılık Vakti
+## Ayrılık Vakti
 
 Akşamı getiren sesleri dinle,
 Dinle de gönlümü alıver gitsin.
@@ -775,7 +775,7 @@ Kuru yaprak gibi eline düştü,
 
 Necip Fazıl KISAKÜREK
 
-###  O Gelsin
+##  O Gelsin
 
 Akan suları çevir,
 Sıra dağları devir!
@@ -787,7 +787,7 @@ Güneşi batmaz devir...
 
 Necip Fazıl KISAKÜREK
 
-### Perdeler
+## Perdeler
 
 Perdeler, hep perdeler...
 Her yerde, her yerdeler.
@@ -827,7 +827,7 @@ Perdeler, hep perdeler...
 
 Necip Fazıl KISAKÜREK
 
-### Tabut
+## Tabut
 
 Tahtadan yapılmış bir uzun kutu;
 Baş tarafı geniş, ayak ucu dar.
@@ -851,7 +851,7 @@ Bu ağır hediye kime gidecek,
 
 Necip Fazıl KISAKÜREK
 
-### Veda
+## Veda
 
 Bağlar :
 

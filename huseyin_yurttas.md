@@ -1,6 +1,6 @@
-## Hüseyin YURTTAŞ
+# Hüseyin YURTTAŞ
 
-### Albümü Kapatırken
+## Albümü Kapatırken
 
 bir aşk bir aşkı silerse
 bir ölüm kapısını çaldırır öteki ölümün
@@ -16,7 +16,7 @@ resminiz tanık olamaz yaşadığınıza!
 
 Hüseyin YURTTAŞ
 
-###  Aşk Adımları
+##  Aşk Adımları
 
 bilsem adını
 yollara düşeceğim
@@ -150,7 +150,7 @@ senin kadar gerçek!
 
 Hüseyin YURTTAŞ
 
-###  Aşk Ehliyiz
+##  Aşk Ehliyiz
 
 aşk ehliyiz
 	ölsek de kaynaşır kanımız
@@ -174,7 +174,7 @@ dilimizde tespih bu
 
 Hüseyin YURTTAŞ
 
-### Belalı Aşklar Gazeli
+## Belalı Aşklar Gazeli
 
 o masum çocuk bakışlarıyla başlar
 çıkmazlara saplanacak en koyu aşklar
@@ -208,7 +208,7 @@ unutulmaz o yangın, güze erse de bahar
 
 Hüseyin YURTTAŞ
 
-### Çağrı
+## Çağrı
 
 küçük, tombul bir çocuğun sevinci
 nasıl sönerse
@@ -231,7 +231,7 @@ sana birikeyim.
 
 Hüseyin YURTTAŞ
 
-### Edirne Zamanları
+## Edirne Zamanları
 
 -edirne'nin parasız yatılı çocuklarına-
 
@@ -309,7 +309,7 @@ içlerinde köpüren çağlayanlardan
 
 Hüseyin YURTTAŞ
 
-### Gecede Kanat Sesleri
+## Gecede Kanat Sesleri
 
 1.
 bir kanat sesidir
@@ -411,7 +411,7 @@ yıldızlar bahçesinde
 
 Hüseyin YURTTAŞ
 
-### Geride Kalan
+## Geride Kalan
 
 o tren gitti
 ben kaldım
@@ -456,7 +456,7 @@ indi önüme
 
 Hüseyin YURTTAŞ
 
-### Sevmek Diye Bismillâh
+## Sevmek Diye Bismillâh
 
 işte kaldırımlarda gün
 nakşıyla
@@ -503,7 +503,7 @@ dağılıyor dört yana
 
 Hüseyin YURTTAŞ
 
-### Sokaklara Dökülmüşse Aşk
+## Sokaklara Dökülmüşse Aşk
 
 sokaklara dökülmüşse aşk
 sorar her yanı isler dumanlar gibi
@@ -526,7 +526,7 @@ sürükler aşkın seli
 
 Hüseyin YURTTAŞ
 
-### Yakılmışlar Ağıdı
+## Yakılmışlar Ağıdı
 
 1.
 Şair

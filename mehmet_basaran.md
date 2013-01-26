@@ -1,6 +1,6 @@
-## Mehmet BAŞARAN
+# Mehmet BAŞARAN
 
-### Ahlat Ağacı
+## Ahlat Ağacı
 
 Eşin dostun yaşıyor bak bahçelerde
 Sen çıplak bir doruğun üzerindesin
@@ -34,7 +34,7 @@ Servi-simin misali
 
 Mehmet BAŞARAN
 
-### Allı Turnası Yaşamın
+## Allı Turnası Yaşamın
 
 Yokluğunun upuzun kışından sonra
 Birden o ayçiçeği çıktı karşımıza
@@ -56,7 +56,7 @@ Ne değin uzaklarda da olsan
 
 Mehmet BAŞARAN
 
-### Bir Afşar Bozlağıyım
+## Bir Afşar Bozlağıyım
   Uzun Yayla'dan
 
 Birşeyler koparılıyor göğsümden
@@ -97,7 +97,7 @@ Ben de yeşereceğim sizinle
 
 Mehmet BAŞARAN
 
-### Can Yoldaşı
+## Can Yoldaşı
 
 Sen hürriyetin türkülerin kızı
 Sen sıcaklığı kanımın
@@ -121,7 +121,7 @@ Altın tınazlar gibi savrulur içim
 
 Mehmet BAŞARAN
 
-### 'Deniz' Dedik Öpüp
+## 'Deniz' Dedik Öpüp
   Başımıza Koduk Tuzu Ekmeği
 
 İlk günlerindeki gibi Troya'nın
@@ -161,7 +161,7 @@ En mavi sözcüklerle seslendik sana
 
 Mehmet BAŞARAN
 
-### Görebildiğin Kadar Mavi
+## Görebildiğin Kadar Mavi
 
 Sürebildiğin kadar toprak
 Sarabildiğin kadar kadın
@@ -173,7 +173,7 @@ D ü n y a
 
 Mehmet BAŞARAN
 
-### Karşılama
+## Karşılama
 
 İlk yazın ucu göründü
 Harlayıverdi çiçek çimen
@@ -208,7 +208,7 @@ Eh beee
 
 Mehmet BAŞARAN
 
-### Koca Bir Troya Dünya
+## Koca Bir Troya Dünya
 
 Kaç kez kuşatıldı Troya
 Soldu ılgınlar acılaştı zeytin
@@ -245,7 +245,7 @@ Her yanda kanlı araba
 
 Mehmet BAŞARAN
 
-### Ömrümce
+## Ömrümce
 
 Ben ömrümce köylere gittim
 Taşlar arasından ıssız yollardan
@@ -262,7 +262,7 @@ Dağbaşlarını ısıttı sevgim
 
 Mehmet BAŞARAN
 
-### Öykü
+## Öykü
 
 Yıl kırk yediydi sonbahardı
 Üstümde başka gök başka bulut
@@ -284,10 +284,11 @@ Neydim n'oldum n'olacağım
 
 Mehmet BAŞARAN
 
-### Sorgucular
+## Sorgucular
 
 "Onların ilkesi emektir. Önlerinde ise emeğe göre düzenlenmemiş, 
 		  çoğu kez emeği sömürerek rahata kavuşmuş, Ortaçağ artığı bir düzen yatıp duruyor..."
+
                                                                                                                                                                                                                                     Ceyhun Atuf Kansu
 
 Bir yanım Tanrılar otağı Kazdağı
@@ -413,7 +414,7 @@ Sorun beni Koçu bey'den
 
 Mehmet BAŞARAN
 
-### Tarla
+## Tarla
 
 Aklımda genişleyen hep o tarla
 Güneşle tüter ince ince
@@ -435,7 +436,7 @@ Uyanışı dinle dünya kırında
 
 Mehmet BAŞARAN
 
-### Yorulmaz İşçileriyiz Aşkın
+## Yorulmaz İşçileriyiz Aşkın
 
 Bütün gün kırlara bakmışım
 Başaklarla kımıldanan

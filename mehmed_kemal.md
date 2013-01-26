@@ -1,6 +1,6 @@
-## Mehmed KEMAL
+# Mehmed KEMAL
 
-### Eğilip Suyunu 
+## Eğilip Suyunu 
   İçtiğimiz Çeşme
 
 Hani büyük korkular başlayınca insanda,
@@ -34,14 +34,14 @@ Eğilip suyunu içtiğimiz çeşme...
 
 Mehmed KEMAL
 
-### Fuzuli Gibi
+## Fuzuli Gibi
 
 Ne varsa aşkta var aşkta
 Gerisi fasa fiso
 
 Mehmed KEMAL
 
-### Sen
+## Sen
 
 Daldın sen,
 Serin su başlarında eyleşen,

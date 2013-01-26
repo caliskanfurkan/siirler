@@ -1,6 +1,6 @@
-## Yavuz Bülent BÂKİLER
+# Yavuz Bülent BÂKİLER
 
-### Anadolu Gerçeği
+## Anadolu Gerçeği
 
 Yalın ayaklarınla koştun mu tarla tarla
 Duydun mu çıplak toprağın, çıplak insanın yasını
@@ -38,7 +38,7 @@ Savuş git içimizden...
 
 Yavuz Bülent BÂKİLER
 
-### Benim
+## Benim
 
 Ve büyür gözlerimde güvercin güzelliğin
 Sonra bıkıp usanmadan sabahlara dek
@@ -72,7 +72,7 @@ Savuran benim.
 
 Yavuz Bülent BÂKİLER
 
-### İsimsiz Şiir
+## İsimsiz Şiir
 
 Üstüme, lapa lapa kar yağıyor yeniden
 Yeniden yüreğim beyaz bir lâle
@@ -106,7 +106,7 @@ Seslenip dursam mı şu sahillere:
 
 Yavuz Bülent BÂKİLER
 
-### Orda Bir Çocuk... Burda Ben
+## Orda Bir Çocuk... Burda Ben
 
 Bir ana gülümserken yorgun ve güzel 
 Yüreği müjdelerle tüy gibi hafiflerken, 
@@ -140,7 +140,7 @@ Burda ben...
 
 Yavuz Bülent BÂKİLER
 
-### Turan
+## Turan
 
 -Sadık Kemal Tural kardeşimize-
 
@@ -217,7 +217,7 @@ Kim demiş 75 yaşıma bastığımı.
 
 Yavuz Bülent BÂKİLER
 
-### Türkiyem, Anayurdum,
+## Türkiyem, Anayurdum,
   Sebebim, Çarem! 
 
 Ben, kağnılarla yaylılarla büyüdüm geldim 

@@ -1,6 +1,6 @@
-## Rüştü ONUR
+# Rüştü ONUR
 
-###  İtiraf
+##  İtiraf
 
 I
 Size açabilmeliydim içimi
@@ -28,7 +28,7 @@ Topaç çeviriyorum sokakta.
 
 Rüştü ONUR
 
-### Memnuniyet
+## Memnuniyet
 
 Benden zarar gelmez
 Kovanındaki arıya

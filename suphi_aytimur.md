@@ -1,6 +1,6 @@
-## Suphi AYTİMUR
+# Suphi AYTİMUR
 
-###          
+##          
 Anlamadın
 
 Sana sabahı getirdik
@@ -37,7 +37,7 @@ belki senin de...
 
 Suphi AYTİMUR
 
-###           Âşık
+##           Âşık
 mısın?
 
 Sabahlarım geç başlardı eskiden
@@ -69,7 +69,7 @@ Nazlı başın omzumda gel gidelim.
 
 Suphi AYTİMUR
 
-###   
+##   
 
 Sabahlarım geç başlardı eskiden
 Yorgun sıkkın ve kendinden geçmiş
@@ -100,7 +100,7 @@ Nazlı başın omzumda gel gidelim.
 
 Suphi AYTİMUR
 
-### Nerdesin
+## Nerdesin
 
 Yatak biraz da ölüme yaklaşmaktır
 ölümü biraz daha-
@@ -157,7 +157,7 @@ nerdesin
 
 Suphi AYTİMUR
 
-###           Sıtmalı
+##           Sıtmalı
 
 Gülsene Fadime
 gül be kadınım!

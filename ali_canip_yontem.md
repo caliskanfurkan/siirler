@@ -1,6 +1,6 @@
-## Ali Canip YÖNTEM
+# Ali Canip YÖNTEM
 
-### Sokak Feneri
+## Sokak Feneri
 
 Ölü bir camdan ağlayan korku
 İniyor serseri ve boş geceye;

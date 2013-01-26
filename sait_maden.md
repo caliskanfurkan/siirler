@@ -1,13 +1,13 @@
-## Sait MADEN
+# Sait MADEN
 
-### Ahmet Hamdi Tanpınar
+## Ahmet Hamdi Tanpınar
 
 Sen misin, ey şiir, o görünmez el
 gülün saatini kuran, en güzel?
 
 Sait MADEN
 
-### Ayak Sesleri
+## Ayak Sesleri
 
 Yalnızlığı bir doymaz köpek benzeri
 her gün yüreğiyle besleyip hititten beri,
@@ -39,7 +39,7 @@ ki ne geldikleri var ne gelecekleri.
 
 Sait MADEN
 
-### Biten Yaza Şarkı
+## Biten Yaza Şarkı
 
 Eğ yüzün şu gölgeye. Konuşma.
 Geniş bir çarşaf gibi yay sessizliği
@@ -68,7 +68,7 @@ dalgın gecesine bir uçurumun.
 
 Sait MADEN
 
-### Boşlukta
+## Boşlukta
 
 Köklerini yitirmiş yüzler,
 bir boşlukta savrulan yüzler.
@@ -90,14 +90,14 @@ aramızda savrulan yüzler...
 
 Sait MADEN
 
-### Nâzım Hikmet
+## Nâzım Hikmet
 
 Yüreğin bir yeryüzü haritası, uçsuz bucaksız,
 insan yüzleriyle çizilmiş yalnız.
 
 Sait MADEN
 
-### Ne Kalabilir Senden
+## Ne Kalabilir Senden
 
 Ne kalabilir senden, yüzünün çizgileri mi
 kurumuş bir yaprağın okunmaz çizgilerinde;
@@ -126,7 +126,7 @@ toz benzeri bütün geçmişler, bütün gelecekler?..
 
 Sait MADEN
 
-### Ölü Çocuklara Ninni
+## Ölü Çocuklara Ninni
 
 Ah, bulur mu yeni bir kucak
 sizden yerde kalan oyuncak,
@@ -244,7 +244,7 @@ yüzünüze konan düşleri.
 
 Sait MADEN
 
-### Onlar
+## Onlar
 
 Onlar onlar ışıyıp gecemizde ay kadınları, 
                      ay kadınları, 
@@ -272,14 +272,14 @@ Onlar onlar ışıyıp gecemizde ay kadınları,
 
 Sait MADEN
 
-### Orhan Veli Kanık
+## Orhan Veli Kanık
 
 Bu çay, bu simit, bu nisan günü sokakta!...
 Yaşamın özünü buldum sokakta.
 
 Sait MADEN
 
-### Şiirin Dip Sularında
+## Şiirin Dip Sularında
 
 1
 yeni bir dize'yi pencereden uzatıp, güneşe doğru
@@ -423,7 +423,7 @@ aşınca kurtuluruz.
 
 Sait MADEN
 
-### Söz! Dışarı Çıkma Saati
+## Söz! Dışarı Çıkma Saati
 
 Söz! dışarı çıkma saati. Giyin üstünü.
 
@@ -483,7 +483,7 @@ Söz! dışarı çıkma saati. Giyin üstünü.
 
 Sait MADEN
 
-### Uçurtma
+## Uçurtma
 
 Göğün ipini tutmuş koşuyor çocuk 
 savura savura denizi, al yeşil mor, kıyı boyunca. 
@@ -499,14 +499,14 @@ başı dizimizde uyuyor deniz, yorgun, güleryüzlü, güvenli.
 
 Sait MADEN
 
-### Yahya Kemal Beyatlı
+## Yahya Kemal Beyatlı
 
 Gelsen deniz coşar, kapanır gök ve bir şiir
 Alnımda yelken üstüne yelken değiştirir.
 
 Sait MADEN
 
-### Yük
+## Yük
 
 Arasında bir düşün 
 ne ileri ne geri, 

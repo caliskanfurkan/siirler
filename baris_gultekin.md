@@ -1,6 +1,6 @@
-## Barış GÜLTEKİN
+# Barış GÜLTEKİN
 
-### An
+## An
 
 ayý çalan ellerim
 yeltenirken
@@ -15,7 +15,7 @@ o AN
 
 Barış GÜLTEKİN
 
-### Bakkal
+## Bakkal
 
 geceleri
 harcadýðým bir banknota yazarým seni
@@ -27,7 +27,7 @@ ne(r)den bulup getirir geri.
 
 Barış GÜLTEKİN
 
-### Çatlak
+## Çatlak
 
 odam
 dört renk. 
@@ -81,7 +81,7 @@ nedenini.
 
 Barış GÜLTEKİN
 
-### Dönme Dolap
+## Dönme Dolap
 
 yuvalarında
 dönüp duran
@@ -110,7 +110,7 @@ ve denilebilecek tek şey
 
 Barış GÜLTEKİN
 
-### Geç Genç İstem Sitem
+## Geç Genç İstem Sitem
 
 *baba'ma ve baba'mın kuşağına
 
@@ -132,7 +132,7 @@ zam/lı an/dı istediğim sizden.
 
 Barış GÜLTEKİN
 
-### Gidici
+## Gidici
 
 *umutsuzum'a
 Zaten                                
@@ -149,7 +149,7 @@ KaçAk.
 
 Barış GÜLTEKİN
 
-### Kadın
+## Kadın
 
 Kadın,
  
@@ -178,7 +178,7 @@ kadınsadım.
 
 Barış GÜLTEKİN
 
-### Papatya Falı
+## Papatya Falı
 
 *saçları gece yüzü gündüz bir kadın'a
 
@@ -223,7 +223,7 @@ ağlarken kuş tüyü yastığına  sarılışından belli.
 
 Barış GÜLTEKİN
 
-### Umut
+## Umut
 
 giderken hep bekledim
 
@@ -235,7 +235,7 @@ gölgemin sürüklenen eteðine
 
 Barış GÜLTEKİN
 
-### Yaşamım
+## Yaşamım
 
 yaşamım
 eğreti bir ev taslağı

@@ -1,29 +1,37 @@
-## Yusuf ALTUNEL
+# Yusuf ALTUNEL
 
-### Hüzünleme Düşleri 
+## Hüzünleme Düşleri 
 
+YUSUF ALTUNEL
 Hüzünleme Düşleri, , Virtüel Yayınları, Mayıs 2000
  içmişim içmişim sırnaşmalar
     dolmuşum
+
     sevda badeleri çekmişim arlanmazlık testilerini kırıp
+
     dolunaylı geceleri şiir şarabıyla çekmişim
+
     coşku kayığım parçalanmış hasret kayalıklarında
+
     ıssız aşk adacığında mahsur kalmış gemim
+
     ayrılık zemherisi gecelerde üstüm açılmış
+
     hayırsız sevgililerden bana mahzunluğum kalmış
 Virtüel
     Yayınları'nca yayımlanan ikinci şiir kitabi ise şair Yusuf Altunel'e ait. Geleneksel
     şiir ile reel hayat arasındaki ince çizginin ayrımında olan şair Altunel de ilk
     kitabı olan "Hüzünlenme Düşleri"nde, kendi yaşam kozasından derlediği ve
     sözün imbiğinden süzerek yeniden kurguladığı kendine ait bir dilin oluşumunun
-    ipuçlarını veriyor. Şiirini çelişkiler üzerine kuran şairAltunel, yaşarken çoğu kez farkına varmadığımız
+    ipuçlarını veriyor. Şiirini çelişkiler üzerine kuran şair
+Altunel, yaşarken çoğu kez farkına varmadığımız
     ayrıntılar ile hemen hepimizin hayatını acıtan gerçekleri, birbirlerine yakın
     olmayan sözcüklerle betimliyor. Şair Altunel, daha bu ilk kitabında, kendisinden
     gelecekte daha yetkin şiirler beklentisi de oluşturuyor.
 
 Yusuf ALTUNEL
 
-### II : Sivas'tan Maraş'a
+## II : Sivas'tan Maraş'a
 
 ölmüşüm
 n'olacak
@@ -72,7 +80,7 @@ yansa da
 
 Yusuf ALTUNEL
 
-### 7.4
+## 7.4
 
 yedi
 
@@ -100,7 +108,7 @@ farkına bile varmadınız
 
 Yusuf ALTUNEL
 
-### Acının Dili
+## Acının Dili
 
 zulmü çığlık çığlık hangi dilde haykırmalı
 ezilmiş bedenlerden yükseliyor ahraz bir şehir
@@ -159,7 +167,7 @@ A !
 
 Yusuf ALTUNEL
 
-### Ankara'ya Masal
+## Ankara'ya Masal
 
 diyelim ki Ankara 
 koskocaman siyah bir sayfa 
@@ -177,7 +185,7 @@ düşler katili, acımasız güvenlik konseyi, aşağılık Ankara
 
 Yusuf ALTUNEL
 
-### Barış
+## Barış
 
 kanatlarını çırpa çırpa havalanır
 sözleri barışın
@@ -202,7 +210,7 @@ sevincin gümüşüne karışırız
 
 Yusuf ALTUNEL
 
-### Bebeğe Öğütler
+## Bebeğe Öğütler
 
 ekin deniz'e
 
@@ -291,7 +299,7 @@ ipek sevinçten bastığın yerleri
 
 Yusuf ALTUNEL
 
-### Canım Sıkıldı
+## Canım Sıkıldı
 
 suya bir taş attım
 umutlarım dalgalara dağıldı
@@ -318,7 +326,7 @@ içerde kaldın
 
 Yusuf ALTUNEL
 
-### Çocukluğumu Gömdüm 
+## Çocukluğumu Gömdüm 
 
 bir bardak hayat içişi
 peşine düştüğümüz uzaklıklar
@@ -363,7 +371,7 @@ gözlerimi açtığımda iş işten treni geçmişti
 
 Yusuf ALTUNEL
 
-### Çocukluk
+## Çocukluk
 
 belinde ebemkuşağı 
 yağmur kokardı dedem
@@ -442,7 +450,7 @@ ben kovalanmalardan azgın
 
 Yusuf ALTUNEL
 
-### Çölde Sussuz Kalmış
+## Çölde Sussuz Kalmış
 
 havada yeniye başlamanın kokusu
 toprakta telaşla çözülen su gibi yüzün
@@ -472,7 +480,7 @@ gel ey sevgili
 
 Yusuf ALTUNEL
 
-### Dostluk
+## Dostluk
 
 Reha'ya
 
@@ -513,7 +521,7 @@ ritminde usulca barış çektiğimiz kardeşlik koyunda belki.
 
 Yusuf ALTUNEL
 
-### Düş Üzümü
+## Düş Üzümü
 
 'ye
 
@@ -540,7 +548,7 @@ sen boynunda arsız bir ısırıkla uyanırsın
 
 Yusuf ALTUNEL
 
-### Düşkırılması
+## Düşkırılması
 
 metropolün izbe karanlıkları gizlidir 
 tutuşturamadığımız yangınlarda 
@@ -594,7 +602,7 @@ bırakıyor gövdelerimizi asfalt yollara
 
 Yusuf ALTUNEL
 
-### Elife Güzelleme
+## Elife Güzelleme
 
 elif dal gibi bir kızdır
 gökten aydınlığını hırsızlamış kayan yıldızdır
@@ -640,7 +648,7 @@ tüm bulmalar kaybetmektir
 
 Yusuf ALTUNEL
 
-### Gidersen Eğer
+## Gidersen Eğer
 
 emine'ye
 
@@ -697,7 +705,7 @@ bu aşk delisi, bu sevgiden kudurgan
 
 Yusuf ALTUNEL
 
-### Gözlerinde Duruluşum
+## Gözlerinde Duruluşum
 
 sevgim
 senin eksilmez parçan unutma
@@ -725,7 +733,7 @@ gözlerinde durulmuşum.
 
 Yusuf ALTUNEL
 
-### Gözlerinin Kuyusu
+## Gözlerinin Kuyusu
 
 gönlümü
 zülfüne bağlayıp
@@ -813,7 +821,7 @@ düşerim.
 
 Yusuf ALTUNEL
 
-### Gül-üşür
+## Gül-üşür
 
 ay
 öper
@@ -940,7 +948,7 @@ bahçemde
 
 Yusuf ALTUNEL
 
-### Hazırız
+## Hazırız
 
 kim parçaladı böyle zamanı
 bizi kim her parçasına bağladı
@@ -953,7 +961,7 @@ avuçlarımızda kanattığımız göğüsler emziriyor zamanı
 
 Yusuf ALTUNEL
 
-### İçimi Boyar
+## İçimi Boyar
 
 olsaydı tatlılığın kanadı
 teninin sümbülüne konardı
@@ -992,7 +1000,7 @@ içim dünyasını rengarenk boyar
 
 Yusuf ALTUNEL
 
-### İdam
+## İdam
 
 "... Burdur Kapalı Cezaevinde asılmak suretiyle 
 	idam edildiğinden cesedinin merasim yapılmaksızın 
@@ -1029,7 +1037,7 @@ ki topraklarımda salınsın gelinler, şiirin fidanı boy versin
 
 Yusuf ALTUNEL
 
-### İşkence Tutanağı
+## İşkence Tutanağı
 
 bilgisayarımın katil vantilatörü 
 öldürüyor sessizliğini gecenin
@@ -1106,7 +1114,7 @@ birazcık da bu taraflara çıkın gelin
 
 Yusuf ALTUNEL
 
-### Kanadımda Acı
+## Kanadımda Acı
 
 açlık
    kırık
@@ -1138,25 +1146,36 @@ açlık
 
 Yusuf ALTUNEL
 
-### Kelebek
+## Kelebek
 
 öpüşlerim      
-                          meneviş             yanaklarına            
-barışçık kuşları              
-gülücük                        tohumum                
-taşır               sedef kentime                  
-seni                     taşır                     avuçlarımda
-kaybolmuşluklar                   beslediğim  renksiz
-dokunuşlar                 bülbül
-ötüşlü            ölürüm               hasret
-çiçeğim            dizelerimde              bastırır asi tomurcuk   
-yakamoz tadında             göğüslerinin
-ayaklanışını        gömülüşüm             hoyrat ağzım          
+                          meneviş
+             yanaklarına            
+barışçık kuşları
+              
+gülücük                        tohumum
+                
+taşır               sedef kentime
+                  
+seni                     taşır
+                     avuçlarımda
+kaybolmuşluklar
+                   beslediğim  renksiz
+dokunuşlar
+                 bülbül
+ötüşlü            ölürüm
+               hasret
+çiçeğim            dizelerimde
+              bastırır asi tomurcuk   
+yakamoz tadında
+             göğüslerinin
+ayaklanışını        gömülüşüm
+             hoyrat ağzım          
 yönünü bilmez kelebek
 
 Yusuf ALTUNEL
 
-### Konmuş
+## Konmuş
 
 dağılırım üzüm üzüm ufuklara
 damla damla taşır bulutlar beni
@@ -1171,7 +1190,7 @@ gönül dalıma konmuş
 
 Yusuf ALTUNEL
 
-### Madenci
+## Madenci
 
 yığılın çığlar üstüme dedi
 gökyüzü döküldü yerlere
@@ -1182,7 +1201,7 @@ söylenmemiş bir çift söz
 
 Yusuf ALTUNEL
 
-### Metin Altıok'a
+## Metin Altıok'a
 
 odanın
 ortasında
@@ -1198,7 +1217,7 @@ mum
 
 Yusuf ALTUNEL
 
-### Ne Yapmalı
+## Ne Yapmalı
 
 ay zincirlenmiş bakışlarına
 güneş yüzün suyu hürmetine doğmuş
@@ -1235,7 +1254,7 @@ ateşli kavuşmalar nakışlarım
 
 Yusuf ALTUNEL
 
-### Okyanuslara Sürükle
+## Okyanuslara Sürükle
 
 pervaneler sevda taşıyor (t)uzaktaki yıldızlara
 doğumlar tanyerinde yanmalara gebe
@@ -1270,7 +1289,7 @@ gel çek beni, okyanuslarına sürükle
 
 Yusuf ALTUNEL
 
-### Ölüm
+## Ölüm
 
 düş kırığı sokağından geçtim
 ayağımı parçaladı camlar
@@ -1308,7 +1327,7 @@ geride ne kadar tasarlanmış yaşamalar kalsa da
 
 Yusuf ALTUNEL
 
-### Ortanın Doğusu
+## Ortanın Doğusu
 
 tutup cımbızla
 yerleştirmişler ortaya
@@ -1321,7 +1340,7 @@ aramız o kadar derin
 
 Yusuf ALTUNEL
 
-### Papatyalı Şiir
+## Papatyalı Şiir
 
 masada bir demet papatya
 bardağından naz gibi bira içer
@@ -1345,7 +1364,7 @@ bira öpülmüş papatya kokmaz ki...
 
 Yusuf ALTUNEL
 
-### Paramparça
+## Paramparça
 
 kurşunlanan her beden insanlık 
 çiçeğinden koparılan bir taç yaprağıdır
@@ -1377,7 +1396,7 @@ paramparça
 
 Yusuf ALTUNEL
 
-### Parçalanırım
+## Parçalanırım
 
 dolmuşum bu gece
 steplerde dörtnala efkar atım
@@ -1409,7 +1428,7 @@ her güzel çalar beni yere parçalanırım
 
 Yusuf ALTUNEL
 
-### Peşinden Koşmalar
+## Peşinden Koşmalar
 
 yağmur yüklü bulutlar
 gözlerinin karasını yakmış
@@ -1437,7 +1456,7 @@ usanmadan peşlerinden koşarsın
 
 Yusuf ALTUNEL
 
-### Senden Kalan
+## Senden Kalan
 
 güzelliğini karpuz kokusundan
 hırsızlamışlar senin
@@ -1468,7 +1487,7 @@ bir de mahzun ayrılıklar korosu
 
 Yusuf ALTUNEL
 
-### Şiir Gibi
+## Şiir Gibi
 
 her ay yüz kere 
 ölüm çizerim kağıda
@@ -1558,7 +1577,7 @@ evinizden şiir gibi içeri
 
 Yusuf ALTUNEL
 
-### Susturulmuş Şarkı
+## Susturulmuş Şarkı
 
 bulutlansa da gözlerini ayırma benden
 bırak resmini çizeyim
@@ -1583,7 +1602,7 @@ akarsu çağıltısında beslenmiş narin sevinçler dereyim
 
 Yusuf ALTUNEL
 
-### Taşıyor
+## Taşıyor
 
 öfke ile sevda
 aynı damarda akar mı gülüm
@@ -1593,7 +1612,7 @@ bana taşıyor
 
 Yusuf ALTUNEL
 
-### Tenimde Şimdi
+## Tenimde Şimdi
 
 yayılır sesinin cıvıltıları ardısıra barışçıl kuşlar
 kestaneler taşır gözlerinin ışıltısına haylaz bakışlar
@@ -1608,7 +1627,7 @@ mutluluğu beklemektedir çimen kokulu tenimde şimdi
 
 Yusuf ALTUNEL
 
-### Yakılmış
+## Yakılmış
 
 suya düşmüş söğüt 
 kara saçları
@@ -1658,7 +1677,7 @@ yakılmış köy yeridir şimdi yüreğim
 
 Yusuf ALTUNEL
 
-### Yanımda Kal
+## Yanımda Kal
 
 emine'ye
 
@@ -1704,7 +1723,7 @@ bu şehirde kal.
 
 Yusuf ALTUNEL
 
-### Yanımda Olsaydın
+## Yanımda Olsaydın
 
 öpsem kanatırım dudaklarını gecenin
 yıldızlar sarhoş olur, düşer sulara sevdalı
@@ -1744,13 +1763,40 @@ biriktirdiğim hasretlerden azılı yorgan
 
 Yusuf ALTUNEL
 
-### Yasak Ülke
+## Yasak Ülke
 
-ölürsebirdeli-k-anlıkanıdüşmedentoprağakoparyaprağımfilizimparamparça elitüfekligencecikdikmişlerO'rayabasaryaygarayıvefasızkeleşdelinirgövdemkanımy-akartoprakyırtılırgençliğimparamparça
+ölürse
+bir
+deli-k-anlı
+kanı
+düşmeden
+toprağa
+kopar
+yaprağım
+filizim
+paramparça
+ 
+eli
+tüfekli
+gencecik
+dikmişler
+O'raya
+basar
+yaygarayı
+vefasız
+keleş
+delinir
+gövdem
+kanım
+y-akar
+toprak
+yırtılır
+gençliğim
+paramparça
 
 Yusuf ALTUNEL
 
-### Yasaklanır Zaman
+## Yasaklanır Zaman
 
 eser gümüş rüzgarları zamanın
 aşılır doruklar, konup göçmeler sürüklenir
@@ -1775,7 +1821,7 @@ orada yasaklanır mavi ve zaman
 
 Yusuf ALTUNEL
 
-### Yaşam
+## Yaşam
 
 arzunun küllerini dağıtır
 kırık ansımalar rüzgarı
@@ -1830,27 +1876,42 @@ yaşanmamış mutluluklardan zaman
 
 Yusuf ALTUNEL
 
-### YeniYıl
+## YeniYıl
 
-ardan 
-        adam bir ömür bu bizimkisizamanın 
+kardan 
+        adam bir ömür bu bizimkisi
+zamanın 
         ışınlarıyla eriyor, yaklaştıkça bitmesi
-        yüzümüzde çizgiler, saçımızda aklarhiç 
+
+        yüzümüzde çizgiler, saçımızda aklar
+hiç 
         koymaz ama
-        sızlatıyor derinden dostların uzaklaşıp gitmesi 
-        yaklaştık yeniden elimizle koyduğumuz sınırahızlı 
-        geçiyorsa hayat, mutluluktanyavaşsa 
-        belli ki zor çekmesikısacık 
+
+        sızlatıyor derinden dostların uzaklaşıp gitmesi
+ 
+
+        yaklaştık yeniden elimizle koyduğumuz sınıra
+hızlı 
+        geçiyorsa hayat, mutluluktan
+yavaşsa 
+        belli ki zor çekmesi
+kısacık 
         bir sene kaldı simdi ardımızda
-        yaşamaktan korkma, kork ama unutulmaktan yağsın 
-        üstümüze uçuşan yılların kar taneleriki 
-        dökelim üstüne dostluğun gül reçelinianılar, 
-        hafıza kavanozunda tazecik dursunyenisi 
+
+        yaşamaktan korkma, kork ama unutulmaktan
+ 
+yağsın 
+        üstümüze uçuşan yılların kar taneleri
+ki 
+        dökelim üstüne dostluğun gül reçelini
+anılar, 
+        hafıza kavanozunda tazecik dursun
+yenisi 
         şu yılın, her çeşniden mutluluk koysun
 
 Yusuf ALTUNEL
 
-### Yumuşak
+## Yumuşak
 
 çiğ damlalarının gülü öpüşü
 kadar yumuşak olsun
@@ -1859,7 +1920,7 @@ güneşin nakışı
 
 Yusuf ALTUNEL
 
-### Zincirkıran
+## Zincirkıran
 
 gözlerin
 buzları parçalayan

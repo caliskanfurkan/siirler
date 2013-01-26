@@ -1,6 +1,6 @@
-## İsmail UYAROĞLU
+# İsmail UYAROĞLU
 
-### Aşk Ve Şiir
+## Aşk Ve Şiir
 
 Elin elimdeyken okuduğum şiir
 Yüzünü ışığıyla yıkayıp
@@ -14,7 +14,7 @@ Sevgilim, aşk mı şiirin?
 
 İsmail UYAROĞLU
 
-### Aşkçekişen
+## Aşkçekişen
 
 Artık başlayabiliriz sevişmeye
 Aşkın ve şeyin öğretmeni
@@ -40,7 +40,7 @@ Memelerini
 
 İsmail UYAROĞLU
 
-### Bıçak
+## Bıçak
 
 Bir bıçak edin artık kendine
 Bırak avutmayı bedenini
@@ -69,7 +69,7 @@ Kaçar tadı şölenin
 
 İsmail UYAROĞLU
 
-### Cehennev
+## Cehennev
 
 Baksan dönüp ne zaman
 O günlere
@@ -85,7 +85,7 @@ Kimse bilmiyor, o cehennevden
 
 İsmail UYAROĞLU
 
-### Felaketlere Gülecek Kadar
+## Felaketlere Gülecek Kadar
 
 İki taksi çarpıştı az ötemizde ve biz
 Katıla katıla güldük
@@ -98,7 +98,7 @@ Seviyoruz birbirimizi
 
 İsmail UYAROĞLU
 
-### Gökyüzü Ve Şiir
+## Gökyüzü Ve Şiir
 
 Bir kelime gelir, sürtünür, yoklar beni
 Anlarım, bir şiirin elçisidir
@@ -110,7 +110,7 @@ Bana incecik gülümsemektedir
 
 İsmail UYAROĞLU
 
-### İşkenceciye Bir Soru
+## İşkenceciye Bir Soru
 
 Çocuğun var mı ey cellat?
 Öpebiliyor musun onu herkes gibi sen de
@@ -119,7 +119,7 @@ Akşamları "iş"ten eve döndüğünde?
 
 İsmail UYAROĞLU
 
-### Kedileri Severken Ağlayınız
+## Kedileri Severken Ağlayınız
 
 Kedim ve ben
 Ölüyoruz yavaş yavaş
@@ -149,7 +149,7 @@ Kemiriyor İsmail'i keder
 
 İsmail UYAROĞLU
 
-### Küçük Bir Yol Şiiri
+## Küçük Bir Yol Şiiri
 
 Yol nedir yol?
 Karlı bir kış günü, bir otobüste
@@ -170,7 +170,7 @@ Yeni dostlar bulunur
 
 İsmail UYAROĞLU
 
-### Ölüm Hayatı Kuşatalı Beri
+## Ölüm Hayatı Kuşatalı Beri
 
 Kül yağıyor gökten
 Kül renginde güneş
@@ -194,7 +194,7 @@ Analar yaslı
 
 İsmail UYAROĞLU
 
-### Ömrüm, Bana Bağışla Bu Şiiri
+## Ömrüm, Bana Bağışla Bu Şiiri
 
 Büyük bir şiir yazmak istiyorum
 Patlayan bir fırtınanın ardından
@@ -248,7 +248,7 @@ Büyülü, ince ve vahşi
 
 İsmail UYAROĞLU
 
-### Sevinç
+## Sevinç
 
 Sarılıp birbirinize çocuğunuzla
 Uyudunuz mu hiç?
@@ -257,7 +257,7 @@ Uyku hafifliğinde bir sevinç
 
 İsmail UYAROĞLU
 
-### Sevişken
+## Sevişken
 
 Bakıyorum: önünüz 
 Ancak şu söylenebilir bir şiirde 
@@ -285,7 +285,7 @@ Yatağa çıplak girmeli
 
 İsmail UYAROĞLU
 
-### Şiirin Üç Kuralı
+## Şiirin Üç Kuralı
 
 Hayatın bağrından
 Kanayarak kopan kelimelerle
@@ -304,7 +304,7 @@ Kimdedir güç
 
 İsmail UYAROĞLU
 
-### Şimdi Yoksun
+## Şimdi Yoksun
 
 Bir zamanlar öyleydi
 Diyelim duruyordun bir ağacın yanında
@@ -330,7 +330,7 @@ Ve bütün çocuklar ağlıyor
 
 İsmail UYAROĞLU
 
-### Yeşil Yağmur
+## Yeşil Yağmur
 
 Gözlerine baktınız mı hiç uzun uzun
 Yeşil gözlü bir kızın
@@ -341,7 +341,7 @@ Yağıyor usul usul üstünüze
 
 İsmail UYAROĞLU
 
-### Oyun
+## Oyun
 
 Sebzelerden sevdiklerim:
 Havuç, domates, oyun.

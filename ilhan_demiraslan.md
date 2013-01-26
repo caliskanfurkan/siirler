@@ -1,6 +1,6 @@
-## İlhan DEMİRASLAN
+# İlhan DEMİRASLAN
 
-###  Bir Aşktan
+##  Bir Aşktan
   Sonra Şehir Mahzunluğu 
 
 Bu kadar büyük değildi şehir
@@ -17,7 +17,7 @@ Ah! ben hiç böyle mahzun olmamıştım
 
 İlhan DEMİRASLAN
 
-### Peynir Gemisi
+## Peynir Gemisi
 
 Bu paradır, anlıyor musun,
 Arada geçer elime,
@@ -41,7 +41,7 @@ Beni memur.
 
 İlhan DEMİRASLAN
 
-### Tophane Şiiri
+## Tophane Şiiri
 
 Tophane dediğim bir uzun yol
 İki yanı iki sıra meyhane

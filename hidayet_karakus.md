@@ -1,6 +1,6 @@
-## Hidayet KARAKUŞ
+# Hidayet KARAKUŞ
 
-### Avuntu
+## Avuntu
 
 evlerde eşyaya sinen
 seslerimiz vardır
@@ -43,7 +43,7 @@ sinemaya gittiğinde evdekiler
 
 Hidayet KARAKUŞ
 
-### Kimya
+## Kimya
 
 yürü gidelim 
 dingin bir gün için
@@ -60,7 +60,7 @@ rastlayabilir bizim gibi birbirine
 
 Hidayet KARAKUŞ
 
-### Küçük Solgun Işık
+## Küçük Solgun Işık
 
 avluya sermişler onu incecik
 karanlığa karşı ölgün bir umut
@@ -92,7 +92,7 @@ ve o küçük solgun ışık
 
 Hidayet KARAKUŞ
 
-### Ödenmez
+## Ödenmez
 
 ışığın şafağa verdiğini
 verdin bana
@@ -138,7 +138,7 @@ verdin bana
 
 Hidayet KARAKUŞ
 
-### Sapan
+## Sapan
 
 bir sabah bir sapan verdi elime
 kargaları kovalamak için tarladan
@@ -153,7 +153,7 @@ bilmem ki nasıl yıkanacaklar
 
 Hidayet KARAKUŞ
 
-### Sevgili
+## Sevgili
 
 bir selam kadar uzaksın şimdi
 bir gül atsam perçemin bozulur
@@ -178,7 +178,7 @@ sustun öptüm seni
 
 Hidayet KARAKUŞ
 
-### Şimdi Ölme Anne
+## Şimdi Ölme Anne
 
 1.
 bu kış yine pencereler esiyor
@@ -243,7 +243,7 @@ sağlık karnemi ver yanıma
 
 Hidayet KARAKUŞ
 
-### Soydöküm
+## Soydöküm
 
 dedemin
 hristiyanlık günlerini

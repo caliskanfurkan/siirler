@@ -1,6 +1,6 @@
-## Gonca ÖZMEN
+# Gonca ÖZMEN
 
-### Günler Süpürüyor Ağıtları
+## Günler Süpürüyor Ağıtları
 
 Bir bomba gibi düşüyor
 sözcükler usuma ve bir infilâk
@@ -20,7 +20,7 @@ Kara bir asker botunun altında
 
 Gonca ÖZMEN
 
-### Sonbahar Üşümeleri
+## Sonbahar Üşümeleri
 
 Çamurdan oyuncaklarda dağıldı çocukluğum
 Başağın su sıkıntısında

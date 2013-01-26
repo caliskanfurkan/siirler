@@ -1,6 +1,6 @@
-## Adnan ÖZER
+# Adnan ÖZER
 
-### Akdua
+## Akdua
 
 ölülerin ak ayaklarında açar zambaklar
 (zambaklar) yer kurtlarının tezgâhında dokunur
@@ -18,7 +18,7 @@ zambaklar gün gelir şairlerin başucuna sokulur
 
 Adnan ÖZER
 
-### Çıngırağın Ölümü
+## Çıngırağın Ölümü
 
 ( Ç ı n g ı r a ğ ı n   Ö l ü m ü   1 )
 
@@ -111,7 +111,7 @@ küçük bir çıngırağım
 
 Adnan ÖZER
 
-### "Kine Ez?"
+## "Kine Ez?"
 
 Bir devir aşk diye beni doğurdu 
 Aldı bedenimi Mağrip sıtmalarından 
@@ -151,7 +151,7 @@ ama yine "gülün ölüm çağında".
 
 Adnan ÖZER
 
-### Kırlara Veda
+## Kırlara Veda
 
 Gözyaşlarının gücü vardı eskiden;
 ırmak yüklü adamlardık tuz katarlarının ardınca giden,
@@ -189,7 +189,7 @@ gözyaşlarının gücü vardı eskiden.
 
 Adnan ÖZER
 
-### Rüzgâr Durdurma Takvimi
+## Rüzgâr Durdurma Takvimi
 
 ESMER KIZIN BEKLEDİĞİ BAHAR
 GELMEK BİLMEDİ
@@ -235,7 +235,7 @@ AH ESMER KIZ SEVERDİN BENİ
 
 Adnan ÖZER
 
-### Seni Seviyorum
+## Seni Seviyorum
 
 Seni seviyorum
 çağladıkça coşan su
@@ -271,10 +271,11 @@ taş yastıklarda zümrütüanka kuşları
 
 Adnan ÖZER
 
-### Yalnızlığa Veda
+## Yalnızlığa Veda
 
 Gidiyorum işte
                 Hayalde gör, düşte gör.
+
 
 Yalnızlığın da ucuna geldim,
 sırtımda kederin hançeri,

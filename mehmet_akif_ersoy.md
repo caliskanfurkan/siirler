@@ -1,6 +1,6 @@
-## Mehmet Akif ERSOY
+# Mehmet Akif ERSOY
 
-### Bülbül
+## Bülbül
 
 -Basri Bey oğlumuza-
 
@@ -65,40 +65,63 @@ tetkikine de imkân yoktu.
 
 Mehmet Akif ERSOY
 
-### Cenk Marşı
+## Cenk Marşı
 
 ey sürüden arkaya kalmış yiğit  
+
 arkadaşın gitti haydi sen de git  
+
 bak ne diyor ceddi şehidin işit  
+
 haydi git evladım uğurlar ola  
+
 haydi git evladım açıktır yolun  
+
 zalimlere karşı bükülmez kolun  
+
 bayrağı çek ön safa geçmiş bulun  
+
 uğurun açık olsun uğurlar ola.  
 
 eşele bir yerleri örten karı  
+
 ot değil onlar dedenin saçları  
+
 dinle şehit sesleridir rüzgarı  
+
 haydi git evladım uğurlar ola  
+
 haydi git evladım açıktır yolun  
+
 zalimlere karşı bükülmez kolun  
+
 bayrağı çek on safa geçmiş bulun  
+
 uğurun açık olsun uğurlar ola  
+
 haydi levent asker uğurlar ola  
 
 yerleri yırtan sel olup taşmalı  
+
 dağ demeyip taş demeyip aşmalı  
+
 sende ki coşkunluğa er şaşmalı  
+
 kahraman askerim uğurlar ola  
+
 haydi git evladım açıktır yolun  
+
 zalimlere karşı bükülmez kolun  
+
 bayrağı çek ön safa geçmiş bulun  
+
 haydi levent asker uğurlar ola  
+
 haydi git evladım uğurlar ola.
 
 Mehmet Akif ERSOY
 
-### Çanakkale Şehitlerine
+## Çanakkale Şehitlerine
 
 duruyor karşına da, (2)
 Ostralya'yla berâber bakıyorsun: Kanada!
@@ -199,7 +222,7 @@ Sana âgûşunu açmış duruyor Peygamber.
 
 Mehmet Akif ERSOY
 
-### Hüsran
+## Hüsran
 
 Ben böyle bakıp durmayacaktım, dili bağlı,
 İslâmı uyandırmak için haykıracaktım.
@@ -216,7 +239,7 @@ Yoktur elemimden şu sağır kubbede bir iz;
 
 Mehmet Akif ERSOY
 
-### İstiklal Marşı
+## İstiklal Marşı
 
 Korkma, sönmez bu şafaklarda yüzen al sancak;
 Sönmeden yurdumun üstünde tüten en son ocak.
@@ -260,7 +283,6 @@ Ebediyyen sana yok, ırkıma yok izmihlal:
 Hakkıdır, hür yaşamış, bayrağımın hürriyet;
 Hakkıdır, Hakk'a tapan, milletimin istiklal.
  
-
 Beste : Osman Zeki Üngör
 
 
@@ -269,7 +291,7 @@ Mehmet Akif Ersoy'a ait olan bu şiir 12 Mart 1921 tarihinde TBMM tarafından ul
 
 Mehmet Akif ERSOY
 
-### İtiraf
+## İtiraf
 
 Safahât'ımda, evet, şi'r arayan hiç bulamaz;
 Yalınız, bir yeri hakkında "hazin işte bu!" der.
@@ -283,7 +305,7 @@ Küfe? Yok. Kahve? Hayır. Hasta? Değil. Hangisi var ya?
 
 Mehmet Akif ERSOY
 
-### Kıssadan Hisse
+## Kıssadan Hisse
 
 Geçmişten adam hisse kaparmış... Ne masal şey!
 Beş bin senelik kıssa yarım hisse mi verdi?
@@ -297,7 +319,7 @@ Hiç ibret alınsaydı, tekerrür mü ederdi?
 
 Mehmet Akif ERSOY
 
-### Mahalle Kahvesi
+## Mahalle Kahvesi
 
 ................................................................... 
 Çamurlu bir kapı, üstünde bir değirmi delik; 
@@ -347,7 +369,7 @@ Mümâslar çizerek soktu belki yüz şekle!
 
 Mehmet Akif ERSOY
 
-### Safahât İçin
+## Safahât İçin
 
 "Arkamda kalırsın, beni rahmetle anarsın."
 Derdim, sana baktıkça, a bîçâre kitabım!
@@ -356,41 +378,64 @@ Uğrunda harâb eylediğim ömr-i harâbım?
 
 Mehmet Akif ERSOY
 
-### Cenk 
+## Cenk 
 		Marşı
 
 ey sürüden arkaya kalmış yiğit  
+
 arkadaşın gitti haydi sen de git  
+
 bak ne diyor ceddi şehidin işit  
+
 haydi git evladım uğurlar ola  
+
 haydi git evladım açıktır yolun  
+
 zalimlere karşı bükülmez kolun  
+
 bayrağı çek ön safa geçmiş bulun  
+
 uğurun açık olsun uğurlar ola.  
 
 eşele bir yerleri örten karı  
+
 ot değil onlar dedenin saçları  
+
 dinle şehit sesleridir rüzgarı  
+
 haydi git evladım uğurlar ola  
+
 haydi git evladım açıktır yolun  
+
 zalimlere karşı bükülmez kolun  
+
 bayrağı çek on safa geçmiş bulun  
+
 uğurun açık olsun uğurlar ola  
+
 haydi levent asker uğurlar ola  
 
 yerleri yırtan sel olup taşmalı  
+
 dağ demeyip taş demeyip aşmalı  
+
 sende ki coşkunluğa er şaşmalı  
+
 kahraman askerim uğurlar ola  
+
 haydi git evladım açıktır yolun  
+
 zalimlere karşı bükülmez kolun  
+
 bayrağı çek ön safa geçmiş bulun  
+
 haydi levent asker uğurlar ola  
+
 haydi git evladım uğurlar ola.
 
 Mehmet Akif ERSOY
 
-### İstiklal Marşı
+## İstiklal Marşı
 
 Korkma, sönmez bu şafaklarda yüzen al sancak;
 Sönmeden yurdumun üstünde tüten en son ocak.
@@ -434,7 +479,6 @@ Ebediyyen sana yok, ırkıma yok izmihlal:
 Hakkıdır, hür yaşamış, bayrağımın hürriyet;
 Hakkıdır, Hakk'a tapan, milletimin istiklal.
  
-
 Beste : Osman Zeki Üngör
 
 

@@ -1,6 +1,6 @@
-## Tevfik AKDAĞ
+# Tevfik AKDAĞ
 
-### Kimse Soğutamaz Beni
+## Kimse Soğutamaz Beni
 
 Savrulsa da uzaklara düşüncen
 Tıkansa da sevgimin pınarı
@@ -36,7 +36,7 @@ Sıcaklığını taşıyorum içimde
 
 Tevfik AKDAĞ
 
-### Küçük Haberciler
+## Küçük Haberciler
 
 Şairler küçük hırçın habercilerdir
 Gelirler aramak için yaşamın özünü
@@ -70,7 +70,7 @@ Getirdikleri bunca kitaptan belli değil mi
 
 Tevfik AKDAĞ
 
-### Semira'ya Gece
+## Semira'ya Gece
   Yarılarından Sonra Yazılmış Delice Mektuplardan
 
 Ciğerimin ortasında üç damla kan durur
@@ -85,7 +85,7 @@ Biri senin içindir.
 
 Tevfik AKDAĞ
 
-### Şiirbeyi
+## Şiirbeyi
 
 Sıcak bir boşluk
 Bırakacak ardında
@@ -101,7 +101,7 @@ Ve sözün güzeli
 
 Tevfik AKDAĞ
 
-### Tutunmadan Akıyorum
+## Tutunmadan Akıyorum
 
 Sen benim en güzel annemsin
 Sevinç doğuran yüreğime

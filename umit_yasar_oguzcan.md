@@ -1,6 +1,6 @@
-## Ümit Yaşar OĞUZCAN
+# Ümit Yaşar OĞUZCAN
 
-### A
+## A
 
 Senin aydınlığın yetişir bana
 Güneşi istemiyorum
@@ -28,7 +28,7 @@ Bütün akları kara yapacağım
 
 Ümit Yaşar OĞUZCAN
 
-### Acılar Denizi
+## Acılar Denizi
 
 Ben acılar denizinde boğulmuşum
   İşitmem vapur düdüklerini, martı çığlıklarını
@@ -50,7 +50,7 @@ Ben acılar denizinde boğulmuşum
 
 Ümit Yaşar OĞUZCAN
 
-### Ayrılanlar İçin
+## Ayrılanlar İçin
 
 Yollarımız burada ayrılıyor
 Artık birbirimize iki yabancıyız
@@ -72,7 +72,7 @@ Kalırsa, içinde bir derin sızı kalır
 
 Ümit Yaşar OĞUZCAN
 
-### Bekleyenler İçin
+## Bekleyenler İçin
 
 Bir ayak sesi duymayayım
 Kapıya koşuyorum
@@ -137,7 +137,7 @@ Uzun uzun ağlayacağım
 
 Ümit Yaşar OĞUZCAN
 
-### Ben Seni Sevdim mi
+## Ben Seni Sevdim mi
 
 Ben seni sevdim mi? Sevdim, kime ne 
 Tuttum, ta içime oturttum seni 
@@ -166,7 +166,7 @@ Ben seni sevdim mi? Sevdim, ya sen beni?
 
 Ümit Yaşar OĞUZCAN
 
-### Beyaz Güvercin
+## Beyaz Güvercin
 
 Süzülüp mavi göklerden yere doğru
 Omuzuma bir beyaz güvercin kondu
@@ -206,7 +206,7 @@ Seninle bir çift güvercin olmak varmış
 
 Ümit Yaşar OĞUZCAN
 
-### Bir Gece Ansızın Gelebilirim
+## Bir Gece Ansızın Gelebilirim
 
 Bu kadar yürekten çağırma beni
 Bir gece ansızın gelebilirim
@@ -235,7 +235,7 @@ Bu kadar yürekten çağırma beni.
 
 Ümit Yaşar OĞUZCAN
 
-### Birgün
+## Birgün
 
 Apansız uyanırsan gecenin bir yerinde
   Gözlerin uzun uzun karanlığa dalarsa
@@ -263,7 +263,9 @@ Apansız uyanırsan gecenin bir yerinde
 
 Ümit Yaşar OĞUZCAN
 
-### Birgün Anlarsın
+## Birgün Anlarsın
+
+BİR GÜN ANLARSIN
 
 Uykuların kaçar geceleri, bir türlü sabah olmayı bilmez.
 Dikilir gözlerin tavanda bir noktaya,
@@ -315,7 +317,7 @@ Seni sevdiğimi işte o gün anlarsın.
 
 Ümit Yaşar OĞUZCAN
 
-### Çaresiz
+## Çaresiz
 
 Seni görmediğim günler bir çakır diken büyüyor göz
 bebeklerimde
@@ -331,7 +333,7 @@ Bir demir nasıl paslanır, bir elma nasıl çürürse
 
 Ümit Yaşar OĞUZCAN
 
-### Dost Bildiklerim
+## Dost Bildiklerim
 
 Sanırdım gündüzdü onlarla gecem
 İçimde ümitti dost bildiklerim.
@@ -360,7 +362,7 @@ Beni benden etti dost bildiklerim.
 
 Ümit Yaşar OĞUZCAN
 
-### Galata Kulesi
+## Galata Kulesi
 
 6 Haziran 1973
 Pırıl pırıl bir yaz günüydü
@@ -408,7 +410,7 @@ Bu kalleş dünyaya inat
 
 Ümit Yaşar OĞUZCAN
 
-### İnsan Bir Yerde Kendini Bırakmalı
+## İnsan Bir Yerde Kendini Bırakmalı
 
 İnsan bir yerde boş vermeli kurallara, düzenlere
 İnsan bir yerde kendini bırakmalı
@@ -428,7 +430,7 @@ Kendine bir başka gözle bakmalı
 
 Ümit Yaşar OĞUZCAN
 
-### İmkansız Aşk
+## İmkansız Aşk
 
 Falcı kadın yalan söylüyor yalan
 Bizi birbirimiz için yaratmış Tanrımız
@@ -468,7 +470,7 @@ Büyük aşkımız
 
 Ümit Yaşar OĞUZCAN
 
-### Karanlıklar Üstüne
+## Karanlıklar Üstüne
 
 Artık hiç sabah olmayacak yavrum
   Çok uzun sürecek bu siyah gece
@@ -495,7 +497,7 @@ Artık hiç sabah olmayacak yavrum
 
 Ümit Yaşar OĞUZCAN
 
-### Oğul Koşması
+## Oğul Koşması
 
 Zirve seni bekliyor
   Dağın kıymetini bil
@@ -524,7 +526,9 @@ Zirve seni bekliyor
 
 Ümit Yaşar OĞUZCAN
 
-### Seninle Ölmek İstiyorum
+## Seninle Ölmek İstiyorum
+
+SENİNLE ÖLMEK İSTİYORUM
 
 Dağ başında bir avcı kulübesi
 Yerle diz boyu kar
@@ -547,7 +551,7 @@ Seninle ölmek istiyorum.
 
 Ümit Yaşar OĞUZCAN
 
-### Sevi Şiiri
+## Sevi Şiiri
 
 Ben senin en çok sesini sevdim
 Buğulu çoğu zaman, taze bir ekmek gibi
@@ -586,7 +590,9 @@ Ben seni sevdim, ben seni sevdim, ben seni...
 
 Ümit Yaşar OĞUZCAN
 
-### Unutulmayanlar
+## Unutulmayanlar
+
+UNUTULMAYANLAR
 
 Biliyorum, unutamayacaksın!
 Ağır ağır geçecek mevsimler,

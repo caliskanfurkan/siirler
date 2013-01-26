@@ -1,12 +1,15 @@
-## Nevzat ÇELİK
+# Nevzat ÇELİK
 
-### 
+## 
 
-duvara demire değmektengün boyu yorgunuzanıyorum ranzamabirdenbire kokun
+duvara demire değmekten
+gün boyu yorgun
+uzanıyorum ranzama
+birdenbire kokun
 
 Nevzat ÇELİK
 
-### Af
+## Af
 
 duvar duvar duvar 
 sana ne desem ki ah 
@@ -16,7 +19,7 @@ gerisi laf-ü güzaf
 
 Nevzat ÇELİK
 
-### Anımsamak Kuşları
+## Anımsamak Kuşları
 
 I
 
@@ -123,25 +126,40 @@ anımsamak kuşları
 
 Nevzat ÇELİK
 
-### Anneler Günü
+## Anneler Günü
 
-yeşildir artık yüreğinde kara bulutbugün anneler günü annem beni unut
-evde acılar koynuna yangelip yatmışinadına giyin sen de mayısa batmışyürü sokakta çocukların düşü aksınyürü ki saksıda çiçekler sana baksın
-diline genç anılarından bir türkü seçbeş yıl büyüdüğüm okulun önünden geçıslanırsa anıların güneşte kurutsenin günün bugün unutma beni unutgök mavi deniz mavi tam kıyısında durdurma eteğinden beni bir daha savur
-annem yıldız kayıyor içinden dilek tutkoşuyor sana kısa pantolunlu çocukgözünde gözümde gözlerinde bin umut
+yeşildir artık yüreğinde kara bulut
+bugün anneler günü annem beni unut
+evde acılar koynuna yangelip yatmış
+inadına giyin sen de mayısa batmış
+yürü sokakta çocukların düşü aksın
+yürü ki saksıda çiçekler sana baksın
+diline genç anılarından bir türkü seç
+beş yıl büyüdüğüm okulun önünden geç
+ıslanırsa anıların güneşte kurut
+senin günün bugün unutma beni unut
+gök mavi deniz mavi tam kıyısında dur
+durma eteğinden beni bir daha savur
+annem yıldız kayıyor içinden dilek tut
+koşuyor sana kısa pantolunlu çocuk
+gözünde gözümde gözlerinde bin umut
 
 Nevzat ÇELİK
 
-### Bahar Ağrısı
+## Bahar Ağrısı
 
-bir bahar daha dönüp gidecek kapıdanbir bahar daha sensiz yaşanacakdemekbir bahar dahainsanlar asılacak şafakta
+bir bahar daha dönüp gidecek kapıdan
+bir bahar daha sensiz yaşanacak
+demek
+bir bahar daha
+insanlar asılacak şafakta
 ben en çok şafakları ağlarım
                                
 Şubat 1982
 
 Nevzat ÇELİK
 
-### Bu Bahar Şaşma
+## Bu Bahar Şaşma
 
 birdenbire ne oldu bana böyle
 ben eskiden yağmur filan takmazdım
@@ -165,43 +183,118 @@ Metris 1987
 
 Nevzat ÇELİK
 
-### Bulutları Kıvırcık
+## Bulutları Kıvırcık
 
-yıl dört mevsim on iki ayyıl üçyüzaltmışbeş günolur olmaz yerinde      gecenin ve gündüzüntenimde uyanıyor senin      çığlık çığlığa tenin
-kütür kütür kırmızıkanıyor elimde bir karpuzne bir uyku gecelerimdene düş ne bir huzur
-elmaya sakalımı sürtüyorumyanakların düşünce aklımaeğilip alıyorum kirazı ıslakdudaklarını alır gibi ağzıma
-gözlerinden akıyor ardarda kaç kuğusonra bütün kuğu eğimleri boynundaomuzlarında sırtının oluğundasaçların bir gümüş uğultu
-uçup uçup ellerimi arasanmemelerin değirmi buğusubelinbelinin çukurudeli edecek beni
-durduk yerde başlayankalçalarındaki müzikve çisil çisil uyanmışbulutları kıvırcık..felâket hüzün
-her bahar bir kuş uçursa hüznünsevgilim kuş bahçesine döner yüzünbüsbütün uçurmalı oysa geceme senibilerek isteyerek unutup herşeyiaçlığı şurada kavgayı oradamilitanı sorguda işçiyi sokaktaparmaklarımızda gün boyu güneşböğürtlen yer gibi temmuz tepelerindemosmor sevişmeliyiz seninle sabaha kadar
+yıl dört mevsim on iki ay
+yıl üçyüzaltmışbeş gün
+olur olmaz yerinde
+      gecenin ve gündüzün
+tenimde uyanıyor senin
+      çığlık çığlığa tenin
+kütür kütür kırmızı
+kanıyor elimde bir karpuz
+ne bir uyku gecelerimde
+ne düş ne bir huzur
+elmaya sakalımı sürtüyorum
+yanakların düşünce aklıma
+eğilip alıyorum kirazı ıslak
+dudaklarını alır gibi ağzıma
+gözlerinden akıyor ardarda kaç kuğu
+sonra bütün kuğu eğimleri boynunda
+omuzlarında sırtının oluğunda
+saçların bir gümüş uğultu
+uçup uçup ellerimi arasan
+memelerin değirmi buğusu
+belin
+belinin çukuru
+deli edecek beni
+durduk yerde başlayan
+kalçalarındaki müzik
+ve çisil çisil uyanmış
+bulutları kıvırcık..
+felâket hüzün
+her bahar bir kuş uçursa hüznün
+sevgilim kuş bahçesine döner yüzün
+büsbütün uçurmalı oysa geceme seni
+bilerek isteyerek unutup herşeyi
+açlığı şurada kavgayı orada
+militanı sorguda işçiyi sokakta
+parmaklarımızda gün boyu güneş
+böğürtlen yer gibi temmuz tepelerinde
+mosmor sevişmeliyiz seninle sabaha kadar
 
 Nevzat ÇELİK
 
-### Çiçek Gibi
+## Çiçek Gibi
 
-dizlerini kanata kanata                           
-güle coşa çocuklar                           
-yumruklarını sıka sıka                           
-sola dirile umut                           
-döne döne çığlık                           
-dura sıkışa barut                           
-bağıra çığıra çocuklar                           
-vurula kırıla çocuklar                           
-itile kakıla çocuklar                           
-öfke içinde hasret içinde                           
-sabır içinde ağrı içinde                           
-ağrı umut içinde                           
-ölümlerin ve hapisanelerin rağmına                           
-çiçek gibi                           
-büyüyor çocuklar..                           
+dizlerini kanata kanata
+                           
+güle coşa çocuklar
+                           
+yumruklarını sıka sıka
+                           
+sola dirile umut
+                           
+döne döne çığlık
+                           
+dura sıkışa barut
+                           
+bağıra çığıra çocuklar
+                           
+vurula kırıla çocuklar
+                           
+itile kakıla çocuklar
+                           
+öfke içinde hasret içinde
+                           
+sabır içinde ağrı içinde
+                           
+ağrı umut içinde
+                           
+ölümlerin ve hapisanelerin rağmına
+                           
+çiçek gibi
+                           
+büyüyor çocuklar..
+                           
 bizim çocuklarımız
             Seven'e
+
   
 ÇİÇEK GİBİ
 1
-sevengüzelim çocukkarşımda duruyor fotoğrafıngüneş gibi asmışım ranzama seni        gözlerimi gözbebeklerinde unutupo kadar yakın ve o kadar ürkeksin kiuçacak elimin sana uzanan rüzgârında        sarı saçların tokasından kurtulupkolumu kanadımı kırıyor fakatyüzünün ortalık yerinde buruşan kedertam da gülecekkensımsıkı kapanıp yapışıyorkiraz ağacının bütün kirazı dudaklarıngözlerinin yemyeşil uğultusuve pembe buğusu yanaklarının        susup kalıyor apansız
-hem ne dersinben sana aşık oldum küçük kızhem de içerdeki adama durup dururkenaşık olan bir dolu şaşkın varkenhem de bunu yasaklamışken kendimeduvarla demir arasındavoltada ranzadaaykaranlıklarındayapayalnızçarparken yüreğimdeli deli
-seni sevmenin sakıncası yok fakatseni sevmek yarını sevmek gibi birşeyo güne dek bırak oyalansın bu yürekhem nasılsa sevmeyi öğrenmen içinbir on yıl daha büyümen gerek
+seven
+güzelim çocuk
+karşımda duruyor fotoğrafın
+güneş gibi asmışım ranzama seni
+        gözlerimi gözbebeklerinde unutup
+o kadar yakın ve o kadar ürkeksin ki
+uçacak elimin sana uzanan rüzgârında
+        sarı saçların tokasından kurtulup
+kolumu kanadımı kırıyor fakat
+yüzünün ortalık yerinde buruşan keder
+tam da gülecekken
+sımsıkı kapanıp yapışıyor
+kiraz ağacının bütün kirazı dudakların
+gözlerinin yemyeşil uğultusu
+ve pembe buğusu yanaklarının
+        susup kalıyor apansız
+hem ne dersin
+ben sana aşık oldum küçük kız
+hem de içerdeki adama durup dururken
+aşık olan bir dolu şaşkın varken
+hem de bunu yasaklamışken kendime
+duvarla demir arasında
+voltada ranzada
+aykaranlıklarında
+yapayalnız
+çarparken yüreğim
+deli deli
+seni sevmenin sakıncası yok fakat
+seni sevmek yarını sevmek gibi birşey
+o güne dek bırak oyalansın bu yürek
+hem nasılsa sevmeyi öğrenmen için
+bir on yıl daha büyümen gerek
 2
 baban hapiste seven
 ranzası ranzama bakıyor
@@ -237,63 +330,135 @@ kıyametin
 
 Nevzat ÇELİK
 
-### Çocuk
+## Çocuk
 
-ağlardı gözlerinmavi yeşil karagülerdi gözlerinmavi yeşil kara
-ağla çocuk gül çocukama usul usul değilama usul usul değil
+ağlardı gözlerin
+mavi yeşil kara
+gülerdi gözlerin
+mavi yeşil kara
+ağla çocuk gül çocuk
+ama usul usul değil
+ama usul usul değil
 
 Nevzat ÇELİK
 
-### Diyarbakır Ölüleri
+## Diyarbakır Ölüleri
 
 I
-dün gece muştularla yağıyordu havalandırmaya ilk karı martındün gece yüreğimizde bıçaktı ölüm haberleri diyarbakır'ın
-asıldı ellerimiz ayasından kasap çengeli mi parmaklıklardaha kaç fırtınayla çarpışacak bu erkek dökümü alınlar
+dün gece muştularla yağıyordu havalandırmaya ilk karı martın
+dün gece yüreğimizde bıçaktı ölüm haberleri diyarbakır'ın
+asıldı ellerimiz ayasından kasap çengeli mi parmaklıklar
+daha kaç fırtınayla çarpışacak bu erkek dökümü alınlar
 II
-incedir bileklerimiz yaşamak ağrısıdır boynumuzdakiatılırız her çığlığa süngü de öyle bir keskin ki
-aynı saldırma değil mi göğsümüzde gizlimizi arayandöküp benzini esmer tenimize yangınları kundaklayan
-yanıp kavrulan bir ülkeydi anladım ortasında o ateşinnasıl unuturum gözlerinizi karaydı arasında uzun kirpiklerin
-belki hiç sayamayacaksınız sevgilinin saçına kaç ak karıştıgene de söyleyeceksiniz: yürü sevgilim ne de güzel yakıştı
-elli dokuz gün mü aç kaldınız vay benim kardeşlerimaltınız öldü demek artık kaşık tutmaz bu ellerim
+incedir bileklerimiz yaşamak ağrısıdır boynumuzdaki
+atılırız her çığlığa süngü de öyle bir keskin ki
+aynı saldırma değil mi göğsümüzde gizlimizi arayan
+döküp benzini esmer tenimize yangınları kundaklayan
+yanıp kavrulan bir ülkeydi anladım ortasında o ateşin
+nasıl unuturum gözlerinizi karaydı arasında uzun kirpiklerin
+belki hiç sayamayacaksınız sevgilinin saçına kaç ak karıştı
+gene de söyleyeceksiniz: yürü sevgilim ne de güzel yakıştı
+elli dokuz gün mü aç kaldınız vay benim kardeşlerim
+altınız öldü demek artık kaşık tutmaz bu ellerim
 III
-içimde bir ülke ağlar oturmuş sınırlarına saçını tararbir çam devrilir hüznüme dalından bir kuş kalkar
-kuşun kanadına mı konar sabah yoklar demirörgüleriaçamam ki sımsıkı gözlerim içinde diyarbakır ölüleri
-kimbilir ne güzeldir dinlemek dillerinde direnç türküleribasıp doğrulacak elbet kendi küllerine diyarbakır ölüleri
+içimde bir ülke ağlar oturmuş sınırlarına saçını tarar
+bir çam devrilir hüznüme dalından bir kuş kalkar
+kuşun kanadına mı konar sabah yoklar demirörgüleri
+açamam ki sımsıkı gözlerim içinde diyarbakır ölüleri
+kimbilir ne güzeldir dinlemek dillerinde direnç türküleri
+basıp doğrulacak elbet kendi küllerine diyarbakır ölüleri
 
 Nevzat ÇELİK
 
-### Ellerin Müebbet
+## Ellerin Müebbet
 
-senin neden neden istediğini bilmezdimçamaşır makinası der koyardın postanıtersyüz eder ceplerini gösterirdi babambir el ıslatır çitiler bir el iplere dizerrüzgâr savurur güneş kurutur sanırdım
-ellerim ellerim ellerim derdin annetuzbuz olurdu evimizim tek aynasında sesinbinse sesim bir akça kuşun kanadına gitseboy boy çamaşır leğenlerinde kaç müebbetbuluşuyor ellerim senin küçücek ellerinle
+senin neden neden istediğini bilmezdim
+çamaşır makinası der koyardın postanı
+tersyüz eder ceplerini gösterirdi babam
+bir el ıslatır çitiler bir el iplere dizer
+rüzgâr savurur güneş kurutur sanırdım
+ellerim ellerim ellerim derdin anne
+tuzbuz olurdu evimizim tek aynasında sesin
+binse sesim bir akça kuşun kanadına gitse
+boy boy çamaşır leğenlerinde kaç müebbet
+buluşuyor ellerim senin küçücek ellerinle
                                                
 Ocak - Şubat 1985
 
 Nevzat ÇELİK
 
-### Güneş Gibi
+## Güneş Gibi
 
-iki elinle kapatıpyırtığını yaranınkoynunda yıldız taşırsınama düşer yine yıldız
-düşeceksen sen debir akşam alacasıgüneş gibi düşmelisinardında binlerce yıldız
+iki elinle kapatıp
+yırtığını yaranın
+koynunda yıldız taşırsın
+ama düşer yine yıldız
+düşeceksen sen de
+bir akşam alacası
+güneş gibi düşmelisin
+ardında binlerce yıldız
                                        
 Ekim 1982
 
 Nevzat ÇELİK
 
-### Güz
+## Güz
 
-sarı yaprakları ağaçlarınkanatları kırık bir kuş gibi düşüyorta buradan duyuluyor gürültüsükalbimde dehşetli bir keder üşüyorkuru yaprakları ağaçlarınkanatları kırık bir kuş gibi düşüyor
-içerde vakitsiz basıyor kedergözlerimi kapatıp seni düşündümseni su başında bir karaca gibien güzel yüzünü verirken suyabir tüfeğin aynasında gördümtam altı bahar altı koca kışkesik bir dal gibi titredim kıyasıyabir tüfeğin aynasında gördüm senien güzel yüzünü verirken suya
-içerde vakitsiz basıyor kederyasak bir kitap gibi yakılmayıp bu güz desensizliğe mahkum edilirsem eğerhasretin beni duman edecekiçimde seni sevmek telaşıalıp başını gidecek
-alıp başını gidecek seni sevmek telaşıher kuleden uzanıp açıp her mazgalıkaranlık bir kuyu gibi bakacak düşman gözüve ben duyarak hissederek bu gözüyasak bir ıslık kıvırıp dudaklarımın ucunadelip de geçemezsem gözükırlangıçlar uykumu basacakgözlerime vuracakkanatlarında uçurdukları ayınçıplak ve ölü yüzü
-kırlangıçlar uykumu basacakgözlerim deli deli bakacaküçe beşe çıkacak nöbetçi sayısıyasak bir ıslık dudaklarımı yakacakfelaketim olacak
-felaketim olacak biliyorumbu vakitli vakitsiz bastıran kederbu kalbime sürtünen cehennem telaşıvoltamın ucunda savrulan bu sapsarı hüzünbu senin tüfeklerin menziline düşen güzelim yüzünülkemin yüzü kentlerin dağların yüzübu işkence bu ayrılık bu zulümsonra bu diz boyu yaprak ölüsügöçüp giden bu kuşlar..ağlamak ayıp değil işin kötüsüalaca bulaca yürüyor üstüme bulutgözlerime değerse duramamsevgilim sevgilim ellerimi tut
+sarı yaprakları ağaçların
+kanatları kırık bir kuş gibi düşüyor
+ta buradan duyuluyor gürültüsü
+kalbimde dehşetli bir keder üşüyor
+kuru yaprakları ağaçların
+kanatları kırık bir kuş gibi düşüyor
+içerde vakitsiz basıyor keder
+gözlerimi kapatıp seni düşündüm
+seni su başında bir karaca gibi
+en güzel yüzünü verirken suya
+bir tüfeğin aynasında gördüm
+tam altı bahar altı koca kış
+kesik bir dal gibi titredim kıyasıya
+bir tüfeğin aynasında gördüm seni
+en güzel yüzünü verirken suya
+içerde vakitsiz basıyor keder
+yasak bir kitap gibi yakılmayıp bu güz de
+sensizliğe mahkum edilirsem eğer
+hasretin beni duman edecek
+içimde seni sevmek telaşı
+alıp başını gidecek
+alıp başını gidecek seni sevmek telaşı
+her kuleden uzanıp açıp her mazgalı
+karanlık bir kuyu gibi bakacak düşman gözü
+ve ben duyarak hissederek bu gözü
+yasak bir ıslık kıvırıp dudaklarımın ucuna
+delip de geçemezsem gözü
+kırlangıçlar uykumu basacak
+gözlerime vuracak
+kanatlarında uçurdukları ayın
+çıplak ve ölü yüzü
+kırlangıçlar uykumu basacak
+gözlerim deli deli bakacak
+üçe beşe çıkacak nöbetçi sayısı
+yasak bir ıslık dudaklarımı yakacak
+felaketim olacak
+felaketim olacak biliyorum
+bu vakitli vakitsiz bastıran keder
+bu kalbime sürtünen cehennem telaşı
+voltamın ucunda savrulan bu sapsarı hüzün
+bu senin tüfeklerin menziline düşen güzelim yüzün
+ülkemin yüzü kentlerin dağların yüzü
+bu işkence bu ayrılık bu zulüm
+sonra bu diz boyu yaprak ölüsü
+göçüp giden bu kuşlar..
+ağlamak ayıp değil işin kötüsü
+alaca bulaca yürüyor üstüme bulut
+gözlerime değerse duramam
+sevgilim sevgilim ellerimi tut
                                                            
 Ekim 1985
 
 Nevzat ÇELİK
 
-### Güzdür
+## Güzdür
 
 güzdür
 
@@ -358,53 +523,136 @@ Kasım - Aralık 1989
 
 Nevzat ÇELİK
 
-### Hasretin Müebbet
+## Hasretin Müebbet
 
-alnımın en uzun çizgisinde kanayanımsın, ablamsınyokluğun acı bir bıçak gibi düştü de önümeöptüm, dudaklarımda parçalandı gül suretinalnımı ve dudaklarımı ayaza tuttum sonrasarsın diye senin bin müebbetlik hasretin
+alnımın en uzun çizgisinde kanayanımsın, ablamsın
+yokluğun acı bir bıçak gibi düştü de önüme
+öptüm, dudaklarımda parçalandı gül suretin
+alnımı ve dudaklarımı ayaza tuttum sonra
+sarsın diye senin bin müebbetlik hasretin
                                                        
 Ekim 1984
 
 Nevzat ÇELİK
 
-### Hepinizin Olsun Bu Şiir
+## Hepinizin Olsun Bu Şiir
 
-rüzgâr etekli geçin çocuklar gözlerimdengeçin kısa pantolon boy boy oyun oyunşakacıktan oyuncuktan olsun razıyım dündenba-ba deyin çığlık çığlığa önümde durun
-pamuk ellerinizle boynuma tırmanın dizlerimdenkarıştırın ceplerimi yüzünüzü sakalıma sürünağlamıyorum kokunuz kaçtı da gözlerime o yüzdenöpeyim gıdığınızı hadi katıla katıla gülün
-ulaş barış evrim özlem gökçe devrimgüzelim adlarınız şimdiden tutmuş umutlarıyapraklarca balıklarca kuşlara geçin tuzaklarıaferin çocuklar size aferin bin aferin
-kat kat katlanıyorsam acılara gıkım çıkmıyorsagövdemi serin bir dal gibi şafaklara salmışsamipten alıp zehir-zıkkım müebbetlere yatırmışsamşair olmuşsam ekmekten ve aşktan yanabir adım daha erkene almışsam yani ömrümübulutsuz yürüyün diyedir altında göğünhadi öpün birbirinizi öpün bir daha öpünve alın artık ellerimden sizde büyüsün gülüm
+rüzgâr etekli geçin çocuklar gözlerimden
+geçin kısa pantolon boy boy oyun oyun
+şakacıktan oyuncuktan olsun razıyım dünden
+ba-ba deyin çığlık çığlığa önümde durun
+pamuk ellerinizle boynuma tırmanın dizlerimden
+karıştırın ceplerimi yüzünüzü sakalıma sürün
+ağlamıyorum kokunuz kaçtı da gözlerime o yüzden
+öpeyim gıdığınızı hadi katıla katıla gülün
+ulaş barış evrim özlem gökçe devrim
+güzelim adlarınız şimdiden tutmuş umutları
+yapraklarca balıklarca kuşlara geçin tuzakları
+aferin çocuklar size aferin bin aferin
+kat kat katlanıyorsam acılara gıkım çıkmıyorsa
+gövdemi serin bir dal gibi şafaklara salmışsam
+ipten alıp zehir-zıkkım müebbetlere yatırmışsam
+şair olmuşsam ekmekten ve aşktan yana
+bir adım daha erkene almışsam yani ömrümü
+bulutsuz yürüyün diyedir altında göğün
+hadi öpün birbirinizi öpün bir daha öpün
+ve alın artık ellerimden sizde büyüsün gülüm
                                                            
 Ocak - Nisan 1985
 
 Nevzat ÇELİK
 
-### Hırsızlama
+## Hırsızlama
 
-kapalıkızlarınkapılarınıhırsızlamalıkimtakarkarşıkapıyakaranlıkkonanpapağanıçatlatıyordamarlarımıkanbahargelmişaylardannisan
+kapalı
+kızların
+kapılarını
+hırsızlamalı
+kim
+takar
+karşı
+kapıya
+karanlık
+konan
+papağanı
+çatlatıyor
+damarlarımı
+kan
+bahar
+gelmiş
+aylardan
+nisan
            
 Nisan 1983
 
 Nevzat ÇELİK
 
-### İçeri
+## İçeri
 
-düştüğünüzde çok şeyden ırak bir daha yaşayamayacaksınız çok şeyitutamayacaksınız kolundan kısa pantolonlu bilya çağında bir çocuğucoşamayacaksınız bir kızın eteklerinde oyun rüzgârı uçurmasındanbir daha hiç kalkamayacaksınız belki demir kaşıklı beyaz bir sofradanve kanınız kaynasa da deli yalnız düşlerinizde tadacaksınız sevişmeyiamadışarı baksanız da bakmasanız da avaz avaz sıçrayacaksınız camdanne zaman bir yaşıtınız düşse delik deşik süngü ucundan
+düştüğünüzde çok şeyden ırak bir daha yaşayamayacaksınız çok şeyi
+tutamayacaksınız kolundan kısa pantolonlu bilya çağında bir çocuğu
+coşamayacaksınız bir kızın eteklerinde oyun rüzgârı uçurmasından
+bir daha hiç kalkamayacaksınız belki demir kaşıklı beyaz bir sofradan
+ve kanınız kaynasa da deli yalnız düşlerinizde tadacaksınız sevişmeyi
+ama
+dışarı baksanız da bakmasanız da avaz avaz sıçrayacaksınız camdan
+ne zaman bir yaşıtınız düşse delik deşik süngü ucundan
                                                                                            
 Kasım 1983
 
 Nevzat ÇELİK
 
-### Kanat Çırpa
+## Kanat Çırpa
 
 I
-gözkapağının altında daha ilk adımda mayınseni düşünmemek elimde değil uyanma sakınmayını geçsen yanağının çukuruna kurulur pusukirpiklerinin içinde uyu benim için uyu n'olur uyukanım dondu cehennem öfkemin sınırına çıkacağımadını haykıracağım avaz avaz sakın uyanmasesimi duyma daha ilk adımda mayındikkat et işkillendi nöbetçi tetiğe bineceksöyle gözlerine kalkıp gelmesinler sesime
+gözkapağının altında daha ilk adımda mayın
+seni düşünmemek elimde değil uyanma sakın
+mayını geçsen yanağının çukuruna kurulur pusu
+kirpiklerinin içinde uyu benim için uyu n'olur uyu
+kanım dondu cehennem öfkemin sınırına çıkacağım
+adını haykıracağım avaz avaz sakın uyanma
+sesimi duyma daha ilk adımda mayın
+dikkat et işkillendi nöbetçi tetiğe binecek
+söyle gözlerine kalkıp gelmesinler sesime
 II
-çarpmış yüzüne iki avuç su eline uyku bulaşmışkimbilir hangi uzak düşten çekilip koparılmışgöze geze arpacığa akıyor uyku el tetiktebiter üç-beş nöbeti de ardından şafak sökernedir ki onsekiz ay tezkeresini alıp giderbir de esniyor çocuk gibi göz gez arpacıknöbetçi uykunla vuramazsın beni şafak vaktiasılırken öfkemin en güzeli uyuyamam benben uyuyamam gözüme güney afrika kaçarken
+çarpmış yüzüne iki avuç su eline uyku bulaşmış
+kimbilir hangi uzak düşten çekilip koparılmış
+göze geze arpacığa akıyor uyku el tetikte
+biter üç-beş nöbeti de ardından şafak söker
+nedir ki onsekiz ay tezkeresini alıp gider
+bir de esniyor çocuk gibi göz gez arpacık
+nöbetçi uykunla vuramazsın beni şafak vakti
+asılırken öfkemin en güzeli uyuyamam ben
+ben uyuyamam gözüme güney afrika kaçarken
 III
-gelme canım aramızda kıyamet kadar duvarhavalar kışladı penceremde kurt gibi ayazderimden başka giysi yasak bana üşüdümelimde değil seni daha çok düşünmem gerekvoltamı seninle vursam yataktan seninle kalksamalsam şu belalı başımı sana açılan yollara çıksambeni duyuyor musun hava kurt gibi soğuk..parkanı ödünç ver sevgilim bekliyornöbetçi nöbetçi heey pusatlanmış çocuk
+gelme canım aramızda kıyamet kadar duvar
+havalar kışladı penceremde kurt gibi ayaz
+derimden başka giysi yasak bana üşüdüm
+elimde değil seni daha çok düşünmem gerek
+voltamı seninle vursam yataktan seninle kalksam
+alsam şu belalı başımı sana açılan yollara çıksam
+beni duyuyor musun hava kurt gibi soğuk..
+parkanı ödünç ver sevgilim bekliyor
+nöbetçi nöbetçi heey pusatlanmış çocuk
 IV
-bir kuğu boynu gibi kıvrılıp uzanıyor hasretin-vururum- diyor nöbetçi -dokunursan vururum-fatma'dır sevdiği kızın adı ihtimalsen fatma'nı kolla diyorum benimkisi ihbarbirden yanık türküsü besbelli yarasını buldum-yar etmem başkasına kaçarsa vururum-dokunma memet ne güzel şey sevmek..soğuruyor sigarasını kule bulut bulut dumanuzuyor tüfeğinin namlusu fatma kan revan
+bir kuğu boynu gibi kıvrılıp uzanıyor hasretin
+-vururum- diyor nöbetçi -dokunursan vururum-
+fatma'dır sevdiği kızın adı ihtimal
+sen fatma'nı kolla diyorum benimkisi ihbar
+birden yanık türküsü besbelli yarasını buldum
+-yar etmem başkasına kaçarsa vururum-
+dokunma memet ne güzel şey sevmek..
+soğuruyor sigarasını kule bulut bulut duman
+uzuyor tüfeğinin namlusu fatma kan revan
 V
-yıkımışım duvarı ellerimin kanamasından anladım-parola kaçarsa vur emredersiniz komutanım-dudakların papatya falı dudakların gitmiyor aklımdanbir de cehennem öfkem bir de sağanak yağmur-emredersiniz komutanım parola kaçarsa vur-sevmek ne güzel şey ve ne büyük felaketelindeki tüfek söğüt dalı değil bu memet..türküsü çatallanan bir yol gibi susuyor
+yıkımışım duvarı ellerimin kanamasından anladım
+-parola kaçarsa vur emredersiniz komutanım-
+dudakların papatya falı dudakların gitmiyor aklımdan
+bir de cehennem öfkem bir de sağanak yağmur
+-emredersiniz komutanım parola kaçarsa vur-
+sevmek ne güzel şey ve ne büyük felaket
+elindeki tüfek söğüt dalı değil bu memet..
+türküsü çatallanan bir yol gibi susuyor
 ağzı fırın bulut bulut duman kusuyor
 VI
 memet düşlerin firarını vuramıyor hiçbir tüfek
@@ -443,32 +691,73 @@ kanat çırpa kanat çırpa kanat...
 
 Nevzat ÇELİK
 
-### Kesin Uyak
+## Kesin Uyak
 
-düşmezse düşmesin yakamızdan ölümbizim de ülkemizde sabah olacak gülüm
+düşmezse düşmesin yakamızdan ölüm
+bizim de ülkemizde sabah olacak gülüm
                                                        
 Temmuz 1986
 
 Nevzat ÇELİK
 
-### Kitap Türküsü
+## Kitap Türküsü
 
-ve bir gün eline                                   
-ustura ağzında sınanmamış                                   
-allı-pullu mektuplar geçerse                                   
-bil ki sevgilim                                   
-ben artık elleri üzerinde yürüyen                                   
+ve bir gün eline
+                                   
+ustura ağzında sınanmamış
+                                   
+allı-pullu mektuplar geçerse
+                                   
+bil ki sevgilim
+                                   
+ben artık elleri üzerinde yürüyen
+                                   
 şaklabandan başka birşey değilim
 I
-koyu karanlık sulara karışıp gitsin korkupüfür püfür esmesin mayıs rüzgarlarıçekin şu kilimi yaprak hışırtısı altından«yıllar var ki böyle öfkelere dalmışlığım yoktu»
-yıllar var ki böyle öfkelere dalmışlığım yoktuinadına yapış yapış havada bir gülün kokusukan kırmızı oturmuşum yüreğimin ortalık yerinenerdeyse iz basacak gözlerim avuçlarını aç
-koyu karanlık sulara karışıp gitsin korkubana çocuklar betimle sokaklarda büsbütün gülenkitapların yakılmadığı bir ülke adı söyle kütfenyıllar var ki böyle öfkelere dalmışlığım yoktu
-nerdeyse iz basacak gözlerim avuçlarını açiki eli var insanın bayrak tutmak için biriötekini neye sayarsanız sayın bıçak meselakabına sığmaz uzlaşmaz bir eşkiya bıçakçardak altı kavun beyaz peynir ekmek ve rakıbir gün mutlaka evet ama nasıl ey ütopyacehennem öfkeler yuttum gün yirmidört saatcennete çevirmek için güzelim yurdumuçekin şu kilimi yaprak hışırtısı altındankan denizi uykulara kurşunlar çalıpdüze ineceğim şu belalı başımı alıpeşkiya oğlu eşkiyayım duvar içre evetkoyu karanlık sulara karışıp gitsin korku
+koyu karanlık sulara karışıp gitsin korku
+püfür püfür esmesin mayıs rüzgarları
+çekin şu kilimi yaprak hışırtısı altından
+«yıllar var ki böyle öfkelere dalmışlığım yoktu»
+yıllar var ki böyle öfkelere dalmışlığım yoktu
+inadına yapış yapış havada bir gülün kokusu
+kan kırmızı oturmuşum yüreğimin ortalık yerine
+nerdeyse iz basacak gözlerim avuçlarını aç
+koyu karanlık sulara karışıp gitsin korku
+bana çocuklar betimle sokaklarda büsbütün gülen
+kitapların yakılmadığı bir ülke adı söyle kütfen
+yıllar var ki böyle öfkelere dalmışlığım yoktu
+nerdeyse iz basacak gözlerim avuçlarını aç
+iki eli var insanın bayrak tutmak için biri
+ötekini neye sayarsanız sayın bıçak mesela
+kabına sığmaz uzlaşmaz bir eşkiya bıçak
+çardak altı kavun beyaz peynir ekmek ve rakı
+bir gün mutlaka evet ama nasıl ey ütopya
+cehennem öfkeler yuttum gün yirmidört saat
+cennete çevirmek için güzelim yurdumu
+çekin şu kilimi yaprak hışırtısı altından
+kan denizi uykulara kurşunlar çalıp
+düze ineceğim şu belalı başımı alıp
+eşkiya oğlu eşkiyayım duvar içre evet
+koyu karanlık sulara karışıp gitsin korku
 II
-canımsana bu mektubugözlerim doluyüreğim paramparça yazıyorumeline geçmeyecek biliyorumtepeden tırnağa kedere battığım şu saatbilmek yetmiyor fakat
-zulüm kanlı bir kene gibi başımdakorkunç bir işkence sonrası        uzun sakallarımla oturduğum                         
-dört ayaklı masamdane karanfil kokulu bir hemşirenin cebine benzeyen zarfımne zarfın gül yüzüne kösnül bir öpücük gibi konduracak pulumne de sigara kâğıtlarının dar boyutlarında başıboş                                                             
-bir hoş                                                             
+canım
+sana bu mektubu
+gözlerim dolu
+yüreğim paramparça yazıyorum
+eline geçmeyecek biliyorum
+tepeden tırnağa kedere battığım şu saat
+bilmek yetmiyor fakat
+zulüm kanlı bir kene gibi başımda
+korkunç bir işkence sonrası
+        uzun sakallarımla oturduğum
+                         
+dört ayaklı masamda
+ne karanfil kokulu bir hemşirenin cebine benzeyen zarfım
+ne zarfın gül yüzüne kösnül bir öpücük gibi konduracak pulum
+ne de sigara kâğıtlarının dar boyutlarında başıboş
+                                                             
+bir hoş
+                                                             
 koşturacak kalemim var
 yokluk özrümü kabul etmiyor
 satır satır karıştı kanıma bir kere kitap
@@ -740,48 +1029,139 @@ nerde benim grevim grev gözcüm nerde
 
 Nevzat ÇELİK
 
-### Kuşlardan Önce Kalkan
+## Kuşlardan Önce Kalkan
 
-palton yoksa ellerimi tutkaportacı işçi çocukpusu kurmuş kapınaçakal gibi bir soğuk
+palton yoksa ellerimi tut
+kaportacı işçi çocuk
+pusu kurmuş kapına
+çakal gibi bir soğuk
                                            
 Ağustos 1986
 
 Nevzat ÇELİK
 
-### Maceram
+## Maceram
 
-genç mi olunurmuş içerde a benim gülümsöyledim yedi yılda bütün türkülerini ömrüngüz bir yandan uçuşur saçlarımda                                                           
+genç mi olunurmuş içerde a benim gülüm
+söyledim yedi yılda bütün türkülerini ömrün
+güz bir yandan uçuşur saçlarımda
+                                                           
 kış bir yandan
-ihtimâl ki ben senden tam sekiz ilkbahar büyüğümsen saçlarına ilkokul kurdelası taktığın gündevadımlarla buluştu ayaklarım                                                                 
+ihtimâl ki ben senden tam sekiz ilkbahar büyüğüm
+sen saçlarına ilkokul kurdelası taktığın gün
+devadımlarla buluştu ayaklarım
+                                                                 
 ah ne çabuk
-kanımı pompaladı yüreğimin çelik kaslarıkanım damarlarımda şaha kalkan atlardıbeyaz atkılar gibi attım boynuma bulutlarıuçura uçura yürüdüm rüzgârında ölümün
-en güzel nakışını vururken kanatları kuşundelip geçti karaciğerimi karanlık bir kurşunonsekiz yaşım düştü ıslak aynasına asfaltınılık bir ıslık gibi aktı kanım                                               
+kanımı pompaladı yüreğimin çelik kasları
+kanım damarlarımda şaha kalkan atlardı
+beyaz atkılar gibi attım boynuma bulutları
+uçura uçura yürüdüm rüzgârında ölümün
+en güzel nakışını vururken kanatları kuşun
+delip geçti karaciğerimi karanlık bir kurşun
+onsekiz yaşım düştü ıslak aynasına asfaltın
+ılık bir ıslık gibi aktı kanım
+                                               
 fakat ölmedim
-bir hemşirenin mavi gülüşüne tutundum gülümanladım ki asla yenemez gülen insanı ölümdokuzuncu gün haykırdım pencereden gökyüzüneheeykurşunların rağmına yaşamak ne güzel şey
-ben böyle hep uslanmaz kavgacı ve her güzele aşıkdurmuşken seksen mart akşamlarına bahar gibi şıkduvarlara zincirlere çıktı yolu umudumunşarkılar ne bilsin sorguevlerini istanbul'ungayrettepe'yi samandıra'yı... ah gülüm ne bilsin
-parmaksız bir el gibi bütün tanımları insanıninsan işkencede susabilen bir hayvanmış meğerdur ağlama küçüğüm hiç yakışmaz yüzüne kederta kökünden tükürdüm dilsiz kalacakmışım ne gamişte böyle başladı benim yıllar süren mâceram
+bir hemşirenin mavi gülüşüne tutundum gülüm
+anladım ki asla yenemez gülen insanı ölüm
+dokuzuncu gün haykırdım pencereden gökyüzüne
+heey
+kurşunların rağmına yaşamak ne güzel şey
+ben böyle hep uslanmaz kavgacı ve her güzele aşık
+durmuşken seksen mart akşamlarına bahar gibi şık
+duvarlara zincirlere çıktı yolu umudumun
+şarkılar ne bilsin sorguevlerini istanbul'un
+gayrettepe'yi samandıra'yı... ah gülüm ne bilsin
+parmaksız bir el gibi bütün tanımları insanın
+insan işkencede susabilen bir hayvanmış meğer
+dur ağlama küçüğüm hiç yakışmaz yüzüne keder
+ta kökünden tükürdüm dilsiz kalacakmışım ne gam
+işte böyle başladı benim yıllar süren mâceram
                                                
 Ekim 1985 - Haziran 1986
 
 Nevzat ÇELİK
 
-### Merak
+## Merak
 
-siz şimdi bana bir kucakgökyüzü getirebilir misiniz demirörgülerle parçalanmamışsuda serin suda pırıl pırıl akan bir yaprakbana çiçek kokusu bana deniz bana toprakboyunca mayısa batmış bir ağaç büyütebilir misiniz banaverebilir misiniz muştusunu silahları susmuş bir dünyanınaç doydu güneşe sarındı çıplak-diyebilir misinizsöyleyin banaokuyabilir misiniz kurtuluş haberlerini şiir tadında-güney afrika'dakara öfkekara bir kartalgibi kondukaranlığın gözünealaydınlık bir sabah doğduzencilerin yüzüne-mesela
-gencecik ölüp gitmek birşey değilşu kahrolası merak olmasa
+siz şimdi bana bir kucak
+gökyüzü getirebilir misiniz demirörgülerle parçalanmamış
+suda serin suda pırıl pırıl akan bir yaprak
+bana çiçek kokusu bana deniz bana toprak
+boyunca mayısa batmış bir ağaç büyütebilir misiniz bana
+verebilir misiniz muştusunu silahları susmuş bir dünyanın
+aç doydu güneşe sarındı çıplak-diyebilir misiniz
+söyleyin bana
+okuyabilir misiniz kurtuluş haberlerini şiir tadında
+-güney afrika'da
+kara öfke
+kara bir kartal
+gibi kondu
+karanlığın gözüne
+alaydınlık bir sabah doğdu
+zencilerin yüzüne-
+mesela
+gencecik ölüp gitmek birşey değil
+şu kahrolası merak olmasa
                                                            
 Eylül 1985
 
 Nevzat ÇELİK
 
-### Müebbet Türküsü
+## Müebbet Türküsü
 
 I
-önce kol sonra sürgü sonra anahtar açılır kapıitilirim sırtımdan ben ebedi kiracı kesilmiş hükmümönce sürgü sonra kol sonra anahtar kapanır kapıbir ömür boyu diri diri içmek için gövdemidolanır bacaklarıma balçık gibi ağır bir karanlıkçırpınsam küçücük pencerede çifte çapraz parmaklıküstünde yüzüme örtülür binlerce kare demirörgüher karesinde oyulmuş bir göz gibi kanar gökyüzübatan güneşim kapının önünde kıpkızıl asılırım biranranzam tavana ranzam yere ranzam göğsüme çakılıkımıldasam göğsüm boydan boya yırtılacak sankiduvarlarını üstüme yıkacak hücrem adım atsamadım atsam apansız kurşun değdi kanadına kuşuntutun beni önüm berbat uçurum bu kimin sesibırak torbanı atlas'a ödüldür gökkubbeyi taşımakdüş kırıklığına salan salsın gözlerini bırakranzanda yatak yatakta düşlerin dağınık kalsınyürü delikanlım beton altında toprak uyansınduvarı duvara vur ateş gibi bir ıslık tutturyürü a benim deli gönlüm yürü kesilmiş hükmün
+önce kol sonra sürgü sonra anahtar açılır kapı
+itilirim sırtımdan ben ebedi kiracı kesilmiş hükmüm
+önce sürgü sonra kol sonra anahtar kapanır kapı
+bir ömür boyu diri diri içmek için gövdemi
+dolanır bacaklarıma balçık gibi ağır bir karanlık
+çırpınsam küçücük pencerede çifte çapraz parmaklık
+üstünde yüzüme örtülür binlerce kare demirörgü
+her karesinde oyulmuş bir göz gibi kanar gökyüzü
+batan güneşim kapının önünde kıpkızıl asılırım biran
+ranzam tavana ranzam yere ranzam göğsüme çakılı
+kımıldasam göğsüm boydan boya yırtılacak sanki
+duvarlarını üstüme yıkacak hücrem adım atsam
+adım atsam apansız kurşun değdi kanadına kuşun
+tutun beni önüm berbat uçurum bu kimin sesi
+bırak torbanı atlas'a ödüldür gökkubbeyi taşımak
+düş kırıklığına salan salsın gözlerini bırak
+ranzanda yatak yatakta düşlerin dağınık kalsın
+yürü delikanlım beton altında toprak uyansın
+duvarı duvara vur ateş gibi bir ıslık tuttur
+yürü a benim deli gönlüm yürü kesilmiş hükmün
 II
-şarkılar türküler skeçler camdan cama gülücükler-olur böyle şeyler takma kafanı yatarız be-gecede ay mı var alttan alta katılaşan bir şeyolur böyle şeyler takmıyorum kafamı yatarız be..biter havalandırma eğlentisi de gecenin bir yerindeson sigaranın ateşi kararır dostlar uykuya varırgece sefası bu mevsim açar mı gecede ay mı vardıidamdan müebbete düştüm müebbetten hücremebelki sıcaktı şubat gece karla başladı fakaten güzel yüzünü resminin yüreğime ters kapadımkırdım belleğimin bütün sırrı dökük aynalarınıranzam soğuk ranzam ayaz ranzam karaltımda demir üstümde ışık yanımda duvarüşür ellerim sensiz ellerim öksüz ellerimnerde portakal bahçesi kadar sıcak memelerindönerim gene duvar gene soğuk gene ayazdüşlerim seni almaz düşlerime müebbetim sığmazbir dal fesleğen taksan da saçlarına yorulursungüneşi yatırsalar koynuma ısınamambir yerine vardım ki gecenin sen yoksun
+şarkılar türküler skeçler camdan cama gülücükler
+-olur böyle şeyler takma kafanı yatarız be-
+gecede ay mı var alttan alta katılaşan bir şey
+olur böyle şeyler takmıyorum kafamı yatarız be..
+biter havalandırma eğlentisi de gecenin bir yerinde
+son sigaranın ateşi kararır dostlar uykuya varır
+gece sefası bu mevsim açar mı gecede ay mı vardı
+idamdan müebbete düştüm müebbetten hücreme
+belki sıcaktı şubat gece karla başladı fakat
+en güzel yüzünü resminin yüreğime ters kapadım
+kırdım belleğimin bütün sırrı dökük aynalarını
+ranzam soğuk ranzam ayaz ranzam kar
+altımda demir üstümde ışık yanımda duvar
+üşür ellerim sensiz ellerim öksüz ellerim
+nerde portakal bahçesi kadar sıcak memelerin
+dönerim gene duvar gene soğuk gene ayaz
+düşlerim seni almaz düşlerime müebbetim sığmaz
+bir dal fesleğen taksan da saçlarına yorulursun
+güneşi yatırsalar koynuma ısınamam
+bir yerine vardım ki gecenin sen yoksun
 III
-bir yerine vardım ki gecenin sen yoksunsen yüreğimin dağlarında sakladığım kaçak kızseni sunuyor kar yüklü dallarıyla çam ağaçlarıkimliğin bende saklı uzanıp alsam alnın apakgece balçık gibi yapışıyor ellerime saat kaçtende yaşanmayacak aşkımız anladım tenimde isyanyorgunum ranzama uzansam gözlerimi kapatsambir daha açmasam beni bu kapkara suskunlukbeni öldürecek diyorum avaz avaz düşüyorum
+bir yerine vardım ki gecenin sen yoksun
+sen yüreğimin dağlarında sakladığım kaçak kız
+seni sunuyor kar yüklü dallarıyla çam ağaçları
+kimliğin bende saklı uzanıp alsam alnın apak
+gece balçık gibi yapışıyor ellerime saat kaç
+tende yaşanmayacak aşkımız anladım tenimde isyan
+yorgunum ranzama uzansam gözlerimi kapatsam
+bir daha açmasam beni bu kapkara suskunluk
+beni öldürecek diyorum avaz avaz düşüyorum
 asama dikse anam kapımızdan balkona tırmansa
 akçamların kokusunu sen saçlarından savursan
 üç yanı sırılsıklam ülkem gibi hep acı dalgalara dirensen
@@ -977,116 +1357,265 @@ hep bir umudun allığı düşler ki sınırsız
 
 Nevzat ÇELİK
 
-### Mümkünüm Yok
+## Mümkünüm Yok
 
 Yusuf'a
-plastik tadında yediğim içtiğimyaz kış gözlerimi örseliyor duvarpaslanıyor demir gelip boyuyorlarhep aynı renkte ölemembeton tuttu ayaklarım dışarda karkarın altında toprak nasıl hasretimbir kuşun kanatları geçiyor üzerimdenbin kanat bakıyorum parmaklığaaklı gidiyor nöbetçinin
-kırk yıllık yoldan tanırım ben soğuklarıama asıl baharların erbabıyımyine yorgun argın aşacak dağlarıyine kapıma yıkılacak karanfilelleriyle koymuş gibi bulacaklarbadem mi olur erik mi çağla mıkendi dalından asacaklar baharıkaç yıl oldu alışamadımmümkünüm yok bu kez firarım
-aklı gidiyor nöbetçinin tüfek tüfek kalıyortezkeresi yakın hırsla parmaklarını sayıyorgöz gez arpacık bakıyor fena bakıyorgece dehşetli uzuyor duvarı iniyorumtoprağa basmalıyım bir kuşu uçmalıyımdeli esmeli poyraz bir dal parçası azbirazmutlak duvarı aşmalı yoksa duramamgövdemi mıhlasalar bahara kalamammümkünüm yok bu kez firarım
-hırsla parmaklarını sayıyor baştan sayıyortezkeresi yakın düşleri kayıyorapansız bin basamak nöbetçi kulesiyapayalnız ağzında uçurumun apansızkar etmiyor parka ah ne çocukça ıslıkbeter üşüyor tetik otomatiğe düşüyorben bahara kalamam ay batarkenşafak şafak açarken yaban süseni benyalnayak fırlıyorum duvarın dibinden
-bir ses canavarlaşacak ardımdandöne döne sırtımı yakacakciğerimi bulacak beni toprağa yıkacakvu-ra-cak mümkünü yokbir ödül bir tezkere alacakkaraköy'de bir orospuyla yatacakkaç bahar büyüğüm ondanonda hiç bahar açmayacakmümkünüm yok bu kez firarım
+plastik tadında yediğim içtiğim
+yaz kış gözlerimi örseliyor duvar
+paslanıyor demir gelip boyuyorlar
+hep aynı renkte ölemem
+beton tuttu ayaklarım dışarda kar
+karın altında toprak nasıl hasretim
+bir kuşun kanatları geçiyor üzerimden
+bin kanat bakıyorum parmaklığa
+aklı gidiyor nöbetçinin
+kırk yıllık yoldan tanırım ben soğukları
+ama asıl baharların erbabıyım
+yine yorgun argın aşacak dağları
+yine kapıma yıkılacak karanfil
+elleriyle koymuş gibi bulacaklar
+badem mi olur erik mi çağla mı
+kendi dalından asacaklar baharı
+kaç yıl oldu alışamadım
+mümkünüm yok bu kez firarım
+aklı gidiyor nöbetçinin tüfek tüfek kalıyor
+tezkeresi yakın hırsla parmaklarını sayıyor
+göz gez arpacık bakıyor fena bakıyor
+gece dehşetli uzuyor duvarı iniyorum
+toprağa basmalıyım bir kuşu uçmalıyım
+deli esmeli poyraz bir dal parçası azbiraz
+mutlak duvarı aşmalı yoksa duramam
+gövdemi mıhlasalar bahara kalamam
+mümkünüm yok bu kez firarım
+hırsla parmaklarını sayıyor baştan sayıyor
+tezkeresi yakın düşleri kayıyor
+apansız bin basamak nöbetçi kulesi
+yapayalnız ağzında uçurumun apansız
+kar etmiyor parka ah ne çocukça ıslık
+beter üşüyor tetik otomatiğe düşüyor
+ben bahara kalamam ay batarken
+şafak şafak açarken yaban süseni ben
+yalnayak fırlıyorum duvarın dibinden
+bir ses canavarlaşacak ardımdan
+döne döne sırtımı yakacak
+ciğerimi bulacak beni toprağa yıkacak
+vu-ra-cak mümkünü yok
+bir ödül bir tezkere alacak
+karaköy'de bir orospuyla yatacak
+kaç bahar büyüğüm ondan
+onda hiç bahar açmayacak
+mümkünüm yok bu kez firarım
                                        
 Aralık 1984
 
 Nevzat ÇELİK
 
-### Ne Fayda
+## Ne Fayda
 
-«Telden                           
-Demirden geçsen                           
-Mapusu delsen                          
-Ne fayda!» 
+«Telden
+                           
+Demirden geçsen
+                           
+Mapusu delsen
+                          
+Ne fayda!»
+ 
 
 
 I
-yüreklerimizi gencecikçıkarıp verebilseydiküşümezdi göğsümüzdebiber gibi bir uçurum
+yüreklerimizi gencecik
+çıkarıp verebilseydik
+üşümezdi göğsümüzde
+biber gibi bir uçurum
 II
-tam da yakalamışken doğanın gizinibir bir vururken emperyalizmi    toprak ananın geniş kalçalarındaneden kalktın soframızdan       ENVER USTA
-günü akşam etmek sana yakışır mıyakışır mı sana upuzun yatmakbiz yaştakileri ustasız bırakmaz
-adam sen deyatarsan yatbiz dik durdukçasen ölsenNE FAYDA!
+tam da yakalamışken doğanın gizini
+bir bir vururken emperyalizmi
+    toprak ananın geniş kalçalarında
+neden kalktın soframızdan
+       ENVER USTA
+günü akşam etmek sana yakışır mı
+yakışır mı sana upuzun yatmak
+biz yaştakileri ustasız bırakmaz
+adam sen de
+yatarsan yat
+biz dik durdukça
+sen ölsen
+NE FAYDA!
                        
 1982
 
 Nevzat ÇELİK
 
-### Öğüt
+## Öğüt
 
-bir gün eğer yolundüşerse sorguevlerinecinsiyetin yaşın renginfarketmez kardeşimyeter kitükür dilini yüzlerine
+bir gün eğer yolun
+düşerse sorguevlerine
+cinsiyetin yaşın rengin
+farketmez kardeşim
+yeter ki
+tükür dilini yüzlerine
                                    
 Temmuz 1983
 
 Nevzat ÇELİK
 
-### Sanki Sen
+## Sanki Sen
 
-bir hafta ağlamaklı dolaşıyorumölünce okuduğum roman kadınları
+bir hafta ağlamaklı dolaşıyorum
+ölünce okuduğum roman kadınları
                                                        
 Temmuz 1986
 
 Nevzat ÇELİK
 
-### Sen Büyü
+## Sen Büyü
 
 1
-nicedir it ürümüş kapımızdasokağımız bildik sokak değilmiştertemiz kefenmiş evlerin duvarlarısaksılarına ayrılık dikilmişkent karartıyormuş da yapraklarınıçiçekler dağlara çekilmiş
-çocukların bacaklarındakırlangıç kanatları kırılırmışbu yüzden basıp toprağatiril tiril büyürmüşsünyanına yanaşınca delikanlılarbir selvi dal olur yürürmüşsün
+nicedir it ürümüş kapımızda
+sokağımız bildik sokak değilmiş
+tertemiz kefenmiş evlerin duvarları
+saksılarına ayrılık dikilmiş
+kent karartıyormuş da yapraklarını
+çiçekler dağlara çekilmiş
+çocukların bacaklarında
+kırlangıç kanatları kırılırmış
+bu yüzden basıp toprağa
+tiril tiril büyürmüşsün
+yanına yanaşınca delikanlılar
+bir selvi dal olur yürürmüşsün
 2
-acının her dalında ökse kurdumsabrın sınırına varıp oturdumkavaklar giyindi kavaklar soyunduçakır kanatlar vuruldu vurulduellerimde tadamadım boyunuah kardeşim kaç yıl oldu
-kömür karası bir çocuktunsaçın oluğunda akardı sırtınınbir göl uyanırdı gözlerindesazlığından kaç tüfek bakardıbilmezdin tırmanırdın dizlerimeellerin ateş olur yakardı
+acının her dalında ökse kurdum
+sabrın sınırına varıp oturdum
+kavaklar giyindi kavaklar soyundu
+çakır kanatlar vuruldu vuruldu
+ellerimde tadamadım boyunu
+ah kardeşim kaç yıl oldu
+kömür karası bir çocuktun
+saçın oluğunda akardı sırtının
+bir göl uyanırdı gözlerinde
+sazlığından kaç tüfek bakardı
+bilmezdin tırmanırdın dizlerime
+ellerin ateş olur yakardı
 3
-dağ dağa döndü yüzünübugün yarına sen umudapaçamı çekip yukarı ararımellerini dizlerimde tutçöküverir olur olmazbaşıma bir serseri bulut
+dağ dağa döndü yüzünü
+bugün yarına sen umuda
+paçamı çekip yukarı ararım
+ellerini dizlerimde tut
+çöküverir olur olmaz
+başıma bir serseri bulut
 4
-çatallansın göğsünçatallansın yüreğinhücrem kadar basıksa daülkemin göğüben taşırım omuzlarımdacanım kardeşim sen büyü
+çatallansın göğsün
+çatallansın yüreğin
+hücrem kadar basıksa da
+ülkemin göğü
+ben taşırım omuzlarımda
+canım kardeşim sen büyü
                                        
 Kasım 1984
 
 Nevzat ÇELİK
 
-### Sıcak Saklayın Gecelerimi
+## Sıcak Saklayın Gecelerimi
 
 geçici ayrılık benimkisi
+
 ilkyaz çiçeğine gebeyim
+
 ağıtlar yakmayın adıma
+
 ben ölmedim ölmeyeceğim 
 sıcak saklayın gecelerimi
+
 karlar altından çıkıp geleceğim
+
 düşlerinizin ateşinden
+
 ılık bir rüzgar gibi eseceğim 
 demlice bir çay koyun üstüne
+
 aç çocuk gibi besleyin sobayı
+
 nasıl tütüyorsanız gözlerimde
+
 öylece tütsün buharı 
 uzunca serin yatağımı
+
 boyunca uzansın ayağım
+
 el aman deyince gece
+
 usulca kıvrılır yatarım 
 can canım canlarım
+
 hazır mı koynunuzdaki yerim
+
 gün olur gecikmiş çocuk gibi
+
 bağıra çağıra gelirim
 
 Nevzat ÇELİK
 
-### Suç
+## Suç
 
-evimin önü yokuşsokağımı kar tutmuşal da uç gözlerimikanatları gümüş kuşal da uç
+evimin önü yokuş
+sokağımı kar tutmuş
+al da uç gözlerimi
+kanatları gümüş kuş
+al da uç
                
 1986
 
 Nevzat ÇELİK
 
-### Sunu
+## Sunu
 
 I
-güneşi hiç görmedim penceremdene ay doğdu geceme ne bir yıldızhem sıkış sıkış hem çöl kadar ıssızbeş yıldır bir şeyler soluyor içimde
+güneşi hiç görmedim penceremde
+ne ay doğdu geceme ne bir yıldız
+hem sıkış sıkış hem çöl kadar ıssız
+beş yıldır bir şeyler soluyor içimde
 II
-dal olsun diye kuşa uzattımdı kolumuomuzlarıma kadar ekmek ufaladımdıyanılıp da bir kez bile konmadıinip üç adımda bitirdim yolumu
-evet üç adımdabir tokatgibi çarptı yüzüme duvardibine çöküp avuçlarımı açtım fakathangisine sapsam ne çok yol var
-el eli çoğaltmayınca bir yerdeuçurumlaşıyor avuç çizgisi detek başıma yürüsem şimdibarbaros bulvarı'ndan beşiktaş'abir vapura binsem ya da motora—kaptan dümen kır üsküdar'a—düşteki gibi ansısam birdenkoyun gibi yatırılıp kazınmış saçımlaayakkabısızlığım.. pantolonsuz bacaklarımlaiçinizde aykırı bir yaşamım benihbar polis filan.. güvertede tutuklanmadanbalığın üstüne martının altınayarı yolda kaldırıp gövdemi atsambulurdum kendimi ayaklarımın dibindebeş yıldır bir şeyler sürükleniyor içimde
-yıllarca mektupsuz kitapsız bırakıldımbir elimle yazdıklarımıokudum diğer elimlebeş yıldır beş koca yıldırbir şeyler kopuyor içimde
+dal olsun diye kuşa uzattımdı kolumu
+omuzlarıma kadar ekmek ufaladımdı
+yanılıp da bir kez bile konmadı
+inip üç adımda bitirdim yolumu
+evet üç adımdabir tokat
+gibi çarptı yüzüme duvar
+dibine çöküp avuçlarımı açtım fakat
+hangisine sapsam ne çok yol var
+el eli çoğaltmayınca bir yerde
+uçurumlaşıyor avuç çizgisi de
+tek başıma yürüsem şimdi
+barbaros bulvarı'ndan beşiktaş'a
+bir vapura binsem ya da motora
+—kaptan dümen kır üsküdar'a—
+düşteki gibi ansısam birden
+koyun gibi yatırılıp kazınmış saçımla
+ayakkabısızlığım.. pantolonsuz bacaklarımla
+içinizde aykırı bir yaşamım ben
+ihbar polis filan.. güvertede tutuklanmadan
+balığın üstüne martının altına
+yarı yolda kaldırıp gövdemi atsam
+bulurdum kendimi ayaklarımın dibinde
+beş yıldır bir şeyler sürükleniyor içimde
+yıllarca mektupsuz kitapsız bırakıldım
+bir elimle yazdıklarımı
+okudum diğer elimle
+beş yıldır beş koca yıldır
+bir şeyler kopuyor içimde
 III
-şortum ve şıpıdık tokyalarımla gördünüzbeni haydarpaşa hastane girişinde beklerkengüneş yanığı teninize renk renk giysilerinize bakarkenuzun zincirlerle bağlı kollarımı süzdünüz
-imgeleminiz hemen de devindi—deli bu deli—yüzdeki buruşmadanduymasa da anlıyor insanbiraz kötücül biraz acımaklıbaktınız yüreğimi şaşırdımdürterek birbirinizigizliden fısıldaştınız
+şortum ve şıpıdık tokyalarımla gördünüz
+beni haydarpaşa hastane girişinde beklerken
+güneş yanığı teninize renk renk giysilerinize bakarken
+uzun zincirlerle bağlı kollarımı süzdünüz
+imgeleminiz hemen de devindi
+—deli bu deli—
+yüzdeki buruşmadan
+duymasa da anlıyor insan
+biraz kötücül biraz acımaklı
+baktınız yüreğimi şaşırdım
+dürterek birbirinizi
+gizliden fısıldaştınız
 sıkıca kavranıp kollarımdan
 özenle geçirildim aranızdan
 —sizi mi koruyorlardı beni mi bilmem—
@@ -1145,70 +1674,123 @@ Ocak 1985
 
 Nevzat ÇELİK
 
-### Şafak Türküsü
+## Şafak Türküsü
 
 1
+
 Beni burada arama anne
+
 Kapıda adımı sorma
+
 Saçlarına yıldız düşmüş
+
 Koparma anne
+
 Ağlama
 
 
 Kaç zamandır yüzüm tıraşlı
+
 Gözlerim şafak bekledim
+
 Uzarken ellerim
+
 Kulağım kirişte
+
 Ölümü özledim anne
+
 Yaşamak isterken delice
 
 
 2
+
 Bugün görüş günü
+
 Günlerden salı
+
 Islak
+
 Sarı bir yağmur
+
 Ülkemin neresine bakarsa ay
+
 Orada yitik bir anne ağlıyor
+
 Sen aralıyorsun yağmuru
+
 Acıdan sırılsıklam alnına siper edip elini
+
 Sonra bir umut koşuyorsun
+
 Yüreğin avcunda
+
 ısırırken
+
 çırpıntı gözlerini
+
 (ah verebilseydim keşke
+
 yüreği avcunda koşan
+
 herbir anneye
+
 tepeden tırnağa oğula
+
 ve kıza kesmiş
+
 bir ülkeyi armağan
+
 koşma anne
+
 birdenbire batacak olan
+
 düş denizinde yarattığın umut sandalıdır
+
 oysa benim için gece
+
 ışık hızıyla koşan
+
 kısa ve soğuk bir zamandır
+
 bu yüzden boğuk seslerle geldiler bir şafak
+
 uykusuz
+
 yorgun
+
 ve korkak
 
 
 3
+
 sanırım baytardı
+
 yüreğimin depreminde rihter ölçeği çatlarken
+
 ölebilir raporu veren beyaz önlüklü doktor
+
 boşver hipokrat amca
+
 üzülme ne olur
+
 sen de anne
+
 sen de üzülme
+
 hücremin dört bir köşesinde el ayak izlerimi
+
 ciğerlerimde yırtılan bir çığlıkla hazır beklediğim
+
 ve korkunç bir sabırla birbirine eklediğim
+
 korkak kahraman gecelerimi
+
 düşlerimle sınırsız
+
 diretmişliğimle genç
+
 şaşkınlığımla çocuk devrederken sıradakine
+
 usulca açılıverdi
 
 yanağımda tomurcuk
@@ -1671,59 +2253,121 @@ o mükemmel güne
 
 Nevzat ÇELİK
 
-### Tahliye Olan
+## Tahliye Olan
 
 I
-kara sürülmesin diye anamızın ak sütünebaşımızın gölgesini bile düşürmedik önümüzekoşarak gelirdi seksek çizgisinden çocukların sesiacının aynasında yansırdı yurdumun o can sureti
+kara sürülmesin diye anamızın ak sütüne
+başımızın gölgesini bile düşürmedik önümüze
+koşarak gelirdi seksek çizgisinden çocukların sesi
+acının aynasında yansırdı yurdumun o can sureti
 II
-apansız kar fırtınası tozardı uykularımızduyardık basılmış yuvaları dağkırlangıçlarınınsesimiz sesimizi kucaklayarak aşardı duvarı           
-kar aklığını kan yakmasın           
-açın kanatlarınızı kırlangıçlarım           
-mavi dağ dumanını           
-sarın kanatlarınıza kırlangıçlarım           
-umut umut dağlarımızda           
+apansız kar fırtınası tozardı uykularımız
+duyardık basılmış yuvaları dağkırlangıçlarının
+sesimiz sesimizi kucaklayarak aşardı duvarı
+           
+kar aklığını kan yakmasın
+           
+açın kanatlarınızı kırlangıçlarım
+           
+mavi dağ dumanını
+           
+sarın kanatlarınıza kırlangıçlarım
+           
+umut umut dağlarımızda
+           
 kanatlanın kırlangıçlarım
 III
-çatımızın üzerinde gökyüzü diye bir şey vardıboş bir tabut gibi yatardı havalandırmada bizsizbir zaman çıplaklığımızı ısıtan giysilerimizve görüşçülerimiz vardı yüzleri yasaktıo yasaktı bu yasaktı şu yasakyasaklar arasından bir güzelim yasakkırıp atardı yasakları elimizden yuvarlasak
-mektupsuz kitapsız uykusuz kaldıkkadınsız topraksız ağaçsız kaldıkyıl yıl mapus mapus kaldık aç açıktaştık.. dayandık.. kimseler duymadıgelip de çatmasa kaşını ayrılıkdostlar gene birlikte dayanırdık
+çatımızın üzerinde gökyüzü diye bir şey vardı
+boş bir tabut gibi yatardı havalandırmada bizsiz
+bir zaman çıplaklığımızı ısıtan giysilerimiz
+ve görüşçülerimiz vardı yüzleri yasaktı
+o yasaktı bu yasaktı şu yasak
+yasaklar arasından bir güzelim yasak
+kırıp atardı yasakları elimizden yuvarlasak
+mektupsuz kitapsız uykusuz kaldık
+kadınsız topraksız ağaçsız kaldık
+yıl yıl mapus mapus kaldık aç açık
+taştık.. dayandık.. kimseler duymadı
+gelip de çatmasa kaşını ayrılık
+dostlar gene birlikte dayanırdık
 IV
-ne yaşlı bir kavak gibi son deminde üşüyen babamı    ne yaprak yaprak düşleri savrulan anamıne bin yıllık kavgamızın bağbozumunu    ne bir akşam vakti yanan denizin ufkunune beyninin yüreğinin ve gövdesinin    bütün kapılarını araladığım üç aylık karımıne de karımın karnında yatan yarı canımıbırakıp da düşmek içeri dostlarkoymadı    sizi parmaklığa asıp gitmek kadar
+ne yaşlı bir kavak gibi son deminde üşüyen babamı
+    ne yaprak yaprak düşleri savrulan anamı
+ne bin yıllık kavgamızın bağbozumunu
+    ne bir akşam vakti yanan denizin ufkunu
+ne beyninin yüreğinin ve gövdesinin
+    bütün kapılarını araladığım üç aylık karımı
+ne de karımın karnında yatan yarı canımı
+bırakıp da düşmek içeri dostlar
+koymadı
+    sizi parmaklığa asıp gitmek kadar
                                                    
 Ocak-Şubat
 
 Nevzat ÇELİK
 
-### Uykusuz
+## Uykusuz
 
-duvara demire değmektengün boyu yorgunuzanıyorum ranzamabirdenbire kokun
+duvara demire değmekten
+gün boyu yorgun
+uzanıyorum ranzama
+birdenbire kokun
 
 Nevzat ÇELİK
 
-### Yağmur Yağmasaydı
+## Yağmur Yağmasaydı
 
-önce yağmur vardı 
-
-
-adam içerden kekeme adımlarla çıktıburnunun ucuna düşen gözlüğünü düzelttiarkadan bağlı değildi kollarıama o bunu farketmedibaktı bir ufka yatıp bakar gibi bir ufkagörüşçülerin arasına karıştımoysa ben değildim aradığı
-sarıldılar boynuna adamınsarılanları tanıyordum
-çok iyi tanıyordum 
+önce yağmur vardı
+ 
 
 
-adam öptü onları kokladıadam birini aradı durmadanben değildim aradığısendinusulca ellerimi tutan
-seni yağmurların aldığını biliyordubelki bilmiyorduadam durmadan seni aradıadını bağırdım
-duymadı 
+adam içerden kekeme adımlarla çıktı
+burnunun ucuna düşen gözlüğünü düzeltti
+arkadan bağlı değildi kolları
+ama o bunu farketmedi
+baktı bir ufka yatıp bakar gibi bir ufka
+görüşçülerin arasına karıştım
+oysa ben değildim aradığı
+sarıldılar boynuna adamın
+sarılanları tanıyordum
+çok iyi tanıyordum
+ 
 
 
-beni benden başka kimse duymadı 
+adam öptü onları kokladı
+adam birini aradı durmadan
+ben değildim aradığı
+sendin
+usulca ellerimi tutan
+seni yağmurların aldığını biliyordu
+belki bilmiyordu
+adam durmadan seni aradı
+adını bağırdım
+duymadı
+ 
 
 
-barbaros kafe'nin balkonunda oturuyordukmasada bir eylemin başlangıcı duruyorduyağmurun altında akşam oluyordu
-yağmur yağmasa akşam olmayacaktıbelki bunların hiçbiri olmayacaktı
-şiirden ayrılan bir dize gibi kalktınbir dizesi eksik şiir gibi kalktın
-onsekiz yaşını alıp masadan 
+beni benden başka kimse duymadı
+ 
 
 
-arabaya bindirdiler adamıbuğulu cama dayadı ıslak burnunukolları bağlı değildi farkına varmadıseni yağmurların aldığını biliyordubelki bilmiyordubaktım arkasından koştum arkasından
+barbaros kafe'nin balkonunda oturuyorduk
+masada bir eylemin başlangıcı duruyordu
+yağmurun altında akşam oluyordu
+yağmur yağmasa akşam olmayacaktı
+belki bunların hiçbiri olmayacaktı
+şiirden ayrılan bir dize gibi kalktın
+bir dizesi eksik şiir gibi kalktın
+onsekiz yaşını alıp masadan
+ 
+
+
+arabaya bindirdiler adamı
+buğulu cama dayadı ıslak burnunu
+kolları bağlı değildi farkına varmadı
+seni yağmurların aldığını biliyordu
+belki bilmiyordu
+baktım arkasından koştum arkasından
 aramızda sekiz yıl vardı
 yağmur ve akşam
  

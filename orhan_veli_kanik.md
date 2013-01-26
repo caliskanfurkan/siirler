@@ -1,6 +1,6 @@
-## Orhan Veli KANIK
+# Orhan Veli KANIK
 
-### YAŞAMI
+## YAŞAMI
 
 'le  arkadaş oldu. Liseyi bitirince İstanbul'a dönerek, Edebiyat Fakültesi Felsefe Bölümü'ne girdi (1932), ancak yüksek öğrenimini yarım bıraktı (1935). 1936'da Ankara'ya döndü ve askere gidinceye dek PTT Genel Müdürlüğü Telgraf İşleri Reisliği Milletlerarası Nizamlar Bürosunda memurluk yaptı. Yedek subaylığını tamamlayınca, iki yıl kadar, yine Ankara'da, Milli Eğitim Bakanlığı Tercüme Bürosu'nda çalıştı. 1947'de, Hasan Âli Yücel'in yerine Reşat Şemsettin Sirer'in bakan olarak atanması üzerine, Milli Eğitim Bakanlığında "antidemokratik bir hava" esmeye başladığını söyleyerek, görevinden istifa etti. 1 Ocak 1949-15 Haziran 1950 tarihleri arasında yirmi sekiz sayı süren, on beş günde bir yayımlanan, iki sayfalık ' Yaprak'  dergisini çıkardı. Yaprak dergisi serüvenini sürdüremeyeceğini anlayınca Ankara'dan ayrılıp İstanbul'a gitti. Gene o yılın kasım ayı içinde, bir haftalığına geldiği Ankara'da, 10 Kasım 1950 gecesinde, yolda, onarım için kazılmış bir çukura düşerek ayağından yaralandı. İstanbul'a döndükten sonra, bir arkadaşının evindeyken, durumu birdenbire kötüleştiği için kaldırıldığı Cerrahpaşa Hastanesi'nde, 14 Kasım 1950 tarihinde beyin kanamasından öldü, Rumelihisarı Mezarlığı'na gömüldü.
 
@@ -11,19 +11,23 @@ de yazılabileceğini gösterdi.
 
 Orhan Veli KANIK
 
-### Bütün Şiirleri
+## Bütün Şiirleri
 
+ORHAN VELİ
 Bütün Şiirleri, ,
 Adam Yayınları
+
 Hey gidi Orhan Veli,
+
     Denizlerin ve İstanbul'un şairi!
+
     Seni bir kitaba sığdırmak mümkün mü?
 
     Orhan Veli şiirlerini tatmak için başvurabileceğiniz tek derli toplu kaynak.
 
 Orhan Veli KANIK
 
-### Açsam Rüzgara
+## Açsam Rüzgara
 
 Ne hoş, ey güzel Tanrım, ne hoş 
 Mavilerde sefer etmek! 
@@ -60,7 +64,7 @@ Kuşlar gibi serseri ömrün.
 
 Orhan Veli KANIK
 
-### Anlatamıyorum
+## Anlatamıyorum
 
 Ağlasam sesimi duyar mısınız,  
 Mısralarımda; 
@@ -76,7 +80,7 @@ Anlatamıyorum.
 
 Orhan Veli KANIK
 
-### Ayrılış
+## Ayrılış
 
 Baka kalýrým giden geminin ardýndan; 
 Atamam kendimi denize, dünya güzel; 
@@ -84,13 +88,50 @@ Serde erkeklik var, aðlayamam.
 
 Orhan Veli KANIK
 
-### Bayrak
+## Bayrak
 
-Ey bir muharebe meydanında Avuçları kanımla dolu,Kafası gövdemin altında,Bacağı kolumun üstünde,Cansız uyanan insan kardeşim!Ne adını biliyorum,Ne günahını.İhtimal aynı ordunun neferleriyiz,İhtimal düşman.Belki de tanırsın beni.Ben İstanbul' da şarkı söyleyenTeyyareyle Hambur' a düşen,Majino' da yaralanan,Atina' da açlıktan ölen,Singapur' da esir edilenim.Alınyazımı kendim yazmadım.Bununla beraber biliyorum,O yazıyı yazanlar kadar olsun,Çiçekli dondurmanın tadını,Cazbant sesindeki sevinci,Meşhur olmanın azametini.Sen de nimetler tanırsın biliyorum;Çaydan, simitten,Kalınca bir paltodan gayrı.Zeytinyağlı enginar, kremalı keklikBir kadehBlack And White viski,Kıl pranga kızıl çengi bir esvap.Kimi yıllık çalışmanınBir kurşunluk hükmü varmış,HayataHarkof bölgesinde atılmakmış nasip;Aldırma.Biz bir bayrak getirdik buraya kadar;Onu daha ileriye götürürler;Şu dünyada topu topuİki milyar kişiyiz,Birbirimizi biliriz.
+Ey bir muharebe meydanında 
+Avuçları kanımla dolu,
+Kafası gövdemin altında,
+Bacağı kolumun üstünde,
+Cansız uyanan insan kardeşim!
+Ne adını biliyorum,
+Ne günahını.
+İhtimal aynı ordunun neferleriyiz,
+İhtimal düşman.
+Belki de tanırsın beni.
+Ben İstanbul' da şarkı söyleyen
+Teyyareyle Hambur' a düşen,
+Majino' da yaralanan,
+Atina' da açlıktan ölen,
+Singapur' da esir edilenim.
+Alınyazımı kendim yazmadım.
+Bununla beraber biliyorum,
+O yazıyı yazanlar kadar olsun,
+Çiçekli dondurmanın tadını,
+Cazbant sesindeki sevinci,
+Meşhur olmanın azametini.
+Sen de nimetler tanırsın biliyorum;
+Çaydan, simitten,
+Kalınca bir paltodan gayrı.
+Zeytinyağlı enginar, kremalı keklik
+Bir kadeh
+Black And White viski,
+Kıl pranga kızıl çengi bir esvap.
+Kimi yıllık çalışmanın
+Bir kurşunluk hükmü varmış,
+Hayata
+Harkof bölgesinde atılmakmış nasip;
+Aldırma.
+Biz bir bayrak getirdik buraya kadar;
+Onu daha ileriye götürürler;
+Şu dünyada topu topu
+İki milyar kişiyiz,
+Birbirimizi biliriz.
 
 Orhan Veli KANIK
 
-### Bayram
+## Bayram
 
 Kargalar, sakın anneme söylemeyin!
 Bugün toplar atılırken evden kaçıp
@@ -103,7 +144,7 @@ Kargalar, ne olur anneme söylemeyin!
 
 Orhan Veli KANIK
 
-### Bedava
+## Bedava
 
 Bedava yaşıyoruz, bedava;
 Hava bedava, bulut bedava;
@@ -120,7 +161,7 @@ Bedava yaşıyoruz, bedava.
 
 Orhan Veli KANIK
 
-### Dalgacı Mahmut
+## Dalgacı Mahmut
 
 İşim gücüm budur benim,
 Gökyüzünü boyarım her sabah,
@@ -140,7 +181,7 @@ Ne haltedeceğimi bilemem.
 
 Orhan Veli KANIK
 
-### Delikli Şiir
+## Delikli Şiir
 
 Cep delik, cepken delik, 
 Kol delik, mintan delik, 
@@ -149,19 +190,25 @@ Kevgir misin be kardeşlik !
 
 Orhan Veli KANIK
 
-### Gelirli Şiir
+## Gelirli Şiir
 
 İstanbul'dan ayva da gelir, nar gelir,
+
 Döndüm baktım, bir edalı yar gelir
+
 Gelir desen dar gelir
+
 Günaşırı alacaklılar gelir.
+
 Anam anam,
+
 Dayanamam,
+
 bu iş bana zor gelir.
 
 Orhan Veli KANIK
 
-### Gün Olur
+## Gün Olur
 
 Gün olur, alır başımı giderim, 
 Denizden yeni çıkmış ağların kokusunda. 
@@ -178,7 +225,7 @@ Gün olur, deli gibi...
 
 Orhan Veli KANIK
 
-### Güzel Havalar
+## Güzel Havalar
 
 Beni bu güzel havalar mahvetti,
 Böyle havada istifa ettim
@@ -193,13 +240,18 @@ Beni bu güzel havalar mahvetti.
 
 Orhan Veli KANIK
 
-### Harbe Giden
+## Harbe Giden
 
-Harbe giden sarı saçlı çocuk!Gene böyle güzel dön;Dudaklarında deniz kokusu,Kirpiklerinde tuz;Harbe giden sarı saçlı çocuk!
+HARBE GİDEN
+Harbe giden sarı saçlı çocuk!
+Gene böyle güzel dön;
+Dudaklarında deniz kokusu,
+Kirpiklerinde tuz;
+Harbe giden sarı saçlı çocuk!
 
 Orhan Veli KANIK
 
-### Hürriyete Doğru
+## Hürriyete Doğru
 
 Gün doğmadan, 
 Deniz daha bembeyazken çıkacaksın yola. 
@@ -229,7 +281,7 @@ Git gidebildiğin yere...
 
 Orhan Veli KANIK
 
-### İstanbul'u Dinliyorum
+## İstanbul'u Dinliyorum
 
 İstanbul'u dinliyorum, gözlerim kapalı
 Önce hafiften bir rüzgar esiyor;
@@ -277,7 +329,7 @@ Kalbinin vuruşundan anlıyorum;
 
 Orhan Veli KANIK
 
-### Kitabe-i Sengi Mezar
+## Kitabe-i Sengi Mezar
 
 Hiç bir şeyden çekmedi dünyada 
 Nasırdan çektiği kadar. 
@@ -291,7 +343,7 @@ Yazık oldu Süleyman Efendi'ye...
 
 Orhan Veli KANIK
 
-### Macera
+## Macera
 
 Bir uçurtma yaptım, telli duvaklı;
 Kuyruğu ebemkuşağı renginde;
@@ -310,7 +362,7 @@ Görüp göreceği.
 
 Orhan Veli KANIK
 
-### Pazar Akşamları
+## Pazar Akşamları
 
 Şimdi kılıksızım, fakat
 borçlarımı ödedikten sonra
@@ -325,7 +377,7 @@ zannediyor musun ki ben de sana
 
 Orhan Veli KANIK
 
-### Rüya
+## Rüya
 
 Annemi ölmüş gördüm rüyamda.
 Ağlayarak uyanışım
@@ -335,8 +387,9 @@ Ağlayışımı.
 
 Orhan Veli KANIK
 
-### Tren Sesi
+## Tren Sesi
 
+TREN SESİ
 Garibim
 Ne bir güzel var
 Avutacak gönlümü
@@ -348,7 +401,7 @@ Duymaya göreyim
 
 Orhan Veli KANIK
 
-### Yaşamak
+## Yaşamak
 
 Biliyorum, kolay değil yaşamak, 
 Gönül verip türkü söylemek yar üstüne; 
@@ -371,7 +424,7 @@ Kolay değil bu dünyadan ayrılmak.
 
 Orhan Veli KANIK
 
-### Ayrılış
+## Ayrılış
 
 Baka kalýrým giden geminin ardýndan; 
 Atamam kendimi denize, dünya güzel; 
@@ -379,7 +432,7 @@ Serde erkeklik var, aðlayamam.
 
 Orhan Veli KANIK
 
-### Dalgacı Mahmut
+## Dalgacı Mahmut
 
 İşim gücüm budur benim,
 Gökyüzünü boyarım her sabah,
@@ -399,7 +452,7 @@ Ne haltedeceğimi bilemem.
 
 Orhan Veli KANIK
 
-### Gün Olur
+## Gün Olur
 
 Gün olur, alır başımı giderim, 
 Denizden yeni çıkmış ağların kokusunda. 
@@ -416,7 +469,7 @@ Gün olur, deli gibi...
 
 Orhan Veli KANIK
 
-###    
+##    
 		Hürriyete Doğru
 
 Gün doğmadan, 
@@ -447,7 +500,7 @@ Git gidebildiğin yere...
 
 Orhan Veli KANIK
 
-###    
+##    
 		İstanbul'u Dinliyorum
 
 İstanbul'u dinliyorum, gözlerim kapalı
@@ -496,7 +549,7 @@ Kalbinin vuruşundan anlıyorum;
 
 Orhan Veli KANIK
 
-###    Macera
+##    Macera
 
 Bir uçurtma yaptım, telli duvaklı;
 Kuyruğu ebemkuşağı renginde;
@@ -515,7 +568,7 @@ Görüp göreceği.
 
 Orhan Veli KANIK
 
-### Pro Patria 
+## Pro Patria 
 
 What have we not done
 For our mother-
@@ -530,7 +583,7 @@ Translated by Murat Nemet-Nejat
 
 Orhan Veli KANIK
 
-### Spread Out 
+## Spread Out 
 
 She's spread out;
 Her skirt pulled up slightly;
@@ -547,7 +600,7 @@ Translated by Murat Nemet-Nejat
 
 Orhan Veli KANIK
 
-### Sunday Evenings 
+## Sunday Evenings 
 
 I don't look like much today;
 When I pay my debts,
@@ -566,7 +619,7 @@ Translated by Murat Nemet-Nejat
 
 Orhan Veli KANIK
 
-### The Tavern 
+## The Tavern 
 
 I don't love her anymore
 So
@@ -578,7 +631,6 @@ Every night
 Thinking of her?
 
                
-
 Translated by Murat Nemet-Nejat
 
 Orhan Veli KANIK

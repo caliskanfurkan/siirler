@@ -1,30 +1,6 @@
-## Nâzım HİKMET
+# Nâzım HİKMET
 
-### YAŞAMI
-
-Soyadı Ran'dır. 20 Kasım 1901 tarihinde Selanik'te doğdu; ancak ailesi 15 Ocak
-1902 olarak kaydetmiş ve kendisi de bu durumu benimsemiştir. 3 Haziran 1963
-tarihinde Moskova'da öldü. İstanbul'da Heybeliada Bahriye Mektebi'ni bitirdi,
-ancak sağlık sorunları nedeniyle subaylık serüveni sona erdi. Kurtuluş
-Savaşı'na katılmak amacıyla Anadolu'ya geçti (1921). Anadolu'da Kurtuluş Savaşı
-için verilen her görevi yerine getirdi. Oradan Rusya'ya gitti.  Doğu Emekçileri
-Komünist Üniversitesi'nde (KUTV) yüksek öğrenimini tamamladı. 1924 yılında
-gizlice Türkiye'ye döndü. Gazetelerde, dergilerde, film stüdyolarında çalıştı.
-Şiirleri nedeniyle birkaç kez kovuşturmaya uğradı. 1938 yılında orduyu
-ayaklanmaya kışkırtmaya çalıştığı gerekçesiyle kanıtsız, yasaya ve hukuka
-aykırı olarak 28 yıl 4 ay hapis cezasına çarptırıldı. İstanbul, Ankara, Çankırı
-ve Bursa Cezaevlerinde 12 yılı aşkın kaldı. 1950 yılında bir af yasasıyla 
-salıverildi. Ancak sürekli izlendiği ve çürüğe ayrıldığı halde 48 yaşında
-yeniden askerlik yapmaya çağrılması ile öldürüleceği yolundaki duyumlar üzerine
-yurtdışına kaçtı. 25 Temmuz 1951 tarihinde Bakanlar Kurulu tarafından Türk
-vatandaşlığından çıkarılmasına karar verildi. Yurtdışında sürekli olarak
-Bulgaristan, Rusya, Polonya'da yaşadı; birçok uluslararası kongreye katılarak
-çeşitli ülkelere yolculuklar yaptı.1963 yılında geçirdiği bir kalp krizi
-sonunda öldü,  Moskova'da Novo-Deviçeye Mezarlığına gömüldü.
-
-Nâzım HİKMET
-
-### 21 1 924
+## 21 1 924
 
 Lambayı yakma, bırak,
 sarı bir insan başı
@@ -47,7 +23,7 @@ ve ben hatırlıyorum.
 
 Nâzım HİKMET
 
-### Açlık Ordusu Yürüyor
+## Açlık Ordusu Yürüyor
 
 Açlık ordusu yürüyor 
 yürüyor ekmeğe doymak için 
@@ -77,7 +53,7 @@ yürüyor ayakları kan içinde.
 
 Nâzım HİKMET
 
-### Asya-Afrika Yazarlarına
+## Asya-Afrika Yazarlarına
 
 Kardeşlerim 
 bakmayın sarı saçlı olduğuma 
@@ -116,7 +92,7 @@ malı mülkü aklı fikri canı neyi varsa verebilmeli
 
 Nâzım HİKMET
 
-### Aşı
+## Aşı
 
 1
  
@@ -185,47 +161,143 @@ bu kesik
 
 Nâzım HİKMET
 
-### Ben Senden Önce Ölmek İsterim
+## Ben Senden Önce Ölmek İsterim
 
-Bensenden önce ölmek isterim.Gidenin arkasından gelengideni bulacak mı zannediyorsun?Ben zannetmiyorum bunu.İyisi mi, beni yaktırırsın,odanda ocağın üstüne korsun                   
-içinde bir kavanozun.Kavanoz camdan olsun,şeffaf, beyaz camdan olsun                   
-ki içinde beni görebilesin...Fedakârlığımı anlıyorsun :vazgeçtim toprak olmaktan,vazgeçtim çiçek olmaktan                       
-senin yanında kalabilmek için.Ve toz oluyorumyaşıyorum yanında senin.Sonra, sen de ölüncekavanozuma gelirsin.Ve orda beraber yaşarızkülümün içinde külün,ta ki bir savruk gelinyahut vefasız bir torunbizi ordan atana kadar...Ama bizo zamana kadaro kadarkarışacağızki birbirimize,atıldığımız çöplükte bile zerrelerimiz                                    
-yan yana düşecek.Toprağa beraber dalacağız.Ve bir gün yabani bir çiçekbu toprak parçasından nemlenip filizlenirsesapında muhakkakiki çiçek açacak :                   
-biri sen                   
-biri de ben.Bendaha ölümü düşünmüyorum.Ben daha bir çocuk doğuracağım.Hayat taşıyor içimden.Kaynıyor kanım.Yaşayacağım, ama çok, pek çok,ama sen de beraber.Ama ölüm de korkutmuyor beni.Yalnız pek sevimsiz buluyorum                               
-bizim cenaze şeklini.Ben ölünceye kadar dabu düzelir herhalde.Hapisten çıkmak ihtimalin var mı bu günlerde?İçimden bir şey :                 
-belki diyor. 
+Ben
+senden önce ölmek isterim.
+Gidenin arkasından gelen
+gideni bulacak mı zannediyorsun?
+Ben zannetmiyorum bunu.
+İyisi mi, beni yaktırırsın,
+odanda ocağın üstüne korsun
+                   
+içinde bir kavanozun.
+Kavanoz camdan olsun,
+şeffaf, beyaz camdan olsun
+                   
+ki içinde beni görebilesin...
+Fedakârlığımı anlıyorsun :
+vazgeçtim toprak olmaktan,
+vazgeçtim çiçek olmaktan
+                       
+senin yanında kalabilmek için.
+Ve toz oluyorum
+yaşıyorum yanında senin.
+Sonra, sen de ölünce
+kavanozuma gelirsin.
+Ve orda beraber yaşarız
+külümün içinde külün,
+ta ki bir savruk gelin
+yahut vefasız bir torun
+bizi ordan atana kadar...
+Ama biz
+o zamana kadar
+o kadar
+karışacağız
+ki birbirimize,
+atıldığımız çöplükte bile zerrelerimiz
+                                    
+yan yana düşecek.
+Toprağa beraber dalacağız.
+Ve bir gün yabani bir çiçek
+bu toprak parçasından nemlenip filizlenirse
+sapında muhakkak
+iki çiçek açacak :
+                   
+biri sen
+                   
+biri de ben.
+Ben
+daha ölümü düşünmüyorum.
+Ben daha bir çocuk doğuracağım.
+Hayat taşıyor içimden.
+Kaynıyor kanım.
+Yaşayacağım, ama çok, pek çok,
+ama sen de beraber.
+Ama ölüm de korkutmuyor beni.
+Yalnız pek sevimsiz buluyorum
+                               
+bizim cenaze şeklini.
+Ben ölünceye kadar da
+bu düzelir herhalde.
+Hapisten çıkmak ihtimalin var mı bu günlerde?
+İçimden bir şey :
+                 
+belki diyor.
+ 
 
 
                                                                
-18 Şubat 1945                                                               
+18 Şubat 1945
+                                                               
 Piraye Nâzım Hikmet
 
 Nâzım HİKMET
 
-### Benerci Kendini Niçin Öldürdü?
+## Benerci Kendini Niçin Öldürdü?
 
-BİRİNCİ BAP BİR GENÇ ADAMA... HAKÎM HERAKLİT'E...YILDIZLARA VE AŞKA DAİRDİR...
+BİRİNCİ KISIM
+ 
+BİRİNCİ BAP
+ 
+BİR GENÇ ADAMA... HAKÎM HERAKLİT'E...
+YILDIZLARA VE AŞKA DAİRDİR...
+
  
 
 
 I
-Şehir     uzakta.Genç adam               
-ayakta.Akıyor şehirden geçen nehirgenç adamın ayakları dibinden.Genç adam     piposunu çıkarıyor cebinden                                   
-aranıyor kibriti.Bakıyor akar suya       düşünüyor Heraklit'i,düşünüyor büyük hakîm Heraklit'i genç adam...Kim bilir belki böyle bir akşam,böyle bir akşam,      Heraklit alnını             
-yeşil gözlü zeytinliklerde akan                                                     
-suya eğdi                                                     
-ve dedi:            
-«— Her şey değişip akmada,                   
+Şehir
+     uzakta.
+Genç adam
+               
+ayakta.
+Akıyor şehirden geçen nehir
+genç adamın ayakları dibinden.
+Genç adam
+     piposunu çıkarıyor cebinden
+                                   
+aranıyor kibriti.
+Bakıyor akar suya
+       düşünüyor Heraklit'i,
+düşünüyor büyük hakîm Heraklit'i genç adam...
+Kim bilir belki böyle bir akşam,
+böyle bir akşam,
+      Heraklit alnını
+             
+yeşil gözlü zeytinliklerde akan
+                                                     
+suya eğdi
+                                                     
+ve dedi:
+            
+«— Her şey değişip akmada,
+                   
 bu hâl beni hayran bırakmada..»
-Heraklit, Heraklit; ne akıştır bu!.ne akıştır ki bu, dalgalarında                    
-dağlıdır alnı en mukaddes putun                    
-kızgın demir damgasıyla sukutun.Gebedir her sukut bir yükselişe.Ne mümkün karşı koymak                              
-bu köpürmüş gelişe..Heraklit, Heraklit!.       akar suya kabil mi vurmak kilit?
-Şehir      uzakta.Genç adam              
-ayakta.Akıyor şehirden geçen nehirgenç adamın ayakları dibinden.Genç adam     kibritini çıkarıyor cebinden                               
-yakıyor piposunu. 
+Heraklit, Heraklit; ne akıştır bu!.
+ne akıştır ki bu, dalgalarında
+                    
+dağlıdır alnı en mukaddes putun
+                    
+kızgın demir damgasıyla sukutun.
+Gebedir her sukut bir yükselişe.
+Ne mümkün karşı koymak
+                              
+bu köpürmüş gelişe..
+Heraklit, Heraklit!.
+       akar suya kabil mi vurmak kilit?
+Şehir
+      uzakta.
+Genç adam
+              
+ayakta.
+Akıyor şehirden geçen nehir
+genç adamın ayakları dibinden.
+Genç adam
+     kibritini çıkarıyor cebinden
+                               
+yakıyor piposunu.
+ 
 
 
 II
@@ -550,7 +622,7 @@ arkadaşlar:
 
 Nâzım HİKMET
 
-### Benim Oğlan Fotoğraflarda Büyüyor
+## Benim Oğlan Fotoğraflarda Büyüyor
 
 İçimde acısı var yemişi koparılmış bir dalın,
 gitmez gözümden hayali Haliçe inen yolun,
@@ -581,41 +653,91 @@ dur deyin,
 
 Nâzım HİKMET
 
-### Berkley
+## Berkley
 
-BeheyBerkley!Behey on sekizinci asrın filozof peskoposu.Felsefenden tüten günlük kokusu                       
-başımızı döndürmek içindir.                       
-Hayat kavgasında bizi                       
+Behey
+Berkley!
+Behey on sekizinci asrın filozof peskoposu.
+Felsefenden tüten günlük kokusu
+                       
+başımızı döndürmek içindir.
+                       
+Hayat kavgasında bizi
+                       
 dizüstü süründürmek içindir.
-BeheyBerkley,Behey Allahın               
-Cebrail şeklindeki Ezraili,Behey on sekizinci asrın en filozof katili!Hâlâ geziyor İskoçya köylerinde                     
-adımlarının sesi.Hâlâ uluyor adımlarının sesine                      
-tüyleri kanlı bir köpek.Hâlâ     her gece titreyerek                    
-görüyor gölgeni İskoçya köylüleri                                                                       
-evlerinin                                                                           
-camlarında!Hâlâ     kanlı beş parmağının izi var           
+Behey
+Berkley,
+Behey Allahın
+               
+Cebrail şeklindeki Ezraili,
+Behey on sekizinci asrın en filozof katili!
+Hâlâ geziyor İskoçya köylerinde
+                     
+adımlarının sesi.
+Hâlâ uluyor adımlarının sesine
+                      
+tüyleri kanlı bir köpek.
+Hâlâ
+     her gece titreyerek
+                    
+görüyor gölgeni İskoçya köylüleri
+                                                                       
+evlerinin
+                                                                           
+camlarında!
+Hâlâ
+     kanlı beş parmağının izi var
+           
 o beyaz buzlu camlar gibi şimal akşamlarında!
-BeheyBerkley!Behey meyhane kızlarının kara cübbeli kavalyesi,                                       
-Kıralın şövalyesi,                                       
-sermayenin altın sesi,                                       
-ve Allahın peskoposu!                           
-Felsefenden tüten günlük kokusu                                       
-başımızı döndürmek içindir.                           
-Hayat kavgasında bizi                                       
+Behey
+Berkley!
+Behey meyhane kızlarının kara cübbeli kavalyesi,
+                                       
+Kıralın şövalyesi,
+                                       
+sermayenin altın sesi,
+                                       
+ve Allahın peskoposu!
+                           
+Felsefenden tüten günlük kokusu
+                                       
+başımızı döndürmek içindir.
+                           
+Hayat kavgasında bizi
+                                       
 dizüstü süründürmek içindir!
-Her kelimen                
-kelepçelerken                                      
-bileklerimizi,kıvrılan           bir
-yılan               
-gibi satırların                           
-sokmak istiyor yüreklerimizi.Beli hançerli bir İsaya benziyor resmin.Sivriliyor kitaplarından ismin                                 
-sivri yosunlu ucundan                                                       
-kızıl kan                                                         
-damlıyan                                                              
-yeşil bir diş gibi.Her kitabın           
-diz çökmüş önünde Rabbın                            
-kara kuşaklı bir keşiş gibi..Sen bu kıyafetle mi bizi kandıracaktın,                                             
-inandıracaktın?Biz İsanın vuslatını bekleyen                                  
+Her kelimen
+                
+kelepçelerken
+                                      
+bileklerimizi,
+kıvrılan
+           bir
+yılan
+               
+gibi satırların
+                           
+sokmak istiyor yüreklerimizi.
+Beli hançerli bir İsaya benziyor resmin.
+Sivriliyor kitaplarından ismin
+                                 
+sivri yosunlu ucundan
+                                                       
+kızıl kan
+                                                         
+damlıyan
+                                                              
+yeşil bir diş gibi.
+Her kitabın
+           
+diz çökmüş önünde Rabbın
+                            
+kara kuşaklı bir keşiş gibi..
+Sen bu kıyafetle mi bizi kandıracaktın,
+                                             
+inandıracaktın?
+Biz İsanın vuslatını bekleyen
+                                  
 bir rahibe değiliz ki!
 Behey
 Berkley!
@@ -836,44 +958,101 @@ tabiat uçsuz bucaksız!..
 
 Nâzım HİKMET
 
-### Beş Satırla
+## Beş Satırla
 
-Annelerin ninnilerinden                             
-spikerin okuduğu habere kadar,yürekte, kitapta ve sokakta yenebilmek yalanı,anlamak, sevgilim, o, bir müthiş bahtiyarlık,anlamak gideni ve gelmekte olanı.
+Annelerin ninnilerinden
+                             
+spikerin okuduğu habere kadar,
+yürekte, kitapta ve sokakta yenebilmek yalanı,
+anlamak, sevgilim, o, bir müthiş bahtiyarlık,
+anlamak gideni ve gelmekte olanı.
                                                                    
 1946
 
 Nâzım HİKMET
 
-### Beyazıt Meydanındaki Ölü
+## Beyazıt Meydanındaki Ölü
 
-Bir ölü yatıyor      on dokuz yaşında bir delikanlı      gündüzleri güneşte      geceleri yıldızların altında      İstanbul'da, Beyazıt Meydanı'nda.
-Bir ölü yatıyor      ders kitabı bir elinde      bir elinde başlamadan biten rüyası      bin dokuz yüz altmış yılı Nisanında      İstanbul'da, Beyazıt Meydanı'nda.
-Bir ölü yatıyor      vurdular      kurşun yarası      kızıl karanfil gibi açmış alnında      İstanbul'da, Beyazıt Meydanı'nda.
-Bir ölü yatacak      toprağa şıp şıp damlayacak kanı      silâhlı milletimin hürriyet türküleriyle
-gelip                                           
-zaptedene kadar                                                     
-büyük meydanı. 
+Bir ölü yatıyor
+      on dokuz yaşında bir delikanlı
+      gündüzleri güneşte
+      geceleri yıldızların altında
+      İstanbul'da, Beyazıt Meydanı'nda.
+Bir ölü yatıyor
+      ders kitabı bir elinde
+      bir elinde başlamadan biten rüyası
+      bin dokuz yüz altmış yılı Nisanında
+      İstanbul'da, Beyazıt Meydanı'nda.
+Bir ölü yatıyor
+      vurdular
+      kurşun yarası
+      kızıl karanfil gibi açmış alnında
+      İstanbul'da, Beyazıt Meydanı'nda.
+Bir ölü yatacak
+      toprağa şıp şıp damlayacak kanı
+      silâhlı milletimin hürriyet türküleriyle
+gelip
+                                           
+zaptedene kadar
+                                                     
+büyük meydanı.
+ 
                                                                                
 Mayıs 1960
 
 Nâzım HİKMET
 
-### Bir Acayip Duygu
+## Bir Acayip Duygu
 
-«Mürdüm eriği                         
-çiçek açmıştır.— ilkönce zerdali çiçek açar                               
+«Mürdüm eriği
+                         
+çiçek açmıştır.
+— ilkönce zerdali çiçek açar
+                               
 mürdüm en sonra —
-Sevgilim,çimenin üzerinediz üstü oturalımkarşı-be-karşı.Hava lezzetli ve aydınlık— fakat iyice ısınmadı daha —çağlanın kabuğu               
-yemyeşil tüylüdür                                   
-henüz yumuşacık...Bahtiyarız          yaşayabildiğimiz
-için.Herhalde çoktan öldürülmüştüksen Londra'da olsaydınben Tobruk'ta olsaydım, bir İngiliz şilebinde yahut...
-Sevgilim,ellerini koy dizlerine— bileklerin kalın ve beyaz —sol avucunu çevir :gün ışığı avucunun içindedir                                            
+Sevgilim,
+çimenin üzerine
+diz üstü oturalım
+karşı-be-karşı.
+Hava lezzetli ve aydınlık
+— fakat iyice ısınmadı daha —
+çağlanın kabuğu
+               
+yemyeşil tüylüdür
+                                   
+henüz yumuşacık...
+Bahtiyarız
+          yaşayabildiğimiz
+için.
+Herhalde çoktan öldürülmüştük
+sen Londra'da olsaydın
+ben Tobruk'ta olsaydım, bir İngiliz şilebinde yahut...
+Sevgilim,
+ellerini koy dizlerine
+— bileklerin kalın ve beyaz —
+sol avucunu çevir :
+gün ışığı avucunun içindedir
+                                            
 kayısı gibi...
-Dünkü hava akınında ölenlerin                                   
-yüz kadarı beş yaşından aşağı,yirmi dördü emzikte...
-Sevgilim,nar tanesinin rengine bayılırım— nar tanesi, nur tanesi —kavunda ıtrı severimmayhoşluğu erikte ..........»
-.......... yağmurlu bir günyemişlerden ve senden uzak— daha bir tek ağaç bahar açmadıkar yağması ihtimali bile var —Bursa cezaevindeacayip bir duyguya kapılarakve kahredici bir öfke içindeinadıma yazıyorum bunları,kendime ve sevgili insanlarıma inat. 
+Dünkü hava akınında ölenlerin
+                                   
+yüz kadarı beş yaşından aşağı,
+yirmi dördü emzikte...
+Sevgilim,
+nar tanesinin rengine bayılırım
+— nar tanesi, nur tanesi —
+kavunda ıtrı severim
+mayhoşluğu erikte ..........»
+.......... yağmurlu bir gün
+yemişlerden ve senden uzak
+— daha bir tek ağaç bahar açmadı
+kar yağması ihtimali bile var —
+Bursa cezaevinde
+acayip bir duyguya kapılarak
+ve kahredici bir öfke içinde
+inadıma yazıyorum bunları,
+kendime ve sevgili insanlarıma inat.
+ 
 
 
                                                                                    
@@ -881,65 +1060,155 @@ Sevgilim,nar tanesinin rengine bayılırım— nar tanesi, nur tanesi —kavunda
 
 Nâzım HİKMET
 
-### Bir Ayrılış Hikayesi
+## Bir Ayrılış Hikayesi
 
-Erkek kadına dedi ki:-Seni seviyorum,ama nasıl,
+Erkek kadına dedi ki:
+-Seni seviyorum,
+ama nasıl,
+
 avuçlarımda camdan bir şey gibi kalbimi sıkıp
+
 parmaklarımı kanatarak
+
 		kırasıya
+
 		çıldırasıya...
-Erkek kadına dedi ki:-Seni seviyorum,ama nasıl,kilometrelerle derin, kilometrelerle dümdüz,yüzde yüz, yüzde bin beş yüz,		yüzde hudutsuz kere yüz...Kadın erkeğe dedi ki:
+
+Erkek kadına dedi ki:
+-Seni seviyorum,
+ama nasıl,
+kilometrelerle derin, kilometrelerle dümdüz,
+yüzde yüz, yüzde bin beş yüz,
+		yüzde hudutsuz kere yüz...
+Kadın erkeğe dedi ki:
+
 -Baktım
+
 dudağımla, yüreğimle, kafamla;
+
 severek, korkarak, eğilerek,
+
 dudağına, yüreğine, kafana.
+
 Şimdi ne söylüyorsam
+
 karanlıkta bir fısıltı gibi sen öğrettin bana..
-Ve ben artık	biliyorum:Toprağın -
+
+Ve ben artık
+	biliyorum:
+Toprağın -
+
 yüzü güneşli bir ana gibi -
-en son en güzel çocuğunu emzirdiğini..Fakat neyleyimsaçlarım dolanmış
+
+en son en güzel çocuğunu emzirdiğini..
+Fakat neyleyim
+saçlarım dolanmış
+
 	ölmekte olan parmaklarına
+
 başımı kurtarmam kabil
-		    değil!Sen
-  yürümelisin,yeni doğan çocuğun		gözlerine bakarak..
+
+		    değil!
 Sen
-  yürümelisin,	beni bırakarak...Kadın sustu.
-SARILDILARBir kitap düştü yere...
+
+  yürümelisin,
+yeni doğan çocuğun
+		gözlerine bakarak..
+
+Sen
+
+  yürümelisin,
+	beni bırakarak...
+Kadın sustu.
+
+SARILDILAR
+Bir kitap düştü yere...
+
 Kapandı bir pencere...
+
 AYRILDILAR...
+
 
 		N.Hikmet
 
 Nâzım HİKMET
 
-### Bir Cezaevinde Tecritteki
+## Bir Cezaevinde Tecritteki
   Adamın Mektupları
 
 MEKTUPLARI
 1
-Senin adınıkol saatımın kayışına tırnağımla kazıdım.Malum ya, bulunduğum yerdene sapı sedefli bir çakı var,(bizlere âlâtı-katıa verilmez),           
-ne de başı bulutlarda bir çınar.Belki avluda bir ağaç bulunur amagökyüzünü başımın üstünde görmek                                                  
-bana yasak...Burası benden başka kaç insanın evidir?Bilmiyorum.Ben bir başıma onlardan uzağım,hep birlikte onlar benden uzak.Bana kendimden başkasıyla konuşmak                                                               
-yasak.Ben de kendi kendimle konuşuyorum.Fakat çok can sıkıcı bulduğumdan sohbetimi                                           
-şarkı söylüyorum karıcığım.Hem, ne dersin,o berbat, ayarsız sesim                     
-öyle bir dokunuyor ki içime                                                     
-yüreğim parçalanıyor.Ve tıpkı o eski        acıklı hikâyelerdekiyalnayak, karlı yollara düşmüş, yetim bir çocuk gibi bu yürek,mavi gözleri ıslakkırmızı, küçücük burnunu çekerek               
-senin bağrına sokulmak istiyor.Yüzümü kızartmıyor benim             
-onun bu an                             
-böyle zayıf                                      
-böyle hodbin                                                
-böyle sadece insan                                                                               
+Senin adını
+kol saatımın kayışına tırnağımla kazıdım.
+Malum ya, bulunduğum yerde
+ne sapı sedefli bir çakı var,
+(bizlere âlâtı-katıa verilmez),
+           
+ne de başı bulutlarda bir çınar.
+Belki avluda bir ağaç bulunur ama
+gökyüzünü başımın üstünde görmek
+                                                  
+bana yasak...
+Burası benden başka kaç insanın evidir?
+Bilmiyorum.
+Ben bir başıma onlardan uzağım,
+hep birlikte onlar benden uzak.
+Bana kendimden başkasıyla konuşmak
+                                                               
+yasak.
+Ben de kendi kendimle konuşuyorum.
+Fakat çok can sıkıcı bulduğumdan sohbetimi
+                                           
+şarkı söylüyorum karıcığım.
+Hem, ne dersin,
+o berbat, ayarsız sesim
+                     
+öyle bir dokunuyor ki içime
+                                                     
+yüreğim parçalanıyor.
+Ve tıpkı o eski
+        acıklı hikâyelerdeki
+yalnayak, karlı yollara düşmüş, yetim bir çocuk gibi bu yürek,
+mavi gözleri ıslak
+kırmızı, küçücük burnunu çekerek
+               
+senin bağrına sokulmak istiyor.
+Yüzümü kızartmıyor benim
+             
+onun bu an
+                             
+böyle zayıf
+                                      
+böyle hodbin
+                                                
+böyle sadece insan
+                                                                               
 oluşu.
-Belki bu hâlinfizyolojik, psikolojik filân izahı vardır.Belki de sebep buna                    
-bana aylardır                    
-kendi sesimden başka insan sesi duyurmayan                                                               
-bu demirli pencere                                                                    
-bu toprak testi                                                                         
+Belki bu hâlin
+fizyolojik, psikolojik filân izahı vardır.
+Belki de sebep buna
+                    
+bana aylardır
+                    
+kendi sesimden başka insan sesi duyurmayan
+                                                               
+bu demirli pencere
+                                                                    
+bu toprak testi
+                                                                         
 bu dört duvardır...
-Saat beş, karıcığım.Dışarda susuzluğu                              
-acayip fısıltısı                                           
-toprak damıve sonsuzluğun ortasında kımıldanmadan duran                                                        
-bir sakat ve sıska atıyla,yani, kederden çıldırtmak için içerdeki adamıdışarda bütün ustalığı, bütün takım taklavatıylaağaçsız boşluğa kıpkızıl inmekte bir bozkır akşamı.
+Saat beş, karıcığım.
+Dışarda susuzluğu
+                              
+acayip fısıltısı
+                                           
+toprak damı
+ve sonsuzluğun ortasında kımıldanmadan duran
+                                                        
+bir sakat ve sıska atıyla,
+yani, kederden çıldırtmak için içerdeki adamı
+dışarda bütün ustalığı, bütün takım taklavatıyla
+ağaçsız boşluğa kıpkızıl inmekte bir bozkır akşamı.
 Bugün de apansız gece olacaktır.
 Bir ışık dolaşacak yanında sakat, sıska atın.
 Ve şimdi karşımda haşin bir erkek ölüsü gibi yatan
@@ -1014,37 +1283,98 @@ Bahtiyarım...
 
 Nâzım HİKMET
 
-### Bir Gemici Türküsü
+## Bir Gemici Türküsü
 
-Rüzgâr,yıldızlarve su.Bir Afrika rüyasının uykusu                          
-düşmüş dalgalara.Işıltılı, karabir yelken gibi incedireğinde geminin.Geçmekteyiz içindenbir sayısızbir uçsuz bucaksız yıldızlar âleminin.
-Yıldızlarrüzgârve su.Başüstünde bir gemici korosusu gibi, rüzgâr gibi, yıldızlar gibi bir türkü söylüyor,yıldızlar gibi          rüzgâr gibi                     
-su gibi bir türkü.Bu türkü diyor ki, «Korkumuz yok!İnmedi bir gün bile gözlerimizebir kış akşamı gibi karanlığı korkunun.»Bu türkü    diyor ki,«Bir gülüşün ateşiyle yakmasını bilirizölümün önünde sigaramızı.»Bu türküdiyor ki,«Çizmişiz rotamızıdostların alkışlarıyla değil                     
-gıcırtısıyla düşmanın                                         
-dişlerinin.»Bu türkü diyor ki, «Dövüşmek..»Bu türkü diyor ki, «Işıklı büyük                   
-ışıklı geniş ve sınırsız bir limanadümen suyumuzda sürüklemek denizi..»Bu türkü diyor ki, «Yıldızlar                                      
-rüzgâr                                             
+Rüzgâr,
+yıldızlar
+ve su.
+Bir Afrika rüyasının uykusu
+                          
+düşmüş dalgalara.
+Işıltılı, kara
+bir yelken gibi ince
+direğinde geminin.
+Geçmekteyiz içinden
+bir sayısız
+bir uçsuz bucaksız yıldızlar âleminin.
+Yıldızlar
+rüzgâr
+ve su.
+Başüstünde bir gemici korosu
+su gibi, rüzgâr gibi, yıldızlar gibi bir türkü söylüyor,
+yıldızlar gibi
+          rüzgâr gibi
+                     
+su gibi bir türkü.
+Bu türkü diyor ki, «Korkumuz yok!
+İnmedi bir gün bile gözlerimize
+bir kış akşamı gibi karanlığı korkunun.»
+Bu türkü
+    diyor ki,
+«Bir gülüşün ateşiyle yakmasını biliriz
+ölümün önünde sigaramızı.»
+Bu türkü
+diyor ki,
+«Çizmişiz rotamızı
+dostların alkışlarıyla değil
+                     
+gıcırtısıyla düşmanın
+                                         
+dişlerinin.»
+Bu türkü diyor ki, «Dövüşmek..»
+Bu türkü diyor ki, «Işıklı büyük
+                   
+ışıklı geniş ve sınırsız bir limana
+dümen suyumuzda sürüklemek denizi..»
+Bu türkü diyor ki, «Yıldızlar
+                                      
+rüzgâr
+                                             
 ve su...»
-Başüstünde bir gemici korosubir türkü söylüyor;yıldızlar gibi          rüzgâr gibi,                     
+Başüstünde bir gemici korosu
+bir türkü söylüyor;
+yıldızlar gibi
+          rüzgâr gibi,
+                     
 su gibi bir türkü..
 
 Nâzım HİKMET
 
-### Bir Hazin Hürriyet
+## Bir Hazin Hürriyet
 
-Satarsın gözlerinin dikkatini, ellerinin nurunu, bir lokma bile tatmadanyoğurursun          bütün nimetlerin
-hamurunu.Büyük hürriyetinle çalışırsın el kapısında, ananı ağlatanıKarun etmek hürriyetiyle hürsün!
-Sen doğar doğmaz dikilirler tepene,işler ömrün boyunca durup dinlenmeden yalan                                     
-değirmenleri,büyük hürriyetinle parmağın şakağında düşünürsün vicdanhürriyetiyle hürsün!
-Başın ensenden kesik gibi düşük,kolların iki yanında upuzun,büyük hürriyetinle dolaşıp durursun,işsiz kalmak hürriyetiyle hürsün!
-En yakın insanınmış gibi verirsin memleketini, günün birinde, mesela,Amerika'ya ciro ederler onu seni de büyük hürriyetinle beraber,hava üssü olmak hürriyetiyle hürsün!
+Satarsın gözlerinin dikkatini, ellerinin nurunu, bir lokma bile tatmadan
+yoğurursun
+          bütün nimetlerin
+hamurunu.
+Büyük hürriyetinle çalışırsın el kapısında, ananı ağlatanı
+Karun etmek hürriyetiyle hürsün!
+Sen doğar doğmaz dikilirler tepene,
+işler ömrün boyunca durup dinlenmeden yalan
+                                     
+değirmenleri,
+büyük hürriyetinle parmağın şakağında düşünürsün vicdan
+hürriyetiyle hürsün!
+Başın ensenden kesik gibi düşük,
+kolların iki yanında upuzun,
+büyük hürriyetinle dolaşıp durursun,
+işsiz kalmak hürriyetiyle hürsün!
+En yakın insanınmış gibi verirsin memleketini, günün birinde, mesela,
+Amerika'ya ciro ederler onu seni de büyük hürriyetinle beraber,
+hava üssü olmak hürriyetiyle hürsün!
 Yapışır yakana kopası elleri Valstrit'in, günün birinde, diyelim
-ki,Kore'ye gönderilebilirsin, büyük hürriyetinle bir çukuradoldurulabilirsin, meçhul asker olmak hürriyetiyle hürsün!
+ki,
+Kore'ye gönderilebilirsin, büyük hürriyetinle bir çukura
+doldurulabilirsin, meçhul asker olmak hürriyetiyle hürsün!
 Bir alet, bir sayı, bir vesile gibi değil insan gibi yaşamalıyız
-dersin,büyük hürriyetinle basarlar kelepçeyi,yakalanmak, hapse girmek, hatta asılmak hürriyetinlehürsün
+dersin,
+büyük hürriyetinle basarlar kelepçeyi,
+yakalanmak, hapse girmek, hatta asılmak hürriyetinle
+hürsün
 Ne demir, ne tahta, ne tül perde var hayatında, hürriyeti seçmene
-lüzum yokhürsün.
-Bu hürriyet hazin şey yıldızların altında. 
+lüzum yok
+hürsün.
+Bu hürriyet hazin şey yıldızların altında.
+ 
 
 
                                                                                    
@@ -1052,7 +1382,7 @@ Bu hürriyet hazin şey yıldızların altında. 
 
 Nâzım HİKMET
 
-### Bir Kız Vardı Japonya'da
+## Bir Kız Vardı Japonya'da
 
 ............
 
@@ -1079,22 +1409,71 @@ canavarı yok edelim.
 
 Nâzım HİKMET
 
-### Bir Küvet Hikayesi
+## Bir Küvet Hikayesi
 
 1
-Süleyman'a karısı telefon etti :— Konuşan ben,     ben, Fahire.     Tanımadın mı sesimden?     Demek çok bağırdım birdenbire.     Çığlık mı?     Belki...     Hayır,             
-çocuklar hasta değil.     Dinle beni :     İşini bırak da gel,     çabuk ol ama.     Telefonda anlatamam,                              
-olmaz.     Daha kıyamet kadar vakit var akşama.     Saatlar, saatlar,     kıyamet kadar.     Sorma.     Dinle beni...     Hemen vapur bulamazsan                      
-Üsküdar'a kayıkla geç.     Bir taksiye atla.     Paran yoksa                     
-patrondan avans al.     Yolda hiçbir şey düşünme,     mümkün mertebe yalansız gelmeye çalış.     Yalan kuvvetliye söylenir                    
-ben kuvvetsizim.     Alay etme kuzum.     Evet kar yağacak,     evet           
-hava güzel.     Koynuna girdiğim adam gibi                                 
-kocam gibi değil,     büyüğüm, akıllım,                           
-babam gibi gel... 
+Süleyman'a karısı telefon etti :
+— Konuşan ben,
+     ben, Fahire.
+     Tanımadın mı sesimden?
+     Demek çok bağırdım birdenbire.
+     Çığlık mı?
+     Belki...
+     Hayır,
+             
+çocuklar hasta değil.
+     Dinle beni :
+     İşini bırak da gel,
+     çabuk ol ama.
+     Telefonda anlatamam,
+                              
+olmaz.
+     Daha kıyamet kadar vakit var akşama.
+     Saatlar, saatlar,
+     kıyamet kadar.
+     Sorma.
+     Dinle beni...
+     Hemen vapur bulamazsan
+                      
+Üsküdar'a kayıkla geç.
+     Bir taksiye atla.
+     Paran yoksa
+                     
+patrondan avans al.
+     Yolda hiçbir şey düşünme,
+     mümkün mertebe yalansız gelmeye çalış.
+     Yalan kuvvetliye söylenir
+                    
+ben kuvvetsizim.
+     Alay etme kuzum.
+     Evet kar yağacak,
+     evet
+           
+hava güzel.
+     Koynuna girdiğim adam gibi
+                                 
+kocam gibi değil,
+     büyüğüm, akıllım,
+                           
+babam gibi gel...
+ 
 
 
 2
-Geldi Süleyman,Fahire, kocası Süleyman'a sordu :— Doğru mu?— Evet.— Teşekkür ederim Süleyman.     Bak işte rahatladım.     Bak işte ağlamıyorum artık.     Nerde buluşuyordunuz?— Bir otelde.— Beyoğlu tarafında mı?— Evet.— Kaç defa?— Ya üç, ya dört.— Üç mü, dört mü?
+Geldi Süleyman,
+Fahire, kocası Süleyman'a sordu :
+— Doğru mu?
+— Evet.
+— Teşekkür ederim Süleyman.
+     Bak işte rahatladım.
+     Bak işte ağlamıyorum artık.
+     Nerde buluşuyordunuz?
+— Bir otelde.
+— Beyoğlu tarafında mı?
+— Evet.
+— Kaç defa?
+— Ya üç, ya dört.
+— Üç mü, dört mü?
 — Bilmiyorum.
 — Bunu hatırlamak bu kadar mı güç Süleyman?
 — Bilmiyorum.
@@ -1273,27 +1652,57 @@ ve suratına tükürür gibi bir tokat vurdu.
 
 Nâzım HİKMET
 
-### Bu Vatana Nasıl Kıydılar
+## Bu Vatana Nasıl Kıydılar
 
-İnsan olan vatanını satar mı?Suyun içip ekmeğini yediniz.Dünyada vatandan aziz şey var mı?Beyler bu vatana nasıl kıydınız?
-Onu didik didik didiklediler,saçlarından tutup sürüklediler.götürüp kâfire : «Buyur...» dediler.Beyler bu vatana nasıl kıydınız?
-Eli kolu zincirlere vurulmuş,vatan çırılçıplak yere serilmiş.Oturmuş göğsüne Teksaslı çavuş.Beyler bu vatana nasıl kıydınız?
-Günü gelir çarh düzüne çevrilir,günü gelir hesabınız görülür.Günü gelir sualiniz sorulur :Beyler bu vatana nasıl kıydınız? 
+İnsan olan vatanını satar mı?
+Suyun içip ekmeğini yediniz.
+Dünyada vatandan aziz şey var mı?
+Beyler bu vatana nasıl kıydınız?
+Onu didik didik didiklediler,
+saçlarından tutup sürüklediler.
+götürüp kâfire : «Buyur...» dediler.
+Beyler bu vatana nasıl kıydınız?
+Eli kolu zincirlere vurulmuş,
+vatan çırılçıplak yere serilmiş.
+Oturmuş göğsüne Teksaslı çavuş.
+Beyler bu vatana nasıl kıydınız?
+Günü gelir çarh düzüne çevrilir,
+günü gelir hesabınız görülür.
+Günü gelir sualiniz sorulur :
+Beyler bu vatana nasıl kıydınız?
+ 
                                                    
 1959
 
 Nâzım HİKMET
 
-### Bulutlar Adam Öldürmesin
+## Bulutlar Adam Öldürmesin
 
-Analardır adam eden adamıaydınlıklardır önümüzde gider.Sizi de bir ana doğurmadı mı?Analara kıymayın efendiler.          Bulutlar
+Analardır adam eden adamı
+aydınlıklardır önümüzde gider.
+Sizi de bir ana doğurmadı mı?
+Analara kıymayın efendiler.
+          Bulutlar
 adam öldürmesin.
-Koşuyor altı yaşında bir oğlan,uçurtması geçiyor ağaçlardan,siz de böyle koşmuştunuz bir zaman.Çocuklara kıymayın efendiler.          Bulutlar
+Koşuyor altı yaşında bir oğlan,
+uçurtması geçiyor ağaçlardan,
+siz de böyle koşmuştunuz bir zaman.
+Çocuklara kıymayın efendiler.
+          Bulutlar
 adam öldürmesin.
-Gelinler aynada saçını tarar,aynanın içinde birini arar.Elbet böyle sizi de aradılar.Gelinlere kıymayın efendiler.          Bulutlar
+Gelinler aynada saçını tarar,
+aynanın içinde birini arar.
+Elbet böyle sizi de aradılar.
+Gelinlere kıymayın efendiler.
+          Bulutlar
 adam öldürmesin.
-İhtiyarlıkta aklına insanın,tatlı anıları gelmeli yalnız.Yazıktır, ihtiyarlara kıymayın,efendiler, siz de ihtiyarsınız.          Bulutlar
-adam öldürmesin. 
+İhtiyarlıkta aklına insanın,
+tatlı anıları gelmeli yalnız.
+Yazıktır, ihtiyarlara kıymayın,
+efendiler, siz de ihtiyarsınız.
+          Bulutlar
+adam öldürmesin.
+ 
 
 
                                                    
@@ -1301,26 +1710,42 @@ adam öldürmesin. 
 
 Nâzım HİKMET
 
-### Büyük İnsanlık
+## Büyük İnsanlık
 
-Büyük insanlık gemide güverte yolcusu                                       
-tirende üçüncü mevki                                       
-şosede yayan                                       
+Büyük insanlık gemide güverte yolcusu
+                                       
+tirende üçüncü mevki
+                                       
+şosede yayan
+                                       
 büyük insanlık.
-Büyük insanlık sekizinde işe gider                                       
-yirmisinde evlenir                                       
-kırkında ölür                                       
+Büyük insanlık sekizinde işe gider
+                                       
+yirmisinde evlenir
+                                       
+kırkında ölür
+                                       
 büyük insanlık.
-Ekmek büyük insanlıktan başka herkese yeter                                       
-pirinç de öyle                                       
-şeker de öyle                                       
-kumaş da öyle                                       
-kitap da öyle           
+Ekmek büyük insanlıktan başka herkese yeter
+                                       
+pirinç de öyle
+                                       
+şeker de öyle
+                                       
+kumaş da öyle
+                                       
+kitap da öyle
+           
 büyük insanlıktan başka herkese yeter.
-Büyük insanlığın toprağında gölge yok                                       
-sokağında fener                                       
-penceresinde camama umudu var büyük insanlığın                                       
-umutsuz yaşanmıyor. 
+Büyük insanlığın toprağında gölge yok
+                                       
+sokağında fener
+                                       
+penceresinde cam
+ama umudu var büyük insanlığın
+                                       
+umutsuz yaşanmıyor.
+ 
 
 
                                                                            
@@ -1328,59 +1753,110 @@ umutsuz yaşanmıyor. 
 
 Nâzım HİKMET
 
-### Cevap Dört Numara
+## Cevap Dört Numara
 
 Bu yazı gizli bir din halinde bir nevi Neo-faşist bir ideoloji yaptıkları halde bunu ikrardan sakınanlara aittir. Böyle bir halt karıştırmıyoruz, diyenler üzerlerine alınmayabilirler.
+
 Onlar istiyorlar ki
+
 çift ağızlı baltalarıyla
+
 yuvarlansın kafalarımız önüne yarın -
+
 o kara gömlekleri beyaz kordonlu
+
 		golf pantolonlu
+
 kadroların..
+
 KARDEŞLER!
+
 Onlara sokakta rastlarsanız eğer
+
 ölümü görmüş gibi çevirin başınızı.
+
 Kirpiksiz sarı gözler gözünüze bakarken
+
 arkadan sırtınıza bir
+
 	bıçak girebilir...
+
 Onlar istiyorlar ki
+
 kara toprağın kalbi durana kadar
+
 biz pazarda kelepir bir mal gibi satalım
+
 kafamızın ışığını, gücünü kolumuzun..
+
 Kadınlarımızı karşılarında oynatalım.
+
 Ve dumanlanmağa başlayınca
+
 		gözümüzün bakışı,
+
 yavaşlayınca
+
 	damarlarımızda kanın akışı
+
 karaya vurmuş balıklar gibi
+
 	köprü altlarında yatalım..
+
 KARDEŞLER!
+
 Onlara elleriniz dokunmuşsa eğer
+
 yedi tas su dökün ellerinize.
+
 Yırtarak bayramlık gömleğimi ben
+
 peşkir yaparım size...
+
 Biz
+
 ayrı dillerde aynı şarkıyı okuyanlar,
+
 Biz
+
 aynı yastıkta yatar gibi
+
 	toprağa başlarını yan yana koyanlar,
+
 Biz,
+
 yüzümüzün derisi koyu açık yanmış diye,
+
 saçlarımız ayrı ayrı boyanmış diye
+
 barsaklarımızı birbirimizin avucuna dökerek
+
 birbirimizin gırtlağını dişimizle sökerek
+
 				gebereceğiz...
+
 Ve kadrolar
+
 	parlatarak
+
 kara gömleklerinin beyaz kordonlarını
+
 gömecekler kadife koltuklara
+
 golf pantolonlarını...
+
 KARDEŞLER!
+
 Onların adına benziyorsa adınız eğer
+
 adınızı değiştirin.
+
 Vebanın girdiği kapıdan girin
+
 onların evine atmayın ayak....
+
 Onlar istiyorlar ki
+
 çift ağızlı baltalarıyla
 
 yuvarlansın kafalarımız önüne yarın -
@@ -1393,52 +1869,107 @@ kadroların......
 
 Nâzım HİKMET
 
-### Ceviz Ağacı
+## Ceviz Ağacı
 
 Başım köpük köpük bulut, içim dışım deniz, 
+
 ben bir ceviz ağacıyım Gülhane Parkı'nda, 
+
 budak budak, şerham şerham ihtiyar bir ceviz. 
+
 Ne sen bunun farkındasın, ne polis farkında. 
 Ben bir ceviz ağacıyım Gülhane Parkı'nda. 
+
 Yapraklarım suda balık gibi kıvıl kıvıl. 
+
 Yapraklarım ipek mendil gibi tiril tiril, 
+
 koparıver, gözlerinin, gülüm, yaşını sil. 
+
 Yapraklarım ellerimdir, tam yüz bin elim var. 
+
 Yüz bin elle dokunurum sana, İstanbul'a. 
+
 Yapraklarım gözlerimdir, şaşarak bakarım. 
+
 Yüz bin gözle seyrederim seni, İstanbul'u. 
+
 Yüz bin yürek gibi çarpar, çarpar yapraklarım. 
 Ben bir ceviz ağacıyım Gülhane Parkı'nda. 
+
 Ne sen bunun farkındasın, ne polis farkında.
 
 Nâzım HİKMET
 
-### Çankırı Hapisanesinden Mektuplar
+## Çankırı Hapisanesinden Mektuplar
 
 1
-Saat dört,           
-yoksun.Saat beş,           
-yok.Altı, yedi,ertesi gün,daha ertesive belki            
+Saat dört,
+           
+yoksun.
+Saat beş,
+           
+yok.
+Altı, yedi,
+ertesi gün,
+daha ertesi
+ve belki
+            
 kim bilir...
-Hapisane avlusunda               
-bir bahçemiz vardı.Sıcak bir duvar dibinde                            
-on beş adım kadardı.Gelirdin,yan yana otururduk,kırmızı ve kocaman               
-muşamba torban                                       
+Hapisane avlusunda
+               
+bir bahçemiz vardı.
+Sıcak bir duvar dibinde
+                            
+on beş adım kadardı.
+Gelirdin,
+yan yana otururduk,
+kırmızı ve kocaman
+               
+muşamba torban
+                                       
 dizlerinde...
-Kelleci Memed'i hatırlıyor musun?Sübyan koğuşundan.Başı dört köşe,bacakları kısa ve kalınve elleri ayaklarından büyük.Kovanından bal çaldığı adamın                                                  
-taşla ezmiş kafasını.«Hanım abla» derdi sana.Bizim bahçemizden küçük bir bahçesi vardı,                                               
-tepemizde, yukarda,                                                                 
-güneşe yakın,                                               
+Kelleci Memed'i hatırlıyor musun?
+Sübyan koğuşundan.
+Başı dört köşe,
+bacakları kısa ve kalın
+ve elleri ayaklarından büyük.
+Kovanından bal çaldığı adamın
+                                                  
+taşla ezmiş kafasını.
+«Hanım abla» derdi sana.
+Bizim bahçemizden küçük bir bahçesi vardı,
+                                               
+tepemizde, yukarda,
+                                                                 
+güneşe yakın,
+                                               
 bir konserve kutusunun içinde...
-Bir Cumartesi gününü,hapisane çeşmesiyle ıslanan                    
-bir ikindi vaktini hatırlıyor musun?Bir türkü söylediydi kalaycı Şaban Usta,aklında mı :«Beypazarı meskenimiz, ilimiz,  kim bilir nerde kalır ölümüz...?»
-O kadar resmini yaptım seninbana birini bırakmadın.Bende yalnız bir fotoğrafın var :bir başka bahçede                   
-çok rahat                   
-çok bahtiyar          yem verip
-tavuklara                       
+Bir Cumartesi gününü,
+hapisane çeşmesiyle ıslanan
+                    
+bir ikindi vaktini hatırlıyor musun?
+Bir türkü söylediydi kalaycı Şaban Usta,
+aklında mı :
+«Beypazarı meskenimiz, ilimiz,
+  kim bilir nerde kalır ölümüz...?»
+O kadar resmini yaptım senin
+bana birini bırakmadın.
+Bende yalnız bir fotoğrafın var :
+bir başka bahçede
+                   
+çok rahat
+                   
+çok bahtiyar
+          yem verip
+tavuklara
+                       
 gülüyorsun.
-Hapisane bahçesinde tavuklar yoktu,fakat pek âlâ gülebildik                   
-ve bahtiyar olmadık değil.Nasıl haberler aldık
+Hapisane bahçesinde tavuklar yoktu,
+fakat pek âlâ gülebildik
+                   
+ve bahtiyar olmadık değil.
+Nasıl haberler aldık
             
 en güzel hürriyete dair,
 nasıl dinledik ayak seslerini
@@ -1632,60 +2163,106 @@ kederli olmamak...
 
 Nâzım HİKMET
 
-### Çarlık Rusyasının Ölümü
+## Çarlık Rusyasının Ölümü
 
 Bin dokuz yüz on yedi
+
 ikinciteşrin yedi...
+
 Yumuşak ve derin
+
 sesiyle Lenin:
+
 "Dün erkendi, yarın geç
+
 zaman tamam bugün," dedi..
+
 Yağlı çarklılarla yağlı işçiler:
+
 "Bugün!" dedi.
+
 Ölümü açlıktan öldüren siper:
+
 "Bugün!" dedi.
+
 Ağır
+
 çelik
+
 		kara
+
 toplarıyla AVRORA:
+
 "BUGÜN!" dedi,
+
 		 "BUGÜN!" dedi..
+
 ...............
+
 .......
+
    ..........
+
 .................
 
+
 Artık
+
 ne kışlık sarayda
+
 	sarhoş eteklerin ipekli sesi,
+
 ne paskalya çanlarında deli duası çarın,
+
 ne Sibirya yollarında zincir iniltisi...
+
 Artık
+
 votka kadehlerinde ıslanmıyacak
+
 	sarı sarkık bıyıkları pameşçiklerin.
+
 Kara toprağın üstünde bir avuç kan gibi
+
 				yanmıyacak,
+
 		bakır sakalları
+
 			açlıktan ölen mujiklerin.
+
 Artık
+
 kararmıyacaktır karlı sokaklar
+
 kara bir rüzgar gibi geçen
+
 Çarın kazaklarından.
+
 Sarkmıyacaktır işçi kadınların
+
 		kanlı saçları:
+
 kara kalpaklı kazakların mızraklarından.
+
 Yandı kanatları iki başlı kara kartalın,
+
 düştü yere,
+
 öldü.
+
 Buzlu Baltık denizinin kıyısında
+
 bir pencere örtüldü.
+
 Açıldı bir pencere....
+
 Bin dokuz yüz on yedi
+
 ikinciteşrin yedi...
 
 Nâzım HİKMET
 
-### Çınarı Yıkmak İçin Baltayı
+## Çınarı Yıkmak İçin Baltayı
   Köküne Vururlar
 
 ..........
@@ -1717,7 +2294,7 @@ Ve sonra yolladılar insanları salhaneye.
 
 Nâzım HİKMET
 
-### Çocuklar Ölebilir Yarın
+## Çocuklar Ölebilir Yarın
 
 ............................
 Çocuklar ölebilir yarın,
@@ -1734,18 +2311,38 @@ arkalarında bir avuç kül bile değil
 
 Nâzım HİKMET
 
-### Çocuklarımıza Nasihat
+## Çocuklarımıza Nasihat
 
-Hakkındır yaramazlık.Dik duvarlara tırman                   
-yüksek ağaçlara çık.Usta bir kaplan                       
-gibi kullansın elinyerde yıldırım gibi giden bisikletini..Ve din dersleri hocasının resmini yapan           
-kurşunkaleminle yık           
-Mızraklı İlmihalin                       
-yeşil sarıklı iskeletini..Sen kendi cennetini               
-kara toprağın üstünde kur.Coğrafya kitabıyla sustur,seni «Hilkati Âdem»le aldatanı..Sen sade toprağı tanı                        
-toprağa inan.Ayırdetme öz anandan                           
-toprak ananı.Toprağı sev                   
-anan kadar... 
+Hakkındır yaramazlık.
+Dik duvarlara tırman
+                   
+yüksek ağaçlara çık.
+Usta bir kaplan
+                       
+gibi kullansın elin
+yerde yıldırım gibi giden bisikletini..
+Ve din dersleri hocasının resmini yapan
+           
+kurşunkaleminle yık
+           
+Mızraklı İlmihalin
+                       
+yeşil sarıklı iskeletini..
+Sen kendi cennetini
+               
+kara toprağın üstünde kur.
+Coğrafya kitabıyla sustur,
+seni «Hilkati Âdem»le aldatanı..
+Sen sade toprağı tanı
+                        
+toprağa inan.
+Ayırdetme öz anandan
+                           
+toprak ananı.
+Toprağı sev
+                   
+anan kadar...
+ 
 
 
                                                            
@@ -1753,7 +2350,7 @@ anan kadar... 
 
 Nâzım HİKMET
 
-### Davet
+## Davet
 
 Dörtnala gelip Uzak Asya'dan
 Akdeniz'e bir kısrak başı gibi uzanan
@@ -1773,7 +2370,7 @@ ve bir orman gibi kardeşçesine,
 
 Nâzım HİKMET
 
-### Doğum
+## Doğum
 
 Anası bir oğlancık doğurdu bana;
 kaşsız, sarı bir oğlan,
@@ -1814,6 +2411,7 @@ mavi atlas döşekli bir beşik.
 
 
 
+
 Makartır - (Mac Arthur): Amerikan generali. 2. Dünya savaşında
 Asya'daki Amerikan ordularının kumandanlığını yaptı. Asya halk-
 larına karşı yürüttüğü baskılarla ün saldığı (!) için Amerikan hükü-
@@ -1821,25 +2419,21 @@ meti tarafından Kore savaşının kumandanlığına da atandı.
 
 Nâzım HİKMET
 
-### Dört Hapisaneden (İstanbul, Ankara, Çankırı, Bursa)
+## Dört Hapisaneden (İstanbul, Ankara, Çankırı, Bursa)
 
 İSTANBUL
-
-
-
-
  
 
 
 ANKARA
  
+
  
 
 
 ÇANKIRI
-
-
  
+
  
 
 
@@ -1847,7 +2441,7 @@ BURSA
 
 Nâzım HİKMET
 
-### Dörtlük
+## Dörtlük
 
 Koparmýþ ipini eski kayýklar gibi yüzer
 kýþýn, sabaha karþý rüzgârda tahta cumbalar
@@ -1856,46 +2450,70 @@ uyanýr uykuda büyük Ýstanbulum.
 
 Nâzım HİKMET
 
-### Dünyanın En Tuhaf Mahluku
+## Dünyanın En Tuhaf Mahluku
 
 Akrep gibisin kardeşim, 
+
 korkak bir karanlık içindesin akrep gibi. 
+
 Serçe gibisin kardeşim, 
+
 serçenin telaşı içindesin. 
+
 Midye gibisin kardeşim, 
+
 midye gibi kapalı, rahat. 
+
 Ve sönmüş bir yanardağ ağzı gibi korkunçsun, kardeşim.
 
+
 Bir değil, 
+
            beş değil, 
+
                       yüz
 milyonlarlasın maalesef. 
+
 Koyun gibisin kardeşim, 
+
 gocuklu celep kaldırınca sopasını 
+
 sürüye katılıverirsin hemen 
+
 ve âdeta mağrur, koşarsın salhaneye. 
+
 Dünyanın en tuhaf mahlukusun yani, 
+
 hani şu derya içre olup 
+
                            
 deryayı bilmiyen balıktan da tuhaf. 
+
 Ve bu dünyada, bu zulüm 
+
                                    
 senin sayende. 
+
 Ve açsak, yorgunsak, alkan içindeysek eğer 
+
 ve hâlâ şarabımızı vermek için üzüm gibi eziliyorsak
 
+
                       kabahat senin, 
+
                                     
 — demeğe de dilim varmıyor ama — 
+
                       kabahatın çoğu
 senin, canım kardeşim! 
+
   
                                                                                                    
 1947
 
 Nâzım HİKMET
 
-### Dünyayı Verelim Çocuklara
+## Dünyayı Verelim Çocuklara
 
 Dünyayı verelim çocuklara hiç değilse bir günlüğüne
 allı pullu bir balon gibi verelim oynasınlar
@@ -1909,38 +2527,85 @@ bir günlük de olsa öğrensin dünya arkadaşlığı
 
 Nâzım HİKMET
 
-### Fakir Bir Şimal Kilisesinde Şeytan ile
+## Fakir Bir Şimal Kilisesinde Şeytan ile
   Rahibin Macerası
 
-ŞEYTAN İLE RAHİBİN MACERASI 
+ŞEYTAN İLE RAHİBİN MACERASI
+ 
 
 
-İlkönce yağmurlasonra birdenbire açan güneşle başlamıştı sabah.Henüz ıslaktı asfaltın solundaki tarla.Harp esirleri çoktan iş başındaydılar.Topraktan nefret duyarak                                    
-— halbuki köylüydü birçoğu —                                             
-tıraşlı ve korkak                                                           
-çapalıyorlardı patatesleri.Suluboya, solgun resimleri hatırlatıyordu insana                                                 
+İlkönce yağmurla
+sonra birdenbire açan güneşle başlamıştı sabah.
+Henüz ıslaktı asfaltın solundaki tarla.
+Harp esirleri çoktan iş başındaydılar.
+Topraktan nefret duyarak
+                                    
+— halbuki köylüydü birçoğu —
+                                             
+tıraşlı ve korkak
+                                                           
+çapalıyorlardı patatesleri.
+Suluboya, solgun resimleri hatırlatıyordu insana
+                                                 
 köy kilisesinden gelen çan sesleri.
-Pazardı.Kilisede erkeklerin hepsi ihtiyardı                                           
-kadınların değil,içlerinde büyük memeli kızlar,                          
-ve sarı saçlarına ak düşmemiş anneler vardı.Maviydi gözleri.Başları önde,kalın, kırmızı ve harap parmaklarına bakıyorlardı.Terliydiler.Haşlanmış lahanayla günlük kokuyordu.Kürsüde muhterem peder                                  
-«beyannameyi» okuyordu,                                                 
-— gözlerini gizleyerek —.Renkliydi pencere camlarından biri.Bu camdan içeri giren güneş                            
-duruyordu genç bir kadının bembeyaz ensesinde                                                             
-eski bir kan lekesi gibi.Ve hiçbir zaman              
-doğurmamış olangöğüssüz ve kalçasız bir Meryem'in kucağında bir çocuk :                                    
-başı öyle büyük                                    
-o kadar inceydi ki kıvrılmış bacakları                                                     
-hazin ve korkunçtu.Önlerinde kandil yanıyordu                                           
-eski                                                  
-sert                                                         
+Pazardı.
+Kilisede erkeklerin hepsi ihtiyardı
+                                           
+kadınların değil,
+içlerinde büyük memeli kızlar,
+                          
+ve sarı saçlarına ak düşmemiş anneler vardı.
+Maviydi gözleri.
+Başları önde,
+kalın, kırmızı ve harap parmaklarına bakıyorlardı.
+Terliydiler.
+Haşlanmış lahanayla günlük kokuyordu.
+Kürsüde muhterem peder
+                                  
+«beyannameyi» okuyordu,
+                                                 
+— gözlerini gizleyerek —.
+Renkliydi pencere camlarından biri.
+Bu camdan içeri giren güneş
+                            
+duruyordu genç bir kadının bembeyaz ensesinde
+                                                             
+eski bir kan lekesi gibi.
+Ve hiçbir zaman
+              
+doğurmamış olan
+göğüssüz ve kalçasız bir Meryem'in kucağında bir çocuk :
+                                    
+başı öyle büyük
+                                    
+o kadar inceydi ki kıvrılmış bacakları
+                                                     
+hazin ve korkunçtu.
+Önlerinde kandil yanıyordu
+                                           
+eski
+                                                  
+sert
+                                                         
 ve boyalı tahtayı aydınlatıp...
-İki adam boyundaydı tahta heykel.Şeytan saklanmıştı arkasına                                   
-— kaşları çekik, sakalı sivri,                                        
-Mefistofeles olması muhtemel,—-ve âlim bir tebessümle                                  
-dinliyordu muhterem pederi.«— Avrupa'nın bekası,                                   
-(okuyordu beyannameyi muhterem peder)       Avrupa'nın bekası için harbediyoruz.»
-Dinliyordu Şeytan                             
-sivri sakalında kederve âsi ve selîm aklınadayanılmaz bir ağrı vermekteydi yalan.
+İki adam boyundaydı tahta heykel.
+Şeytan saklanmıştı arkasına
+                                   
+— kaşları çekik, sakalı sivri,
+                                        
+Mefistofeles olması muhtemel,—-
+ve âlim bir tebessümle
+                                  
+dinliyordu muhterem pederi.
+«— Avrupa'nın bekası,
+                                   
+(okuyordu beyannameyi muhterem peder)
+       Avrupa'nın bekası için harbediyoruz.»
+Dinliyordu Şeytan
+                             
+sivri sakalında keder
+ve âsi ve selîm aklına
+dayanılmaz bir ağrı vermekteydi yalan.
 Okuyordu rahip :
 «— Avrupa milletleri el ele verip
                                                
@@ -2160,24 +2825,63 @@ senin kocan,
 
 Nâzım HİKMET
 
-### Gazete Fotoğrafları Üstüne
+## Gazete Fotoğrafları Üstüne
 
 1
 Kara Yara
-Birinci sayfada yatıyor iki sütun üstüne                                    
-iki çıplak yavrucuk,birinci sayfada iki sütun üstüne                                    
-bir avuç kemik deri.Delinmiş patlamış etleri.Biri Diyarbakırlı, Erganili biri.Kolları bacakları kargacık burgacık,kafaları kocaman,ağızları korkunç bir haykırışla açık,birinci sayfada taşla ezilmiş iki kurbağacık.İki kurbağacıkkara yaralı iki yavrum benim.Yılda kim bilir kaç bininizacı suya bile doymadan gelip gidiyor...Ve müsteşar bey :(Kara Yaraya tutulası)"Endişeye mahal yok," diyor. 
+Birinci sayfada yatıyor iki sütun üstüne
+                                    
+iki çıplak yavrucuk,
+birinci sayfada iki sütun üstüne
+                                    
+bir avuç kemik deri.
+Delinmiş patlamış etleri.
+Biri Diyarbakırlı, Erganili biri.
+Kolları bacakları kargacık burgacık,
+kafaları kocaman,
+ağızları korkunç bir haykırışla açık,
+birinci sayfada taşla ezilmiş iki kurbağacık.
+İki kurbağacık
+kara yaralı iki yavrum benim.
+Yılda kim bilir kaç bininiz
+acı suya bile doymadan gelip gidiyor...
+Ve müsteşar bey :
+(Kara Yaraya tutulası)
+"Endişeye mahal yok," diyor.
+ 
                                                            
-3 Ağustos 1959   
+3 Ağustos 1959
+ 
+ 
+ 
 2
 Emniyet Müdürü
-Güneş bir yara gibi açılmış gökte                                       
-akıyor kanı.Uçak alanı.Karşılayıcılar, eller göbekte :coplar, cipler,hapisane duvarları, karakollarve darağaçlarında sallanan iplerve siviller göze görünmezve bir çocuk işkenceye dayanamadı                       
-attı kendini Emniyet'te üçüncü kattan.Ve işte Emniyet Müdürü bey                       
-uçaktan iniyorlar          Amerika'dan
-dönüyorlar                       
+Güneş bir yara gibi açılmış gökte
+                                       
+akıyor kanı.
+Uçak alanı.
+Karşılayıcılar, eller göbekte :
+coplar, cipler,
+hapisane duvarları, karakollar
+ve darağaçlarında sallanan ipler
+ve siviller göze görünmez
+ve bir çocuk işkenceye dayanamadı
+                       
+attı kendini Emniyet'te üçüncü kattan.
+Ve işte Emniyet Müdürü bey
+                       
+uçaktan iniyorlar
+          Amerika'dan
+dönüyorlar
+                       
 mesleki tetkikattan.
-İncelediler uyku uyutmamak usullerinive memnun kaldılar pekhayalara bağlanan elektrottanve bizdeki tabutlukların üstüne bir de konferans vererekaçıkladılar faydalarınıkoltuk altlarına kaynar yumurta koymanın,boyun derisini kibritle ince ince yakıp soymanın.
+İncelediler uyku uyutmamak usullerini
+ve memnun kaldılar pek
+hayalara bağlanan elektrottan
+ve bizdeki tabutlukların üstüne bir de konferans vererek
+açıkladılar faydalarını
+koltuk altlarına kaynar yumurta koymanın,
+boyun derisini kibritle ince ince yakıp soymanın.
 Emniyet Müdürü bey uçaktan iniyorlar
 Amerika'dan dönüyorlar
 ve coplar cipler
@@ -2317,7 +3021,9 @@ halkını satanın korkusu.
 
 Nâzım HİKMET
 
-### Gece Gelen Telgraf
+## Gece Gelen Telgraf
+
+GECE GELEN TELGRAF
 
 Gece gelen telgraf
 dört heceden ibaretti:
@@ -2379,31 +3085,78 @@ gece gelen telgraflara...
 
 Nâzım HİKMET
 
-### Gelmiş Dünyanın Dört Bir Ucundan
+## Gelmiş Dünyanın Dört Bir Ucundan
 
 DÖRT BİR UCUNDAN
-Gelmiş dünyanın dört bir ucundanAyrı dilleri konuşur, anlaşırızYeşil dallarız dünya ağacındanGençlik denen bir millet var, ondanız.
+Gelmiş dünyanın dört bir ucundan
+Ayrı dilleri konuşur, anlaşırız
+Yeşil dallarız dünya ağacından
+Gençlik denen bir millet var, ondanız.
                                                                    
 1956
 
 Nâzım HİKMET
 
-### Gerileyen Türkiye Yahut
+## Gerileyen Türkiye Yahut
   Adnan Menderes'e Öğütler
 
 Ben, Nâzım Hikmet, Nev York Tayms gazetesinin
 satırları arasında kalan yazıları da okudum. Bu satırların arasındaki satırları
-aynen aşağıya geçiriyorum. 
+aynen aşağıya geçiriyorum.
+ 
+
  
 
 
-GERİLEYEN TÜRKİYE YAHUTADNAN MENDERES'E ÖĞÜTLER
+GERİLEYEN TÜRKİYE YAHUT
+ADNAN MENDERES'E ÖĞÜTLER
  
 
 
-Şaşkınlığın bu kadarına doğrusu ya pes.Bindiğin dalı kesiyorsun Adnan Menderes.İlle de asıp kesmek geliyorsa içindenEzmekte devâm et Barışçılar'ı, ama senMeselâ Yalçın'ı da tıkıyorsun deliğe (1)İhtiyarcık sana azıcık cilve yaptı diye,Git, koş, elini öp, af dile, yüzünü güldür,O, yalnız altın kafeslerde öten bülbüldür.O, matbaalar yıktırıp kitaplar yaktıran, (2)O, büyük demokrat, O, hürriyetçi kahraman,Moskova'yı atomlayalım diyen insancı...Kendine acımazsan bize bir parça acı.A be Adnan Menderes, böyle bir dal kesilmez,Böyle şaşkınlıkların sonu da iyi gelmez...Şu muhalefetle de alıp veremediğin ne?Niye öyle hışımla yürüyorsun üstüne?Kore'ye asker gönderdin de "Hayır" mı dedi?"Kan aktı hesabı sorulmalıdır!" mı dedi?Orduyu emrimize verdin, ses çıkardı mı?"Olmaz olsun" mu dedi Amerikan yardımı?Feryat mı etti "İstiklâl elden gitti" diye?Zavallı, sımsıkı sarılmış demokrasiye :"Başvekil merasimsiz karşılanmalı" diyor. (3)Bir de bazan coşarak "Hayat pahalı" diyor.Bu aksoylu muhalefeti ezilir görmekTürkün Batılı dostlarını pek üzüyor pek. (4)Şaşkınlığın bu kadarına doğrusu ya pes.Bindiğin dalı kesiyorsun Adnan Menderes.
-Hani, her işte bizden örnek alacaktın ya?Hürriyet nizamına sâdık kalacaktın ya?Vaadettin tanımadın işçinin grev hakkını.O hakkı bizim tanıdığımız gibi tanı.Elli istiyorlarsa ateş aç, sonra beş ver.Ama ufak tefek grevlerde anlayış göster.Sendika liderlerinizin birçoğu zatenbizde olduğu gibi emir alır polisten.Niye telaşlanıp kaybedersin vekarını?Hem de kırarsın liderlerin itibarını?Şaşkınlığın  bu kadarına doğrusu ya pes,Bindiğin dalı kesiyorsun Adnan Menderes.
-Senin bindiğin dallar ve bindiğimiz dallar,Unutma bu dallardan başka asıl ağaç var,öfkeyle homurdanan yarı çıplak, yarı aç,bizi silkip atmaya fırsat kollıyan ağaç...
+Şaşkınlığın bu kadarına doğrusu ya pes.
+Bindiğin dalı kesiyorsun Adnan Menderes.
+İlle de asıp kesmek geliyorsa içinden
+Ezmekte devâm et Barışçılar'ı, ama sen
+Meselâ Yalçın'ı da tıkıyorsun deliğe (1)
+İhtiyarcık sana azıcık cilve yaptı diye,
+Git, koş, elini öp, af dile, yüzünü güldür,
+O, yalnız altın kafeslerde öten bülbüldür.
+O, matbaalar yıktırıp kitaplar yaktıran, (2)
+O, büyük demokrat, O, hürriyetçi kahraman,
+Moskova'yı atomlayalım diyen insancı...
+Kendine acımazsan bize bir parça acı.
+A be Adnan Menderes, böyle bir dal kesilmez,
+Böyle şaşkınlıkların sonu da iyi gelmez...
+Şu muhalefetle de alıp veremediğin ne?
+Niye öyle hışımla yürüyorsun üstüne?
+Kore'ye asker gönderdin de "Hayır" mı dedi?
+"Kan aktı hesabı sorulmalıdır!" mı dedi?
+Orduyu emrimize verdin, ses çıkardı mı?
+"Olmaz olsun" mu dedi Amerikan yardımı?
+Feryat mı etti "İstiklâl elden gitti" diye?
+Zavallı, sımsıkı sarılmış demokrasiye :
+"Başvekil merasimsiz karşılanmalı" diyor. (3)
+Bir de bazan coşarak "Hayat pahalı" diyor.
+Bu aksoylu muhalefeti ezilir görmek
+Türkün Batılı dostlarını pek üzüyor pek. (4)
+Şaşkınlığın bu kadarına doğrusu ya pes.
+Bindiğin dalı kesiyorsun Adnan Menderes.
+Hani, her işte bizden örnek alacaktın ya?
+Hürriyet nizamına sâdık kalacaktın ya?
+Vaadettin tanımadın işçinin grev hakkını.
+O hakkı bizim tanıdığımız gibi tanı.
+Elli istiyorlarsa ateş aç, sonra beş ver.
+Ama ufak tefek grevlerde anlayış göster.
+Sendika liderlerinizin birçoğu zaten
+bizde olduğu gibi emir alır polisten.
+Niye telaşlanıp kaybedersin vekarını?
+Hem de kırarsın liderlerin itibarını?
+Şaşkınlığın  bu kadarına doğrusu ya pes,
+Bindiğin dalı kesiyorsun Adnan Menderes.
+Senin bindiğin dallar ve bindiğimiz dallar,
+Unutma bu dallardan başka asıl ağaç var,
+öfkeyle homurdanan yarı çıplak, yarı aç,
+bizi silkip atmaya fırsat kollıyan ağaç...
  
 
 
@@ -2426,90 +3179,198 @@ yazısını şöyle bitiriyor: "Bu durum Türkiye'nin Batıdaki dostlarını ked
 
 Nâzım HİKMET
 
-### Giden
+## Giden
 
 Camların üstünde gece ve kar.
+
 Bembeyaz karanlıkta parlıyan raylar -
+
 uzaklaşılıp kavuşulmamayı hatırlatıyor.
+
 İstasyonun
+
 üçüncü mevki bekleme salonunda
+
 siyah başörtülü,
+
 	çıplak ayaklı bir çocuk yatıyor.
+
 		Ben dolaşıyorum...
+
 Gece ve kar - pencerelerde.
+
 Bir şarkı söylüyorlar içerde.
+
 Bu, giden kardeşimin en sevdiği şarkıydı.
+
 En sevdiği şarkı...
+
 En sevdiği...
+
 En......
 
+
 Kardeşler, bakmayın gözlerime
+
 ağlamak geliyor içimden...
+
 Bembeyaz karanlıkta parlıyan raylar -
+
 uzaklaşılıp kavuşulmamayı hatırlatıyor.
+
 İstasyonun
+
 üçüncü mevki bekleme salonunda
+
 siyah başörtülü,
+
 	çıplak ayaklı bir çocuk yatıyor..
+
 Gece ve kar pencerelerde.
+
 Bir şarkı söylüyorlar içerde!..
 
 Nâzım HİKMET
 
-### Giderayak
+## Giderayak
 
-Giderayak işlerim var bitirilecek,                                                   
-giderayak.Ceylanı kurtardım avcının elindenama daha baygın yatar ayılamadı.Kopardım portakalı dalındanama kabuğu soyulamadı.Oldum yıldızlarla haşır neşirama sayısı bir tamam sayılamadı.Kuyudan çektim suyuama bardaklara konulamadı.Güller dizildi tepsiyeama taştan fincan oyulamadı.Sevdalara doyulamadı.Giderayak işlerim var bitirilecek,                                                   
-giderayak. 
+Giderayak işlerim var bitirilecek,
+                                                   
+giderayak.
+Ceylanı kurtardım avcının elinden
+ama daha baygın yatar ayılamadı.
+Kopardım portakalı dalından
+ama kabuğu soyulamadı.
+Oldum yıldızlarla haşır neşir
+ama sayısı bir tamam sayılamadı.
+Kuyudan çektim suyu
+ama bardaklara konulamadı.
+Güller dizildi tepsiye
+ama taştan fincan oyulamadı.
+Sevdalara doyulamadı.
+Giderayak işlerim var bitirilecek,
+                                                   
+giderayak.
+ 
                                                                    
 Haziran 1959
 
 Nâzım HİKMET
 
-### Gömlek Pantolon Kasket ve Fötre
+## Gömlek Pantolon Kasket ve Fötre
   Dair
 
 Bana:
+
 "temiz gömlek
-	 giymek	   düşmanıdır," diyenler
+
+	 giymek
+	   düşmanıdır," diyenler
+
 		varsa eğer,
+
 muazzam hocamın resmine baksın.
-Ustalarımın ustası Marks'ın		ceketi rehindeydi,
-bir övün yemek yerdi dört günde.Dalgalanırdı fakat
-		heybetli sakalı:		bembeyaz
-		   tertemiz			kolalı
+
+Ustalarımın ustası Marks'ın
+		ceketi rehindeydi,
+
+bir övün yemek yerdi dört günde.
+Dalgalanırdı fakat
+
+		heybetli sakalı:
+		bembeyaz
+
+		   tertemiz
+			kolalı
+
 		bir gömleğin üstünde..
+
 Ütülü pantolana idam hükmü kim verdi?
-Tosunlar,   şu bizim tarihi de mek parmak okusunlar:
+
+Tosunlar,
+   şu bizim tarihi de mek parmak okusunlar:
+
 1848'de kurşunlar
+
 	demir bir tarak gibi geçerken başından,
+
 		halis İngiliz kumaşından
-			halis İngiliz modasıyla	ütülü mum gibi bir pantolon giyerdi
-			-Alanglez-	insanların en büyüğü Engels...Vladimir İliç Ulyanof Lenin
-ateşten bir dev gibi çıktığı zaman			barikata,yakalığı da vardı
+
+			halis İngiliz modasıyla
+	ütülü mum gibi bir pantolon giyerdi
+
+			-Alanglez-
+	insanların en büyüğü Engels...
+Vladimir İliç Ulyanof Lenin
+
+ateşten bir dev gibi çıktığı zaman
+			barikata,
+yakalığı da vardı
+
 	kıravatı da..
-Bana gelince:Ben ki, herhangi bir proleter şairiyim,
-Marksisto-Leninist şuur,	30 kilo kemik
+
+Bana gelince:
+Ben ki, herhangi bir proleter şairiyim,
+
+Marksisto-Leninist şuur,
+	30 kilo kemik
+
 	  7 litre kan,
+
 	bir iki kilometre kadar,
+
 		damar,
-	adale, et, sinir ve deriyim;ne kafamın dışındaki kasket	içindekine delalet
+
+	adale, et, sinir ve deriyim;
+ne kafamın dışındaki kasket
+	içindekine delalet
+
 			eder,
-ne de biricik fötrüm beni	geçmekte olan geçmişe alet			eder....Buna rağmen	ben:haftada altı gün kasketliysem eğer,haftada bir gün
+
+ne de biricik fötrüm beni
+	geçmekte olan geçmişe alet
+			eder....
+Buna rağmen
+	ben:
+haftada altı gün kasketliysem eğer,
+haftada bir gün
+
 	sevgilimle seyrana giderken
+
 		biricik fötrümü
+
 			tertemiz
+
 			    giymek içindir bu...
+
 Fakat
+
 neden benim iki fötrüm yok?
+
 Ne dersin üstat?
 
-Tembel miyim?Hayır!Günde 12 saat	sayfa bağlamak,	ayakta dikilip		anası ağlamak
+
+Tembel miyim?
+Hayır!
+Günde 12 saat
+	sayfa bağlamak,
+	ayakta dikilip
+		anası ağlamak
+
 	sapına kadar çalışmaktır..
-Kapkara cahil miyiz?Hayır!Mesela:
+
+Kapkara cahil miyiz?
+Hayır!
+Mesela:
+
 	"Sat-Sin" bey kadar cahilü cühela
-			olmasam gerek....Budala mıyım?Eh,
-   pek     değil..
+
+			olmasam gerek....
+Budala mıyım?
+Eh,
+
+   pek
+     değil..
 
 Belki biraz derbederim..
 
@@ -2545,34 +3406,91 @@ Ve ilaaaaaaa,
 
 Nâzım HİKMET
 
-### Gövdemdeki Kurt
+## Gövdemdeki Kurt
 
-Senbenimminare boyunda çam gövdeme,yumuşakbeyazbir kurt gibi girdin,kemirdin!Benbarsaklarında solucan Makdonaldı besleyenİngiliz amelesi gibi taşıyorum                                       
+Sen
+benim
+minare boyunda çam gövdeme,
+yumuşak
+beyaz
+bir kurt gibi girdin,
+kemirdin!
+Ben
+barsaklarında solucan Makdonaldı besleyen
+İngiliz amelesi gibi taşıyorum
+                                       
 seni içimde!
-Biliyorum          kabahat kimde!
-Ey ruhu lordlar kamarası kadın!Ey uzun entarili tüysüz Puankare!Karşımda:demirleri kıpkızıl                 
-bir şimendifer ocağı gibi yanmaksenin en basit hünerin;yine en basit hünerin seninbuzun üstünde bir paten gibi kıvranmak!
-Soğuk!Sıcak!Kaltak!dur!Yumuşak          beyaz               
-kıvrılışlarınla                              
-beynime giriyorsun                                                     
-kemiriyorsun!Oraya giremezsin!Onu kemiremezsin!
-Yumuşakbeyazkıvrılışlarıylabeynime giren kurduçürük bir diş çeker gibi söktüm!Epeyce ter döktüm!Bu sonuncuydu                
-bir daha olmayacak! 
+Biliyorum
+          kabahat kimde!
+Ey ruhu lordlar kamarası kadın!
+Ey uzun entarili tüysüz Puankare!
+Karşımda:
+demirleri kıpkızıl
+                 
+bir şimendifer ocağı gibi yanmak
+senin en basit hünerin;
+yine en basit hünerin senin
+buzun üstünde bir paten gibi kıvranmak!
+Soğuk!
+Sıcak!
+Kaltak!
+dur!
+Yumuşak
+          beyaz
+               
+kıvrılışlarınla
+                              
+beynime giriyorsun
+                                                     
+kemiriyorsun!
+Oraya giremezsin!
+Onu kemiremezsin!
+Yumuşak
+beyaz
+kıvrılışlarıyla
+beynime giren kurdu
+çürük bir diş çeker gibi söktüm!
+Epeyce ter döktüm!
+Bu sonuncuydu
+                
+bir daha olmayacak!
+ 
                                                                                        
 1924
 
 Nâzım HİKMET
 
-### Gözlerin
+## Gözlerin
 
-Gözlerin gözlerin gözlerin,ister hapisaneme, ister hastaneme gel,gözlerin gözlerin gözlerin hep güneşte,şu Mayıs ayı sonlarında öyledir işteAntalya tarafında ekinler seher vakti.
-Gözlerin gözlerin gözlerin,kaç defa karşımda ağladılar                           
-çırılçıplak kaldı gözlerinaltı aylık çocuk gözleri gibi kocaman ve çırılçıplak,fakat bir gün bile güneşsiz kalmadılar.
-Gözlerin gözlerin gözlerin,gözlerin bir mahmurlaşmayagörsünsevinçli bahtiyar                    
-alabildiğine akıllı ve mükemmeldillere destan bir şeyler olur dünyaya sevdası insanın.
-Gözlerin gözlerin gözlerin,sonbaharda öyledir işte kestanelikleri Bursa'nınve yaz yağmurundan sonra yapraklarve her mevsim ve her saat İstanbul.
-Gözlerin gözlerin gözlerin,gün gelecek gülüm, gün gelecek,kardeş insanlar birbirinesenin gözlerinle bakacaklar gülüm,                          
-senin gözlerinle bakacaklar. 
+Gözlerin gözlerin gözlerin,
+ister hapisaneme, ister hastaneme gel,
+gözlerin gözlerin gözlerin hep güneşte,
+şu Mayıs ayı sonlarında öyledir işte
+Antalya tarafında ekinler seher vakti.
+Gözlerin gözlerin gözlerin,
+kaç defa karşımda ağladılar
+                           
+çırılçıplak kaldı gözlerin
+altı aylık çocuk gözleri gibi kocaman ve çırılçıplak,
+fakat bir gün bile güneşsiz kalmadılar.
+Gözlerin gözlerin gözlerin,
+gözlerin bir mahmurlaşmayagörsün
+sevinçli bahtiyar
+                    
+alabildiğine akıllı ve mükemmel
+dillere destan bir şeyler olur dünyaya sevdası insanın.
+Gözlerin gözlerin gözlerin,
+sonbaharda öyledir işte kestanelikleri Bursa'nın
+ve yaz yağmurundan sonra yapraklar
+ve her mevsim ve her saat İstanbul.
+Gözlerin gözlerin gözlerin,
+gün gelecek gülüm, gün gelecek,
+kardeş insanlar birbirine
+senin gözlerinle bakacaklar gülüm,
+                          
+senin gözlerinle bakacaklar.
+ 
+
  
 
 
@@ -2581,42 +3499,89 @@ senin gözlerinle bakacaklar. 
 
 Nâzım HİKMET
 
-### Güneşi İçenlerin Türküsü
+## Güneşi İçenlerin Türküsü
 
-Bu bir türkü:-toprak çanaklardagüneşi içenlerin türküsü!Bu bir örgü:-alev bir saç örgüsü!                        
-kıvranıyor;kanlı; kızıl bir meş'ale gibi yanıyor                                     
-esmer alınlarında                         
-bakır ayakları çıplak kahramanların!Ben de gördüm o kahramanları,ben de sardım o örgüyü,ben de onlarla                    
-güneşe giden                                       
-köprüden                                              
-geçtim!Ben de içtim toprak çanaklarda güneşi.Ben de söyledim o türküyü!
-Yüreğimiz topraktan aldı hızını;altın yeleli aslanların ağzını                                       
-yırtarak                                             
-gerindik!Sıçradık;           
-şimşekli rüzgâra bindik!.Kayalardan           
-kayalarla kopan kartallarçırpıyor ışıkta yaldızlanan kanatlarını.Alev bilekli süvariler kamçılıyor                            
-şaha kalkan atlarını! 
+Bu bir türkü:-
+toprak çanaklarda
+güneşi içenlerin türküsü!
+Bu bir örgü:-
+alev bir saç örgüsü!
+                        
+kıvranıyor;
+kanlı; kızıl bir meş'ale gibi yanıyor
+                                     
+esmer alınlarında
+                         
+bakır ayakları çıplak kahramanların!
+Ben de gördüm o kahramanları,
+ben de sardım o örgüyü,
+ben de onlarla
+                    
+güneşe giden
+                                       
+köprüden
+                                              
+geçtim!
+Ben de içtim toprak çanaklarda güneşi.
+Ben de söyledim o türküyü!
+Yüreğimiz topraktan aldı hızını;
+altın yeleli aslanların ağzını
+                                       
+yırtarak
+                                             
+gerindik!
+Sıçradık;
+           
+şimşekli rüzgâra bindik!.
+Kayalardan
+           
+kayalarla kopan kartallar
+çırpıyor ışıkta yaldızlanan kanatlarını.
+Alev bilekli süvariler kamçılıyor
+                            
+şaha kalkan atlarını!
+ 
 
 
-                    Akın var                               
-güneşe akın!                       
-Güneşi zaptedeceğiz                               
-güneşin zaptı yakın! 
+                    Akın var
+                               
+güneşe akın!
+                       
+Güneşi zaptedeceğiz
+                               
+güneşin zaptı yakın!
+ 
 
 
-Düşmesin bizimle yola:evinde ağlayanların                           
-göz yaşlarını                                       
-boynunda ağır bir                                                               
-zincir                                                                   
-gibi taşıyanlar!Bıraksın peşimizi           
+Düşmesin bizimle yola:
+evinde ağlayanların
+                           
+göz yaşlarını
+                                       
+boynunda ağır bir
+                                                               
+zincir
+                                                                   
+gibi taşıyanlar!
+Bıraksın peşimizi
+           
 kendi yüreğinin kabuğunda yaşayanlar!
-İşte:        şu güneşten                       
-düşen                              
-ateşte                                   
+İşte:
+        şu güneşten
+                       
+düşen
+                              
+ateşte
+                                   
 milyonlarla kırmızı yürek yanıyor!
-Sen de çıkargöğsünün kafesinden yüreğini;şu güneşten               
-düşen                       
-ateşe fırlat;yüreğini yüreklerimizin yanına at!
+Sen de çıkar
+göğsünün kafesinden yüreğini;
+şu güneşten
+               
+düşen
+                       
+ateşe fırlat;
+yüreğini yüreklerimizin yanına at!
  
 
 
@@ -2724,113 +3689,220 @@ Haykıralım!
 
 Nâzım HİKMET
 
-### Güneşin Sofrasında
+## Güneşin Sofrasında
 
 Dalgaları karşılayan gemiler gibi,
+
 gövdemizle karanlıkları yara yara
+
 	çıktık, rüzgarları en serin
+
 		uçurumları en derin
+
 			havaları en ışıklı sıra dağlara.
+
 Arkamızda bir düşman gözü gibi karanlığın yolu.
+
 Önümüzde bakır taslar güneş dolu.
+
 Dostların arasındayız!
-Güneşin sofrasındayız!Dağlarda gölgeniz göklere vursun,	göz göze
+
+Güneşin sofrasındayız!
+Dağlarda gölgeniz göklere vursun,
+	göz göze
+
 		yan yana
-			durun çocuklar.Taşları birbirine vurun çocuklar.Doldurun çocuklar,
+
+			durun çocuklar.
+Taşları birbirine vurun çocuklar.
+Doldurun çocuklar,
+
 doldurun
+
 	doldurun
-		doldur içelim.Başları	göklere		atalım		serden geçelim..
+
+		doldur içelim.
+Başları
+	göklere
+		atalım
+		serden geçelim..
+
 Heeey, nerden geçelim?
-Yalnayak	koşarak		devlerin			geçtiği				yerden geçelim.
+
+Yalnayak
+	koşarak
+		devlerin
+			geçtiği
+				yerden geçelim.
+
 
 Heeey
+
 	hop
+
 Heeey
+
 	hep
+
 	   birden geçelim.
+
 Doldurun çocuklar,
+
 doldurun
+
 	doldurun,
-		doldur içelim.Dostların arasındayız!
+
+		doldur içelim.
+Dostların arasındayız!
+
 Güneşin sofrasındayız!.
+
 		N.Hikmet
 
 Nâzım HİKMET
 
-### Güz
+## Güz
 
-Günler gitgide kısalıyor,yağmurlar başlamak üzre.Kapım ardına kadar açık bekledi seni.Niye böyle geç kaldın?
-Soframda yeşil biber, tuz, ekmek.Testimde sana sakladığım şarabıiçtim yarıya kadar bir başımaseni bekleyerek.Niye böyle geç kaldın?
-Fakat işte ballı meyvelerdallarında olgun, diri duruyor.Koparılmadan düşeceklerdi toprağabiraz daha gecikseydin eğer...
+Günler gitgide kısalıyor,
+yağmurlar başlamak üzre.
+Kapım ardına kadar açık bekledi seni.
+Niye böyle geç kaldın?
+Soframda yeşil biber, tuz, ekmek.
+Testimde sana sakladığım şarabı
+içtim yarıya kadar bir başıma
+seni bekleyerek.
+Niye böyle geç kaldın?
+Fakat işte ballı meyveler
+dallarında olgun, diri duruyor.
+Koparılmadan düşeceklerdi toprağa
+biraz daha gecikseydin eğer...
 
 Nâzım HİKMET
 
-### Haber
+## Haber
 
 Onlardan haber geldi.
+
 Oradan
-onlardan.Gömlekleri kirli değil
+
+onlardan.
+Gömlekleri kirli değil
+
 çatık değilmiş kaşları.
+
 Yalnız biraz
+
 	uzamış tıraşları.
+
 "Yandık!"
+
 	dememişler.
+
 Dayanmışlar biliyorum.
+
 "Dayandık!"
+
 	dememişler.
+
 Gözleri gülerek
+
 bakıyorlarmış adama.
+
 Şakaklarında taze bir yara varmış ama,
+
 çatık değilmiş kaşları.
+
 Yalnız biraz
+
 	uzamış tıraşları....
 
 Nâzım HİKMET
 
-### Hasret
+## Hasret
 
-Denize dönmek istiyorum!Mavi aynasında suların:boy verip görünmek istiyorum!Denize dönmek istiyorum!
-Gemiler gider aydın ufuklara gemiler gider!Gergin beyaz yelkenleri doldurmaz keder.Elbet ömrüm gemilerde bir gün olsun nöbete yeter.Ve madem ki bir gün ölüm mukadder;Ben sularda batan bir ışık gibisularda sönmek istiyorum!Denize dönmek istiyorum!Denize dönmek istiyorum!
+Denize dönmek istiyorum!
+Mavi aynasında suların:
+boy verip görünmek istiyorum!
+Denize dönmek istiyorum!
+Gemiler gider aydın ufuklara gemiler gider!
+Gergin beyaz yelkenleri doldurmaz keder.
+Elbet ömrüm gemilerde bir gün olsun nöbete yeter.
+Ve madem ki bir gün ölüm mukadder;
+Ben sularda batan bir ışık gibi
+sularda sönmek istiyorum!
+Denize dönmek istiyorum!
+Denize dönmek istiyorum!
 
 Nâzım HİKMET
 
-### Hasret
+## Hasret
 
-Yüz yıl oldu yüzünü görmeyeli,belini sarmayalı,gözünün içinde durmayalı,aklının aydınlığına sorular sormayalı,dokunmayalı sıcaklığına karnının.
-Yüz yıldır bekliyor beni                   
+Yüz yıl oldu yüzünü görmeyeli,
+belini sarmayalı,
+gözünün içinde durmayalı,
+aklının aydınlığına sorular sormayalı,
+dokunmayalı sıcaklığına karnının.
+Yüz yıldır bekliyor beni
+                   
 bir şehirde bir kadın.
-Aynı daldaydık, aynı daldaydık.Aynı daldan düşüp ayrıldık.Aramızda yüz yıllık zaman,                      
+Aynı daldaydık, aynı daldaydık.
+Aynı daldan düşüp ayrıldık.
+Aramızda yüz yıllık zaman,
+                      
 yol yüz yıllık.
-Yüz yıldır alacakaranlıkta                  
-koşuyorum ardından. 
+Yüz yıldır alacakaranlıkta
+                  
+koşuyorum ardından.
+ 
                                            
 6 Temmuz 959
 
 Nâzım HİKMET
 
-### Herkes Gibi
+## Herkes Gibi
 
-Gönlümle baş başa düşündüm demin;Artık bir sihirsiz nefes gibisin.Şimdi tâ içinde bomboş kalbiminAkisleri sönen bir ses gibisin.
-Mâziye karışıp sevda yeminim,Bir anda unuttum seni, eminimKalbimde kalbine yok bile kinimBence artık sen de herkes gibisin. 
-
-
-                                   
-(Altıncı Kitap, Temmuz 1336/1920)  
+Gönlümle baş başa düşündüm demin;
+Artık bir sihirsiz nefes gibisin.
+Şimdi tâ içinde bomboş kalbimin
+Akisleri sönen bir ses gibisin.
+Mâziye karışıp sevda yeminim,
+Bir anda unuttum seni, eminim
+Kalbimde kalbine yok bile kinim
+Bence artık sen de herkes gibisin.
  
 
 
-«BENCE SEN DE ŞİMDİ HERKES GİBİSİN» 
+                                   
+(Altıncı Kitap, Temmuz 1336/1920)
+ 
+ 
+
+ 
 
 
-Gözlerim gözünde aşkı seçmiyorOnlardan kalbime sevda geçmiyorBen yordum ruhumu biraz da sen yorÇünkü bence şimdi herkes gibisin
-Yolunu beklerken daha dün geceKaçıyorum bugün senden gizliceKalbime baktım da işte iyiceAnladım ki sen de herkes gibisin
-Büsbütün unuttum seni eminimMaziye karıştı şimdi yeminimKalbimde senin için yok bile kinimBence sen de şimdi herkes gibisin
-                                                    
+«BENCE SEN DE ŞİMDİ HERKES GİBİSİN»
+ 
+
+
+Gözlerim gözünde aşkı seçmiyor
+Onlardan kalbime sevda geçmiyor
+Ben yordum ruhumu biraz da sen yor
+Çünkü bence şimdi herkes gibisin
+Yolunu beklerken daha dün gece
+Kaçıyorum bugün senden gizlice
+Kalbime baktım da işte iyice
+Anladım ki sen de herkes gibisin
+Büsbütün unuttum seni eminim
+Maziye karıştı şimdi yeminim
+Kalbimde senin için yok bile kinim
+Bence sen de şimdi herkes gibisin
+ 
+                                                   
 334 (1918) - Yaz - Kadıköy
 
 Nâzım HİKMET
 
-### Hiçbir Ağaç Böyle Harikulade Bir Yemiş Vermemiştir
+## Hiçbir Ağaç Böyle Harikulade Bir Yemiş Vermemiştir
 
 Topraktan ateşten ve denizden
 		doğanların
@@ -2866,49 +3938,119 @@ en mükemmeli doğacak bizden.....................
 
 Nâzım HİKMET
 
-### Hiciv Vadisinde Bir Tecrübei Kalemiye
+## Hiciv Vadisinde Bir Tecrübei Kalemiye
 
 Bir varmış
+
    bir yokmuş.
+
 Develer tellallık edip satarken develeri,
+
 bir benim babam varmış,
+
 bir de bir zatımuhteremin pederi.
-Benim babam,   dazlak kafalı ufak tefek bir adam.
+
+Benim babam,
+   dazlak kafalı ufak tefek bir adam.
+
 O bir zatımuhteremin pederi
+
 İkinci Sultan Hamidin
+
 	meşhur hırsız seraskeri.
-Benim babam,dolu koymuş
+
+Benim babam,
+dolu koymuş
+
 	boş çıkmış,
+
 bütün ömrünce çevirmiş simsiyah defterleri.
+
 O, bir zatımuhteremin pederi -
+
 Yemen çölünde açlıktan ölenlerin
-	suyundan, ekmeğinden çalarak,kumun üstüne akan kandan
-	yüzde yüz komisyon alarakhan, hamam, apartıman yapmış...Ey zatımuhterem!
+
+	suyundan, ekmeğinden çalarak,
+kumun üstüne akan kandan
+
+	yüzde yüz komisyon alarak
+han, hamam, apartıman yapmış...
+Ey zatımuhterem!
+
 Şaire, "Kısa kes, diyelim, sözlerini!"
-Ölmüş sizin serasker		peder.
+
+Ölmüş sizin serasker
+		peder.
+
 Benim de babam öldü.
-Ve dünyaya yummadan evvelışıklı çocuk gözlerini
+
+Ve dünyaya yummadan evvel
+ışıklı çocuk gözlerini
+
 	siz onun yanındaydınız.
+
 Son beş papelin hesabını vermeden ölmesin, diye
+
 kalbinin atışını saydınız.
-Tutmuyordu babamın öpülesi elleri.O eller..Babamın gözleri artık	simsiyah defterleri göremiyordu...Fakat yine siz haklısınız:o gündü hesap günü.Taktınız tenezzülen kendi elinizle sizbir ölünün burnuna gözlüğünü,
-beş papelin hesabını istediniz.İşte o hesabı şimdi ben veriyorum.Size bir tokat	borcum vardı.Dikkat!
-Kolumu geriyorum.İkimiz karşı karşıyayız.
-Sizin peder ölmüş.Öldü benim babam.Karşı karşıya kaldık iki meşhur adam.Benim şöhretim nerden gelir,
-ben neyimle meşhurum -		     -MALUM!.
-Size gelince:sizi meşhur eden şey:
+
+Tutmuyordu babamın öpülesi elleri.
+O eller..
+Babamın gözleri artık
+	simsiyah defterleri göremiyordu...
+Fakat yine siz haklısınız:
+o gündü hesap günü.
+Taktınız tenezzülen kendi elinizle siz
+bir ölünün burnuna gözlüğünü,
+
+beş papelin hesabını istediniz.
+İşte o hesabı şimdi ben veriyorum.
+Size bir tokat
+	borcum vardı.
+Dikkat!
+
+Kolumu geriyorum.
+İkimiz karşı karşıyayız.
+
+Sizin peder ölmüş.
+Öldü benim babam.
+Karşı karşıya kaldık iki meşhur adam.
+Benim şöhretim nerden gelir,
+
+ben neyimle meşhurum -
+		     -MALUM!.
+
+Size gelince:
+sizi meşhur eden şey:
+
 hırsız bir babanın kanlı altınlarını çalan
+
 hırsız bir oğlun parasıdır.
-Sizin şöhretiniz:lanetle dolu bir yükün	çuval darasıdır.
+
+Sizin şöhretiniz:
+lanetle dolu bir yükün
+	çuval darasıdır.
+
 Şöhretiniz:
+
 kıvrak çengiler, büyük kemancılar veren
+
 çingene çadırlarının yüz karasıdır.
+
 İnanmazsanız eğer,
+
 karıştırsın alim efendiler
+
 kalın yapraklı kitaplar gibi seneleri:
-anlarsınız ki, Edirne boyu			çingeneleri,görmemiştir soyunuz gibi bir soyu...Bir varmış
+
+anlarsınız ki, Edirne boyu
+			çingeneleri,
+görmemiştir soyunuz gibi bir soyu...
+Bir varmış
+
   bir yokmuş.
+
 Develer tellallık edip satarken develeri,
+
 bir benim babam varmış,
 
 bir de bir zatımuhteremin pederi.
@@ -2925,30 +4067,60 @@ Karşı karşıya kaldık
 
 Nâzım HİKMET
 
-### Hoşgeldin
+## Hoşgeldin
 
 Hoş geldin!
+
 Kesilmiş bir kol gibi
-	omuz başımızdaydı boşluğun...Hoş geldin!
-Ayrılık uzun sürdü.Özledik.
-Gözledik...Hoş geldin!Bizbıraktığın gibiyiz.
+
+	omuz başımızdaydı boşluğun...
+Hoş geldin!
+
+Ayrılık uzun sürdü.
+Özledik.
+
+Gözledik...
+Hoş geldin!
+Biz
+bıraktığın gibiyiz.
+
 Ustalaştık biraz daha
+
 	taşı kırmakta,
-dostu düşmandan ayırmakta...Hoş geldin.
-Yerin hazır.Hoş geldin.Dinleyip diyecek çok.
-Fakat uzun söze vaktimiz yok.YÜRÜYELİM.....		N.Hikmet - 1932 Birinciteşrin 5, Çarşamba gecesi
+
+dostu düşmandan ayırmakta...
+Hoş geldin.
+
+Yerin hazır.
+Hoş geldin.
+Dinleyip diyecek çok.
+
+Fakat uzun söze vaktimiz yok.
+YÜRÜYELİM.....
+		N.Hikmet - 1932 Birinciteşrin 5, Çarşamba gecesi
 
 Nâzım HİKMET
 
-### Hürriyet Kavgası
+## Hürriyet Kavgası
 
-Yine kitapları, türküleri, bayraklarıyla geldiler,dalga dalga aydınlık oldular,yürüdüler karanlığın üstüne.Meydanları zaptettiler yine.
+Yine kitapları, türküleri, bayraklarıyla geldiler,
+dalga dalga aydınlık oldular,
+yürüdüler karanlığın üstüne.
+Meydanları zaptettiler yine.
            
-Beyazıt'ta şehit düşen           
-silkinip kalktı kabrinden,           
-ve elinde bir güneş gibi taşıyıp yarasını           
+Beyazıt'ta şehit düşen
+           
+silkinip kalktı kabrinden,
+           
+ve elinde bir güneş gibi taşıyıp yarasını
+           
 yıktı Şahmeran'ın mağarasını.
-Daha gün o gün değil, derlenip dürülmesin bayraklar.Dinleyin, duyduğunuz çakalların ulumasıdır.Safları sıklaştırın çocuklar,bu kavga faşizme karşı, bu kavga hürriyet kavgasıdır.  
+Daha gün o gün değil, derlenip dürülmesin bayraklar.
+Dinleyin, duyduğunuz çakalların ulumasıdır.
+Safları sıklaştırın çocuklar,
+bu kavga faşizme karşı, bu kavga hürriyet kavgasıdır.
+ 
+ 
                                                                                
 1962
 

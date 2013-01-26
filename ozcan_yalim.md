@@ -1,6 +1,6 @@
-## Özcan YALIM
+# Özcan YALIM
 
-### Afrika
+## Afrika
 
 Gücümü karanlıktan alıyorum
 Sabah gibi
@@ -28,7 +28,7 @@ Alıyorum
 
 Özcan YALIM
 
-### Arayıcılar
+## Arayıcılar
 
 Öldün - sana duyurmadılar
 Nereden beri sanrı bilemezsin
@@ -42,7 +42,7 @@ Bir gün bulur seni arayıcılar
 
 Özcan YALIM
 
-### Aşk
+## Aşk
 
 Yelken rüzgâr istiyor
 Bırak dolsun
@@ -54,7 +54,7 @@ Mademki seviyorsun
 
 Özcan YALIM
 
-### Baş Dönmesi
+## Baş Dönmesi
 
 Beni deniz tutmaz
 Gözlerin tutar
@@ -65,7 +65,7 @@ Ya dalgalar
 
 Özcan YALIM
 
-### Birelme
+## Birelme
 
 Katlaya katlaya acılarını
 İkiyi birde yaşayan
@@ -78,7 +78,7 @@ Ben de sen değil miyim?
 
 Özcan YALIM
 
-### Gülibrişim
+## Gülibrişim
 
 Ergin kedi almam evime
 Tohumdan büyümeli toprağımda gülibrişim
@@ -116,7 +116,7 @@ Hepinizin adını gülibrişim koydum
 
 Özcan YALIM
 
-### Güzelleme
+## Güzelleme
 
 Aramıza gül girdi
 Güvercin geçti aramızdan
@@ -138,7 +138,7 @@ Güvercin geçti aramızdan
 
 Özcan YALIM
 
-### Kum Saati
+## Kum Saati
 
 Can akıyor kum saatinde
 Dingin - bidüziye- zamanında
@@ -154,7 +154,7 @@ Can akıyor kum saatinde
 
 Özcan YALIM
 
-### Oyun
+## Oyun
 
 Ay tutulmuş gibi
 Bir kapı sürgülü
@@ -175,7 +175,7 @@ Bu oyun mutlu sona yargılı
 
 Özcan YALIM
 
-### Özlemek
+## Özlemek
 
 Öyle özlersin ki ülkeni uzaklarda
 Giden gemileri okşarsın
@@ -198,7 +198,7 @@ Hem de polis farkında
 
 Özcan YALIM
 
-### Yaşadık mı?
+## Yaşadık mı?
 
 Dinçer Sezgin'e
 
@@ -227,7 +227,7 @@ Geriye ne kalır yaşamaktan?
 
 Özcan YALIM
 
-### Yaşlılarevinde
+## Yaşlılarevinde
 
 1.	Yaşlılık en yorgun atımdır
                 -dedi yalnızlık -

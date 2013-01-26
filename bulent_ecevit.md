@@ -1,6 +1,6 @@
-## Bülent ECEVİT
+# Bülent ECEVİT
 
-### Av
+## Av
 
 ormanın kuytusunda vurulan geyik
 hayvanlar acınla suskun
@@ -13,7 +13,7 @@ avcının söndüremediği iyilik
 
 Bülent ECEVİT
 
-### 
+## 
   Bach Sonatı
 
 ne ben sorayım seni
@@ -41,7 +41,7 @@ zerreden öz
 
 Bülent ECEVİT
 
-### Köylü Kadınlar
+## Köylü Kadınlar
 
 köylü kadınlar
 fistanları güllü kadınlar
@@ -67,7 +67,7 @@ fistanları güllü kadınlar
 
 Bülent ECEVİT
 
-### Mağara
+## Mağara
 
 mağaranın duvarına
 hayvanları taştan oydum
@@ -90,7 +90,7 @@ yarıldı mağara
 
 Bülent ECEVİT
 
-### Sınır
+## Sınır
 
 dur yolcu bura sınır
 yabandır yasaktır ötesi
@@ -118,7 +118,7 @@ içinde kazılı
 
 Bülent ECEVİT
 
-### (Turkish-Greek Poem)
+## (Turkish-Greek Poem)
 
 You become aware when you feel homesick
 That you are brothers with the Greek;
@@ -170,7 +170,7 @@ London 1947
 
 Bülent ECEVİT
 
-### Turkish-Greek Poem 
+## Turkish-Greek Poem 
 
 You become aware when you feel homesick
 That you are brothers with the Greek;

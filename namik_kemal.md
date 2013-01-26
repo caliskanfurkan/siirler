@@ -1,6 +1,6 @@
-## Namık KEMAL
+# Namık KEMAL
 
-### Hürriyet Kasidesi
+## Hürriyet Kasidesi
 
 Görüp ahkâm-ı asrı münharif sıdk u selametten
 Çekildik izzet ü ikbal ile bab-ı hükûmetten

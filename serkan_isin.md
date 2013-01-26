@@ -1,7 +1,8 @@
-## Serkan IŞIN
+# Serkan IŞIN
 
-### İki Şehir Arası Gece Ve Şeyler
+## İki Şehir Arası Gece Ve Şeyler
 
+SERKAN IŞIN
 İki Şehir Arası Gece ve Şeyler, 
 , İnkılap Yayınları, 2000
  Mizan yazarları dergiyi çıkaramasalar da, kitap çıkarmaya
@@ -39,7 +40,7 @@ anlatıyor. Şairin ilk kitabı olan Metropol Aşkları'ndan sonra, daha ustaca 
 
 Serkan IŞIN
 
-### 03:36 ve Her Gece
+## 03:36 ve Her Gece
 
 Olmuyor işte
         bir yanda Rachmaninof
@@ -162,7 +163,7 @@ Olmuyor işte
 
 Serkan IŞIN
 
-### 206
+## 206
 
 1
 
@@ -261,7 +262,7 @@ Ayıran tek gövde: pusulası kahır olan sevgilin.
 
 Serkan IŞIN
 
-### Aşk Herşeydir
+## Aşk Herşeydir
 
 Eteğini küllere bulamış bir ejderhanın sürekli yüzü duruyor sokaklarda
 Bu yüz binbir gece masallarının sonundaki gün kadar esrarlı
@@ -320,7 +321,7 @@ Tarih-dışı cinayetleri, müsveddeleri, kullanımı olmayan daktilo şeritleri
 
 Serkan IŞIN
 
-### Bir Mevlevi Kasabasında Aşkın
+## Bir Mevlevi Kasabasında Aşkın
   Topoğrafisi
 
 Yüzleri uzuyor mevlevilerin döndükçe bedenleri
@@ -559,7 +560,7 @@ Tarih-dışı cinayetleri, müsveddeleri, kullanımı olmayan daktilo şeritleri
 
 Serkan IŞIN
 
-### Cerahatin Şehrinde Yapı Bozunumu
+## Cerahatin Şehrinde Yapı Bozunumu
 
 Cerahatin şehrinde yapı bozunumu fizik dışı
 Körelmesi köşeden başladı, alttan deniz kenarından
@@ -818,7 +819,7 @@ irisime”
 
 Serkan IŞIN
 
-### İçimde Bir Lut Gölü Taşıyorum
+## İçimde Bir Lut Gölü Taşıyorum
   Ehidna
 
 Soysoz bir orospu gibi dolanıyorum bilinçaltımda
@@ -845,7 +846,7 @@ Zaman’ı!
 
 Serkan IŞIN
 
-### İhtisas Meseli
+## İhtisas Meseli
 
 1
 
@@ -1043,7 +1044,7 @@ kokulu kadın, yerinden doğrulur…
 
 Serkan IŞIN
 
-### Küçük Hanımın Yolculuğu İçin
+## Küçük Hanımın Yolculuğu İçin
   Dış Bükey
 
 “Gideceğim yeri pek bilmiyorum; geldiğim, ilk, yeri de. 
@@ -1138,7 +1139,7 @@ Küçük hanım şehre giriyor…
 
 Serkan IŞIN
 
-### Kuşağımı Beline Dolayanlar
+## Kuşağımı Beline Dolayanlar
 
 Adamın mağaraya döndüğünü tasavvur et.
 Karanlığa kolay kolay alışabilir mi? Dostlarına
@@ -1245,7 +1246,7 @@ Her belde iğreti duran!
 
 Serkan IŞIN
 
-### Metropol Aşkları II
+## Metropol Aşkları II
 
 Firdevs'e
 
@@ -1317,7 +1318,7 @@ Firdevs'e
 
 Serkan IŞIN
 
-### Odam ve Azyalnızlık Ülkesi
+## Odam ve Azyalnızlık Ülkesi
   Hakkında Uzun Şiir
 
 ODA İÇİN EPİLOG

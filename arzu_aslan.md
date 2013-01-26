@@ -1,6 +1,6 @@
-## Arzu ASLAN
+# Arzu ASLAN
 
-### Akdeniz
+## Akdeniz
 
 bütün kıyılarını dolaş akdeniz in
 bütün limanlarını unut 
@@ -29,7 +29,7 @@ ah akdeniz bu kadar güzel miydin
 
 Arzu ASLAN
 
-### Bitmeyen Bira
+## Bitmeyen Bira
 
 sevişmelerden arta kalan vücut parçası
 piknik dönüşü pırtlamış göbeğin
@@ -61,7 +61,7 @@ yaşasın bitmeyen bira
 
 Arzu ASLAN
 
-### Civa Yağmurları
+## Civa Yağmurları
 
 sürgünlerin işiydi
 kentin heryerine macun gibi
@@ -89,7 +89,7 @@ düşlerinde civa yağmurları
 
 Arzu ASLAN
 
-### Hanımeli
+## Hanımeli
 
 çaresizliğim ertelenebilir hanımeli
                                     yardım et
@@ -129,7 +129,7 @@ gülücüklü bir ad arıyorum pişmanlığıma
 
 Arzu ASLAN
 
-### Mesai Bitti
+## Mesai Bitti
 
 mesai bitti akşam hafiften dayılanıyor
 kaçılsın tezayaklar ağzına bile sürmemişler

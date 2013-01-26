@@ -1,6 +1,6 @@
-## Enver GÖKÇE
+# Enver GÖKÇE
 
-### 39 Harbi
+## 39 Harbi
 
 Gitsem de gitsem...
 Bir an için terk-i diyar etsem
@@ -50,7 +50,7 @@ Bana insanları öğrettin.
 
 Enver GÖKÇE
 
-### 1909 - 1946
+## 1909 - 1946
 
 ( Saffet Korkut için )
 Bir Saffet Hoca vardı dost bağında
@@ -75,7 +75,7 @@ Yiğitken, güzelken, incecikken
 
 Enver GÖKÇE
 
-### Ağıt
+## Ağıt
 
 Teller iletmez haber, direkler devrileli
 Kara habercidir göklerde kuşlar görüleli.
@@ -102,7 +102,7 @@ Uğruna destan yazılası, Adapazarım.
 
 Enver GÖKÇE
 
-### Ah Len Ah
+## Ah Len Ah
 
 Üşürülmüş
 Yılan
@@ -153,7 +153,7 @@ Ah.
 
 Enver GÖKÇE
 
-### And Olsun Şart Olsun
+## And Olsun Şart Olsun
 
 Ben
 Böyle
@@ -183,7 +183,7 @@ Ahım.
 
 Enver GÖKÇE
 
-### Başlangıç
+## Başlangıç
 
 Zaman akar, zaman geçer,
 Zaman zindan içinde;
@@ -204,7 +204,7 @@ Vardı bir Balaban.
 
 Enver GÖKÇE
 
-### Bir Alıp Satıcı Gönül
+## Bir Alıp Satıcı Gönül
 
 Düştüm bir öylesi çekilmez derde,
 Ne ölümü düşünürdüm, ne yaşamak korkusu,
@@ -228,7 +228,7 @@ Gönül heryerde bir kardeşim güzel heryerde bir..
 
 Enver GÖKÇE
 
-### Bir İhtiyar
+## Bir İhtiyar
 
 Gidiyorlar!
 Atları, terkileri,
@@ -288,7 +288,7 @@ Sen bir efkar gelmiş de ağlıyorsun.
 
 Enver GÖKÇE
 
-### Bir Kalleş Düzenci
+## Bir Kalleş Düzenci
   Geceden
 
 Karlı
@@ -355,7 +355,7 @@ Kaderim.
 
 Enver GÖKÇE
 
-### Bir Milli Kurtuluş
+## Bir Milli Kurtuluş
   Türküsü
 
 Zalım!
@@ -378,7 +378,7 @@ Kara yeğenim vur!
 
 Enver GÖKÇE
 
-### Bizim Caddelerimizde de
+## Bizim Caddelerimizde de
 
 Açmaz
 Açamaz
@@ -411,7 +411,7 @@ Kırılacak
 
 Enver GÖKÇE
 
-### Böğürtlen
+## Böğürtlen
   Köklerinden ve Yarpuzlardan
 
 Böğürtlen
@@ -463,7 +463,7 @@ Yosunları.
 
 Enver GÖKÇE
 
-### Bu Balaban'ın
+## Bu Balaban'ın
   Dünyadan Göçtüğüdür
 
 Aklı karalı seçilirken su,
@@ -487,7 +487,7 @@ Karnı şorlayı şorlayı
 
 Enver GÖKÇE
 
-### Cevahir Yürekliler
+## Cevahir Yürekliler
 
 Zulüm
 Bayraklarına
@@ -545,7 +545,7 @@ Tahtasına...
 
 Enver GÖKÇE
 
-### Dayan Ha Yıkılma
+## Dayan Ha Yıkılma
 
 Acı
 Bir
@@ -594,7 +594,7 @@ Diyedir.
 
 Enver GÖKÇE
 
-### Dost
+## Dost
 
 Ben berceste mısraı buldum
 Hey ömrümce söylerim
@@ -677,7 +677,7 @@ Gözden, gezden, arpacıktan
 
 Enver GÖKÇE
 
-### Dönerdi Türbinler Döner
+## Dönerdi Türbinler Döner
 
 DÖNERDİ TÜRBİNLER DÖNER
 Salkım
@@ -705,7 +705,7 @@ Döner.
 
 Enver GÖKÇE
 
-### Fakültenin Önü
+## Fakültenin Önü
 
 Fakültenin yanı demirden köprü
 Fakültenin önü bir sıra kavaktı
@@ -725,7 +725,7 @@ Ortalık ala şafaktı.
 
 Enver GÖKÇE
 
-### Gelmeyen Bahar
+## Gelmeyen Bahar
 
 GELMEYEN BAHAR
 Gel kardeşim, gel beri
@@ -739,7 +739,7 @@ Daha bizim yaşımızda
 
 Enver GÖKÇE
 
-### Gök Mustafa
+## Gök Mustafa
 
 Hüseyin anlatıyordu
 Bir candarma gelmiş bizim köye
@@ -757,7 +757,7 @@ Demiş.
 
 Enver GÖKÇE
 
-### Görüş Günü
+## Görüş Günü
 
 Bugün görüş günümüz
 Dost kardeş bir arada
@@ -773,7 +773,7 @@ Gitme dayanamam
 
 Enver GÖKÇE
 
-### Göze Göz Dişe Diş
+## Göze Göz Dişe Diş
 
 Haydı
 Ha
@@ -807,7 +807,7 @@ Yürü...
 
 Enver GÖKÇE
 
-### Gözüm Başım Üstüne
+## Gözüm Başım Üstüne
 
 GÖZÜM BAŞIM ÜSTÜNE
 Şu 
@@ -834,7 +834,7 @@ Ala...
 
 Enver GÖKÇE
 
-### Hastir Lan!
+## Hastir Lan!
 
 Ben gider oldum
      kardaşlar.
@@ -872,7 +872,7 @@ Bir meri keklik gibi
 
 Enver GÖKÇE
 
-### İbrahim
+## İbrahim
 
 Yan binmişsin eşeğe
 Kasketi de yıkmışsın afili
@@ -895,7 +895,7 @@ Ko desinler Şahmaran'ın bağı var!
 
 Enver GÖKÇE
 
-### İlk Adım
+## İlk Adım
 
 İLK ADIM
 Bir mermi de benden aslanım,
@@ -965,7 +965,7 @@ Zafer topları, mübarek namlular!
 
 Enver GÖKÇE
 
-### Kardeşlik Acıları
+## Kardeşlik Acıları
 
 KARDEŞLİK ACILARI
 Yıllar var ki sizleri düşünüyorum :
@@ -1016,7 +1016,7 @@ Sokak savaşlarına katlandığım.
 
 Enver GÖKÇE
 
-### Karlı Kabalaklı Dağ
+## Karlı Kabalaklı Dağ
 
 Şu
 Evren
@@ -1135,7 +1135,7 @@ Ol...
 
 Enver GÖKÇE
 
-### Keban Dedikleri
+## Keban Dedikleri
 
 KEBAN DEDİKLERİ
  Munzurum
@@ -1171,7 +1171,7 @@ KEBAN DEDİKLERİ
 
 Enver GÖKÇE
 
-### Kısrağa Aştı
+## Kısrağa Aştı
 
 Dağda
 Dağ
@@ -1233,7 +1233,7 @@ Kavgayı
 
 Enver GÖKÇE
 
-### Kimi Göbek Toplar Kimi Madımak
+## Kimi Göbek Toplar Kimi Madımak
 
 KİMİ GÖBEK TOPLAR KİMİ MADIMAK
 Keban
@@ -1291,7 +1291,7 @@ Var...
 
 Enver GÖKÇE
 
-### Kirtim Kirt
+## Kirtim Kirt
 
 KİRTİM KİRT (*)
 Can yoktu ki sevdala düşe,
@@ -1371,7 +1371,7 @@ Enver GÖKÇE
 
 Enver GÖKÇE
 
-### Köylülerime
+## Köylülerime
 
 Anamız birdir, aynı memeden emmişiz dostlar.
 Kan kardeşiz, sizlere kanım kaynıyor.
@@ -1394,7 +1394,7 @@ Sizlere kanım kaynıyor, yabancı değilsiniz bana...
 
 Enver GÖKÇE
 
-### Külli Topraksız ve Horlanmış
+## Külli Topraksız ve Horlanmış
 
 Bu
 Sular
@@ -1472,7 +1472,7 @@ Horlanmış
 
 Enver GÖKÇE
 
-### Memleketimin Şarkıları
+## Memleketimin Şarkıları
 
 MEMLEKETİMİN ŞARKILARI
 Ben, bizden olan bütün insanların dostu;
@@ -1546,7 +1546,7 @@ Bu hususta :
 
 Enver GÖKÇE
 
-### Meri Kekliğim
+## Meri Kekliğim
 
 Bir
 Elde
@@ -1621,7 +1621,7 @@ Yeter
 
 Enver GÖKÇE
 
-### Mürettip Hasan
+## Mürettip Hasan
 
 Alınmıştır,
 Ağzım dilim elimden
@@ -1652,7 +1652,7 @@ Katrat hesabı.
 
 Enver GÖKÇE
 
-### Ne Fayda!
+## Ne Fayda!
 
 NE FAYDA 
 Sen benimsin,
@@ -1679,7 +1679,7 @@ Ne fayda!
 
 Enver GÖKÇE
 
-### Onlar Yoksul Eti Yerler
+## Onlar Yoksul Eti Yerler
 
 Bak
 Şu
@@ -1727,7 +1727,7 @@ Kandır.
 
 Enver GÖKÇE
 
-### Oy Beni
+## Oy Beni
 
 OY BENİ
 I
@@ -1757,7 +1757,7 @@ Dayan dizlerim dayan
 
 Enver GÖKÇE
 
-### Panzerler Üstümüze Kalkar
+## Panzerler Üstümüze Kalkar
 
 PANZERLER ÜSTÜMÜZE KALKAR
 Panzerler
@@ -1786,7 +1786,7 @@ Yalnız...
 
 Enver GÖKÇE
 
-### Rotatifler Grayderler Dozerler
+## Rotatifler Grayderler Dozerler
 
 Kıvrım
 Kıvrım
@@ -1850,7 +1850,7 @@ Ve
 
 Enver GÖKÇE
 
-### Sağda Gider
+## Sağda Gider
 
 Sağda
 Gider
@@ -1901,7 +1901,7 @@ sağdıcım
 
 Enver GÖKÇE
 
-### Turan Emeksiz
+## Turan Emeksiz
 
 Bir yürüyüş eylediler sabahtan
 Ilgıt ılgıt kan gider loy loy!
@@ -1948,7 +1948,7 @@ Dalından.
 
 Enver GÖKÇE
 
-### Uy Kirpi Kız Kirpi
+## Uy Kirpi Kız Kirpi
 
 Kırmızı ve parıltılı ve narin
 Bir kiraz dalı
@@ -2003,7 +2003,7 @@ Zeyneb'in de yok.
 
 Enver GÖKÇE
 
-### Uyan Alim
+## Uyan Alim
 
 UYAN ALİM
 Yıllardır susmusum lal
@@ -2023,7 +2023,7 @@ Uykudan uyan!
 
 Enver GÖKÇE
 
-### Vatandaş
+## Vatandaş
 
 Ne, bizden geri, deniz aşırı şarkılar,
 Ne tadılır ne bölünür nimetler bizsiz.
@@ -2088,7 +2088,7 @@ VATANDAŞ.
 
 Enver GÖKÇE
 
-### Ve de "Gavur
+## Ve de "Gavur
   İçinde Yesirdiler"
 
 Hepten
@@ -2182,7 +2182,7 @@ Sabah...
 
 Enver GÖKÇE
 
-### Yarım Şiirler
+## Yarım Şiirler
 
 (.......)
 "....
@@ -2313,7 +2313,7 @@ Ve sizden uykusuz geceler boyunca içtiğim
 
 Enver GÖKÇE
 
-### Yıldız Boklarıdır
+## Yıldız Boklarıdır
   Üşüşür
 
 Şu
@@ -2358,7 +2358,7 @@ Enver GÖKÇE
 
 Enver GÖKÇE
 
-### Yusuf ile Balaban
+## Yusuf ile Balaban
   Destanı
 
 YUSUF İLE BALABAN DESTANI
@@ -2415,7 +2415,7 @@ Gün oldu.
 
 Enver GÖKÇE
 
-### Başlangıç
+## Başlangıç
 
 Zaman akar, zaman geçer,
 Zaman zindan içinde;
@@ -2436,7 +2436,7 @@ Vardı bir Balaban.
 
 Enver GÖKÇE
 
-### Fakültenin 
+## Fakültenin 
 		Önü
 
 Fakültenin yanı demirden köprü
@@ -2457,7 +2457,7 @@ Ortalık ala şafaktı.
 
 Enver GÖKÇE
 
-### Hastir Lan!
+## Hastir Lan!
 
 Ben gider oldum
      kardaşlar.
@@ -2495,7 +2495,7 @@ Bir meri keklik gibi
 
 Enver GÖKÇE
 
-### Turan 
+## Turan 
 		Emeksiz
 
 Bir yürüyüş eylediler sabahtan
@@ -2543,7 +2543,7 @@ Dalından.
 
 Enver GÖKÇE
 
-### Meri 
+## Meri 
 		Kekligim
 
 Bir

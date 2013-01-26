@@ -1,6 +1,6 @@
-## Asaf Halet ÇELEBİ
+# Asaf Halet ÇELEBİ
 
-### Adımı Unuttum
+## Adımı Unuttum
 
 adımı unuttum
            adı olmıyan yerlerde
@@ -25,7 +25,7 @@ geçip gidenlere bakarak
 
 Asaf Halet ÇELEBİ
 
-### Ayna
+## Ayna
 
 aynadan bakan benim
            küçük gotamacık
@@ -65,7 +65,7 @@ küçük câriyem nigâr-ı çîn
 
 Asaf Halet ÇELEBİ
 
-### Güneşin Işığı
+## Güneşin Işığı
 
 her şey güneşi seviyor
 hattâ denizler bile
@@ -89,7 +89,7 @@ güneş içime vuruyor
 
 Asaf Halet ÇELEBİ
 
-### He
+## He
 
 vurma kazmayı
 	ferhaaat
@@ -112,7 +112,7 @@ kasrında şirin de böyle ağlıyor
 
 Asaf Halet ÇELEBİ
 
-### İbrahim
+## İbrahim
 
 ibrâhîm
 içimdeki putları devir
@@ -135,7 +135,7 @@ gönlümü put sanıp da kıran kim
 
 Asaf Halet ÇELEBİ
 
-### Kunâla
+## Kunâla
 
 vakit geldi kunâla
 dünyayı göreli çok oldu
@@ -166,7 +166,7 @@ bu can benden geçmeden
 
 Asaf Halet ÇELEBİ
 
-### Mariyya
+## Mariyya
 
 Preguntias que significa
 Saudade; voute dizer
@@ -201,33 +201,48 @@ bu dünyada seni ararım
 
 Asaf Halet ÇELEBİ
 
-### Mariyya
+## Mariyya
 
 Lizbonlu Maria Barbas’a
 lizboa
+
             boa
+
 simsiyah saçlı kadın
+
             mariyya
+
 bir masal söyle bana
+
 kan nasıl çıkmadı baştan
+
             o ölen kimdi
+
                         mariyya
 
 öleni bilmem
+
             buna şarkı derler
+
 lizboa
+
             ben bir şarkıyım
+
 atlas denizlerinden geldim
+
             önümde dalgalar vardı
+
                         arkamda dalgalar
+
  
+
 dalgalar bitince
 
             ben de biterim
 
 Asaf Halet ÇELEBİ
 
-### Nirvana
+## Nirvana
 
 karanlığı geçelim
 
@@ -252,13 +267,14 @@ beni
 
 Asaf Halet ÇELEBİ
 
-### Sidharta
+## Sidharta
 
 niyagrôdhâ
 koskoca bir ağaç görüyorum
 		ufacık bir tohumda
 
 o ne ağaç ne tohum
+
 om mani padme hum (3 kere)
 
 sidharta buddha
@@ -267,11 +283,12 @@ ben bir meyvayım
 ne ağaç
 	ne meyva
 ben bir denizde eriyorum
+
 om mani padme hum (3 kere)
 
 Asaf Halet ÇELEBİ
 
-### Şamandıra Baba
+## Şamandıra Baba
 
 yaramaz kız bahçeye gelecek
 benimle oynamaya

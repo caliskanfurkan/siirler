@@ -1,6 +1,6 @@
-## Özdemir ASAF
+# Özdemir ASAF
 
-### Aşk
+## Aşk
 
 Sen kocaman çöllerde bir kalabalık gibisin,
   Kocaman denizlerde ender bir balık gibisin.
@@ -9,7 +9,7 @@ Sen kocaman çöllerde bir kalabalık gibisin,
 
 Özdemir ASAF
 
-### Bir Şeyin Adı
+## Bir Şeyin Adı
 
 Önce, büyük büyük düþündüm;
 Sonra büyük büyük yaþadým.
@@ -18,7 +18,7 @@ Ne varsa, onlar aldý.
 
 Özdemir ASAF
 
-### Biri
+## Biri
 
 Ona seni anlattı,sana onu anlattı..
   Başı ona anlattı,sana sonu anlattı..
@@ -27,7 +27,7 @@ Ona seni anlattı,sana onu anlattı..
 
 Özdemir ASAF
 
-### Çırılçıplak
+## Çırılçıplak
 
 Küstahlığımı nezaketim götürdü
 Sadece kendime bakakaldım.
@@ -61,7 +61,7 @@ Varanlarla duranların ortasında ben kaldım,
 
 Özdemir ASAF
 
-### Düello
+## Düello
 
 Her tomurcuk bir çiçeğin uykusuna,
   Her çiçek bir yemişin kuşkusuna,
@@ -70,7 +70,7 @@ Her tomurcuk bir çiçeğin uykusuna,
 
 Özdemir ASAF
 
-### Evrensel Ballad
+## Evrensel Ballad
 
 Bir öykümüz olsa, duyan öyküsü sansa...
   Öykümüz böylece dallanıp budaklansa..
@@ -81,7 +81,7 @@ Bir öykümüz olsa, duyan öyküsü sansa...
 
 Özdemir ASAF
 
-### Geldim
+## Geldim
 
 Beni çağırmadınız,kalkıp ben kendim geldim.
   Uzaklardan size bir haber getirdim geldim.
@@ -100,7 +100,7 @@ Beni çağırmadınız,kalkıp ben kendim geldim.
 
 Özdemir ASAF
 
-### Kalan
+## Kalan
 
 Bir şey kaldı gecelerden birinde
 Senden.
@@ -124,7 +124,7 @@ Bulundukça aramaklı.
 
 Özdemir ASAF
 
-### Kalmak Türküsü
+## Kalmak Türküsü
 
 Daha gidilecek yerlerimiz var
 Şu sohbetini dinler gideriz.
@@ -153,7 +153,7 @@ Anlamlı güzeli sever gideriz.
 
 Özdemir ASAF
 
-### Kelimeler
+## Kelimeler
 
 Yarıda kalmış aşklarının hesapları içinde
 Denizlere açıldı içimizden biri
@@ -184,7 +184,7 @@ Kendisine varmadan eskidiğini.
 
 Özdemir ASAF
 
-### Kendisini Unutmuş
+## Kendisini Unutmuş
 
 Bütün aşkların kitabı elinde
 Sevilmemiş yinlerin balosuna gitti.
@@ -219,7 +219,7 @@ Ora öyle karanlıktı ki.
 
 Özdemir ASAF
 
-### Kocaman
+## Kocaman
 
 Şimdi kocaman denizlerde, kocaman gemilerde
   Neden yok küçüklüğümüzdeki büyüklüğümüz;
@@ -230,7 +230,7 @@ Ora öyle karanlıktı ki.
 
 Özdemir ASAF
 
-### Kolay
+## Kolay
 
 Farkýnda mýsýn,
 Deðilsin kendi bahçende.
@@ -239,7 +239,7 @@ Kendini bu kendin sanýþýn.
 
 Özdemir ASAF
 
-### Lavinia
+## Lavinia
 
 Sana gitme demeyeceğim
 Üşüyorsun ceketimi al
@@ -258,7 +258,7 @@ Sen de bilme Lavinia
 
 Özdemir ASAF
 
-### Noktasız
+## Noktasız
 
 Biri gelir sorarsa
   Sana beni sorarsa
@@ -269,7 +269,7 @@ Biri gelir sorarsa
 
 Özdemir ASAF
 
-### Sana
+## Sana
 
 Küçük çocuklar yapýp geceleri kendimden,
 Seni öpsünler diye getiriyorum sana.
@@ -278,7 +278,7 @@ Ben de sonra o seni getiriyorum sana.
 
 Özdemir ASAF
 
-### Şiir
+## Şiir
 
 Sana bu güzellikler bizden kalsın,
   Bugünlerden bir şeyler bizden kalsın..
@@ -287,13 +287,12 @@ Sana bu güzellikler bizden kalsın,
 
 Özdemir ASAF
 
-### Öğüt
+## Öğüt
 
 Okulda,anladıkça başaracaksın.
   Yaşamda,başardıkça anlayacaksın.
   Gelecek mutlu-mutsuz,inanmasan da;
   Gözlerin yaşardıkça anlayacaksın.
-
 
  
   Yalnızlık paylaşılmaz.
@@ -301,7 +300,7 @@ Okulda,anladıkça başaracaksın.
 
 Özdemir ASAF
 
-### Yalın
+## Yalın
 
 Her seven
   Sevilenin boy aynasıdır.
@@ -310,7 +309,7 @@ Her seven
 
 Özdemir ASAF
 
-### Yuvarlağın Köşeleri
+## Yuvarlağın Köşeleri
 
 Aşka gönül ile düşersen yanarsın.
 Zeka ile düşersen kavrulursun.

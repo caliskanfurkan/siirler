@@ -1,6 +1,6 @@
-## Oktay Rifat HOROZCU
+# Oktay Rifat HOROZCU
 
-### Ağzımın Tadı
+## Ağzımın Tadı
 
 Ağzımın tadı yoksa, hasta gibiysem,
 Boğazımda düğümleniyorsa lokma, 
@@ -13,7 +13,7 @@ Bu darağacı suratlı toplum!
 
 Oktay Rifat HOROZCU
 
-### Akşam Balığın Karnında Bekliyor
+## Akşam Balığın Karnında Bekliyor
 
 Bir yağmurla çıkıyor rıhtımına 
 sıkıntının, büyük kayıkların 
@@ -43,7 +43,7 @@ Akşam balığın karnında bekliyor.
 
 Oktay Rifat HOROZCU
 
-### Anış
+## Anış
 
 Her dakikasını ayrı hatırlarım
 Erenköy'de geçen zamanımın
@@ -72,7 +72,7 @@ Kalbim sevda içindeydi
 
 Oktay Rifat HOROZCU
 
-### Âşık Merdiveni
+## Âşık Merdiveni
 
 Dişli rüzgârlara karşı büyüttüm
 Düşman gecenin içinde seni
@@ -82,7 +82,7 @@ Avucumda koruduğum bugüne
 
 Oktay Rifat HOROZCU
 
-### Aydınlık
+## Aydınlık
 
 Gece oldu yandım
 Tepeden tırnağa donandım
@@ -93,7 +93,7 @@ Işıklar içinde
 
 Oktay Rifat HOROZCU
 
-### Ayna
+## Ayna
 
 Öyle durgun, sıcak saatler vardır ya,
 Hani kararmış tahtalar, nikel, bakır
@@ -117,7 +117,7 @@ Kanarya susar, kedi uyur, bir gül
 
 Oktay Rifat HOROZCU
 
-### Bağımsız
+## Bağımsız
 
 Bütün karanlığı versem size giden geceyi durduramazsınız
 Işır odamızın havası kaçar çeşmelerinizden durduramazsınız
@@ -126,7 +126,7 @@ Siz yüzersiniz bir kuş uçar bir gemi geçer durduramazsınız
 
 Oktay Rifat HOROZCU
 
-### Bana Benzer
+## Bana Benzer
 
 Bana benzer bacalar aşkla tüten,
 Kaçırırlar Gece'den düşlerini.
@@ -140,7 +140,7 @@ Yıldızları kendinden daha dipte.
 
 Oktay Rifat HOROZCU
 
-### Benim Yârim
+## Benim Yârim
 
 Benim yârim iki dirhem bir çekirdek
 Hoppa mı hoppa
@@ -154,7 +154,7 @@ Benim yârim alafranga
 
 Oktay Rifat HOROZCU
 
-### Bir Aşka Vuran Güneş
+## Bir Aşka Vuran Güneş
 
 Öyle sevdalar vardır, biter biter başlar;
 Buruk tatlar vardır, ağızda sürüp giden;
@@ -195,7 +195,7 @@ Karşılıklı gizemlere daldığınız gün.
 
 Oktay Rifat HOROZCU
 
-### Bir Şehri Bırakmak
+## Bir Şehri Bırakmak
 
 I
 
@@ -230,7 +230,7 @@ Niçin ağlıyorsun
 
 Oktay Rifat HOROZCU
 
-### Elleri Var Özgürlüğün
+## Elleri Var Özgürlüğün
 
 1 
 Köpürerek koşuyordu atlarımız 
@@ -309,7 +309,7 @@ Ardında gökyüzü kardeşçe mavi!
 
 Oktay Rifat HOROZCU
 
-### Eski Koltukta
+## Eski Koltukta
 
 Güzel ne güzel
 yıpranmış incelmiş yüz gibi ak
@@ -336,7 +336,7 @@ havuzlu bahçede eski koltukta.
 
 Oktay Rifat HOROZCU
 
-### Eski Zaman
+## Eski Zaman
 
 Eski zamanda
 Büyükler henüz küçük
@@ -357,7 +357,7 @@ Hey gidi günler
 
 Oktay Rifat HOROZCU
 
-### Fatih'in Resmi
+## Fatih'in Resmi
 
 Ayasofya kubbesinde ak bir bulut, 
 Baktım, gitti gider. Balrengi tesbihim 
@@ -379,7 +379,7 @@ Ararım, aranırım yerde delice.
 
 Oktay Rifat HOROZCU
 
-### Hangi Saatlerde
+## Hangi Saatlerde
 
 Hangi saatlerde ve nasıl, ben de bilmem! 
 Birden, çözülüverir şifresi kilidin 
@@ -401,7 +401,7 @@ Dağ gibi bulutların öfkesi altında.
 
 Oktay Rifat HOROZCU
 
-### Harç Çeken İşçiler
+## Harç Çeken İşçiler
 
 Harcını çekiyorlardı yapının, 
 kara bir don, belden yukarsı çıplak. 
@@ -434,7 +434,7 @@ Onlarsa gün batmadan gidecekler.
 
 Oktay Rifat HOROZCU
 
-### İstanbul Türküsü
+## İstanbul Türküsü
 
 Kasımpaşa kıyıları tersane
 Bir kız sevdim alimallah bir tane
@@ -453,7 +453,7 @@ Aman aman badem şekeri
 
 Oktay Rifat HOROZCU
 
-### Kadeh
+## Kadeh
 
 Burası dalyan kahvesi
 Ortalık süt mavisi
@@ -463,7 +463,7 @@ Kadehimde gökyüzü
 
 Oktay Rifat HOROZCU
 
-### Kaf
+## Kaf
 
 Bezdik yüzlerini görmekten, gözlerine bakmaktan gece gündüz.
 Bizi de götür, Keloğlan, padişah sarayının olduğu o kente,
@@ -483,7 +483,10 @@ Evlerinin önü nane.
 
 Oktay Rifat HOROZCU
 
-### Karıma
+## Karıma
+
+KARIMA
+
 
 Sofalar seninle serin
 Odalar seninle ferah
@@ -497,7 +500,7 @@ Yalnızlık gittiğin yoldan gelir
 
 Oktay Rifat HOROZCU
 
-### Koca Bir Yaz
+## Koca Bir Yaz
 
 Koca bir yazı çekirdek içleyerek
 sinamalarda geçirdim.
@@ -515,7 +518,7 @@ koca bir yaz geçirdim,
 
 Oktay Rifat HOROZCU
 
-### Kuş Dili
+## Kuş Dili
 
 Param olsa satar mıydım
 Kahve rengi elbisemi
@@ -527,7 +530,7 @@ Kahve rengi elbisemi
 
 Oktay Rifat HOROZCU
 
-### Nara Benzerdin
+## Nara Benzerdin
 
 Nara benzerdin bir zamanlar, çoktun! N'oldu
 Sana! Kırk atlı çıkardın dağa, yüz atlı
@@ -566,7 +569,7 @@ Boşaldın, susuz değirmene döndün şimdi!
 
 Oktay Rifat HOROZCU
 
-### Pembe Yalı
+## Pembe Yalı
 
 Kızlar vardır kıvırcık salata gibi
 Ağızları burunları kıvır kıvır
@@ -594,7 +597,7 @@ Pembe yalıya doğru yüzerim
 
 Oktay Rifat HOROZCU
 
-### Pencere
+## Pencere
 
 Sarı bir zambak açtı
 Karanlığın bahçesinde pencerem
@@ -613,7 +616,7 @@ Sabahleyin savuşurlar bacadan
 
 Oktay Rifat HOROZCU
 
-### Perçemli Sokak'tan
+## Perçemli Sokak'tan
 
 I
 Bulutların çıkınında
@@ -673,7 +676,7 @@ Benim işte bu soysuz sevdaların musluğu
 
 Oktay Rifat HOROZCU
 
-### Su Gibi Geçen Günler
+## Su Gibi Geçen Günler
 
 Ben de beþikte yattým
 Salýncakta uyudum
@@ -686,7 +689,7 @@ Anasýz babasýz kaldým böyle
 
 Oktay Rifat HOROZCU
 
-### Şehitlik
+## Şehitlik
 
 I
 
@@ -754,7 +757,7 @@ Bizden ayrılmadıklarına bakılırsa
 
 Oktay Rifat HOROZCU
 
-### Tecelli
+## Tecelli
 
 Nedir bu benim çilem
 Hesap bilmem
@@ -767,7 +770,7 @@ O beni sevmez
 
 Oktay Rifat HOROZCU
 
-### Telefon
+## Telefon
 
 Gözlerin var ya çekik kara kara 
 Önce gözlerindi en güzel ışık 
@@ -811,7 +814,7 @@ Her telefon çalışta kesik kesik
 
 Oktay Rifat HOROZCU
 
-### Telli Telefon
+## Telli Telefon
 
 Ne ettim de bâd-ı saba ile yolladım
 Gurbet elden nazlı yâra selâmı
@@ -826,7 +829,7 @@ Sensiz döşeklerde yatamıyorum
 
 Oktay Rifat HOROZCU
 
-### Vazife
+## Vazife
 
 Rengi üzümden kara
 Beli iğneden ince
@@ -860,7 +863,7 @@ Sana lâzım mı derdi
 
 Oktay Rifat HOROZCU
 
-### Vidalar
+## Vidalar
 
 İşçi demir dikmeleri boyuyor duvarın üstüne binmiş,
 boya kutusuna banarak usulca fırçayı. Gündeliği kaça?
@@ -879,7 +882,7 @@ günün birinde yine çürür düşerler ya, şimdilik.
 
 Oktay Rifat HOROZCU
 
-### Yağmur Başlangıcı
+## Yağmur Başlangıcı
 
 Siz bir başlangıç bile değilken 
 yokken denemez çünkü vardınız 
@@ -912,7 +915,7 @@ hiçbirimiz.
 
 Oktay Rifat HOROZCU
 
-### Yalancı Dolma
+## Yalancı Dolma
 
 Þu zeytin yaðlý dolma
 Yemek deðil rezalet
@@ -921,7 +924,7 @@ HÜRRÝYET MÜSAVAT ADALET
 
 Oktay Rifat HOROZCU
 
-### Yan Yana Başlarımız
+## Yan Yana Başlarımız
 
 Yan yana başlarımız yastığın üstünde, 
 Neyi seyrederiz gözlerimiz yumulu! 

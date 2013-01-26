@@ -1,18 +1,56 @@
-## Can YÜCEL
+# Can YÜCEL
 
-### Akdeniz Yaraşıyor Sana
+## Akdeniz Yaraşıyor Sana
 
-Akdeniz yaraşıyor sana       Yıldızlar terler ya sen de terliyorsun       Aynı ıslak pırıltı burun kanatlarındaHiç dinmiyor motorların gürültüsüKöpekler havlıyor uzaktanDemin çocuk ağladıFatmanım cumbadan çarşaf silkiyor yineAli dumdum anasına sövüyor saatlerdirDenizi tokmaklıyor balıkçılar      Bu sesler işte sessizliğini büyüten toprak      O sesinin sardunyalar gibi konuşkan sessizliği
-Hayatta yattık dün geceÜstümüzde meltemKekik kokuyor ellerim halaSenle yatmadım sankiDağları dolaştım
-Ben senden öğrendim deniz yazmayıElimden düşmüyor mavi kalemBir tirandil çıkar gibi sefereOkula gidiyor öğretmenimBen de ardından açılıyorumBir poyraz çizip deftereBir ada var sırf ebabilDönüyor dönüyor başımdaSenle yaşadığım günlerGümüş bir çevre oldu ömrümDeğince güneşine
-Neden sonra buldum o kaçakçı mağarasınıGözlerim kamaşınca sendenÖlüm belki sularından kaçırdığımO loş suda yıkanmaktırDurdukça yosundan yeşilKulaç attıkça mavi
-Ben düzde sanırdım yıkıntımÖrenim alkolik asarımMutun doruğundaymışım meğer
-Senle çıkınca anladımEski Yunan atları var haniYeleleri bükümlüGün inerken de öyleAğaçtan izdüşümleriyleYürüyor Balan tepeleriYürüyor bölük bölük canToplu bir güzelliğe doğru
+Akdeniz yaraşıyor sana
+       Yıldızlar terler ya sen de terliyorsun
+       Aynı ıslak pırıltı burun kanatlarında
+Hiç dinmiyor motorların gürültüsü
+Köpekler havlıyor uzaktan
+Demin çocuk ağladı
+Fatmanım cumbadan çarşaf silkiyor yine
+Ali dumdum anasına sövüyor saatlerdir
+Denizi tokmaklıyor balıkçılar
+      Bu sesler işte sessizliğini büyüten toprak
+      O sesinin sardunyalar gibi konuşkan sessizliği
+Hayatta yattık dün gece
+Üstümüzde meltem
+Kekik kokuyor ellerim hala
+Senle yatmadım sanki
+Dağları dolaştım
+Ben senden öğrendim deniz yazmayı
+Elimden düşmüyor mavi kalem
+Bir tirandil çıkar gibi sefere
+Okula gidiyor öğretmenim
+Ben de ardından açılıyorum
+Bir poyraz çizip deftere
+Bir ada var sırf ebabil
+Dönüyor dönüyor başımda
+Senle yaşadığım günler
+Gümüş bir çevre oldu ömrüm
+Değince güneşine
+Neden sonra buldum o kaçakçı mağarasını
+Gözlerim kamaşınca senden
+Ölüm belki sularından kaçırdığım
+O loş suda yıkanmaktır
+Durdukça yosundan yeşil
+Kulaç attıkça mavi
+Ben düzde sanırdım yıkıntım
+Örenim alkolik asarım
+Mutun doruğundaymışım meğer
+Senle çıkınca anladım
+Eski Yunan atları var hani
+Yeleleri bükümlü
+Gün inerken de öyle
+Ağaçtan izdüşümleriyle
+Yürüyor Balan tepeleri
+Yürüyor bölük bölük can
+Toplu bir güzelliğe doğru
 Kadınım Yaraşıyorsun sen Akdenize
 
 Can YÜCEL
 
-### Akis
+## Akis
 
 Sen çaldıkça Teodorakis  
 Bir mor yağıyor üstüme...  
@@ -38,39 +76,55 @@ Bir mor yağıyor üstüme
 
 Can YÜCEL
 
-### Al Bir Uzun Hava
+## Al Bir Uzun Hava
 
 Raşko’da mengeneydi, bu beynimizde kalsın!  
+
 Çekmişler ıstor diye muhribin dumanını  
+
 Böyle aşk, böyle barış, Allah belamı versin!  
 Bugün kitabım verdim tek pedal matbaaya  
+
 Bu yol beni götürür sağlam Selimiye’ye  
+
 Ağlıyorsam gözyaşım iki gözüme dursun  
+
 Vermişim ben canımı al-uzun bir havaya
 
 Can YÜCEL
 
-### Anayasası İnsanın
+## Anayasası İnsanın
 
 Üzümden şarap yapacaksın  
+
 Çakmak taşından ateş  
+
 Ve öpücüklerden insan!  
 Can yasası bu insanın:  
+
 Savaşlara yoksulluklara  
+
 Ve binbir belaya karşın  
+
 İlle de yaşayacaksın!  
 Us yasası bu insanın:  
+
 Suyu şavka döndürüp  
+
 Düşü gerçeğe çevirip  
+
 Düşmanı dost kılacaksın!  
 Anayasası bu insanın  
+
 Emekleyen çocuktan  
+
 Uzayda koşana dek  
+
 Yürürlükte her zaman
 
 Can YÜCEL
 
-### Arkamdan Konuşmasınlar Diye
+## Arkamdan Konuşmasınlar Diye
 
 Her Donkişotun bir yeldeğirmeni vardır  
 Benim ki Heybeli’de  
@@ -85,45 +139,75 @@ Beş kuruş almadım o reklam için
 
 Can YÜCEL
 
-### Aslandan Al Haberi
+## Aslandan Al Haberi
 
 O Hıristiyanlar ki  
+
 Romalılardan daha dürüst, daha düzgün, daha uygar bir   
+
                                                                             düzene  
+
 inanmaktan başka suçları yoktu...  
+
 Romalılar oyalamak için işsiz yığınlarını  
+
 O zamanın gazetesi  
+
 Ve Hürriyet’i olan Coliseum stadyomunda  
+
 Aslanlara atarlarmış sen gibi ben gibi  
+
 Mehmet Turgut gibi insanları  
 O Mehmet Turgut ki  
+
 İşsiz olmaktan başka suçu yoktu  
+
 İşsiz parasız evsiz-barksız  
+
 Ve aslanın kafesine girdiğini farketmeyecek   
+
                                   kadar uykusuz...  
+
 O Mehmet Turgut ki  
+
 Libya’ya gitmek için sıra bekleyen bir  
+
                                   Kunuri Aslanıydı  
+
 Adana’nın Girne yolunda bir lunaparkta  
+
 Buldular parçalanmış vücudunu...  
+
 Sade Adana’nın Girne yolunda değil  
+
 Roma’da da böyle  
+
 Oyalamak için işsiz yığınlarını  
+
 Ve belki de azalsın diye işsizlerin sayısı  
+
 O zamanın gazetesi  
+
 Ve Hürriyet’i olan Coliseum stadyomunda  
+
 Aslanlara atarlardı sen gibi ben gibi  
+
 Mehmet Turgut gibi insanları...  
 Ama Ali adındaki  
+
 O kendi de müebbete mahkum aslan  
+
 Aslanlar akıllanıyorlar mı nedir  
+
 Yemedi kardeşim yemedi  
+
 Kore Gazisi Mehmet Turgut’un göğsündeki  
+
                                    Silver Star nişanını!
 
 Can YÜCEL
 
-### Âşık Ölmez
+## Âşık Ölmez
 
 Sessizliğin içinden yürüyen horoz sesleri
 Beni ölüm yeşiline götürüyor
@@ -136,85 +220,149 @@ Yine de âşığım yine de âşık
 
 Can YÜCEL
 
-### Ay! Ay! Ay!
+## Ay! Ay! Ay!
 
 Şu boktan şu yarım ay  
+
 Bakarsan bakarsan bakarsan  
+
 Bi tek sözüme bakıyor benim  
+
                             dolunay olmak için  
+
 O bana bakıyor  
+
 Ben ona.  
+
 O bana bakıyor  
+
 Ben ona,  
+
 Hepimiz ama  
+
 Hepimiz  
+
 Hepimiz  
+
 Bakıyoruz hep birbirimize  
+
 bakıyoruz hep bakıyoruz  
+
 ADAM olmak için hep  
 Ay! Ay! Ay!  
 O bana bakıyor  
+
 Ben ona.  
+
 O bana bakıyor  
+
 Ben ona  
+
 Canım yanarcasına  
+
 Ne zaman  
+
 Ama ne zaman olacak bu iş?  
 Bakıyorum bakıyorum da aya  
+
 Bakıyorum da ayın ayaklarına  
+
 Yatırmışlar yine Ahmed’i falakaya
 
 Can YÜCEL
 
-### Baharla Ölüm Konuşmaları
+## Baharla Ölüm Konuşmaları
 
 Memelerim koparıyor  
+
 Yüzyıl süren bir yalnızlık  
+
                            dile gelmişçesine  
+
 Nasıl nasıl bir sevinç yarabbi!  
+
 Ve ağrıya  
+
         ağrıya tabi,  
+
                 ağraya  
+
                     ağraya ağbi...  
 Nakkaş Tepe de ancak  
+
                         bezmimize böyle gelmiştir  
+
 Gelincikleri ve Nazım Hikmet’leriyle  
+
 Yerbilimsel bir hapisten sonra  
   
 II  
 İçimdeki karanlığı patlatacağım  
+
 Zifiri bir su akacak  
+
                kamışımdan toprağa  
+
 Bir kedi yavrulayacak  
+
                        köpek dişli bir kedi  
+
 Ve böğürtlenler köpürecek ağzından  
+
 Yedikçe  
+
           kendi  
+
                  kendini  
+
                         mayhoş  
+
 Ya da Posta Nazırı dedemden kalma  
+
 Mors’un en morundan bir karga   
+
 Konacak karşıki direğin doruğuna  
+
 Düşmanlarım öyle doldurmuşlar ki onu  
+
 Ne kadar taşlasan boş  
+
                     oynamıyor yerinden  
+
 Ben kargadan korkmam ama  
+
                       bunun gözleri baykuş  
+
 Ve tüyleri güngörmedik deniz dipleri kadar ıslak  
+
 Ve ötüyor  
+
         ötüyor  
+
              ötecek  
+
 Beni ışığa bağlayan  
+
                (Bağlayın beni ışığa!  
+
                 Gerin telleri gerin!)  
+
                 beni  ışığa bağlayan  
+
                              o gelin telleri  
+
                              o gelin telleri  
+
                                   kopuncaya dek...  
+
 Akpembe bahar yelkenleriyle  
+
 Güneşin rüzgarına gerilmiş  
+
                            bir badem ağacı gibi...  
+
 İçimdeki karanlığı patlatacağım  
+
 Ve beynimin en ölümcül yaşlarıyla  
 
                                         ağlaya  
@@ -586,15 +734,17 @@ Hem delikanlı 
 
 Can YÜCEL
 
-### Bayramlık
+## Bayramlık
 
 Ne kadar bayramsa Kurban Bayramı  
+
 Bu barış var ya, bu barış  
+
 Cephedekiler için o kadar barış
 
 Can YÜCEL
 
-### Bi Damlacık
+## Bi Damlacık
 
 Duru bir yeşildi ortalık  
 Akşam güneşi kırılmış bir mızrak boyu  
@@ -607,7 +757,7 @@ Belki de anmak için
 
 Can YÜCEL
 
-### Bir Ölüm İlanı
+## Bir Ölüm İlanı
 
 Zaten hayalet olan  
 Gölge yazar Oðuz’un ölümü de  
@@ -625,42 +775,69 @@ Yýldýzlarý tuþ
 
 Can YÜCEL
 
-### Buluşmak Üzere
+## Buluşmak Üzere
 
 Bardaktan boşanırcasına yağıyor mübarek  
+
 Öbür yanda güneş kendi keyfinde  
+
 Ne de olsa yaz yağmuru  
+
 Pırıl pırıl düşüyor damlalar  
+
 Eteklerin uça uça bir koşudur kopardın  
+
 Dar attın kendini karşı evin sundurmasına  
+
 İşte o evin kapısında bulacaksın beni  
 Diyelim için çekti bir sabah vakti  
+
 Erkenceden denize gireyim dedin  
+
 Kulaç attıkça sen  
+
 Patiska çarşaflar gibi yırtılıyor su ortadan  
+
 Ege denizi bu efendi deniz  
+
 Seslenmiyor  
+
 Derken bi de dibe dalayım diyorsun  
+
 İçine doğdu belki de  
+
 İşte çil çil koşuşan balıklar  
+
 Lapinalar gümüşler var ya  
+
 Eylim eylim salınan yosunlar  
+
 Onların arasında bulacaksın beni  
 Diyelim sapına kadar şair bir herif çıkmış ortaya  
+
 Çakmak çakmak gözleri  
+
 Meydan ya Taksim ya Beyazıt meydanı  
+
 Herkes orda sen de ordasın  
+
 Herif bizden söz ediyor bu ülkenin çocuklarından  
+
 Yürüyelim arkadaşlar diyor yürüyelim  
+
 Özgürlüğe mutluluğa doğru  
+
 Her işin başında sevgi diyor  
+
 Gözlerin yağmurdan sonra yaprakların yeşili  
+
 Bi de başını çeviriyorsun ki  
+
 Yanında ben varım
 
 Can YÜCEL
 
-### C
+## C
 
 İstenmeyen o rüyanın parçasıydım
 Hani güneş hani aydım
@@ -708,7 +885,7 @@ Bir orman yangını gibi
 
 Can YÜCEL
 
-### an'ın Mezartaşı'na
+## an'ın Mezartaşı'na
 
 İstenmeyen o rüyanın parçasıydım
 Hani güneş hani aydım
@@ -756,19 +933,25 @@ Bir orman yangını gibi
 
 Can YÜCEL
 
-### Cankurtaranla
+## Cankurtaranla
 
 Yardın sonunda şu Beyoğlu trafiğini  
+
 İlkyardım pamuklarıyla  
+
                                  o ölümcül acelenden  
+
 Korna çiçekleri açıyor şimdi  
+
                               yaralarının üzerinde  
+
 Ölen yok sen gibi güzel  
+
 Sınıfsal ecelinden
 
 Can YÜCEL
 
-### Çalındı
+## Çalındı
 
 Kapı çalındı
 Açmaya davranayım derken
@@ -787,7 +970,7 @@ Aynı kapıya çıkmasa bile
 
 Can YÜCEL
 
-### Değişik
+## Değişik
 
 Başka türlü birşey benim istediğim,
 Ne ağaca benzer ne de buluta benzer;
@@ -798,21 +981,29 @@ Rengi başka, tadı başka.
 
 Can YÜCEL
 
-### Değişim
+## Değişim
 
 Çarpıyor  
+
 Çarpıyor  
+
 Çarpıyordu kendini taşlara.  
+
 Canı mı sıkılıyor  
+
 Can mı çekişiyordu yoksa?  
+
 Yok efendim dedi yanımdaki adam  
+
 Gömlek değiştiriyor yılan  
+
 Bu hallerden anlarız dedi az çok  
+
 Biz de sınıf değişmiştik bi zaman
 
 Can YÜCEL
 
-### Dostum Samaripa'ya Mektup
+## Dostum Samaripa'ya Mektup
 
 Baksana Samaripa  
 Şu gümüşü bacaya!  
@@ -838,13 +1029,13 @@ Nefis bişey
 
 Can YÜCEL
 
-### Dörtlük
+## Dörtlük
 
 
 
 Can YÜCEL
 
-### El Tutuşa Tutuşa
+## El Tutuşa Tutuşa
 
 Ne kadar çok elimiz varmış meğer!
 İlkin, senin elinle tutuşan benimki
@@ -858,16 +1049,19 @@ Bir orman yangını gibi
 
 Can YÜCEL
 
-### Epigram
+## Epigram
 
 Nihil humanum mihi alienum est  
+
 Bu sözün altına ben de imzamı basıyorum  
+
 İnsana ilişkin ne varsa kabulüm  
+
 Şu hümanistler hariç
 
 Can YÜCEL
 
-### Erotizma
+## Erotizma
 
 Kulağımın tozunda bir ağustosböceği Aşk
 -Erkekler giyinmek için giyinir
@@ -886,7 +1080,7 @@ Ağustosböcekleri hâlâ ötüyor
 
 Can YÜCEL
 
-### Fitilli
+## Fitilli
 
 İçerimde bir bokluk var
 Yıkıyorum, yıkıyorum, yıkılmıyor
@@ -904,7 +1098,7 @@ Suratınıza!
 
 Can YÜCEL
 
-### Götümser
+## Götümser
 
 Gün gidiyor limoni, bana kalsa da nezle
 Sümüklü deniziyle, bulut mendilleriyle
@@ -915,7 +1109,7 @@ Dün gidiyor limoni, mükedder filleriyle
 
 Can YÜCEL
 
-### Güler Yüzümle
+## Güler Yüzümle
 
 Viran bir rum evi adada oturduğumuz ev  
 Serinliğine serin  
@@ -941,7 +1135,7 @@ Kadir sevgilim Güler’e sevgim
 
 Can YÜCEL
 
-### İmana Geldim
+## İmana Geldim
 
 Bir kız buldu beni akşam üstünde
 Bâkire değil ama kızmış
@@ -959,7 +1153,7 @@ Allahıma güzel
 
 Can YÜCEL
 
-### İrtihal
+## İrtihal
 
 Sen ölüyorun kardeþim öldüðünü bil
 Bile bile ve teamüden
@@ -971,7 +1165,7 @@ Vakti gelmeden öldürülenlere
 
 Can YÜCEL
 
-### İşçi Marşı
+## İşçi Marşı
 
 Hava döndü işçiden işçiden esiyor yel
 Dumanı dağıtacak yıldız-poyraz başladı
@@ -993,22 +1187,26 @@ Hava döndü işçiden, işçiden esiyor yel
 
 Can YÜCEL
 
-### İşte Bu İş
+## İşte Bu İş
 
 Shakespeare
+
 Beatiful is terrible
-Terrible is beatiful demiş
+Terrible is beatiful
+ demiş
 
 Bu söz Türkçe şöyle söylenir mi acep?
+
 Güzelden güzeldir gazel
 - O düşen sonbahar yaprağı-
+
 Ve müthiş
 
 Benim şiirden anladığım işte bu iş
 
 Can YÜCEL
 
-### İtiraf
+## İtiraf
 
 Nahide Hanım söyledi yine
 Neden babama yazmışım da
@@ -1020,27 +1218,39 @@ Anneme şiir yazacak kadar şair değilim
 
 Can YÜCEL
 
-### Kaçamak
+## Kaçamak
 
 Yalnız kaldıkça, yani Güler benden kaçtıkça
 Tekmil elektrikleri yanık bırakıyorum yirmi dört saat
 İki radyo var ikisini de açıyorum
 Yarım alacağıma bir bütün ekmek alıyorum
+
 Bugün büyük olsun yoğurt diyorum bakkala
 
 Gören düğün var sanır
 
 Can YÜCEL
 
-### Kayıp Çocuk
+## Kayıp Çocuk
 
-Birden işitilmez olsun ayak seslerim;Gölgem bir başka sokağa sapıversin;Unutayım bir anda her şeyi,Nerde oturduğumu,Bir tuhaf adem olduğumu Can adında.Aklım arayadursun başka kapılarda kısmetimi,Ben, bilmediğim sokaklarda bir başıma;Gönlüm öylesine geniş, öyle ferah,  
-İlk defa görmüş gibi dünyayı,Bir şaşkınlık içinde, yeniden doğmuş gibi;Hatırlamam artık değil mi, dostlar,  
+Birden işitilmez olsun ayak seslerim;
+Gölgem bir başka sokağa sapıversin;
+Unutayım bir anda her şeyi,
+Nerde oturduğumu,
+Bir tuhaf adem olduğumu Can adında.
+Aklım arayadursun başka kapılarda kısmetimi,
+Ben, bilmediğim sokaklarda bir başıma;
+Gönlüm öylesine geniş, öyle ferah,  
+
+İlk defa görmüş gibi dünyayı,
+Bir şaşkınlık içinde, yeniden doğmuş gibi;
+Hatırlamam artık değil mi, dostlar,  
+
 Hatırlamam artık garipliğimi?
 
 Can YÜCEL
 
-### Kibar Hırsızın Türküsü
+## Kibar Hırsızın Türküsü
 
 Anamın ipiyle indim gökdelen damınızdan
 Kelebek gibi girdim kelebek camınızdan
@@ -1057,7 +1267,7 @@ Kıçımın fosforuyla aydınlanın siz artık
 
 Can YÜCEL
 
-### Kimesne Öldü
+## Kimesne Öldü
 
 'a merhamet değil, çok
                                     acındım
@@ -1076,7 +1286,7 @@ At yarışında kaybetmişçesine.
 
 Can YÜCEL
 
-### Küçük Kızım Su'ya
+## Küçük Kızım Su'ya
 
 Bir derin uykudaydým ölümün içinden  
 Açtým ki gözlerimi  
@@ -1088,7 +1298,7 @@ Ayakucunda sen oturuyorsun
 
 Can YÜCEL
 
-### Mare Nostrum
+## Mare Nostrum
 
 En uzun koşuysa elbet Türkiyede de Devrim,
 O, onun en güzel yüz metresini koştu
@@ -1100,15 +1310,17 @@ Ama aşk olsun sana çocuk, aşk olsun!
 
 Can YÜCEL
 
-### Menapoz
+## Menapoz
 
 Gençler, kendinize mukayyet olun!  
+
 Kime saldıracağı belli olmaz haaa  
+
 Adetten kesilmiş kibar o...punun.
 
 Can YÜCEL
 
-### Metamosmoris
+## Metamosmoris
 
 Ýlkin ELÝFBA'ydý
 Sonra ALFABE oldu
@@ -1117,7 +1329,7 @@ Derken ABeCe
 
 Can YÜCEL
 
-### Muhabbet
+## Muhabbet
 
 Bir fasulye çimleniyordu  
 Çiseledikçe yaðmur.  
@@ -1135,7 +1347,7 @@ Bayram bir ömürdür ben gibi bir deliye
 
 Can YÜCEL
 
-### Mülemma
+## Mülemma
 
 'ya
 Kaçıncı seferberliği bu şiirin
@@ -1180,7 +1392,7 @@ Bre güneş
 
 Can YÜCEL
 
-### Övgü
+## Övgü
 
 Komünizm kızılcıktır
 Kabza iyi gelir
@@ -1191,17 +1403,31 @@ Yemiştir ama yenilmiş değildir
 
 Can YÜCEL
 
-### Poetika
+## Poetika
 
-Yalnızlığı sevmiyorumYalnız kim ola kiKendim...Kendimin kendini sevmiyorumKediler hariç...
-Kahve ocakçısı olacaktım benTuttum kavlimiYazdıklarımsa hep nafileHep nişanlı angaje ısloganlıCan, diyorlar, bir kahve yap şu dümenin ağzınaKallavi olsun!
-Bende yoksa kahve, yemişçiden tedariklenipVe cazveyi  ateşe sürüp, üstüne yemeni, şekeriniTaşırmadan pişiriyorum
-Biliyorum, bilmez miyim bu kahve ocağınnanOcağımızı bucağımızıIsıtamayacağımı!
-İşte onun içinde de içim titreyerekCezvenizi sürüyorum ateşe
+Yalnızlığı sevmiyorum
+Yalnız kim ola ki
+Kendim...
+Kendimin kendini sevmiyorum
+Kediler hariç...
+Kahve ocakçısı olacaktım ben
+Tuttum kavlimi
+Yazdıklarımsa hep nafile
+Hep nişanlı angaje ısloganlı
+Can, diyorlar, bir kahve yap şu dümenin ağzına
+Kallavi olsun!
+Bende yoksa kahve, yemişçiden tedariklenip
+Ve cazveyi  ateşe sürüp, üstüne yemeni, şekerini
+Taşırmadan pişiriyorum
+Biliyorum, bilmez miyim bu kahve ocağınnan
+Ocağımızı bucağımızı
+Isıtamayacağımı!
+İşte onun içinde de içim titreyerek
+Cezvenizi sürüyorum ateşe
 
 Can YÜCEL
 
-### Prova
+## Prova
 
 Hava cehennemi sıcaktı
 Daltaşak yatıyordum sedirde
@@ -1214,58 +1440,79 @@ Yaylı bir tambur taksimi sanki
 
 Can YÜCEL
 
-### Rembrandt'ın Resmi Üzre
+## Rembrandt'ın Resmi Üzre
 
 
 
 Can YÜCEL
 
-### Rıfat'a
+## Rıfat'a
 
 , Anadolu'nun sen yüce bir daðýsýn
 Eteklerinde kitaplar...
 
 Can YÜCEL
 
-### Sen Sağ Ben Selâmet
+## Sen Sağ Ben Selâmet
 
 Kurtarýcýlar kurtara kurtara
 Kurtardýlar Memleketi memleket olmaktan
 
 Can YÜCEL
 
-### Sevgi Duvarı
+## Sevgi Duvarı
 
 sen miydin o yalnızlığım mıydı yoksa
+
                  kör karanlıkta açardık paslı gözlerimizi
+
                   dilimizde akşamdan kalma bir küfür
+
                     salonlar piyasalar sanat sevicileri
+
                derdim günüm insan içine çıkarmaktı seni
+
                       yakanda bir amonyak çiçeği
+
                    yalnızlığım benim sidikli kontesim
+
                     ne kadar rezil olursak o kadar iyi
 
                    kumkapı meyhanelerine dadandık
+
               önümüzde altınbaş altın zincir fasulye pilakisi
+
                 aramızda görevliler ekipler hızır paşalar
+
                   sabahları açıklarda bulurlardı leşimi
+
                      öyle sıcaktı ki çöpçülerin elleri
+
                     çöpçülerin elleriyle okşardın beni
+
                     yalnızlığım benim süpürge saçlım
+
                    ne kadar kötü kokarsak o kadar iyi
 
                     baktım gökte bir kırmızı bir uçak
+
                       bol çelik bol yıldız bol insan
+
                       bir gece sevgi duvarını aştık
+
                      düştüğüm yer öyle açık seçik ki
+
                  başucumda bir sen varsın bir de evren
+
                   saymıyorum ölüp ölüp dirilttiklerimi
+
                    yalnızlığım benim çoğul türkülerim
+
                  ne kadar yalansız yaşarsak o kadar iyi
 
 Can YÜCEL
 
-### Suda
+## Suda
 
 Bir çift yaprakmış dalında yumuşacık,
 Tutmuşum tutmuşum ellerinden senin;
@@ -1279,7 +1526,7 @@ Susarmışız öyle, bir sâkin derenin
 
 Can YÜCEL
 
-### Şiir Dikeni
+## Şiir Dikeni
 
 Safo'ya
 Sözler uçuşuyor
@@ -1288,5 +1535,90 @@ Yere indirip sözleri
 Toprağa dikiyorum
 Yediveren şiirler açıyorlar
 Dikeni sikeyim
+
+Can YÜCEL
+
+## Taksim Mitinginden İzlenim
+
+Aklanmaya da  
+
+Paklanmaya da  
+
+Çivit  
+
+Çivit  
+
+Çivit  
+
+Çivit  
+
+Çivit  
+
+Çivit  
+
+Çivit  
+
+Çivit  
+
+Çivit  
+
+Çivit  
+
+ÇİVİT MAVİSİ
+
+Can YÜCEL
+
+## Ukte
+
+Sizden nasıl da yok yere korkmuşum  
+
+Kaşık Ada’nın orda!  
+Dalın üstüme dalın  
+
+Vurun beni, urun  
+
+Denizanası kokan gagalarınızla!  
+
+Ah sizden ben nasıl da yok yere korkmuşum!  
+Bilmiyordum ki çünkü  
+
+Ben hem balığım hem kuşum  
+Ben ama hala anlayamıyorum ki  
+
+Bunca zaman niye sizden ayrı oturmuşum
+
+Can YÜCEL
+
+## Ve Komiser Kolombo
+
+Haldun Taner’e  
+   
+
+Vay hafiye rüzgar vay!  
+Sıcakların nereye taşındığını  
+                efendice tahkike yanaşmış  
+Hafiften zatülcenp muşambasıyla  
+Havadan sudan  
+       dereden tepeden  
+       hoşbeşti derken  
+               sabah beri  
+Yaprak izlerini alıyor çınarın  
+Yandın çavuş yandın!  
+
+Böyle bir sonbahar iptidasında  
+Tutuklanmıştı zavallı Amerika’da
+
+Can YÜCEL
+
+## Yapraktı
+
+Bir başka yolculuk dalından düşmek yere,
+Yaşadığından uzun;
+Bir tatlı yolculuk dalından inmek yere.
+
+Ağacın yüksekliğince,
+Dalın yüksekliğince rüzgarda;
+Ve bir yeni ö'mü'r
+Vardığın çimen yeşilliğince.
 
 Can YÜCEL

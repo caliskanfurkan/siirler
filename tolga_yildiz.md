@@ -1,6 +1,6 @@
-## Tolga YILDIZ
+# Tolga YILDIZ
 
-### Monolog
+## Monolog
 
 Sonra, göğermiş sanırdım erguvan ağacı,
 köklerini salınca esirgeyen alnına.
@@ -25,7 +25,7 @@ Dan! Dan! Dan?
 
 Tolga YILDIZ
 
-### Vazgeçmeler
+## Vazgeçmeler
 
 Hapishane türküleri soğuktur, diğerleri gibi ısıtmaz içini.
 Kırağı harelenir, suç buhurlaşır sanma.
@@ -50,7 +50,7 @@ Bazı infaz masalları tarihte, bu ihbarla bitti.
 
 Tolga YILDIZ
 
-### Yolculuk
+## Yolculuk
 
 Bu sıska nefsin ötesi, -kanaya kanata- bir enkaz ütopya şimdi.
 Sıtmalı kadrimin mührü çözülmeli oysa;

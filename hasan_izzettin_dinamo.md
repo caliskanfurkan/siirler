@@ -1,6 +1,6 @@
-## Hasan İzzettin DİNAMO
+# Hasan İzzettin DİNAMO
 
-### Dokuzuncu Sonnet
+## Dokuzuncu Sonnet
 
 Yağmur yağıyor, kış yağmuru şakır şakır
 Gecekondumuz birkaç yerinden yine damlıyor.
@@ -22,7 +22,7 @@ Burada zor insanı da şiiri de pekiştiriyor!
 
 Hasan İzzettin DİNAMO
 
-### Halkım
+## Halkım
 
 Türkiyeli'm, türküm, benim garip halkım,
 Her zaman görmek istedim seni
@@ -100,7 +100,7 @@ Ah, anlatabilsem bir gün sana.
 
 Hasan İzzettin DİNAMO
 
-###  İnsanın Kahpesi
+##  İnsanın Kahpesi
 
 İnsanın kahpesi,
 Ne arslana, ne kaplana benzer.
@@ -126,7 +126,7 @@ Namuslu insanın üzüntülerine...
 
 Hasan İzzettin DİNAMO
 
-### Meydan Okumak
+## Meydan Okumak
 
 Bizde neden ağlayan bir Fuzulî çıkmış
 Şimdi anlıyorum bunu derinden.
@@ -148,7 +148,7 @@ Artık acıya meydan okuyabilir.
 
 Hasan İzzettin DİNAMO
 
-### Sonnet
+## Sonnet
 
 Yürüyorum kara toprağın ıssızlığında
 Seni nice göresim geliyor, Amarillis'im.
@@ -167,7 +167,7 @@ Bir kovan bal olur sonunda en korkunç bunaltı.
 
 Hasan İzzettin DİNAMO
 
-### Onbirinci Sonnet
+## Onbirinci Sonnet
 
 Kendimi varisi sanırdım şiir imparatorluğunun
 Belki de bu yüzden ömrüm boyunca sürgünlerde gezdim.
@@ -189,7 +189,7 @@ Böğürüp dururdu danalar gibi salhanede gerçek!
 
 Hasan İzzettin DİNAMO
 
-### Yetmiş İkinci Sonnet
+## Yetmiş İkinci Sonnet
 
 Sen bir dişisin, doğa gibi güçlü bir dişi
 Ne güzel okşar insanı ekmek dağıtan ellerin.
@@ -211,7 +211,7 @@ Bu yerlere kaçarak gel bir akşamüstü olsun.
 
 Hasan İzzettin DİNAMO
 
-###  Yirmibirinci Yüzyılın
+##  Yirmibirinci Yüzyılın
     İnsanlarına Şiirler
 
 I

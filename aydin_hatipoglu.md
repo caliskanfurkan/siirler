@@ -1,6 +1,6 @@
-## Aydın HATİPOĞLU
+# Aydın HATİPOĞLU
 
-### Al Bu Şiiri Yak
+## Al Bu Şiiri Yak
 
 Tirşe gözlü bir çingene elleri nergis
 Kuş evleri dar geliyor güvercinlere
@@ -37,7 +37,7 @@ Derde dermandır efendim al bu şiiri yak
 
 Aydın HATİPOĞLU
 
-### Aşktır Bu Derdin Dermanı
+## Aşktır Bu Derdin Dermanı
 
 Sevgiden sellerin sesidir senden gelen
 Dağ delen susuşumu duysan tanıyacaksın
@@ -61,7 +61,7 @@ Varlığımı sonsuz sevgilere adıyorum adsız sevgilere
 
 Aydın HATİPOĞLU
 
-### Bebek
+## Bebek
 
 Seni bir orman ışığı gibi hatırlıyorum
 Gölgeli serin kucağına düşüyor yapraklarım
@@ -81,7 +81,7 @@ Beyaz badanalı bir köy evidir sevdam
 
 Aydın HATİPOĞLU
 
-### Çömçe Gelin I
+## Çömçe Gelin I
 
 Sokaklar boyunca çeşmeler kurdum
 Gürül gürül gücüm aktı damarlarıma
@@ -117,7 +117,7 @@ Yağmur ile sel
 
 Aydın HATİPOĞLU
 
-### Çömçe Gelin II 
+## Çömçe Gelin II 
 
 Şimdi bir yumruk gibidir çömçe gelin
 Bin yıllık yazgıyı bozmak için sıkılmış
@@ -146,7 +146,7 @@ Adımıza yöneliyor allaha
 
 Aydın HATİPOĞLU
 
-###  Dilleşmek
+##  Dilleşmek
 
 Savrulan saçların gibi savurur
 Uzak iklimlere sesin sesimi
@@ -172,7 +172,7 @@ Barışın atlasıdır dilimin coğrafyası
 
 Aydın HATİPOĞLU
 
-### Dünü Gün
+## Dünü Gün
 
 Sesimde yalnızlığın tınısı
 Gözlerim yanıyor uykusuzluktan
@@ -204,7 +204,7 @@ Dünya seni tanıyorum
 
 Aydın HATİPOĞLU
 
-### Kedi
+## Kedi
 
 Usulca okşuyor sesi sabahı
 Güne ulanan bebek uykusu
@@ -224,7 +224,7 @@ Usulca çıkıvermiş mısır tarihinden
 
 Aydın HATİPOĞLU
 
-### Levni
+## Levni
 
 Her şeyin bir rengi vardır bilirsiniz
 Özgürlüğün rengini bilir misiniz ya umudun
@@ -251,7 +251,7 @@ Adımız gibi biliriz inancın rengini
 
 Aydın HATİPOĞLU
 
-###  Nişan
+##  Nişan
 
 Suların uzak denizlere vardığı yerde
 Uçsuz zamanlar çiçeği
@@ -281,7 +281,7 @@ Yalnızlık bakıyor aynadaki resimde
 
 Aydın HATİPOĞLU
 
-###  Türkülerle Yürümek
+##  Türkülerle Yürümek
 
 Coşkunun yağız atları dörtnala damarlarımda
 Sarışın elleriyle yüzümü okşuyor akşam
@@ -327,7 +327,7 @@ Yürüyoruz yürüyoruz yürüyoruz
 
 Aydın HATİPOĞLU
 
-### Uzun Hava
+## Uzun Hava
 
 Dağların şarkısını söylüyorum
 Günlerden sabah
@@ -356,7 +356,7 @@ Hüzünlü
 
 Aydın HATİPOĞLU
 
-### Ve
+## Ve
 
 Haydi tut ellerimi sıcacık yürüyelim
 Bulanık bir sonbaharı saçlarına sindirerek
@@ -386,7 +386,7 @@ Tut ellerimi sıcacık tut.
 
 Aydın HATİPOĞLU
 
-### Yalnız Karanfil Sokağı
+## Yalnız Karanfil Sokağı
 
 Rüzgârın rengi hazan
 Yalnızlığa değiyor

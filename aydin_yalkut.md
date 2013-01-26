@@ -1,6 +1,6 @@
-## Aydın YALKUT
+# Aydın YALKUT
 
-### Albümlere Karışmak
+## Albümlere Karışmak
 
 tahir'de geçidin doruğunda
 elimi kaldırsam elim görünmeyecek 
@@ -22,7 +22,7 @@ albümlere karışmış bir eski başçavuşum
 
 Aydın YALKUT
 
-###  Bir Şey
+##  Bir Şey
 
 soğur birden/her sabah alacasında
 şakağının çillerinden öptüğüm şehir
@@ -52,7 +52,7 @@ ağır ağır devrilir
 
 Aydın YALKUT
 
-### Kalbim
+## Kalbim
 
 bir dağ başı kuytusunda kırılan çiçek
 iner senin ırmaklarında yunar
@@ -62,7 +62,7 @@ hünerin senin
 
 Aydın YALKUT
 
-### Yolculuk
+## Yolculuk
 
 1.
 ağır kampanalar çalıyor ağır ağır
@@ -118,7 +118,7 @@ her düşte burada bitiyor yolculuğum
 
 Aydın YALKUT
 
-### Zerrin'in Gözleri
+## Zerrin'in Gözleri
 
 seni tanıdığımda istanbul şehri
 üç boyutlu bir mekândın

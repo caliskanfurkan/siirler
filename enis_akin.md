@@ -1,6 +1,6 @@
-## Enis AKIN
+# Enis AKIN
 
-### 1996 İstanbul Savaşları
+## 1996 İstanbul Savaşları
 
 I 
 
@@ -46,10 +46,12 @@ seni öyle cumartesi deyişin için seviyorum leylâ
 bu trafik sıkışıklığını benimle paylaştığın için
 gömleğinin düğmelerini önümde bir açar bir kaparken
 seni seyredişimi seyrettiğin gözümden kaçmadı leylâ
+
 beni sevişir misin?
 tahtaya kaldırılmış bir çocuk edasıyla
 mahkumsuz bir idam mangası olarak
 yani birilerinin omzuna bastırabildiği kadarsa insan
+
 kilosu kaça? 
 senin de söylemek gelirse içinden aynı şeyi, 
 sakın söyleme leylâ
@@ -79,32 +81,89 @@ kıpırda!
 
 Enis AKIN
 
-### Acrophobia
+## Acrophobia
 
-giriyossun okulun kapısından içerikor bir demir kara değer gibibugün okul var   TÜRKÜM    tüt   t   tTürkü  m
+giriyossun okulun kapısından içeri
+kor bir demir kara değer gibi
+bugün okul var 
+ 
+ 
+TÜRKÜM    tüt   t   tTürkü  m
+
 DOĞRUYUM      do       doğdoğ
+
 dodoğruyum         ÇALIŞKANIM
+
 çaçalışşkanım   İLKEM ilk ill
+
 ilkem       KÜÇÜKLERİMİSEVMEK
+
 küküçük  k   lerimi   ssevmek 
+
 BÜYÜKLERİMİ   SAYMAKTIR    bü 
+
 büyük  k  kle  
 Klerimi   say
-saymaktır  palto ceket kazak gömlek fanila ve sol elinin altındaküçük sarı bir sözlük kadar kâlbin varbugün okul var  
- ÜLKÜM   ülküm  YÜKSELMEK  yükyük  selmek  İLERİYEGİTMEKTİR
+
+saymaktır
+ 
+ 
+palto ceket kazak gömlek fanila ve sol elinin altında
+küçük sarı bir sözlük kadar kâlbin var
+bugün okul var
+ 
+ 
+
+ 
+ÜLKÜM   ülküm  YÜKSELMEK  yük
+yük  selmek  İLERİYEGİTMEKTİR
+
 i   i   ileriy   egitmek  tir 
+
 YURDUMU   yurdumu   MİLLETİMİ
+
 millm   
 mm    ilm   illetimi 
 
+
 ÖZÜMDENÇOKSEVMEKTİR   ö   özö
+
 özümden  ço  ok  çok sevmekse
+
 sevse  ses   sevse  sesevseme 
+
 sevmektir
-   ve artık parmaklarını hissetmiyossunbütün kurallar değişti bugün kar var    çünkü karhabire anneliğidir ıslanması bitmiş bir yağmuruneski bir krallığın ortasında herşey bıyıklarını yitirmiştir  EYBÜYÜKATATÜRK  eyy büyü büyük   aa   Atatürk AÇTIĞINYOLDAaçtaçtığın     yo yo   yold aGÖSTERDİĞİNHEDEFE   gösgösterdiğin    
-hhedefe    DURMADANYÜRÜYECEĞİME  durma dur durmadurd  urma  danyü  yürü  yürüyeceğime           
-ANDİÇERİM anndandiçerim
-   döneceksin 
+
+ 
+ 
+ 
+ve artık parmaklarını hissetmiyossun
+bütün kurallar değişti 
+bugün kar var 
+ 
+ 
+ 
+çünkü kar
+habire anneliğidir ıslanması bitmiş bir yağmurun
+eski bir krallığın ortasında herşey bıyıklarını yitirmiştir
+ 
+ 
+EYBÜYÜKATATÜRK  eyy büyü büyü
+k   aa   Atatürk AÇTIĞINYOLDA
+açtaçtığın     yo yo   yold a
+GÖSTERDİĞİNHEDEFE   gösgöster
+diğin    
+hhedefe    DURMADAN
+YÜRÜYECEĞİME  durma dur durma
+durd  urma  danyü  yürü  yürü
+yeceğime           
+ANDİÇERİM 
+anndandiçerim
+
+ 
+ 
+ 
+döneceksin 
 bütün cepleri torpille dolu 
 dibe dalan bir denizaltı nasıl eksilirse hayattan
 
@@ -137,7 +196,7 @@ bakışlarını
 
 Enis AKIN
 
-### Dünyanın En Çok Satış 
+## Dünyanın En Çok Satış 
 	Yapan Tezgahtarı
 
 dağların aşağısında oralarda güvendesindir
@@ -171,80 +230,146 @@ kimse bilmiyordu, tezgahtarın ayakları peynir gibi kokuyordu
 
 Enis AKIN
 
-### Göğkuşağı
+## Göğkuşağı
 
 dağdır diyemem
+
     çünkü darlar
+
     bir çağ
+
     layandır bıçağ
+
     ı tanı
+
     yanlar yaktılar
+
     bütün kelimeleri
+
     2 kaçış arasında
+
     geriye yumuşak
+
     bir dünya bırak
+
     tılar 
+
     dağ gibi sözlükleri
+
     gökdelenleri yık
+
     tılar çünkü kilo yapar
+
     zamanlar dar
+
     dır diyemem
+
     yüzünü sapla 
+
     olmuş olanlara
+
     sesleri kıs
+
     tırdılar köşesine bir
+
     ruhunun
+
     bir 
+
     bir
+
     düşmesini çocuklarının
+
     başka klozetlere 
+
     kollara
+
     izledin şimşeklerle
+
     ellerinin barışmasını
+
     havai fişeklerdir 
+
     zannettin inan
+
     dırdın kendini
+
     düşmesine
+
     bir 
+
     bir saçlarının
+
  
 davalarının
+
     kelimelerinin
+
     kadınlarının arkasından
+
     baka baka bakandın
+
     halbuki şimşekler dardı
+
     darlar bir dağdı
+
     sıkıştır
+
     an be an be an
+
     bir bıçağı tanı
+
     tan tanıtan tan
+
     kalmadı artık
+
     bu çağın fiyakalısı
+
     başka şansın olmaktan
+
     kul-öfkeni-lan
+
     de 
+
     ki aşk şekloldu de ki
+
     ışıl ışıl dı kekemeliğimiz
+
     kelimeler bedduadan yana evet
+
     bunları söyle de ki
+
     buçağ kınsız bi bıçağ
+
     de ki oğlumu isterim de
+
     ifade et başı başı başını
+
     n ağr ağr ağrı dığını neden
+
     söyle elini kolunu şöyle
+
     sallaya sallaya send send
+
     sen de
+
     neden sendelediğini
+
     kır kelim 
+
     eleri kırık şişelerin ay ay aya
+
     ğına battığını anlat
+
     sesin niye sakat
+
     diye dilini
+
     çıkart soranlara
 
 Enis AKIN
 
-### Görkemli Göğ
+## Görkemli Göğ
 
 Onlar at değil bendim
 Atların yerine oyuna ben girdim
@@ -268,7 +393,7 @@ Bir şafak ve üç çöp kovası da ben devirdim
 
 Enis AKIN
 
-### Haleluya Demeden Olmaz
+## Haleluya Demeden Olmaz
 
 Martin 
     Bryant için
@@ -420,7 +545,7 @@ yaşamak sadece yaşamaktan ibarettir
 
 Enis AKIN
 
-### İşte Geldik (VI)
+## İşte Geldik (VI)
 
 ben zor bi herifm hayat da zo
 kim kim
@@ -539,15 +664,17 @@ e*er o bundan utanmazsa
 
 Enis AKIN
 
-### Kaç, Kurtul Benden
+## Kaç, Kurtul Benden
 
 beni mutfak sandalyesine bağlıyorsun
 sesi tanrılardan çalıp sana getirmem için
 
 
 dışardan martıların seslerini yakalıyorum
+
 sadece sen, ben, bugün var. 
 sadece sen, ben, bugün vardı.
+
 
 
 ben
@@ -557,6 +684,7 @@ ve sen, şiir sevmiyorsun
 
 
 çıplak baldırımın üzerinde kırmızı kayış
+
 mesela ben senin yalnızlığını sevecekmişim
 
 
@@ -655,7 +783,7 @@ ve sen şiir sevmiyordun
 
 Enis AKIN
 
-### Kaldırımlarda Ben Niye 
+## Kaldırımlarda Ben Niye 
   Geziniyorum?
 
 karışılmasınlarda geziniyorum
@@ -685,7 +813,7 @@ yağmurdan kaçmak yok
 
 Enis AKIN
 
-### Kötüler Hep Kazanır
+## Kötüler Hep Kazanır
 
 bir kadın gözlerini gizlemeye karar vermişse
 korkunçtur, bütün gıcırtılarından yataklar durur.
@@ -741,7 +869,7 @@ maç, başladı
 
 Enis AKIN
 
-### Mükemmel Olmayan 
+## Mükemmel Olmayan 
   İnsanların Sıradan Çatışmaları
 
 evet ben değersiz biriyim be şekerim
@@ -781,9 +909,10 @@ ciğerime, be şekerim
 
 Enis AKIN
 
-### Olmak Başladığımız Hayattı, On
+## Olmak Başladığımız Hayattı, On
 
-eğer buysa bir devrim ¾¾
+eğer buysa bir devrim 
+¾¾
 mavi giymeli pazar akşamları ve paradan hiç sözetmemeli
 ve başlatabilmeli ve bitirebilmeli kendini
 ve ağzının kıvrımlarını bir SEK şişesi gibi açabilmeli kapatabilmeli
@@ -806,7 +935,8 @@ nasıl korkaktı bu bizim devrimler, hayal dünyasında gezer
 televizyonda ele geçen isimler, beddualar, nazarlar sergisi
 banknotlara kendi resmini basan kalpazan terziler, kuyumcular, hA!
 oysa bir devrim ¾¾
-buysa bir devrim ¾¾ tarihin altını ellerdi ¾¾ gencölelim! ¾¾ gencölelim!
+buysa bir devrim 
+¾¾ tarihin altını ellerdi ¾¾ gencölelim! ¾¾ gencölelim!
 
 
 babamsa bir devrim, sadece müziğe doğru ilerlemeli
@@ -816,6 +946,7 @@ mesela o gece sarhoş olup oynadıysa masada, ertesi sabah utanmaz
 ve biriktirdiği gazete kuponlarından ve cinnetinden
 çünkü eskimişse mini etekleri çünkü
 başlamışsa bir devrim, bitmeye de başlamıştır bir yaşlı sarışın kadın gibi
+
 
 
 önce palyaçoyu alın aşağı! önce palyaçoyu alın!

@@ -1,31 +1,44 @@
-## Özlem Tezcan DERTSİZ
+# Özlem Tezcan DERTSİZ
 
-### 29
+## 29
 
 maskeleri gördükçe şehirlerin yüzünde
+
 neydim bu baloda ben, çıplak kral mı?
 
+
 on dokuzum arsızdı ayna tuttu içime
+
 özüm yüzüme değdi, dil isyanda kemiğine
 
+
 perdeyi çabuk çektin, kapıları kapattın
+
 rolümü sevemedim, uymadım repliğine
 
+
 sana benzemedim diye bütün bunlar
+
 şarkını başka renk söyledim diye
 
+
 trenlerini kaybetmiş istasyonum şimdi
+
 uzaklaştım ufkumdan, şaşırdım saatimi
 
+
 üzgünüm, filmi başa saramam
+
 ve diye takamam seni koluma
 
+
 yirmi dokuz yaşımdı, ben onu yazacaktım
+
 zehir zıkkım sözlerin düşmeseydi mektuptan
 
 Özlem Tezcan DERTSİZ
 
-### Ay Battı
+## Ay Battı
 
 ay battı anne, çocuklar kanıyor
 sarhoş kent topluyor çekmecelerini
@@ -46,7 +59,7 @@ ay battı anne, her şey kanıyor...
 
 Özlem Tezcan DERTSİZ
 
-### Irmak-Babam-Anka
+## Irmak-Babam-Anka
 
 ırmakları sev derdi babam
 göller yerine
@@ -72,7 +85,7 @@ düşümde bahçe
 
 Özlem Tezcan DERTSİZ
 
-### Kaya
+## Kaya
 
 yağmurunu linç eden bir ülkede,
 suçun damla olmaktı
@@ -93,7 +106,7 @@ taş taşı yıkar mı?
 
 Özlem Tezcan DERTSİZ
 
-### Kimlik
+## Kimlik
 
 uzak bir savaştan aldığım
 derin gül yarası
@@ -121,7 +134,7 @@ sevdiğim dizelerin cinsiyeti: insan...
 
 Özlem Tezcan DERTSİZ
 
-### Sana Yazdığım Bir Mektup Olsam
+## Sana Yazdığım Bir Mektup Olsam
 
 yüzme bilmeyen bir kaptana vuruldum
 utanma mevsiminden kalan gül kırıkları
@@ -148,7 +161,7 @@ sana yazdığım bir mektup olsam
 
 Özlem Tezcan DERTSİZ
 
-### Viraj
+## Viraj
 
 ateşi söndür, bu sesi tanıyorum
 ilk dudaklar unutuyor, büyüsünü öpmenin
@@ -177,7 +190,7 @@ boşuna, sağlaması hep yanlış çıkıyor aşkın
 
 Özlem Tezcan DERTSİZ
 
-### Yol Haritası
+## Yol Haritası
 
 elmayı koparırken dalını gücendirmiş
 işliyor, acımasız bağ makası bu şehrin

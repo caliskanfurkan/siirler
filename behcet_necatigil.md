@@ -1,6 +1,6 @@
-## Behçet NECATİGİL
+# Behçet NECATİGİL
 
-### Gizli Sevda
+## Gizli Sevda
 
 Hani bir sevgilin vardı
 Yedi sekiz sene önce,
@@ -24,7 +24,7 @@ Sana selâm söyledi.
 
 Behçet NECATİGİL
 
-### Kirli Soru
+## Kirli Soru
 
 Benim oralarda hiçbir işim yoktu
 Şeytana uydum,
@@ -46,7 +46,7 @@ Siz yine orada mısınız?
 
 Behçet NECATİGİL
 
-### Nilüfer
+## Nilüfer
 
 Ben oraya koymuştum, almışlar,
 Arasına sıkışık saatlerin.
@@ -65,7 +65,7 @@ Beni bana gösterecek lambamdı, almışlar.
 
 Behçet NECATİGİL
 
-### Sevgilerde
+## Sevgilerde
 
 Sevgileri yarınlara bıraktınız
 Çekingen, tutuk, saygılı.
@@ -91,7 +91,7 @@ Yahut vaktiniz olmadı.
 
 Behçet NECATİGİL
 
-### Solgun Bir Gül Dokununca
+## Solgun Bir Gül Dokununca
 
 Çoklarından düşüyor da bunca
 Görmüyor gelip geçenler
@@ -132,7 +132,7 @@ Solgun bir gül oluyor dokununca.
 
 Behçet NECATİGİL
 
-### Tahta Kürsü Çocuklar
+## Tahta Kürsü Çocuklar
 
 Tahta sınıfa karşı
 Kürsü tahtanın yanında
@@ -178,7 +178,7 @@ Sonraki çizgiler altında.
 
 Behçet NECATİGİL
 
-### Yıldızlarda Uyku
+## Yıldızlarda Uyku
 
 Şehre çöken karanlık
 Sokakta bir adam gördü.
@@ -210,7 +210,7 @@ Uykusunda güldü.
 
 Behçet NECATİGİL
 
-### At My Touch It Turns Into A Faded Rose
+## At My Touch It Turns Into A Faded Rose
 
 It falls off a lot of people, heaven knows, 
 Yet no passerby catches sight of it, 
@@ -247,7 +247,6 @@ And to run along the roads or the mementoes.
 Time and time again I take it along, it stays awake all night 
 Stirring in darkness, whenever I touch it 
 At my touch it turns into a faded rose.
-
 
 
 Translated by A. Turan OFLAZOĞLU & Güngör DİLMEN

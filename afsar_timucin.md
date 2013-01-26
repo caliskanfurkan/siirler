@@ -1,6 +1,6 @@
-## Afşar TİMUÇİN
+# Afşar TİMUÇİN
 
-### ÇÖL
+## ÇÖL
 
 Beyaz bir gün üstüme kapanıyor
 Yeşilini süze süze ormanların
@@ -25,7 +25,7 @@ Her sevince yeniden başlıyorum
 
 Afşar TİMUÇİN
 
-### Bir 
+## Bir 
 Gün Övgüsü
 
 Ben ölecek olduktan sonra
@@ -58,7 +58,7 @@ Karanlığı sarsılmaz anlamda gelişiyor
 
 Afşar TİMUÇİN
 
-### Denizin Beklediği
+## Denizin Beklediği
 
 Seni sevmek mor denizlerdi biraz
 Ne kadar gidilse bir o kadar bitmeyen
@@ -82,7 +82,7 @@ Sana verdim geç diye bütün denizlerimi
 
 Afşar TİMUÇİN
 
-### Eski Ev
+## Eski Ev
 
 Geçici dinginliğini kurar kuşku
      	                 Bir yağmur öncesinde bis susuşu andırır
@@ -110,7 +110,7 @@ Onlar orada okunmadan kalırlar
 
 Afşar TİMUÇİN
 
-### Sürgün
+## Sürgün
 
 Senin değil bir çocuğun elleri
 Bir daha gülebilmek için yürek genişliğince
@@ -132,7 +132,7 @@ Bütün mektuplar aynı özlemi yazar
 
 Afşar TİMUÇİN
 
-### Yaşamak
+## Yaşamak
 
 Niye gözlerinde bu kadar yanlış adam
 	              Çiziyor sancılı boyalarla resmimi
@@ -149,7 +149,7 @@ Yaşamak sürüklemektir düşlerin tortusunu
 
 Afşar TİMUÇİN
 
-### Yazla Biten
+## Yazla Biten
 
 Dışarıda zamanı yürüten kırık bir arabanın
 Soluğunda uyur bütün akşam saatleri
@@ -173,7 +173,7 @@ Onda hem bir sen olma hem kaçma umudu vardır
 
 Afşar TİMUÇİN
 
-### Yeni Gökler
+## Yeni Gökler
 
 Büyük kuşların uçmak zorunda olduğu gökleri
 Eski sürüngenler bir türlü anlamadılar
@@ -197,7 +197,7 @@ Silip attığı için bütün değişmeleri
 
 Afşar TİMUÇİN
 
-### BÖYLE SÖYLENMELİ BİZİM TÜRKÜMÜZ
+## BÖYLE SÖYLENMELİ BİZİM TÜRKÜMÜZ
 
 Beyaz bir gün üstüme kapanıyor
 Yeşilini süze süze ormanların
@@ -222,7 +222,7 @@ Her sevince yeniden başlıyorum
 
 Afşar TİMUÇİN
 
-### Anış
+## Anış
 
 Bense eski bir anı gibi çaldım kapını
 Dinlen diye saçlarını taradım
@@ -238,7 +238,7 @@ Yıkıntılar içinde sapsarı papatyaydın
 
 Afşar TİMUÇİN
 
-### Ayrılıkta Söylenmiş Bir Yaz 
+## Ayrılıkta Söylenmiş Bir Yaz 
 Türküsü
 
 Gözlerine bakar ağlar
@@ -264,7 +264,7 @@ Al götür sonuna kadar
 
 Afşar TİMUÇİN
 
-### Çocuk İşi
+## Çocuk İşi
 
 Bütün sokakların tozu var ellerinde
 İçin bir su birikintisi
@@ -286,7 +286,7 @@ Gök olmasa uçamazdı uçurtma
 
 Afşar TİMUÇİN
 
-### Değişim
+## Değişim
 
 İnanç beyler çarmıha gerilmeyi bilene
 
@@ -311,7 +311,7 @@ Sevişmek gene en az yanılmaktır
 
 Afşar TİMUÇİN
 
-### Onlar Başka
+## Onlar Başka
 
 Onlar herşeyi yalan yazar
 Şiirleri masalları bile
@@ -329,7 +329,7 @@ Kan denizi yok gökte
 
 Afşar TİMUÇİN
 
-### Senin Bildiğin
+## Senin Bildiğin
 
 Sen bilirsin
 Ne denizler dağlardan bu kadar yüksek
@@ -352,7 +352,7 @@ Ne bu kuşlar göklerden başka bir şey
 
 Afşar TİMUÇİN
 
-### Yarına
+## Yarına
 
 Yakışmıyorum kim ne derse desin
 Yakışmıyorum yalnızlığa
@@ -375,7 +375,7 @@ Neye yarar bir insan tek başına
 
 Afşar TİMUÇİN
 
-### Yaşamak
+## Yaşamak
 
 Yaşamak alışmaktır
 İşportada satılan kadın geceliklerine
@@ -396,7 +396,7 @@ Alıştığı her şeyle savaşmaktır
 
 Afşar TİMUÇİN
 
-### AKŞAM TÜRKÜLERİ
+## AKŞAM TÜRKÜLERİ
 
 Beyaz bir gün üstüme kapanıyor
 Yeşilini süze süze ormanların
@@ -421,7 +421,7 @@ Her sevince yeniden başlıyorum
 
 Afşar TİMUÇİN
 
-###         Ben Kimim
+##         Ben Kimim
 
 Ben kimim yaramaz bir çocuk
 Sessizliğiyle kendine gizlenen
@@ -443,7 +443,7 @@ Kendine ve her şeye ağlayan
 
 Afşar TİMUÇİN
 
-###         Derinleşen
+##         Derinleşen
 Akşamda
 
 Bir sigara yaktım durup düşündüm
@@ -472,7 +472,7 @@ Kaskatı bir karanlık yerleşiyor içime
 
 Afşar TİMUÇİN
 
-###         Çocuklara
+##         Çocuklara
 Düşen
 
 Herkesin her yaşta
@@ -490,7 +490,7 @@ Bitmeyen sevinçleri uyumalı
 
 Afşar TİMUÇİN
 
-###         Sessiz
+##         Sessiz
 Akşam Düşleri
 
 Bembeyaz akşamlara çıkmak
@@ -519,7 +519,7 @@ Yani baştan sona seni ezberlemek
 
 Afşar TİMUÇİN
 
-###         Bir Akşam
+##         Bir Akşam
 Kuşatması
 
 Birlikte bir kıyıyı kuşattık
@@ -554,7 +554,7 @@ Karton filmlerden konuştuk daha sonra
 
 Afşar TİMUÇİN
 
-###         Donkişotun
+##         Donkişotun
 Akşamı
 
 Dulcinea seni en çok andığım
@@ -586,7 +586,7 @@ Sende gerçek büyüklüğe kavuştuğumu
 
 Afşar TİMUÇİN
 
-###         İnsanlar
+##         İnsanlar
 Arasında
 
 Kır saçlı görgülü adamlar
@@ -620,7 +620,7 @@ Evlere çekilirdik erkenden
 
 Afşar TİMUÇİN
 
-###         İstersen
+##         İstersen
 Al Götür Beni
 
 Ölümsüz gülüşünle başlıyorum
@@ -649,7 +649,7 @@ Ellerine ayaklarına saçlarına
 
 Afşar TİMUÇİN
 
-###         Sana Son
+##         Sana Son
 Mektubumdur
 
 Beni rüzgâra verme
@@ -680,7 +680,7 @@ Beni sakın bırakma
 
 Afşar TİMUÇİN
 
-###         Gene Böyle
+##         Gene Böyle
 
 Yürürlükte hava su ateş toprak
 Yürürlükte irili ufaklı atomlar
@@ -712,7 +712,7 @@ Geçerlidir dayattığım her özlem
 
 Afşar TİMUÇİN
 
-###         Sanılar
+##         Sanılar
 
 Şimdi belki benim gibi ölesiye yalnızsındır
 Uçan kuşları gözlemektesindir tek başına
@@ -738,7 +738,7 @@ Belki sen de benim gibi ölesiye yalnızsındır
 
 Afşar TİMUÇİN
 
-###         Akşamın Anısı
+##         Akşamın Anısı
 
 Yorgun bir günden kalan
 Avuçların uyudu avucumda
@@ -767,7 +767,7 @@ Zaten kimse anlayamaz kimseyi
 
 Afşar TİMUÇİN
 
-###         Ağacın
+##         Ağacın
 İkindi Türküsü
 
 Açıklara çıkalım boğulmamak için
@@ -792,7 +792,7 @@ Rüzgârla yere düşen sarı yaprak
 
 Afşar TİMUÇİN
 
-###         Akşam
+##         Akşam
 Serüvenleri
 
 Bir seferden döneriz seninle bazı akşamlar
@@ -818,7 +818,7 @@ Benim tutkum ölümüm serüvenim bu işte
 
 Afşar TİMUÇİN
 
-###         Akşamın Kurgusu
+##         Akşamın Kurgusu
 
 Gölgem ol ve beni izle
 Kimselerin bilmediği yerlere
@@ -845,7 +845,7 @@ Her zaman beni bağla yedeğine
 
 Afşar TİMUÇİN
 
-###      Akşamda
+##      Akşamda
 Çocuk Sezgileri
 
 İyileşmez çocukluğum yüzündendir
@@ -873,7 +873,7 @@ Her şeyimin birden maviye kesmesi
 
 Afşar TİMUÇİN
 
-### SAVAŞÇI
+## SAVAŞÇI
 TÜRKÜLERİ
 
 "Ölen Savaşçıların Anısına Bir Türkü" isimli şirden..
@@ -884,7 +884,7 @@ TÜRKÜLERİ
 
 Afşar TİMUÇİN
 
-###         Ali'nin Türküsü
+##         Ali'nin Türküsü
 
 Baba kar çok olunca balkonda
 Çıkıp kardan adam yapalım mı
@@ -910,7 +910,7 @@ Baba çıkıp kartopu oynayalım mı
 
 Afşar TİMUÇİN
 
-### 
+## 
         Bilgelerin Ölüm Türküsü
 
 Ölümün üstüne sünger çekin
@@ -938,7 +938,7 @@ Hele yaşadıysanız hiç korkmayın
 
 Afşar TİMUÇİN
 
-### 
+## 
         Bir Akşamda Çocukların Türküsü
 
 Baba nisan yağmurları bir panayır türküsüdür
@@ -958,7 +958,7 @@ O çocuklar o portakalları ölür de yemez
 
 Afşar TİMUÇİN
 
-###         Bir Çocukluk
+##         Bir Çocukluk
 Türküsü
 
 Çocuk olmak sana iyi gidiyor
@@ -982,11 +982,12 @@ Güzel olmak çok yaraşıyor sana
 
 Afşar TİMUÇİN
 
-###         Bir
+##         Bir
 İnanç Tutkununun Türküsü
 
 Onlar savaşçıdırlar içlerinde
                                                 Gökleri yeni baştan kurarlar
+
 Böyle çıkma gece vakti balkona
 Havalar soğudu üşümesin ayakların
 Acıya salıverme kendini bir çırpıda
@@ -997,7 +998,7 @@ Umutsuzluk suçunu işlemek bize yasak
 
 Afşar TİMUÇİN
 
-###         Bir Ninni
+##         Bir Ninni
 ya da Türkü
 
 Çocuğum uyusan bir güzel
@@ -1025,7 +1026,7 @@ Kırılgandır dayanamaz korkuya
 
 Afşar TİMUÇİN
 
-###         Bir Sevgi Türküsü
+##         Bir Sevgi Türküsü
 
 Akşam soğan kavrulan evlerde
 Yoksul bir çorbayı ateşe koymadan önce
@@ -1052,7 +1053,7 @@ Bu kadar ölümsüz ve bu kadar olağan
 
 Afşar TİMUÇİN
 
-###         Bir Tutkunun
+##         Bir Tutkunun
 Türküsü
 
 Neden onu görünce
@@ -1077,7 +1078,7 @@ Tükenmiş bir rüzgârsın ağaçta
 
 Afşar TİMUÇİN
 
-###         Çocuğun
+##         Çocuğun
 ve Kaptanın Türküsü
 
 Kaptan amca beni geçerken
@@ -1098,7 +1099,7 @@ Uzakların tutkusu nicedir
 
 Afşar TİMUÇİN
 
-###         Eskinin Türküsü
+##         Eskinin Türküsü
 
 Şimdi öksürtür beni
 Yıllar önce içtiğim
@@ -1118,7 +1119,7 @@ Dünyalar kadar uzaklık var
 
 Afşar TİMUÇİN
 
-###         Gece Gelenin
+##         Gece Gelenin
 Türküsü
 
 Hangi saatte durur şiir
@@ -1146,11 +1147,12 @@ Hangi saatte yazar ölümün yazgısını
 
 Afşar TİMUÇİN
 
-###         Geçen
+##         Geçen
 Zamanın Türküsü
 
 Bir de pisliğin çiçek gibi büyüttüğü
                         Uyuşuk ve anlamsız otlar var
+
 
 Ünlü yayınevlerinde 
 Halka ışık tutan bütün romancılar
@@ -1185,7 +1187,7 @@ Rüzgâr toz bulutları bırakır giderken
 
 Afşar TİMUÇİN
 
-###         Hançerli  Türkü
+##         Hançerli  Türkü
 
 Nicedir elimde gül dalıydı
 Değişti değişti hançer oldu
@@ -1213,7 +1215,7 @@ Soframızdan aşımızı çalanı
 
 Afşar TİMUÇİN
 
-###         İlk Türkü
+##         İlk Türkü
 
 Otur da konuşalım
 Gelmeyen bahardan
@@ -1237,7 +1239,7 @@ Otur da konuşalım
 
 Afşar TİMUÇİN
 
-###         İnançlı
+##         İnançlı
 Bir Savaşçının Türküsü
 
 Kendimi hiç akşam olmayacak
@@ -1262,10 +1264,11 @@ Kendimi bir namlu gibi dosdoğru çiziyorum.
 
 Afşar TİMUÇİN
 
-###         Korku Türküsü
+##         Korku Türküsü
 
 Onlar savaşçıdırlar korkuyu geçerken
                       Bıraktılar dipsiz bir kuyuya
+
 
 Korku seni korkaklar ülkesine
 Kıral yaptım çıkardım ülkemden
@@ -1284,10 +1287,11 @@ Al götür giderken
 
 Afşar TİMUÇİN
 
-###         Küçük Türkü
+##         Küçük Türkü
 
 Sonra bir akşamüstü çıkıp geldiler
 			Yepyeni bir sabahı kurmaya	
+
 
 Sana duyduğum sevgi bir akşam
 İhtiyar ölümleri gibi geçti kapımdan
@@ -1301,7 +1305,7 @@ Ben belki de bilemedim sevmeyi
 
 Afşar TİMUÇİN
 
-###         Mavi
+##         Mavi
 Mendilin Türküsü
 
 Sandığa koy bu mendili kullanma
@@ -1326,5 +1330,127 @@ Denizi daha mavi kuşları daha çılgın
 Kıyıları daha temiz ve güzel
 Bu da kalsın sandığında öylece
 Kimindi nedendi nasıldı bilinmeden
+
+Afşar TİMUÇİN
+
+##         Ölümlerin
+Düşündürdüğü Türkü
+
+Bir akşamüstü balçık kuşları
+Sessiz dökülürler yorgun akşama
+Zehirli saatler emzirir suları
+Günün ardından uzanıp dağlara
+Yağmacılar doruklarda yıldızları çalarlar
+
+Zamanın örgüsünü dişler gece kuşları
+Uykunun kanını emer vampir
+Güzelliğe kezzap döker karanlık
+Sevinci tutsak eder korsanlar
+Yavaş yavaş açılır yılan yumurtaları
+
+Düşleri eksik imgelerle bozar
+Kirpiler kuzgunlar kokarcalar
+Geceye çakılır eskiyen kasımpatı
+Uzaklardan boş kahkahalar gelir
+Çocuğun boynunu takarlar ipe
+
+Çirkinleştirerek yalnızlıkları
+Bu cellatları kim besliyor
+Kim yerleştiriyor çiçek diye
+Kente bu gülünç sehpaları
+Kim doğruyu kime benimsetiyor
+
+Afşar TİMUÇİN
+
+## Savaşçının
+Ölüm Türküsü
+
+Yorgun kuşlar dökülüyor göklerden
+Kaskatı rüzgârlara çarpa çarpa
+Yorgun kuşlar dökülüyor uzaklardan
+Yorgun kuşlar göklerin avucunda
+Sonsuzluğa serpiliyor dağlardan
+
+Ne düştüğün gök ne varacağın toprak
+Seni bir bitmişlik diye anlamayacak
+Her yerde izi var kanatlarının
+Her yere saçıldı duyarlıkların
+İşte sonu geldi yorgunlukların
+Başka kuşlar olacak bundan sonra
+Zaman kadar bitimsiz gmklerde
+
+Güneşe en yakın doruklarda
+Yeni kuş yuvalarında yeni kuşlar
+Kanatlanıyor çığlık çığlığa
+Göklere yeni çırpınışlar gelecek
+Ne üzül ne kıskan ne acı çek
+Bir sonsuzluk gibi geçtiğin göklerden
+Artık başka güzellikler geçecek
+
+Afşar TİMUÇİN
+
+## 
+        Savaşların Düşündürdüğü Türkü
+
+Onlar savaşçıdırlar sabah akşam
+						 Ufuklarda güzellikler sağarlar
+
+
+Sen ölürsün de yapamazsın bunu
+Öldüremezsin bataklıkta kayık yüzdüren
+Sabahların altın saçlı çocuğunu
+
+Kimseyi umudundan edemezsin
+Toprağa ekemezsin ölüm korkusunu
+Sevinçleri kökünden sökemezsin
+Değirmende kimsesiz bırakamazsın unu
+
+Sen ölürsün de yapamazsın bunu
+Vuramazsın kıyıda uzakları gözleyen
+Sabahların gül yüzlü çocuğunu
+
+Afşar TİMUÇİN
+
+##         Seni Çağıran
+Türkü
+
+Onlar savaşçıdırlar sabah akşam
+                                               İnançlar örer umutlarından
+
+
+Ellerin karanlıkta üşüdü gir içeri
+Saçların yıkandı soğuk yağmurda
+Gel sobanın yanına sokul da
+Al eline sıcak kestaneleri
+Kuş masalları anlat
+
+Acıyı katık etme duruşuna
+
+Afşar TİMUÇİN
+
+##         Seni Düşündüğüm
+Türkü
+
+Benim bin canla sevip bin özlemle andığım
+Bari gölgeni bırak bana
+Su çiçeklerinin en güzel yanı budur
+Giderken gölgelerini verirler suya
+Güz akşamları dal kıpırdamazken
+Suda halkalanan gözleridir
+Sen de gölgeni bırak bana
+
+Gönlümün bin güzelliğiyle inanıp sevdiğim
+Güzelliğini burada ince ince aratma
+Bir kıyıya bir gün inen fırtına
+Gibi birdenbire bir şeyler bırak
+Bir şeyleri soğut bir şeyleri yak
+Dağıt bir şeyleri bir şeyleri kur
+Kendini hiç yokmuşsun gibi bırakma
+
+Kafamın her yanıyla bir şeyler öğrendiğim
+Sonsuza uzanan sevinç güzele vurgun tasa
+En az bin yılda arayıp bulduğum
+Bana aşk şiirleri yazdırma artık
+Beni burada gölgen gibi bırakma
 
 Afşar TİMUÇİN

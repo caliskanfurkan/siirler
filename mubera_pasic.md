@@ -1,6 +1,6 @@
-## Mübera PASİÇ
+# Mübera PASİÇ
 
-### Bitimde
+## Bitimde
 
 Alışkanlıklarımı
 nasıl aşılayayım
@@ -25,12 +25,11 @@ yeraltında patladığını !
 
 
 
-
 (Çeviren : Fahri Kaya)
 
 Mübera PASİÇ
 
-### Erken Türkü
+## Erken Türkü
 
 Buradayım. Sabah tutuşmuş yanıyor
 Şaşkınlık otlarında
@@ -59,11 +58,12 @@ kendine yön arıyor.
 
 
 
-(Çeviren : Fahri Kaya)
+(
+Çeviren : Fahri Kaya)
 
 Mübera PASİÇ
 
-### Sırça Martı
+## Sırça Martı
 
 Bak, acı çekiyor.
 Günün karşısında
@@ -89,6 +89,7 @@ aynı anda birleştirdi bizi.
 
 
 
-(Çeviren : Fahri Kaya)
+(
+Çeviren : Fahri Kaya)
 
 Mübera PASİÇ

@@ -1,6 +1,6 @@
-## Bülent KUMRAL
+# Bülent KUMRAL
 
-### Güzelleme
+## Güzelleme
 
 Bir tavşan kadar ürkekti yüreğin
 Kabaran deniz dalgaları gibi coşkulu...
@@ -13,6 +13,7 @@ Bana, ben olduğumu sen yaşattın.
 Sen imzaladın
 Kimliksiz otel odalarının
 Doğum kağıtlarını.
+
 Bastığın yerde otlar yeşerir,
 Topuk çukurlarında
 Kuru ağaç dalları göverir.
@@ -20,6 +21,7 @@ Sen güldüğünde,
 Güller güler, bülbüller susar
 Erguvanlar seni kıskanır
 Şenlenir bahar dalları.
+
 Karanfil kokulu terini içerdim
 Ceylan derisi yumuşak teninde
 Kasıklarında duyardım
@@ -32,7 +34,7 @@ Doğum kağıtlarını
 
 Bülent KUMRAL
 
-### İkilem
+## İkilem
 
 İKİLEM
 kararsız bir yaz ikindisi sanıyordum seni
@@ -136,32 +138,47 @@ kızılcık şerbetidir derim.
 
 Bülent KUMRAL
 
-### Tüketeceksin
+## Tüketeceksin
 
-Bir sevgiyi anlamakBir ömrü tüketirTüketeceksin
+Bir sevgiyi anlamak
+Bir ömrü tüketir
+Tüketeceksin
 
 Bülent KUMRAL
 
-### Kimim Ben?
+## Kimim Ben?
 
 Başım yıldızlarla çarpışır
+
 Ayaklarım dağların doruklarındadır
+
 Evrensel yaşamın kıyılarında, 
+
 Derin vadilerinde gezinir parmak uçlarım
+
 Derinlere, yaşamın asli özüne iskandil eder ellerim
+
 Mukadderatın çakıl taşlarıyla oynarım.
+
 Binlerce kez cehennemlere gidip döndüm
+
 Cennetin her köşesini tanırım,
+
         Tanrıyla düşüp kalktığımdan.
+
 Kanla su gibi oynar, dehşete şapka çıkarttırırım.
+
 Aşinayım çoktan güzelliği yakalamanın tutkusuna 
+
 Dahası "uzak dur" diye yasaklanan her şeyin tümüne
+
 İnsanoğlunun müthiş isyanına.
 
 Benim adım gerçek’tir;
+
 Ben evrenin ele geçirilmez tek esiriyim.
  
-
-Çeviri : Şiirin Aslı :
+Çeviri : 
+Şiirin Aslı :
 
 Bülent KUMRAL

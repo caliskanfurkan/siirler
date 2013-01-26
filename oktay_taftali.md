@@ -1,6 +1,6 @@
-## Oktay TAFTALI
+# Oktay TAFTALI
 
-### Kan Geleneği
+## Kan Geleneği
 
 Bildiğim kadarıyla Anadolu kumdan ve camdan eskiydi
 soğuktu
@@ -40,7 +40,7 @@ ve hep anlıyordu
 
 Oktay TAFTALI
 
-### Pembe Aralık
+## Pembe Aralık
 
 sabaha karşıydık
 		ya da geceden yana biz
@@ -65,7 +65,7 @@ faili meçhul bir çocuğun
 
 Oktay TAFTALI
 
-### Sivil Aşk Yoktur
+## Sivil Aşk Yoktur
 
 Bu kentte senin yaşadığını bilmedim
 ne temizlikçi kadın söz etti, ne bekâr odam
@@ -98,7 +98,7 @@ bu kentte senin yaşadığını bilmedim yıllarca
 
 Oktay TAFTALI
 
-### Suların Durulduğu
+## Suların Durulduğu
   Yerde Yalnız Askerler
 
 Gamze Ongan için
@@ -150,7 +150,7 @@ yoksa benden geriye ne kalırdı öfkenin anlamında
 
 Oktay TAFTALI
 
-### Suni Denge
+## Suni Denge
 
 Hayatla ilgisi insanın
 		yaşını vurur yüzüne
@@ -166,7 +166,7 @@ herkes bir gün yetim kalır
 
 Oktay TAFTALI
 
-### Tahrip Tanesi
+## Tahrip Tanesi
 
 kimse gelmedi bu sabah, yalnız ben
 geçmiş uygarlıklardan sille tokat kovuldum

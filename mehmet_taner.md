@@ -1,6 +1,6 @@
-## Mehmet TANER
+# Mehmet TANER
 
-### 15 Nisan 1975
+## 15 Nisan 1975
 
 Yetinmiyorum acıyla. Sıvı güneş
 İçiyor gölgeleri, tümsek çukur ne varsa.
@@ -16,7 +16,7 @@ Burda, karşımda kaldı sonsuz olan.
 
 Mehmet TANER
 
-### Altı Satır
+## Altı Satır
 
 Bana dengeden söz edecekseniz
 Durun, bir kaya alayım yerden
@@ -29,7 +29,7 @@ Ama insandan söz edecekseniz
 
 Mehmet TANER
 
-### Ayrılıklar
+## Ayrılıklar
 
 Çelik gibi bir dil. Aydan bir kızıllık 
 Doğuyu karartan bulutlar içinde 
@@ -54,7 +54,7 @@ Soluğun yerine
 
 Mehmet TANER
 
-### Böğürtlen
+## Böğürtlen
 
 Kokumla yaşıyorum, dağ, orman kokuyorum ben 
 Çalı kokuyorum, ıssız bozkırlar kokuyorum, tren kokuyorum 
@@ -68,7 +68,7 @@ Sonsuz ve mutsuz olanı duyuyorum yalnız.
 
 Mehmet TANER
 
-### Derviş
+## Derviş
 
 Adam ansızın yolumu çeldi. Kolunu uzatıp 
 Çekti önüme yığdı sabahı 
@@ -83,7 +83,7 @@ Nereye gittiğimi bilmem ki
 
 Mehmet TANER
 
-### Dörtlük
+## Dörtlük
 
 Kapılıyım dağ gibi; uçarı, dağlar gibi
 Sönsün bir ateş sönsün, salgın aynalar gibi
@@ -92,7 +92,7 @@ Dönsün bir ateş, dönsün, gökte turnalar gibi
 
 Mehmet TANER
 
-### Geçen Yılın Eksik Gazeli
+## Geçen Yılın Eksik Gazeli
 
 Seni seviyorum, kalb çömleğimi al
 Kalbimin meyhanesini akşamla al
@@ -105,7 +105,7 @@ Geldim ışık içinde hırsızlama Al
 
 Mehmet TANER
 
-### Haraç
+## Haraç
 
 (Ey hiçlik! Bana bir 
 salgını çağrıştırıyorsun. 
@@ -132,7 +132,7 @@ sessizce siyaha sürerim tenhada yanımı
 
 Mehmet TANER
 
-### Hortlak Ve Neşteri
+## Hortlak Ve Neşteri
 
 Çık benim kana susamışlığım, "çık orta yere" 
 Geceye sokul, deş 
@@ -155,7 +155,7 @@ Var, susan denizlere.
 
 Mehmet TANER
 
-### İki Rübâi
+## İki Rübâi
 
 (Özlemle çekilmiş dizeden gül kanıyor
 Zülfün yoluyor sevgili, kâkül kanıyor
@@ -169,14 +169,14 @@ Hırsız -
 
 Mehmet TANER
 
-### İki Satır
+## İki Satır
 
 Acının ve mutluluğun
 Uyumuyum ben
 
 Mehmet TANER
 
-### Mis!
+## Mis!
 
 Mis gibi şeftalinin sırasıdır şimdi 
 Haziran maziran derken o da çıkacak 
@@ -187,7 +187,7 @@ Adım deliye çıkacak
 
 Mehmet TANER
 
-### Nisan Şiiri
+## Nisan Şiiri
 
 Seviyorum yıldızları, saçlarını, suyunu pınarların 
 Serin ilkbahar gecelerini. 
@@ -216,7 +216,7 @@ Gözlerin, çekik.
 
 Mehmet TANER
 
-### Poetika
+## Poetika
 
 Nasıl mı bir şiir,
 Yeryüzünü yürüyen burgaçlar gibi
@@ -248,7 +248,7 @@ Yüzüme taktım mı yüzüm kalan
 
 Mehmet TANER
 
-### Ruhumuzun Beyaz Alevi
+## Ruhumuzun Beyaz Alevi
 
 Kediler, bilirler, günlerimizin nasıl 
 Sessiz, sıkıntılı geçtiğini 
@@ -264,7 +264,7 @@ Yanan, mumu kollatırlar
 
 Mehmet TANER
 
-### Tekne
+## Tekne
 
 Şiir coşkun bir an'ı kucaklamak içindi 
 Yaşam da fırtınanın arayışı 
@@ -280,10 +280,11 @@ Ve yalnız kendi iniltisi
 
 Mehmet TANER
 
-### Yüzü Olan Halk
+## Yüzü Olan Halk
 
 "Ah bilirim de yolları
                        Varamam, Kurtuba' ya"
+
 
 Su arıtan halk,
 Yüze bakan: Yüzü olan halk.

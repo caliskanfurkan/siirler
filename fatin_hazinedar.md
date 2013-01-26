@@ -1,9 +1,24 @@
-## Fatin HAZİNEDAR
+# Fatin HAZİNEDAR
 
-### Kandan Adam
+## Kandan Adam
 
-Komutanların şarkı söyledikleriAncak içki masalarında görülürAma en güzel şarkı Nöbetinde korkmuş bir askerinİki dudağı arasındanDökülür
-Anadolu yüzlüdür kızları yurdumun Yürekleri devlet eli değmemişBirer dağ köyleridirEmrini beklemeden komutanımınAşık oldum ve yaktım gizliceBir köyünü Anadolu'nun
-Askerliğimiz ilk gününde dinlemiştimArkadaşlarımdan Bir kış akşamıNasıl korkupta kurşunladıklarınıKürt çocuklarının yaptığıKardan adamı
+Komutanların şarkı söyledikleri
+Ancak içki masalarında görülür
+Ama en güzel şarkı 
+Nöbetinde korkmuş bir askerin
+İki dudağı arasından
+Dökülür
+Anadolu yüzlüdür kızları yurdumun 
+Yürekleri devlet eli değmemiş
+Birer dağ köyleridir
+Emrini beklemeden komutanımın
+Aşık oldum ve yaktım gizlice
+Bir köyünü Anadolu'nun
+Askerliğimiz ilk gününde dinlemiştim
+Arkadaşlarımdan 
+Bir kış akşamı
+Nasıl korkupta kurşunladıklarını
+Kürt çocuklarının yaptığı
+Kardan adamı
 
 Fatin HAZİNEDAR

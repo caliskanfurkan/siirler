@@ -1,6 +1,6 @@
-## Abdülkadir BUDAK
+# Abdülkadir BUDAK
 
-### Ahşap Ruha Ten Giyinmek
+## Ahşap Ruha Ten Giyinmek
 
 Hiç bu kadar boğulmadım içimdeki bir gölde
 Sunu yazısı başlığı olacaktı kitabında
@@ -10,6 +10,7 @@ Ferit çünkü benziyordu parklara
 
 Bir parti marşının sözlerini yazmayı
 İsteyen bir adamdan kara bir cümle daha
+
 İçeriği boşaltılan bir anlamda yaşıyoruz
 Ten giyinmek zorundayız bu ahşap ruha
 
@@ -24,7 +25,7 @@ Dördümüzü bine böldün ve böylece azaldık
 
 Abdülkadir BUDAK
 
-### Aşk Beni Geçer
+## Aşk Beni Geçer
 
 Çünkü bacakları uzun, mesafe tanımıyor
 Çünkü rüzgârın atında, büyük deneyiminde
@@ -56,7 +57,7 @@ Tren rayların üstünden
 
 Abdülkadir BUDAK
 
-### Babam Ve Güz
+## Babam Ve Güz
 
 Başlık yanıltmasın sizi, babam yaza benzerdi
 Ama her zaman için güzden yaprak alacaklı
@@ -72,7 +73,7 @@ Aniden fırtına çıkar kayık dediğin batardı
 
 Abdülkadir BUDAK
 
-### Babam Ve Orman
+## Babam Ve Orman
 
 Bir kibrit çöpünün gücüne şaşılır hep
 Kavla buluştuğunda yok olur orman
@@ -82,7 +83,7 @@ Külün raporu istenir Abdülkadir Budak'tan
 
 Abdülkadir BUDAK
 
-### Düşmanımın Sayısı Üç
+## Düşmanımın Sayısı Üç
 
 Tabutuma ilk çiviyi kim çakar
 Doğrusu bunu merak etmiyorum da
@@ -103,7 +104,7 @@ Uğraştım, indiremedim sayıyı bire
 
 Abdülkadir BUDAK
 
-### Ev Zamanı
+## Ev Zamanı
 
 1.
 
@@ -141,7 +142,7 @@ Ama yolcu binemiyor bir kez daha trene
 
 Abdülkadir BUDAK
 
-### Genç Ozan
+## Genç Ozan
 
 - Bu Mecnun Leylâ'sını değişmedi çöl kumuna
 Önce Leylâ'nın Adıyla
@@ -169,10 +170,11 @@ Leylâ dedim, bildim şiir yazmayı
 
 Abdülkadir BUDAK
 
-### Hayatta Ben En Çok Annemi 
+## Hayatta Ben En Çok Annemi 
 	Sevdim
 
 Can Yücel'e nazire
+
 
 
             Ona göre baştan beri iflâh olmaz biriydim
@@ -201,7 +203,7 @@ O gün bugündür bana gülden önce gelir diken
 
 Abdülkadir BUDAK
 
-### İçimdeki Dansına Ara Verdi 
+## İçimdeki Dansına Ara Verdi 
 	İspanya
 
 Büyük Umutlar Caddesi'ndeki hiçbir ev benim değil
@@ -230,7 +232,7 @@ Taşla doldurulmuş bir kuyu göğsüm
 
 Abdülkadir BUDAK
 
-### İmzası Gül
+## İmzası Gül
 
 İmgeydi gül, kan sızdıran yerinde
 Bahçıvan ekmeği bançe düşleri
@@ -263,7 +265,7 @@ Güllerle örtüyor bir şair cesedini
 
 Abdülkadir BUDAK
 
-### Kadın Ve Nehir
+## Kadın Ve Nehir
 
 İkisi de sürükleyip götürüyor ne varsa
 Kadınla nehir arasında bir fark göremiyorum
@@ -308,7 +310,7 @@ Nehir eşittir kadın, kadın eşittir nehir
 
 Abdülkadir BUDAK
 
-### Kadın Ve Şehir
+## Kadın Ve Şehir
 
 Kara'ya bir denizden
 
@@ -346,7 +348,7 @@ Tel gidip keman dönsen
 
 Abdülkadir BUDAK
 
-### Kayseri Kayseri
+## Kayseri Kayseri
 
 Bana bir Kayseri bulun, kırık dalın ucundan
 Yere düşüp ezilmiş bir çiçeğe benzesin
@@ -374,7 +376,7 @@ Bana bir Kayseri bulun, gecikmeniz halinde...
 
 Abdülkadir BUDAK
 
-### Kırgın, Arkana Bakma
+## Kırgın, Arkana Bakma
 
 O şehrin salıncakları düşürdü çocukları
 İtfaiyecileri sözleştiler yangınla
@@ -405,7 +407,7 @@ Gitmek gelmiyor içimden büyüdüm artık
 
 Abdülkadir BUDAK
 
-### Kırmızı Kazağı Gülten Ablanın
+## Kırmızı Kazağı Gülten Ablanın
 
 Evet öyle, alevden bir çıkıntı
 Uzun bir alıntı belki destandan
@@ -445,7 +447,7 @@ Ateşi kıskandıran kırmızı bir kazağın
 
 Abdülkadir BUDAK
 
-### Muhteşem Ayıplar
+## Muhteşem Ayıplar
 
 Göğsümün yelkenini şişirecek bir rüzgâr
 Yüzüme çarpılacak bir kapı bulmalıyım
@@ -479,7 +481,7 @@ Karıştırmak zorundayım metal ile ahşabı
 
 Abdülkadir BUDAK
 
-### Sağlama
+## Sağlama
 
 Yalnızlık sessizlikte yapıyor sağlamasını
 Zehir sağlamasını yılanın çatal dilinde
@@ -503,7 +505,7 @@ Bütün yoksul çocuklar bisikletlerde
 
 Abdülkadir BUDAK
 
-### Sana Bakmak
+## Sana Bakmak
 
 Göğe bakmak gibi bir şeydi anlaşılan
 Açık mavi bir göğe, gündüz yıldızları olan
@@ -538,7 +540,7 @@ Sana bakmak iyi değil, pekiyi
 
 Abdülkadir BUDAK
 
-### Seni Beklemek
+## Seni Beklemek
 
 Yaralı Bağdat'ım, Amerika'nın
 Şefkatli kollarında; bakar mısın sen?
@@ -573,7 +575,7 @@ Sirenli Bağdat gecesi gecelerim
 
 Abdülkadir BUDAK
 
-### Sincan'da Bir Sokağın 
+## Sincan'da Bir Sokağın 
 	Balkondan Görünüşü
 
 Kendine bile açılmayan bahçenin kapısından
@@ -620,12 +622,13 @@ Ya bir perde çekilmiş ya da perde gözlerimde
 
 Abdülkadir BUDAK
 
-### Yanlış Anka Destanı
+## Yanlış Anka Destanı
 
 3.
 
 Uzun bir öyküdür, anlatanı bulunmalı
-Bir dizeyle özetlenir: Koklanmayan gül üşür
+Bir dizeyle özetlenir: 
+Koklanmayan gül üşür
 Ama açmalı onu, birazcık kanatmalı
 Şiiri, sevdayı içerir öykü
 Yolcu düşkünü hanları

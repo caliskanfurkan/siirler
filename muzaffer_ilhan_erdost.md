@@ -1,6 +1,6 @@
-## Muzaffer İlhan ERDOST
+# Muzaffer İlhan ERDOST
 
-### Biriken Güneş Gibi
+## Biriken Güneş Gibi
 
 1.	k a n ı n    g ü n c e l l i ğ i
 
@@ -166,7 +166,7 @@ bahar suları gibi akmış kanların
 
 Muzaffer İlhan ERDOST
 
-### Biz İkimiz İki Kardeş
+## Biz İkimiz İki Kardeş
 
 (Bir Fotoğraf Altı İçin)
 
@@ -231,7 +231,7 @@ Yürüyen kalabalığın içinden
 
 Muzaffer İlhan ERDOST
 
-### Güvercin Kayaları
+## Güvercin Kayaları
 
 Cemal Süreya'ya
 
@@ -267,7 +267,7 @@ Güvercinlerin gelip gittiği yerde
 
 Muzaffer İlhan ERDOST
 
-### İlhan'ın Son Beş Günü İçin Fotoğraflar
+## İlhan'ın Son Beş Günü İçin Fotoğraflar
 
 İlhan gelir Türküler'le
 Türküler'le biz elele
@@ -299,7 +299,7 @@ Gittin mi can gittin mi can
 
 Muzaffer İlhan ERDOST
 
-### Karlı Bir Günün Şiiri
+## Karlı Bir Günün Şiiri
 
 Gittin
 Uzaklara

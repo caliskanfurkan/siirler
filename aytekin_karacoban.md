@@ -1,6 +1,6 @@
-## Aytekin KARAÇOBAN
+# Aytekin KARAÇOBAN
 
-### Beaujon Hastanesi
+## Beaujon Hastanesi
 
 I 
 Göğsümde 
@@ -74,7 +74,7 @@ bir ada ve bir yığın esriklik!
 
 Aytekin KARAÇOBAN
 
-### Bilgisayar
+## Bilgisayar
 
 Tıraş bıçakları ikiye bölüyorlar sözcüklerimizi. 
 Kimin ağzından çıkıyoruz? Evren, şafağın 

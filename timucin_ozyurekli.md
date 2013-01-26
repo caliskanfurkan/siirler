@@ -1,6 +1,6 @@
-## Timuçin ÖZYÜREKLİ
+# Timuçin ÖZYÜREKLİ
 
-### Bir Gün Anlarsın
+## Bir Gün Anlarsın
 
 en güzel aşklar da biter
 kristal gözyaşları dökülür solgun yanaklara
@@ -31,7 +31,7 @@ bitmeyeni varsa da bedeli çok ağır ödenir...
 
 Timuçin ÖZYÜREKLİ
 
-### Buzdan Gözyaşları
+## Buzdan Gözyaşları
 
 hadi git artık, seni daha fazla özlemeden
 durma karış sokakların acımasız karanlığına
@@ -45,7 +45,7 @@ tırnaklarınla bıraktığın yaralar yeter bana...
 
 Timuçin ÖZYÜREKLİ
 
-### Fırtına Kuşları
+## Fırtına Kuşları
 
 şarkılar söylerdi efsunlu gözlerin geceye
 üşüsem sokulur sıcak bağrına yaslanırdım
@@ -64,7 +64,7 @@ yağmurla yıkanmış çınarların diplerinde
 
 Timuçin ÖZYÜREKLİ
 
-### Mevsim Sonbahar
+## Mevsim Sonbahar
 
 yağmur dindi, rüzgâr esmiyor
 mevsim sonbahar, aylardan eylül
@@ -96,7 +96,7 @@ hayat kadar uzak, ah sonbahar...
 
 Timuçin ÖZYÜREKLİ
 
-### Mor Hüzün
+## Mor Hüzün
 
 şafaklar kirli, göl suları bulanık
 çıkık yanakların ne zamandır çöl
@@ -135,7 +135,7 @@ olduğun yerde kal, ben giderim
 
 Timuçin ÖZYÜREKLİ
 
-### Sana Uzaktan
+## Sana Uzaktan
 
 sorularla gel bana sesin titremesin
 sana yalnızlığı anlatayım, ayrılıkları

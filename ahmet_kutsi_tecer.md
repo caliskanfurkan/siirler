@@ -1,6 +1,6 @@
-## Ahmet Kutsi TECER
+# Ahmet Kutsi TECER
 
-### Başbaşa
+## Başbaşa
 
 İşte bir vazoda açmış iki gül,
 İşte bir saksıda eşsiz kuşkonmaz.
@@ -19,7 +19,7 @@ Dışarda yepyeni bir kış, bir ayaz.
 
 Ahmet Kutsi TECER
 
-### Besbelli
+## Besbelli
 
 Besbelli ölümüm sabahleyindir
 İlk ışık korkuyla girerken camdan,
@@ -38,7 +38,7 @@ Eşyam bakakalsın diye arkamdan.
 
 Ahmet Kutsi TECER
 
-### Bir Toprak İşçisine
+## Bir Toprak İşçisine
 
 Sen omuzunda yorgan, elinde torban,
 Sen mevsim işçisi, büyük gezginci,
@@ -67,7 +67,7 @@ Sizin toprağınız size bu vatan.
 
 Ahmet Kutsi TECER
 
-### Çıngırak
+## Çıngırak
 
 Bir gün parmaklığa elin varmadan,
 Bir titreyiş gibi çalar çıngırak.
@@ -86,7 +86,7 @@ Gönlünden nedamet boşansın, bırak...
 
 Ahmet Kutsi TECER
 
-### İhtiyar Aşık
+## İhtiyar Aşık
 
 Yıllardan beridir ağaran teller,
 Bu akşam parıldar şakaklarında.
@@ -105,7 +105,7 @@ Bir kız ki ay ondan beyaz değildir.
 
 Ahmet Kutsi TECER
 
-### Keremin İlhamiyle
+## Keremin İlhamiyle
 
 Ne zaman düşünsem sizi titrerim,
 Yaslı dağlar, yüzü gülmeyen dağlar!
@@ -124,7 +124,7 @@ Gün battığı zaman sarp tepelerin
 
 Ahmet Kutsi TECER
 
-### Kır Uykusu
+## Kır Uykusu
 
 Ne hoştur kırlarda yazın uyumak!
 Bulutlar ufukta beyaz bir yumak,
@@ -141,7 +141,7 @@ Ne hoştur, ne hoştur kır uykuları!
 
 Ahmet Kutsi TECER
 
-### Nerdesin
+## Nerdesin
 
 Geceleyin bir ses böler uykumu,
 İçim ürpermeyle dolar:-Nerdesin?
@@ -160,7 +160,7 @@ Ta derinden, bir gün bana "Gel" desin.
 
 Ahmet Kutsi TECER
 
-### Orda Bir Köy Var Uzakta
+## Orda Bir Köy Var Uzakta
 
 Orda bir köy var, uzakta,
 O köy bizim köyümüzdür.
@@ -189,7 +189,7 @@ O yol bizim yolumuzdur.
 
 Ahmet Kutsi TECER
 
-### Tabiat Odam
+## Tabiat Odam
 
 Severim kırlarda ben yaşamayı,
 	On iki ayı.

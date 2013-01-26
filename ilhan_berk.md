@@ -1,6 +1,6 @@
-## İlhan BERK
+# İlhan BERK
 
-###  1919
+##  1919
 
 Ben dünyaya bir idare lambası altında geldim
 Yeryüzü Birinci Dünya Harbi'ni yaşıyordu
@@ -26,7 +26,7 @@ O gün ayağımın dibindeki şehirden ağlamayı öğrendim
 
 İlhan BERK
 
-###  Anlatılır Gibi Değil
+##  Anlatılır Gibi Değil
   Yası Çiçeklerin
 
 Karanfil
@@ -38,12 +38,14 @@ Her gün sen baktıktan sonra
 Bu kadar güzel
 Bu gökyüzü.
 
+
 Fesleğen
 
 Sen varken karanlık bilmez
 Hiçbir su.
 Hiçbir su
 Kaybolmaz.
+
 
 Sarı Çiğdem
 
@@ -53,6 +55,7 @@ Sevmeyi çalışmayı öğrendik
 Bir gün yası öğreneceğimizi
 Hiç bilmiyorduk.
 
+
 Defne
 
 Kimse ölümü övemez
@@ -60,6 +63,7 @@ Seni gördükten sonra
 Kulluğu
 Savaşı
 Güzel gösteremez.
+
 
 Lale
 
@@ -75,7 +79,7 @@ Hep ona bakarak geldik.
 
 İlhan BERK
 
-### Âşıkane
+## Âşıkane
 
 Geceye hey dedim Bir bulut beyaz aydınlık
 geçiyor ve ben görüyorum Belki yalnızlık
@@ -106,7 +110,7 @@ aşk Şimdi o şiirlerde senden kalan ancak
 
 İlhan BERK
 
-### Aşk
+## Aşk
 
 Sen varken kötü diye bir şey bilmiyorduk
 Mutsuzluklar, bu karalar yaşamada yoktu
@@ -119,7 +123,7 @@ Sen gel bizi yeni vakitlere çıkar.
 
 İlhan BERK
 
-### Ay
+## Ay
 
 Bir yalnız
 Gökyüzünün sözlüğünde.
@@ -128,7 +132,7 @@ Gökyüzünün sözlüğünde.
 
 İlhan BERK
 
-###  Ayrığın Yüreği
+##  Ayrığın Yüreği
 
 Sessiz sedasız yaşayan bir ayrık otuydu Orta Anadolu'da
 Kıtlıktan önce.
@@ -146,7 +150,7 @@ Hiçbir şeylere değişmem.
 
 İlhan BERK
 
-### Ben Senin Krallığın
+## Ben Senin Krallığın
   Ülkene Yetiştim
 
 Ben senin krallığın ülkene yetiştim
@@ -171,7 +175,7 @@ Dünyada sizinle İstanbul olmak varmış.
 
 İlhan BERK
 
-### Ben Uyandım Bir Aşk
+## Ben Uyandım Bir Aşk
   Demekti Bu Dünyada
 
 (Rondo)
@@ -198,7 +202,7 @@ Böyle uyanırdım ya uyanmak değildi
 
 İlhan BERK
 
-### Beyaz
+## Beyaz
 
 Milas'ta bir Turan Erol beyazı
 Bir çocuğun yüzünde.
@@ -207,7 +211,7 @@ Bir çocuğun yüzünde.
 
 İlhan BERK
 
-###  Bir Fenikeli
+##  Bir Fenikeli
 
 1
 Denizde boğulan o ilk Fenikelilerdendi.
@@ -231,7 +235,7 @@ Ben o zamanlar çocuktum ve çok fakirdim.
 
 İlhan BERK
 
-### Bir Kıyı Kahvesinde
+## Bir Kıyı Kahvesinde
 
 Gün ağmıştı. Adaçaylarımızı söylemiş miydik?
 Üç kişi bir köşede oturmuş ağ yamıyordu.
@@ -254,7 +258,7 @@ Dışarda bir dilim ekmek gibiydi gök.
 
 İlhan BERK
 
-### Bir Orman
+## Bir Orman
 
 Hanginiz aklınıza getirdiniz.
 Benim bir gün insanlığımı
@@ -302,7 +306,7 @@ Bilmişler bir daha ölmeyeceklerini
 
 İlhan BERK
 
-### Çıt
+## Çıt
 
 Çıt
 der
@@ -316,9 +320,9 @@ avluya düşen gölge
 
 İlhan BERK
 
-### Çok Yaşasın Sayılar'
+## Çok Yaşasın Sayılar'
 
-içimi.
+biçimi.
 Hiçbirine de benzemez.
 Bir
 	daire
@@ -337,39 +341,60 @@ alta.)
 		güzelliğini
 				düşünün!)
 
-3'ün güzelliği salt biçimden de gelmez: esrik doğmuştur.
+
+3
+'ün güzelliği salt biçimden de gelmez: esrik doğmuştur.
 Uzaktan da olsa etikçi (etik şeylerin sorunu değildir) olduğunu da söyleyebiliriz.
 Hazcı bir etikçi. Kaynağını aramaya çıkmış gibidir sevincin.
 Hiç mi hiç asmamıştır yüzünü.
-Hem sayılar içinde yalnız 3'ün canından söz edilebilir belki de.
+Hem sayılar içinde yalnız 
+3
+'ün canından söz edilebilir belki de.
 
-   'SAYILARIN CANI YOKTUR'
+   
+'SAYILARIN CANI YOKTUR'
 
-sonra da, güzel huyludur 3. Bu da yetmelidir bize.
+
+sonra da, güzel huyludur 
+3
+. Bu da yetmelidir bize.
 Ama sayıların gizli tarihçisi sevgi Borges'e yetmez bu.
-3'e 
-1'i de katarak 
-3 için özel bir varlık kütüğü de biçecektir.
-Varlık tutkunu Eskimolar da 3'ü belki de bu yüzden severler.
+
+3
+'e 
+1
+'i de katarak 
+3
+ için özel bir varlık kütüğü de biçecektir.
+Varlık tutkunu Eskimolar da 
+3
+'ü belki de bu yüzden severler.
 Eskimo dilinde üçten çoğu yoktur, yalnızca koca bir
+
 
 ÇOK
 
+
 vardır.
 Her şey üç ile ve çok'la biter.
-Dünya da 3 ile anlatılır.
-3 gelecektir hem.
+Dünya da 
+3
+ ile anlatılır.
+
+3
+ gelecektir hem.
 
 Büyük uzaklık!
-(Hem 3'le öğrenmedik mi biz uzaklığı?)
+(Hem 3
+'le öğrenmedik mi biz uzaklığı?)
 
                                                            çok yaşasın sayılar
 
 İlhan BERK
 
-### dan
+## dan
 
-içimi.
+biçimi.
 Hiçbirine de benzemez.
 Bir
 	daire
@@ -388,37 +413,58 @@ alta.)
 		güzelliğini
 				düşünün!)
 
-3'ün güzelliği salt biçimden de gelmez: esrik doğmuştur.
+
+3
+'ün güzelliği salt biçimden de gelmez: esrik doğmuştur.
 Uzaktan da olsa etikçi (etik şeylerin sorunu değildir) olduğunu da söyleyebiliriz.
 Hazcı bir etikçi. Kaynağını aramaya çıkmış gibidir sevincin.
 Hiç mi hiç asmamıştır yüzünü.
-Hem sayılar içinde yalnız 3'ün canından söz edilebilir belki de.
+Hem sayılar içinde yalnız 
+3
+'ün canından söz edilebilir belki de.
 
-   'SAYILARIN CANI YOKTUR'
+   
+'SAYILARIN CANI YOKTUR'
 
-sonra da, güzel huyludur 3. Bu da yetmelidir bize.
+
+sonra da, güzel huyludur 
+3
+. Bu da yetmelidir bize.
 Ama sayıların gizli tarihçisi sevgi Borges'e yetmez bu.
-3'e 
-1'i de katarak 
-3 için özel bir varlık kütüğü de biçecektir.
-Varlık tutkunu Eskimolar da 3'ü belki de bu yüzden severler.
+
+3
+'e 
+1
+'i de katarak 
+3
+ için özel bir varlık kütüğü de biçecektir.
+Varlık tutkunu Eskimolar da 
+3
+'ü belki de bu yüzden severler.
 Eskimo dilinde üçten çoğu yoktur, yalnızca koca bir
+
 
 ÇOK
 
+
 vardır.
 Her şey üç ile ve çok'la biter.
-Dünya da 3 ile anlatılır.
-3 gelecektir hem.
+Dünya da 
+3
+ ile anlatılır.
+
+3
+ gelecektir hem.
 
 Büyük uzaklık!
-(Hem 3'le öğrenmedik mi biz uzaklığı?)
+(Hem 3
+'le öğrenmedik mi biz uzaklığı?)
 
                                                            çok yaşasın sayılar
 
 İlhan BERK
 
-### Delta
+## Delta
 
 eltaya indiler o eskiden saçları uzayan kadınlar
 	kelt uzun egemenlikleri kuzeyuç egemenlikleri / uygarlık
@@ -426,7 +472,9 @@ tecim gerisinde ve kayser gerisinde o denizlere,  lu   devletinden
 bayan wen-ciang'ın güzel uzaklığının mercurus göğüne/o benim
 dediğim
 
-göğün sarayı çarşılara///en çok oralara, yahudiyeye xo kuşların
+göğün sarayı çarşılara///en çok oralara, yahudiyeye 
+x
+o kuşların
 çizili   uçtuğu göğe, kuzeyuca/ çok geçmeden  de   bizim buralara
 döndüler
 	bizim buralarda bir yağmur bırakırdım   //  o bir deniz gibi
@@ -438,7 +486,9 @@ duran şimdi bizim kayserimiz minos'a,
 			sonra büyük kargaşalıklar çıktı
 
 
+
 ,
+
 
 
 
@@ -463,7 +513,7 @@ sabahlara kadar ben
 
 İlhan BERK
 
-### Deniz Kitabı
+## Deniz Kitabı
 
 VI
 
@@ -488,7 +538,7 @@ Sonra birden kâğıda kaleme sarılıyorum.
 
 İlhan BERK
 
-### Dün Dağlarda Dolaştım
+## Dün Dağlarda Dolaştım
   Evde Yoktum
 
 Güneş cebimde bir bulut peydahladı. Taş, kördür diye yazdım. Ölüm, geleceksiz.
@@ -513,7 +563,7 @@ budur.
 
 İlhan BERK
 
-### Eğreltiotu
+## Eğreltiotu
 
 Hoşça kal, dedi, eğreltiotu, hoşça kal!
 
@@ -529,7 +579,7 @@ Hoşça kal, dedi, eğreltiotu, hoşça kal!
 
 İlhan BERK
 
-### Gökyüzü
+## Gökyüzü
 
 Manzara uyanır doğrular kendini
 Neden sonra gökyüzü gelir
@@ -541,7 +591,7 @@ Aynasını tutar.
 
 İlhan BERK
 
-### Gül I
+## Gül I
 
 İzmir'e götürüyorum bir gülü
 Sarı bir gülü.
@@ -550,7 +600,7 @@ Sarı bir gülü.
 
 İlhan BERK
 
-###  Gül II
+##  Gül II
 
 -Bu cadde nereye çıkıyor?
 Bir güle bakıp böyle diyorum.
@@ -559,7 +609,7 @@ Bir güle bakıp böyle diyorum.
 
 İlhan BERK
 
-###  Güneşi Yakanların Selâmı
+##  Güneşi Yakanların Selâmı
 
 Bir zevk duyulmaz oldu, buranın rüzgârlarından
 Hayat soldu bir günün enginlerinde yine.
@@ -585,7 +635,7 @@ Selâm, güneşi, göğü yakanlar bahçesinde!...
 
 İlhan BERK
 
-### Güzel Irmak
+## Güzel Irmak
 
 Küçüğüm, bu senin sesin, güzel ırmak
 Önce rüzgârın öptüğü, sonra benim öptüğüm
@@ -605,7 +655,7 @@ Karışıyor, korkunç, ellerimiz ayaklarımız
 
 İlhan BERK
 
-### Hacı Bektaş Veli
+## Hacı Bektaş Veli
 
 Bir resimde bağdaş kurmuş oturuyor Hacı Bektaş Veli. Evi gibi
 	yeryüzü.
@@ -635,7 +685,7 @@ Yanında yeryüzü: Ağaçlar, sular, gök. Her sabah okuduğu.
 
 İlhan BERK
 
-### Han Yü Yazıtı
+## Han Yü Yazıtı
 
 Bir Çin erkeni yaşadığım evin üstündeki gök.
 Hey, sıkıntının pencereleri! Beyazsakal. Sığınaklara girin!
@@ -657,7 +707,7 @@ Baskıyı yazacağım.
 
 İlhan BERK
 
-### Haziran
+## Haziran
 
 My love is like a red, red rose (e.e.cummings)
 
@@ -680,7 +730,7 @@ Güzelliğinizin. Kırmızı. Korkunç.
 
 İlhan BERK
 
-### Hikâye
+## Hikâye
 
 Her şey bir gece içinde oldu
 Sabahleyin her şey tamamdı.
@@ -737,7 +787,7 @@ Her şey yerini alıyordu sırası geldikçe
 
 İlhan BERK
 
-### İhtiyarintiharırmak
+## İhtiyarintiharırmak
 
 Kalıyordum artık ölümden konuşacaktık / Kalıyordu bir si-
 yah bir 3.
@@ -796,7 +846,7 @@ Gökyüzüne indim.
 
 İlhan BERK
 
-### İlya Avgiri'nin Karısının
+## İlya Avgiri'nin Karısının
   Acı Türküsü
 
 Benim günlerim Soğanağa'da geçti
@@ -827,7 +877,7 @@ Bunların biri olmazdı benim zamanımda
 
 İlhan BERK
 
-### İstanbul'dan
+## İstanbul'dan
 
 İşte kurşun kubbeler şehri İstanbul'dasın
 Havada kaçan bulutların hışırtısı
@@ -891,7 +941,7 @@ Dokunsanız ağlayacaklardır
 
 İlhan BERK
 
-### Karahisari
+## Karahisari
 
 Karahisari altınlı besmelesini yazıyor. Kamış bir kalemle.
 	Yatık duruyor bir kalemtraş. Gümüş kakmalı, hattati ve imzalı.
@@ -916,7 +966,7 @@ Nesih hattıyla.
 
 İlhan BERK
 
-### Kayıp Oğlunu Arayan
+## Kayıp Oğlunu Arayan
   Bir Baba İçin Şiir
 
 'Bu oğlan, dedi, daha ne kadar kaçacak?
@@ -938,7 +988,7 @@ Sustuk biz de,
 
 İlhan BERK
 
-### Kızılırmak
+## Kızılırmak
 
 7 Ekim 1951
 Bir soğuk, bir karanlık, bir ıssız geceydi
@@ -952,7 +1002,7 @@ Türkü söyledik.
 
 İlhan BERK
 
-### Koro
+## Koro
 
 İşte açık, korkunç uzun beyazlığım,
 Deli öpüşüne, ey benim göklerim!
@@ -973,7 +1023,7 @@ Kapanık kapanık beyazlığım bana,
 
 İlhan BERK
 
-### Ne Böyle Sevdalar Gördüm
+## Ne Böyle Sevdalar Gördüm
 
 "NE BÖYLE SEVDALAR GÖRDÜM
 NE BÖYLE AYRILIKLAR"
@@ -998,7 +1048,7 @@ Daha bir seviyorum dağları.
 
 İlhan BERK
 
-### Nigâri
+## Nigâri
 
 Nigâri, bir kâğıdı bir kalemi sevdi. Padişahları gördü Gala-
 ta'dan. II. Selim'le ava çıktı.
@@ -1050,13 +1100,14 @@ Giriyordur.
 
 Sıkılıyordur bir kalem bir fırça bir kâğıt.
 
+
 *Yavuz Sultan Selim sıkılgandı. İstanbul'a gizlice girdi. Okurken gözlük takardı.
 
                                                                                şenlikname
 
 İlhan BERK
 
-### Ölü Bir Ozanın Sevgili
+## Ölü Bir Ozanın Sevgili
   Karısını
 
 ÖLÜ BİR OZANIN SEVGİLİ KARISINI 
@@ -1084,7 +1135,7 @@ Alınmış gibi bir bulutun yer değiştirmesinden.
 
 İlhan BERK
 
-### Otağ
+## Otağ
 
 Sevgilim, işte eylül
 Ve işte senin usul usul seğiren yüzün.
@@ -1105,7 +1156,7 @@ Sürekli bir akşam hüznü vardır.
 
 İlhan BERK
 
-### Ozan ve Sesler
+## Ozan ve Sesler
 
 Her gün böyle gelip dünyadaki yerini alıyor.
 'Zor olan, diyor, şiirin hayatını yaşamaktır.
@@ -1127,7 +1178,7 @@ Böyle bütün gün sesleri dinleyip
 
 İlhan BERK
 
-### Paul Klee'de Uyanmak
+## Paul Klee'de Uyanmak
 
 Uyanmak çiçek gibi dayanılmaz güzel kızlar
 Ad Marginem'den asma köprüler kurmuşlar İstanbul'a
@@ -1149,7 +1200,7 @@ A'lar V'ler U'larla olmak Paul Klee'de uyanmak
 
 İlhan BERK
 
-### Pipo
+## Pipo
 
 Pipo üstüne kimler kitaplar
 yazmıştır, bilmiyorum. Daha çok aksoylu, şato adamı, ihtiyar bir İngilizden
@@ -1207,7 +1258,7 @@ işte bütün bu huyları için severim. Benim gibi birine dayandığı için.
 
 İlhan BERK
 
-### Resim
+## Resim
 
 Resim gibiydi, hoş çakal, hoş tilki!
 
@@ -1220,7 +1271,7 @@ Resim gibiydi, hoş çakal, hoş tilki!
 
 İlhan BERK
 
-### Rüzgâr
+## Rüzgâr
 
 Bir rüzgâr ilk başında belli
 Gökyüzünü çocukları büyütmüş
@@ -1246,7 +1297,7 @@ Köroğlu'nda asıl yerini bulmuş.
 
 İlhan BERK
 
-### Saint-Antoine'in Güvercinleri
+## Saint-Antoine'in Güvercinleri
 
 I.Eleni'nin Elleri
 
@@ -1275,6 +1326,7 @@ Deniz niçin başını alıp gitmiş onunla anlıyoruz.
 
 Bir gün Eleni'nin elleri geliyor
 Bir sokaktan ilk defa deniz görünüyor.
+
 
 II.Gençlik
 
@@ -1340,7 +1392,7 @@ Gülhane ağaçlık.
 
 İlhan BERK
 
-### Siz Ne Güzeldiniz
+## Siz Ne Güzeldiniz
   Benimle Bilemezsiniz
 
 Siz ne güzeldiniz benimle bilemezsiniz
@@ -1365,7 +1417,7 @@ Bayılırsınız bir rüzgâr oynatsam ülkemden.
 
 İlhan BERK
 
-### Son Yerine
+## Son Yerine
 
 Zulmün her türlüsü
 Kötü kardeşler
@@ -1384,7 +1436,7 @@ Zulmün her türlüsü kötü.
 
 İlhan BERK
 
-### Su Günleri,I 
+## Su Günleri,I 
 
 Su
 
@@ -1401,7 +1453,7 @@ avluya düşen gölge
 
 İlhan BERK
 
-### Su Günleri,II
+## Su Günleri,II
 
 Ben
 
@@ -1417,7 +1469,7 @@ avluya düşen gölge
 
 İlhan BERK
 
-### Su Günleri,III
+## Su Günleri,III
 
 Çakıltaşı
 
@@ -1433,7 +1485,7 @@ avluya düşen gölge
 
 İlhan BERK
 
-###  Sunu
+##  Sunu
 
 Ben bütün çizgilerde oldum bütün o çizgilerde
 Her sefer böyle geldi vurdu yaşamama bir deniz
@@ -1446,7 +1498,7 @@ Bir deniz size de gelir vurur elbet anlarsınız
 
 İlhan BERK
 
-###  Tarih
+##  Tarih
 
 Neler çekmiş halkım
 Türküler şahit.
@@ -1455,7 +1507,7 @@ Türküler şahit.
 
 İlhan BERK
 
-### 
+## 
   Teşekkür
 
 Evet hep açık gidip gelen ağzın içindi;
@@ -1474,7 +1526,7 @@ Saçında uykusu kaçmış çiçekler ıslattığın içindi;
 
 İlhan BERK
 
-### Troya'da Siz Sözü Güzeldi
+## Troya'da Siz Sözü Güzeldi
   Eskiden
 
 Troya'da siz sözü güzeldi eskiden
@@ -1499,7 +1551,7 @@ Bir sesim ben git git o binlerce yıldır.
 
 İlhan BERK
 
-### Türkiye Şarkısı
+## Türkiye Şarkısı
 
 Senin üstündedir
 Ne varsa yalnızlık, fakirlik namına
@@ -1564,7 +1616,7 @@ Devam etmektir yaşamaya.
 
 İlhan BERK
 
-### U
+## U
 
 İstanbul'da kadınlar uzun boylu
 U gibi güzel.
@@ -1574,12 +1626,13 @@ U gibi güzel.
 
 İlhan BERK
 
-### Üç Kez Seni Seviyorum Diye
+## Üç Kez Seni Seviyorum Diye
   Uyandım
 
 Üç kez seni seviyorum diye uyandım
 Tuttum sonra çiçeklerin suyunu değiştirdim
 Bir bulut başını almış gidiyordu görüyordum.
+
 
 Sabahın bir yerinden düşmüş gibiydi yüzün.
 
@@ -1587,11 +1640,13 @@ Sokağı balkonları yarım kalmış bir şiiri teptim
 Sıkıldım yemekler yaptım kendime otlar kuruttum
 -Taflanım! diyordu bir ses duyuyordum.
 
+
 Cumhuriyetin ilk günleri gibiydi yüzün.
 
 Kalktım sonra bir aşağı bir yukarı dolaştım
 Şiirler okudum şiirlerdeki yaşa geldim
 Karanfil sakız kokan soluğunu üstümde duydum.
+
 
 Eskitiyorum eskitiyorum kalıyor ne kadar güzel olduğun.
 
@@ -1599,7 +1654,7 @@ Eskitiyorum eskitiyorum kalıyor ne kadar güzel olduğun.
 
 İlhan BERK
 
-### Üç Servi
+## Üç Servi
 
 Yol boyu üç servi,
 Demek ki Levni geçmiş buralardan.
@@ -1608,7 +1663,7 @@ Demek ki Levni geçmiş buralardan.
 
 İlhan BERK
 
-### Yavaş Yavaş Geçtim
+## Yavaş Yavaş Geçtim
 
 YAVAŞ YAVAŞ GEÇTİM KALABALIKLARIN
 ARASINDAN
@@ -1633,7 +1688,7 @@ kalabalıklaştım böylece.
 
 İlhan BERK
 
-### Yazıt,I
+## Yazıt,I
 
 İşte A, D, Z, saçın gecesi,
 Geç evim, ey benim eski zaman ırmağım.
@@ -1651,7 +1706,7 @@ Vardır ölümün büyük evleri çıkarsınız.
 
 İlhan BERK
 
-### Yazıt,II
+## Yazıt,II
 
 Bir ilk çağıydı göğünün dünyada
 Ben geldim senin som akşamını açtım.
@@ -1669,7 +1724,7 @@ Kuşlarım askerlerim hiyerogliflerim.
 
 İlhan BERK
 
-###  Yeryüzü
+##  Yeryüzü
 
 -Ne yapıyorsun?
 Yeryüzünün yaşına çalışıyorum.
@@ -1678,7 +1733,7 @@ Yeryüzünün yaşına çalışıyorum.
 
 İlhan BERK
 
-### Yoldan Geçen Biri
+## Yoldan Geçen Biri
 
 Bir kırlangıç bir su birikintisi bir parça gök.
 Bir şiirden düşmüş olmalı bunlar.

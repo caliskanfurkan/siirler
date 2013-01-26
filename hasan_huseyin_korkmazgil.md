@@ -1,6 +1,6 @@
-## Hasan Hüseyin KORKMAZGİL
+# Hasan Hüseyin KORKMAZGİL
 
-### YAŞAMI
+## YAŞAMI
 
 (1927 Gürün - 26 Şubat 1984 Ankara) 
 Adana Erkek Lisesi (1948), Ankara Gazi Eğitim Enstitüsü (1950) mezunu.
@@ -17,7 +17,7 @@ Fırtınası (1981) ile 1981 Toprak ve Nevzat Üstün şiir ödüllerini aldı.
 
 Hasan Hüseyin KORKMAZGİL
 
-### Acıyı Bal Eyledik
+## Acıyı Bal Eyledik
 
 Acıyı Bal Eyledik,
 , Bilgi 
@@ -25,7 +25,7 @@ Yayınevi, Ekim 1973
 
 Hasan Hüseyin KORKMAZGİL
 
-### Oğlak
+## Oğlak
 
 Oğlak,
 , Bilgi 
@@ -33,7 +33,7 @@ Yayınevi, Ekim 1972
 
 Hasan Hüseyin KORKMAZGİL
 
-### Kızılırmak
+## Kızılırmak
 
 Kızılırmak,
 , Bilgi 
@@ -41,14 +41,14 @@ Yayınevi, Ekim 1966
 
 Hasan Hüseyin KORKMAZGİL
 
-### Temmuz Bildirisi
+## Temmuz Bildirisi
 
 Temmuz Bildirisi, , Bilgi 
 Yayınevi, Ekim 1965
 
 Hasan Hüseyin KORKMAZGİL
 
-### Kelepçemin Karasında Bir Ak Güvercin
+## Kelepçemin Karasında Bir Ak Güvercin
 
 Kelepçemin Karasında Bir Ak Güvercin,
 , Bilgi 
@@ -56,7 +56,7 @@ Yayınevi, Ekim 1974
 
 Hasan Hüseyin KORKMAZGİL
 
-### Ağlasun Ayşafağı
+## Ağlasun Ayşafağı
 
 Ağlasun Ayşafağı,
 , Bilgi 
@@ -64,7 +64,7 @@ Yayınevi, Ekim 1972
 
 Hasan Hüseyin KORKMAZGİL
 
-### Koçero Vatan Şiiri
+## Koçero Vatan Şiiri
 
 Kızılkuğu,
 , Bilgi 
@@ -72,34 +72,34 @@ Yayınevi, Ekim 1971
 
 Hasan Hüseyin KORKMAZGİL
 
-### Haziranda Ölmek Zor
+## Haziranda Ölmek Zor
 
 Haziranda Ölmek Zor, , Bilgi 
 Yayınevi, Ekim 1977
 
 Hasan Hüseyin KORKMAZGİL
 
-### Filizkıran Fırtınası
+## Filizkıran Fırtınası
 
 Filizkıran Fırtınası, , Bilgi 
 Yayınevi, Ekim 1981
 
 Hasan Hüseyin KORKMAZGİL
 
-### Acılara Tutunmak
+## Acılara Tutunmak
 
 
 
 Hasan Hüseyin KORKMAZGİL
 
-### Işıklarla Oynamayın
+## Işıklarla Oynamayın
 
 Işıklarla Oynamayın, , Bilgi 
 Yayınevi, Ekim 1982
 
 Hasan Hüseyin KORKMAZGİL
 
-### Kavel
+## Kavel
 
 Kavel,
 , Bilgi 
@@ -107,7 +107,7 @@ Yayınevi, Ekim 1963
 
 Hasan Hüseyin KORKMAZGİL
 
-### Kızılkuğu
+## Kızılkuğu
 
 Kızılkuğu,
 , Bilgi 
@@ -115,21 +115,21 @@ Yayınevi, Ekim 1971
 
 Hasan Hüseyin KORKMAZGİL
 
-### Kandan Kına Yakılmaz
+## Kandan Kına Yakılmaz
 
 Kandan Kına Yakılmaz, , Bilgi 
 Yayınevi, Ekim 1985
 
 Hasan Hüseyin KORKMAZGİL
 
-### Tohumlar Tuz İçinde
+## Tohumlar Tuz İçinde
 
 Tohumlar Tuz İçinde, , Bilgi 
 Yayınevi, Ekim 1988
 
 Hasan Hüseyin KORKMAZGİL
 
-### Acılara Tutunmak
+## Acılara Tutunmak
 
 acı çekmek özgürlükse
        özgürdük ikimiz de
@@ -181,7 +181,7 @@ acı çekmek özgürlükse
 
 Hasan Hüseyin KORKMAZGİL
 
-### Acıyı Bal Eyledik
+## Acıyı Bal Eyledik
 
 bak şu bebelerin güzelliğine 
                     kaşı destan 
@@ -237,7 +237,7 @@ kör olma da
 
 Hasan Hüseyin KORKMAZGİL
 
-### Akarsuya Bırakılan Mektup
+## Akarsuya Bırakılan Mektup
 
 incecikti
             gül dalıydı
@@ -262,7 +262,7 @@ gitme, sonbahar oluyorum, sonrası hiç
 
 Hasan Hüseyin KORKMAZGİL
 
-### Amenna
+## Amenna
 
 'Yaşayanlar bir gün ölür'
                           elbette
@@ -305,125 +305,245 @@ yaprak döker biryanımız
 
 Hasan Hüseyin KORKMAZGİL
 
-### Benden Bilmeyin
+## Benden Bilmeyin
 
-BENDEN BİLMEYİN 
-istanbul'da bir fabrikafabrikayı ben koymadım orayaben diyorum ki size                 
-istanbul'da bir fabrika 
-fabrikayı işçiler çalıştırırişçileri bir milyonerben diyorum ki size                 
-fabrikayı işçiler çalıştırır 
-grev gittikçe büyüyorgrevi ben istemiyorum    ben diyorum ki size                
-grev gittikçe büyüyor 
-bini boşaldıkça biri doluyorbinini ben boşaltmıyoum    ben diyorum ki size                
-bini boşaldıkça biri doluyor 
-bu düzen beyler düzenibu düzeni ben yapmadımben diyorum ki size                
-bu düzen beyler düzeni 
-ortalık gitgide karışıyorortalığı karıştıran ben değilimben diyorum ki size                
-ortalık gitgide karışıyor 
-birgün kıyamet koparsakıyamet kopsun istemiyorumben diyorum ki size                
-birgün kıyamet koparsa 
-gençler kuytularda öpüşüyorlarmarulun vakti geçtişimdi karpuzlar kızaracakardından fındık fıstıkardından ayvaayvayı sarartan ben değilimben diyorum ki size                
-gençler kuytularda öpüşüyorlar                
+BENDEN BİLMEYİN
+ 
+istanbul'da bir fabrika
+fabrikayı ben koymadım oraya
+ben diyorum ki size
+                 
+istanbul'da bir fabrika
+ 
+fabrikayı işçiler çalıştırır
+işçileri bir milyoner
+ben diyorum ki size
+                 
+fabrikayı işçiler çalıştırır
+ 
+grev gittikçe büyüyor
+grevi ben istemiyorum
+    ben diyorum ki size
+                
+grev gittikçe büyüyor
+ 
+bini boşaldıkça biri doluyor
+binini ben boşaltmıyoum
+    ben diyorum ki size
+                
+bini boşaldıkça biri doluyor
+ 
+bu düzen beyler düzeni
+bu düzeni ben yapmadım
+ben diyorum ki size
+                
+bu düzen beyler düzeni
+ 
+ortalık gitgide karışıyor
+ortalığı karıştıran ben değilim
+ben diyorum ki size
+                
+ortalık gitgide karışıyor
+ 
+birgün kıyamet koparsa
+kıyamet kopsun istemiyorum
+ben diyorum ki size
+                
+birgün kıyamet koparsa
+ 
+gençler kuytularda öpüşüyorlar
+marulun vakti geçti
+şimdi karpuzlar kızaracak
+ardından fındık fıstık
+ardından ayva
+ayvayı sarartan ben değilim
+ben diyorum ki size
+                
+gençler kuytularda öpüşüyorlar
+                
 ayvanın vakti
 
 Hasan Hüseyin KORKMAZGİL
 
-### Filizkıran Fırtınası
+## Filizkıran Fırtınası
 
 FİLİZKIRAN FIRTINASI
-gün doğmadan başladı filizkıran fırtınasıevler yemen türküsü            
-sokaklar seferberliköyle bir gariplik ki               
-öyle bir tedirginlikyaz başında güz sonrası
-ayvalar çiçekteydi       güller daha tomurcukaçıl demişti güneş      açılmıştı kıraçta kış elmalarıçözül demişti güneş       çözülmüştü yılanlar karanlık
-odalarındadallarda yuvalar tüy kokuyordu       düğünçiçekleri şenlikli 
-gün doğmadan başladı filizkıran fırtınasıne dal kaldı ne tomurcukyerden yere çaldı otları ağaçları             
-insan yüzlü bir korkuluküşüdüm dünyalarca       baskın yemiş bir kent gibi
-üşüdümsergen etti filizleri sapsarı bir karanlık             
-bahardan kışa düştüm 
-acılı günler gördümsığdıramam bir tek günü bir koca yılageceler geçirdim yoz kentlerin bulvarlarında              
-nice baharları kışlara gömdümuzak düştüm yelinden yelvesinden acılı yurdunuzak düştüm umudundan mutundan               
-yomundan uzak düştümbunaltının böylesini görmedim 
-severim fırtınanın her türlüsünüormanlar uğultulu sular dalgalıseverim filizkıran fırtınası'nı        kırıp kanatmıyorsa sevincin
-türküsününerde benim baharım              
-dalım yaprağım nerdegece çökmüş üstüne kerpiçsel yalnızlığın       sanki kaplan pençesinde bir
-manda böğürtüsüne kuş kalmış ne çiçekne kırmızı ne yeşilsapsarı karanlıkta yerler bahar ölüsü 
+gün doğmadan başladı filizkıran fırtınası
+evler yemen türküsü
+            
+sokaklar seferberlik
+öyle bir gariplik ki
+               
+öyle bir tedirginlik
+yaz başında güz sonrası
+ayvalar çiçekteydi
+       güller daha tomurcuk
+açıl demişti güneş
+      açılmıştı kıraçta kış elmaları
+çözül demişti güneş
+       çözülmüştü yılanlar karanlık
+odalarında
+dallarda yuvalar tüy kokuyordu
+       düğünçiçekleri şenlikli
+ 
+gün doğmadan başladı filizkıran fırtınası
+ne dal kaldı ne tomurcuk
+yerden yere çaldı otları ağaçları
+             
+insan yüzlü bir korkuluk
+üşüdüm dünyalarca
+       baskın yemiş bir kent gibi
+üşüdüm
+sergen etti filizleri sapsarı bir karanlık
+             
+bahardan kışa düştüm
+ 
+acılı günler gördüm
+sığdıramam bir tek günü bir koca yıla
+geceler geçirdim yoz kentlerin bulvarlarında
+              
+nice baharları kışlara gömdüm
+uzak düştüm yelinden yelvesinden acılı yurdun
+uzak düştüm umudundan mutundan
+               
+yomundan uzak düştüm
+bunaltının böylesini görmedim
+ 
+severim fırtınanın her türlüsünü
+ormanlar uğultulu sular dalgalı
+severim filizkıran fırtınası'nı
+        kırıp kanatmıyorsa sevincin
+türküsünü
+nerde benim baharım
+              
+dalım yaprağım nerde
+gece çökmüş üstüne kerpiçsel yalnızlığın
+       sanki kaplan pençesinde bir
+manda böğürtüsü
+ne kuş kalmış ne çiçek
+ne kırmızı ne yeşil
+sapsarı karanlıkta yerler bahar ölüsü
+ 
+
  
                                                                               
 1978
 
 Hasan Hüseyin KORKMAZGİL
 
-### Haziranda Ölmek Zor
+## Haziranda Ölmek Zor
 
 orhan kemal'in güzel anısına 
+
   
 
 
 işten çıktım 
+
 sokaktayım 
+
         elim yüzüm üstümbaşım
 gazete 
+
   
 
 
 sokakta tank paleti 
+
 sokakta düdük sesi 
+
 sokakta tomson 
+
         sokağa çıkmak yasak 
+
   
 
 
 sokaktayım 
+
 gece leylâk 
+
        ve tomurcuk kokuyor 
+
 yaralı bir şahin olmuş yüreğim 
+
 uy anam anam 
+
 haziranda ölmek zor! 
+
   
 
 
 havada tüy 
+
 havada kuş 
+
 havada kuş soluğu kokusu 
+
 hava leylâk 
+
        ve tomurcuk kokuyor 
+
 ne anlar acılardan/güzel haziran 
+
 ne anlar güzel bahar! 
+
 kopuk bir kol sokakta 
+
              
 çırpınıp durur 
+
   
 
 
 çalışmışım onbeş saat 
+
 tükenmişim onbeş saat 
+
 acıkmışım yorulmuşum uykusamışım 
+
 anama sövmüş patron 
+
        ter döktüğüm gazetede 
+
 sıkmışım dişlerimi 
+
 ıslıkla söylemişim umutlarımı 
+
             
 susarak söylemişim 
+
 sıcak bir ev özlemişim 
+
 sıcak bir yemek 
+
 ve sıcacık bir yatakta 
+
             
 unutturan öpücükler 
+
 çıkmışım bir kavgadan 
+
                    
 vurmuşum sokaklara 
+
   
 
 
 sokakta tank paleti 
+
 sokakta düdük sesi 
+
 sarı sarı yapraklarla birlikte sanki 
+
             
 dallarda insan iskeletleri 
+
   
 
 
 asacaklar aydemir'i 
+
 asacaklar gürcan'ı 
 
        belki başkalarını 
@@ -785,7 +905,6 @@ haziranda ölmek zor!
  
 
  
-
                                                                       
 
  
@@ -807,80 +926,136 @@ bu işi. "El elden üstündür, taa arşa kadar" demiş eskiler.
 
 Hasan Hüseyin KORKMAZGİL
 
-### Işıklarla Oynamayın
+## Işıklarla Oynamayın
 
-IŞIKLARLA OYNAMAYIN 
-
-
-başımı döndürüp bakamıyorumnasıl kaldı gerilerde onca yıl 
+IŞIKLARLA OYNAMAYIN
+ 
 
 
-karanlık bir gömütlüğü düşte geçmiş gibiyimtatmadığım bir içkiyi bir akşam             
-afrikasal bir törende içmiş gibiyimbirdenbire kan yağmurlu bir bulutbirdenbire kan kokulu bir duman           şaşkınlıktan
-gemileri yakmış gibiyim 
+başımı döndürüp bakamıyorum
+nasıl kaldı gerilerde onca yıl
+ 
 
 
-ışıklarla oynamayın / dedim ben sizeyararı yok karanlıkta sürek avının                                  
-dedim ben sizeyanlış kalemlere kayar elleri yazıcılarıntutanaklar yanlış yazar                                 
-dedim ben size 
+karanlık bir gömütlüğü düşte geçmiş gibiyim
+tatmadığım bir içkiyi bir akşam
+             
+afrikasal bir törende içmiş gibiyim
+birdenbire kan yağmurlu bir bulut
+birdenbire kan kokulu bir duman
+           şaşkınlıktan
+gemileri yakmış gibiyim
+ 
 
 
-karanlığı az kullanın / kirliler kokar birgünbirgün yanar bu ışıklar sırıtır suratlarınızkirlilere sığınmayın / dedim ben sizeyararı yok oynaşmanın törensel aklıklardakaçın kaçabilirseniz uzak sularaışıklarla oynamayın / dedim ben size
+ışıklarla oynamayın / dedim ben size
+yararı yok karanlıkta sürek avının
+                                  
+dedim ben size
+yanlış kalemlere kayar elleri yazıcıların
+tutanaklar yanlış yazar
+                                 
+dedim ben size
+ 
+
+
+karanlığı az kullanın / kirliler kokar birgün
+birgün yanar bu ışıklar sırıtır suratlarınız
+kirlilere sığınmayın / dedim ben size
+yararı yok oynaşmanın törensel aklıklarda
+kaçın kaçabilirseniz uzak sulara
+ışıklarla oynamayın / dedim ben size
 
 Hasan Hüseyin KORKMAZGİL
 
-### Kerbela Uzak Değil
+## Kerbela Uzak Değil
 
 büyür kerbelâ'm
+
 nezaman kana değse gözlerim
+
                       
 kerbelâ'da bir akşam
 
 bir uzun havadır munzur
+
      mor bir katar gibi düzülüp gider
+
 saz çalar akşamları pîr sultan göçmenleri
+
              
 gönlümün terazisi bozulup gider
+
 koca fırat vura vura başını
+
 hey fırat
+
       fırat fırat
+
 benim anam döve döve döşünü
+
 kerbelâ uzak değil
+
 ağlama sen
 
 ben de silah çattım munzur eteklerinde
+
 yıldızlara uludum yalnızlığın fıratçasından
+
 gözleri nasıl da gözlerimdi hoooooy
+
 ağrıda benden öte
+
 bir munzur
+
 bir fırat
+
 ve bir gelincik
+
                      
 üçü de erzincanlı
+
                      
 üçü de üçgüzeller
+
                          
 gibi şuramda
+
 ben de kulaç attım dedemlik tosbağalarla
+
                    
 kıyıları gelincikli fırat'ta
+
 fırat fırat
+
      hey fırat
+
 insan nasıl allahsarmış gördüm o yalnızlığı
+
 yaşadım allahsamayı bütün boyutlarıyla
+
 kerbelâ uzak değil
+
 ağlama sen
 
 uzak geldim
+
      seferberlik seferberlik çığrışır ayaklarım
+
 başımdır dolaşır elden ele hergün şam'larda
+
 yüreğimdir her seher bir ak güvercin
+
 bu kaçıncı yezit
+
                     
 dostlar
+
                     
 bu kaçıncı muharrem
+
 ben gözüme sürme değil kerbelâ çektim
+
 ağlama sen
 
 'ağlama gözlerim mevlâ kerimdir'
@@ -1026,7 +1201,7 @@ ağlama sen
 
 Hasan Hüseyin KORKMAZGİL
 
-### Kızılırmak
+## Kızılırmak
 
 Silâh ve şarkı 
 ben bütün karanlıkları bunlarla yendim 
@@ -1107,7 +1282,7 @@ yanyana
 
 Hasan Hüseyin KORKMAZGİL
 
-### Masal Kokusu
+## Masal Kokusu
 
 MASAL KOKUSU  
 Ben bu kapıları bir bir açarım açmasına ama kırarım  
@@ -1136,16 +1311,28 @@ Hasan
 
 Hasan Hüseyin KORKMAZGİL
 
-### Oranlama
+## Oranlama
 
 ORANLAMA
-Bir sen eksiktin sarıyıldız hoşgeldinGeç bakalım karşıma benimle içer misinAğlar mısın içince burnuna çeker misinGözyaşların yakabilir mi dudaklarımıAma neden titriyorsun öyle sarıyıldız
-Bak ben su taşıyorum ince elekleİğne deliğinden dünyayı geçiriyorumBak ben aklıma uyup sarıyıldızDurmadan aklımı şaşırıyorumSen beni kaçıncı binden tanıyorsun ki
-Hadi bana çelik mavisi bir gece getirHadi dostlukları tek tek koparıp   getirAlnımdan öp beni e mi, yitik sıcaklığımı getirGençliğimi çılgınlığımı deli günlerimi getirNe o sarıyıldız sen de mi ağlıyorsun
+Bir sen eksiktin sarıyıldız hoşgeldin
+Geç bakalım karşıma benimle içer misin
+Ağlar mısın içince burnuna çeker misin
+Gözyaşların yakabilir mi dudaklarımı
+Ama neden titriyorsun öyle sarıyıldız
+Bak ben su taşıyorum ince elekle
+İğne deliğinden dünyayı geçiriyorum
+Bak ben aklıma uyup sarıyıldız
+Durmadan aklımı şaşırıyorum
+Sen beni kaçıncı binden tanıyorsun ki
+Hadi bana çelik mavisi bir gece getir
+Hadi dostlukları tek tek koparıp   getir
+Alnımdan öp beni e mi, yitik sıcaklığımı getir
+Gençliğimi çılgınlığımı deli günlerimi getir
+Ne o sarıyıldız sen de mi ağlıyorsun
 
 Hasan Hüseyin KORKMAZGİL
 
-### Amenna
+## Amenna
 
 'Yaşayanlar bir gün ölür'
                           elbette
@@ -1188,64 +1375,100 @@ yaprak döker biryanımız
 
 Hasan Hüseyin KORKMAZGİL
 
-### Acılara Tutunmak
+## Acılara Tutunmak
 
 
 
 Hasan Hüseyin KORKMAZGİL
 
-### Kerbelâ Uzak Değil
+## Kerbelâ Uzak Değil
 
 büyür kerbelâ'm
+
 nezaman kana değse gözlerim
+
                       
 kerbelâ'da bir akşam
 
 bir uzun havadır munzur
+
      mor bir katar gibi düzülüp gider
+
 saz çalar akşamları pîr sultan göçmenleri
+
              
 gönlümün terazisi bozulup gider
+
 koca fırat vura vura başını
+
 hey fırat
+
       fırat fırat
+
 benim anam döve döve döşünü
+
 kerbelâ uzak değil
+
 ağlama sen
 
 ben de silah çattım munzur eteklerinde
+
 yıldızlara uludum yalnızlığın fıratçasından
+
 gözleri nasıl da gözlerimdi hoooooy
+
 ağrıda benden öte
+
 bir munzur
+
 bir fırat
+
 ve bir gelincik
+
                      
 üçü de erzincanlı
+
                      
 üçü de üçgüzeller
+
                          
 gibi şuramda
+
 ben de kulaç attım dedemlik tosbağalarla
+
                    
 kıyıları gelincikli fırat'ta
+
 fırat fırat
+
      hey fırat
+
 insan nasıl allahsarmış gördüm o yalnızlığı
+
 yaşadım allahsamayı bütün boyutlarıyla
+
 kerbelâ uzak değil
+
 ağlama sen
 
 uzak geldim
+
      seferberlik seferberlik çığrışır ayaklarım
+
 başımdır dolaşır elden ele hergün şam'larda
+
 yüreğimdir her seher bir ak güvercin
+
 bu kaçıncı yezit
+
                     
 dostlar
+
                     
 bu kaçıncı muharrem
+
 ben gözüme sürme değil kerbelâ çektim
+
 ağlama sen
 
 'ağlama gözlerim mevlâ kerimdir'
@@ -1391,77 +1614,119 @@ ağlama sen
 
 Hasan Hüseyin KORKMAZGİL
 
-### Haziranda Ölmek Zor
+## Haziranda Ölmek Zor
 
 orhan kemal'in güzel anısına 
+
   
 
 
 işten çıktım 
+
 sokaktayım 
+
         elim yüzüm üstümbaşım
 gazete 
+
   
 
 
 sokakta tank paleti 
+
 sokakta düdük sesi 
+
 sokakta tomson 
+
         sokağa çıkmak yasak 
+
   
 
 
 sokaktayım 
+
 gece leylâk 
+
        ve tomurcuk kokuyor 
+
 yaralı bir şahin olmuş yüreğim 
+
 uy anam anam 
+
 haziranda ölmek zor! 
+
   
 
 
 havada tüy 
+
 havada kuş 
+
 havada kuş soluğu kokusu 
+
 hava leylâk 
+
        ve tomurcuk kokuyor 
+
 ne anlar acılardan/güzel haziran 
+
 ne anlar güzel bahar! 
+
 kopuk bir kol sokakta 
+
              
 çırpınıp durur 
+
   
 
 
 çalışmışım onbeş saat 
+
 tükenmişim onbeş saat 
+
 acıkmışım yorulmuşum uykusamışım 
+
 anama sövmüş patron 
+
        ter döktüğüm gazetede 
+
 sıkmışım dişlerimi 
+
 ıslıkla söylemişim umutlarımı 
+
             
 susarak söylemişim 
+
 sıcak bir ev özlemişim 
+
 sıcak bir yemek 
+
 ve sıcacık bir yatakta 
+
             
 unutturan öpücükler 
+
 çıkmışım bir kavgadan 
+
                    
 vurmuşum sokaklara 
+
   
 
 
 sokakta tank paleti 
+
 sokakta düdük sesi 
+
 sarı sarı yapraklarla birlikte sanki 
+
             
 dallarda insan iskeletleri 
+
   
 
 
 asacaklar aydemir'i 
+
 asacaklar gürcan'ı 
 
        belki başkalarını 
@@ -1823,7 +2088,6 @@ haziranda ölmek zor!
  
 
  
-
                                                                       
 
  

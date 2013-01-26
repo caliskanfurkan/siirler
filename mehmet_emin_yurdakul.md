@@ -1,6 +1,6 @@
-## Mehmet Emin YURDAKUL
+# Mehmet Emin YURDAKUL
 
-### Benim Ömrüm
+## Benim Ömrüm
 
 Genç çağdaydım, kendimi bir dikenli yolda buldum;
 Hıçkırıklar işittim, gül ve bülbül bağlarından.
@@ -14,7 +14,7 @@ Saç ve sakal ağarttım ben de, "Vatan, vatan!" diye.
 
 Mehmet Emin YURDAKUL
 
-### Benim Şiirlerim
+## Benim Şiirlerim
 
 "Sen kalbsizsin; hani senin gençliğin hayatı?
 "Aşklarım mı? Bir nefeste solabilen bu şeyler,
@@ -36,7 +36,7 @@ Mehmet Emin YURDAKUL
 
 Mehmet Emin YURDAKUL
 
-### Bırak Beni Haykırayım
+## Bırak Beni Haykırayım
 
 Ben en hakîr bir insanı kardeş sayan bir rûhum;
 Bende esîr yaratmayan bir Tanrı'ya îman var;
@@ -56,7 +56,7 @@ Yalnız bir sert bakışlı göz, yalnız ağır bir yumruk!..
 
 Mehmet Emin YURDAKUL
 
-### Cenge Giderken
+## Cenge Giderken
 
 Ben bir Türk'üm dinim, cinsim uludur
 Sinem, özüm ateş ile doludur
@@ -85,11 +85,12 @@ Bu dünyada kimse kalmaz, giderim.
 
 Mehmet Emin YURDAKUL
 
-### Şâir
+## Şâir
 
 Öc Şâiri'ne
                 Tarih nankör değildir, bir hizmeti unutmaz;
                 İstikbâlin vicdânı aşk istemez, kin tutmaz.
+
 
 
 Bana yirmi yaşımda ateş saçan bir sevdâ,

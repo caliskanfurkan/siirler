@@ -1,12 +1,6 @@
-## Ahmet CEMAL
+# Ahmet CEMAL
 
-### Geçmiş Bir Dua Kitabından
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
-
-Ahmet CEMAL
-
-### AçGözlülük
+## AçGözlülük
 
 Mumlarımızn alevlerini bile
 koruyamadık
@@ -15,7 +9,7 @@ yolunu gözlerken.
 
 Ahmet CEMAL
 
-### Anlat Bana Nedir Aşk?
+## Anlat Bana Nedir Aşk?
 
 İlk günbatımının hemen ardından söylediklerimiz, bir
 yüzyıl sonra da geçerli olabilirdi ve biz, güneşe
@@ -45,7 +39,7 @@ anlat bana, nedir aşk?
 
 Ahmet CEMAL
 
-### Bir Gün
+## Bir Gün
 
 (Ölüm İlişkileri'nde yaşayanlara...)
 
@@ -87,7 +81,7 @@ aşınmış bakışlarınla seçemeksizin.
 
 Ahmet CEMAL
 
-### Bizsiz Odalar
+## Bizsiz Odalar
 
 Belki çoğumuzun yaşamında
 arkamızdan çok acele toplanmış
@@ -96,7 +90,7 @@ odaların burukluğu vardır.
 
 Ahmet CEMAL
 
-### Geçmiş Bir Dua Kitabından I
+## Geçmiş Bir Dua Kitabından I
 
 Nice yazsonlarında
 eylül yapraklarına
@@ -135,7 +129,7 @@ solmaya bırakınız.
 
 Ahmet CEMAL
 
-### Geçmiş Bir Dua Kitabından II
+## Geçmiş Bir Dua Kitabından II
 
 Büyük gönül serüvenlerinizin ardından gelen bu yıkımlar
 için size yardım koşturduk.
@@ -171,7 +165,7 @@ duyulacaktır.
 
 Ahmet CEMAL
 
-### Giderayak
+## Giderayak
 
 Kalkıyorum.
 Yolcu yolunda gerek.
@@ -188,7 +182,7 @@ Bu soğukları çıkartmak.
 
 Ahmet CEMAL
 
-### Hiç Olmayacak Bir Gece
+## Hiç Olmayacak Bir Gece
 
 Hiç olmayacak bir gecede
 bir sokağı, sırılsıklam, yakalamak
@@ -228,7 +222,7 @@ hiç anlatılmayacak.
 
 Ahmet CEMAL
 
-### Lodos
+## Lodos
 
 Deniz değil,
 kâğıtlar beni tutan,
@@ -236,7 +230,7 @@ onun içindir sana yazamadığım.
 
 Ahmet CEMAL
 
-### ÖzYaşam Öyküsü
+## ÖzYaşam Öyküsü
 
 Asmalımescittendir kafakâğıdım;
 Nil Lokantasında yazıldım okula,
@@ -266,7 +260,7 @@ bense hep yaşamdan çevirdim.
 
 Ahmet CEMAL
 
-### Ucuzluk
+## Ucuzluk
 
 İstersen yarına ertele
 beni sevmeyi
@@ -278,7 +272,7 @@ daha ucuza alırsın!
 
 Ahmet CEMAL
 
-### Vesvese
+## Vesvese
 
 Sen var ya,
 nedense beni hep

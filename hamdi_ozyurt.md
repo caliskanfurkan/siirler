@@ -1,6 +1,6 @@
-## Hamdi ÖZYURT
+# Hamdi ÖZYURT
 
-### Çıplak Kal
+## Çıplak Kal
 
 nicedir dokunuşlar çakmaktaşı bu iklimde
 gülüşler günahtan gerdanlık
@@ -39,7 +39,7 @@ tabanca gibi tehditkar memelerin
 
 Hamdi ÖZYURT
 
-### Dağçiçeği Sağanağı
+## Dağçiçeği Sağanağı
 
 kızım benim
 en güzel şiirim
@@ -74,7 +74,7 @@ hoşgeldin
 
 Hamdi ÖZYURT
 
-### Değişen
+## Değişen
 
 sen bana daha az acır
    beni daha çok severdin eskiden
@@ -112,7 +112,7 @@ hüznünde kol kola
 
 Hamdi ÖZYURT
 
-### Kokusu Düş Kırığı
+## Kokusu Düş Kırığı
 
 karpuz hep aynı çatlar
 tütün hep aynı çürür
@@ -164,7 +164,7 @@ elin babası başka türlü ölür
 
 Hamdi ÖZYURT
 
-### Gözlerin Bir Çift Turna
+## Gözlerin Bir Çift Turna
 
 karanlık bir nehir akar gider kederli
 kulaklarımda yetim çakal sesleri kalır
@@ -190,7 +190,7 @@ iki bahar gider seninle, kerbela kalır
 
 Hamdi ÖZYURT
 
-### Saçlarını Sancıma Sür
+## Saçlarını Sancıma Sür
 
 yine güze, kahrolası yine güz
 yapraklar yapraktan çok
@@ -227,7 +227,7 @@ gece sırlarını pul pul döküyor sokaklara
 
 Hamdi ÖZYURT
 
-### Ufak Tefek Şeyler
+## Ufak Tefek Şeyler
 
 adının yeşil olması içindeki küfünden
 her sokağı çıkmaz sokak

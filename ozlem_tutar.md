@@ -1,13 +1,13 @@
-## Özlem TUTAR
+# Özlem TUTAR
 
-### Aşk
+## Aşk
 
 Dokunurken sana
 özlemek seni
 
 Özlem TUTAR
 
-### Fikr-i Firar
+## Fikr-i Firar
 
 Gelsen 
 bi demet karanfille 
@@ -33,110 +33,110 @@ hastir
 
 Özlem TUTAR
 
-### İsimsiz 1
+## İsimsiz 1
 
 
 
 Özlem TUTAR
 
-### İsimsiz 2
+## İsimsiz 2
 
 
 
 Özlem TUTAR
 
-### İsimsiz 3
+## İsimsiz 3
 
 
 
 Özlem TUTAR
 
-### İsimsiz 4
+## İsimsiz 4
 
 
 
 Özlem TUTAR
 
-### İsimsiz 5
+## İsimsiz 5
 
 
 
 Özlem TUTAR
 
-### İsimsiz 6
+## İsimsiz 6
 
 
 
 Özlem TUTAR
 
-### İsimsiz 7
+## İsimsiz 7
 
 
 
 Özlem TUTAR
 
-### İsimsiz 8
+## İsimsiz 8
 
 
 
 Özlem TUTAR
 
-### İsimsiz 9
+## İsimsiz 9
 
 
 
 Özlem TUTAR
 
-### İsimsiz 10
+## İsimsiz 10
 
 
 
 Özlem TUTAR
 
-### İsimsiz 11
+## İsimsiz 11
 
 
 
 Özlem TUTAR
 
-### İsimsiz 12
+## İsimsiz 12
 
 
 
 Özlem TUTAR
 
-### İsimsiz 13
+## İsimsiz 13
 
 
 
 Özlem TUTAR
 
-### İsimsiz 14
+## İsimsiz 14
 
 
 
 Özlem TUTAR
 
-### İsimsiz 15
+## İsimsiz 15
 
 
 
 Özlem TUTAR
 
-### İsimsiz 16
+## İsimsiz 16
 
 Yalan bir aşkı anlatır her yağmurunda
 anasını sattığım İstanbul.
 
 Özlem TUTAR
 
-### İsimsiz 17
+## İsimsiz 17
 
 
 
 Özlem TUTAR
 
-### İsimsiz 18
+## İsimsiz 18
 
 Zamansız
 
@@ -147,49 +147,49 @@ uyanmadınız.
 
 Özlem TUTAR
 
-### İsimsiz 19
+## İsimsiz 19
 
 
 
 Özlem TUTAR
 
-### İsimsiz 20
+## İsimsiz 20
 
 
 
 Özlem TUTAR
 
-### İsimsiz 21
+## İsimsiz 21
 
 
 
 Özlem TUTAR
 
-### İsimsiz 22
+## İsimsiz 22
 
 
 
 Özlem TUTAR
 
-### İsimsiz 23
+## İsimsiz 23
 
 
 
 Özlem TUTAR
 
-### İsimsiz 24
+## İsimsiz 24
 
 
 
 Özlem TUTAR
 
-### İsimsiz 25
+## İsimsiz 25
 
 
 
 Özlem TUTAR
 
-### İsimsiz 26
+## İsimsiz 26
 
 "Özgürlük" gibi birşey
 sabahtan beri dilime dolanan.
@@ -198,7 +198,7 @@ içine daldıkça adamı yakan
 
 Özlem TUTAR
 
-### İsimsiz 27
+## İsimsiz 27
 
 Bütün ümitler bittiği yerde
 bütün selamlar sabahlar da biter.
@@ -207,7 +207,7 @@ yeniden, yeniden başlamak mümkün
 
 Özlem TUTAR
 
-### İsimsiz 28
+## İsimsiz 28
 
 Nasıl 
 ve neresinde bırakabilirim ki 
@@ -226,14 +226,14 @@ en sevdiğim.
 
 Özlem TUTAR
 
-### Kalptengiden
+## Kalptengiden
 
 Karmaþýk sözcükler kullanýrdý hep yaþarken
 oysa ne basit olmuþtu ölümü
 
 Özlem TUTAR
 
-### Karasevda
+## Karasevda
 
 Uzatır gibi elini kara bir Afrika büyüsüne
 büyük büyük açtı kız dügmelerini

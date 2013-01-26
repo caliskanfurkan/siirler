@@ -1,6 +1,6 @@
-## Adnan YÜCEL
+# Adnan YÜCEL
 
-### Acıya Kurşun İşlemez
+## Acıya Kurşun İşlemez
 
 Sabrın çalkalanıp taştığı sulardadır
 Çığlıklarla parçalanmış uykularda
@@ -55,7 +55,7 @@ Biz yaşamayı zulümsüz sevdik
 
 Adnan YÜCEL
 
-### Adı Kayıp
+## Adı Kayıp
 
 Deniz yok olursa diyor bir çocuk 
 Balık kaybolursa 
@@ -118,7 +118,7 @@ Yeşilin ve mavinin şiirini yeniden yaz
 
 Adnan YÜCEL
 
-### Hangi Günün Yüzyılı
+## Hangi Günün Yüzyılı
 
 Sancısını yaşıyorsun kaç zamandır
 Yeni bir güne sevinçle başlamanın
@@ -141,7 +141,7 @@ Bir gökyüzüdür artık gülüşün
 
 Adnan YÜCEL
 
-### Kırdın Kalbimi Cankörüğüm
+## Kırdın Kalbimi Cankörüğüm
 
 Ne zaman yağmur yağsa
 Bir buluşma yeri olurdun
@@ -178,7 +178,7 @@ Yine soluğunla kurutacaksın
 
 Adnan YÜCEL
 
-### Kuş Mitingi
+## Kuş Mitingi
 
 Sonbahardan sonra ağaçlar
 Hep duman açar Ankara'da
@@ -215,7 +215,7 @@ Ankara'ya ölüm bırakırlar
 
 Adnan YÜCEL
 
-### Sen ki Anlarsın
+## Sen ki Anlarsın
 
 Kendini bir suyun akışında
 Ve suları kendi bakışlarında
@@ -275,15 +275,57 @@ Bir at gibi giriyor sulara.
 
 Adnan YÜCEL
 
-### Yeryüzü Aşkın Yüzü Oluncaya Dek
+## Yeryüzü Aşkın Yüzü Oluncaya Dek
 
 Aşksız ve paramparçaydı yaşam
-bir inancın yüceliğinde buldum seni bir kavganın güzelliğinde sevdim. bitmedi daha sürüyor o kavga ve sürecek yeryüzü aşkın yüzü oluncaya dek! 
-Aşk demişti yaşamın bütün ustaları aşk ile sevmek bir güzelliği ve dövüşebilmek o güzellik uğruna. işte yüzünde badem çiçekleri saçlarında gülen toprak ve ilkbahar. sen misin seni sevdiğim o kavga, sen o kavganın güzelliği misin yoksa... 
-Bir inancın yüceliğinde buldum seni bir kavganın güzelliğinde sevdim. bin kez budadılar körpe dallarımızı bin kez kırdılar. yine çiçekteyiz işte yine meyvedeyiz bin kez korkuya boğdular zamanı bin kez ölümlediler yine doğumdayız işte,  yine sevinçteyiz. bitmedi daha sürüyor o kavga ve sürecek yeryüzü aşkın yüzü oluncaya dek! 
-Geçtiğimiz o ilk nehirlerden beri suyun ayakları olmuştur ayaklarımız ellerimiz, taşın ve toprağın elleri. yağmura susamış sabahlarda çoğalırdık törenlerle dikilirdik burçlarınıza. türküler söylerdik hep aynı telden aynı sesten, aynı yürekten dağlara biz verirdik morluğunu, henüz böyle yağmalanmamıştı gençliğimiz... 
-Ne gün batışı ölümlerin üzüncüne ne tan atışı doğumların sevincine ey bir elinde mezarcılar yaratan, bir elinde ebeler koşturan doğa bu seslenişimiz yalnızca sana yaşamasına yaşıyoruz ya güzelliğini bitmedi daha sürüyor o kavga ve sürecek yeryüzü aşkın yüzü oluncaya dek! 
-Saraylar saltanatlar çöker kan susar birgün zulüm biter. menekşelerde açılır üstümüzde leylaklarda güler. bugünlerden geriye, bir yarına gidenler kalır 
+bir inancın yüceliğinde buldum seni 
+bir kavganın güzelliğinde sevdim. 
+bitmedi daha sürüyor o kavga 
+ve sürecek 
+yeryüzü aşkın yüzü oluncaya dek! 
+Aşk demişti yaşamın bütün ustaları 
+aşk ile sevmek bir güzelliği 
+ve dövüşebilmek o güzellik uğruna. 
+işte yüzünde badem çiçekleri 
+saçlarında gülen toprak ve ilkbahar. 
+sen misin seni sevdiğim o kavga, 
+sen o kavganın güzelliği misin yoksa... 
+Bir inancın yüceliğinde buldum seni 
+bir kavganın güzelliğinde sevdim. 
+bin kez budadılar körpe dallarımızı 
+bin kez kırdılar. 
+yine çiçekteyiz işte yine meyvedeyiz 
+bin kez korkuya boğdular zamanı 
+bin kez ölümlediler 
+yine doğumdayız işte,  yine sevinçteyiz. 
+bitmedi daha sürüyor o kavga 
+ve sürecek 
+yeryüzü aşkın yüzü oluncaya dek! 
+Geçtiğimiz o ilk nehirlerden beri 
+suyun ayakları olmuştur ayaklarımız 
+ellerimiz, taşın ve toprağın elleri. 
+yağmura susamış sabahlarda çoğalırdık 
+törenlerle dikilirdik burçlarınıza. 
+türküler söylerdik hep aynı telden 
+aynı sesten, aynı yürekten 
+dağlara biz verirdik morluğunu, 
+henüz böyle yağmalanmamıştı gençliğimiz... 
+Ne gün batışı ölümlerin üzüncüne 
+ne tan atışı doğumların sevincine 
+ey bir elinde mezarcılar yaratan, 
+bir elinde ebeler koşturan doğa 
+bu seslenişimiz yalnızca sana 
+yaşamasına yaşıyoruz ya güzelliğini 
+bitmedi daha sürüyor o kavga 
+ve sürecek 
+yeryüzü aşkın yüzü oluncaya dek! 
+Saraylar saltanatlar çöker 
+kan susar birgün 
+zulüm biter. 
+menekşelerde açılır üstümüzde 
+leylaklarda güler. 
+bugünlerden geriye, 
+bir yarına gidenler kalır 
 bir de yarınlar için direnenler... 
 Şiirler doğacak kıvamda yine 
 duygular yeniden yağacak kıvamda. 
@@ -300,7 +342,7 @@ yeryüzü aşkın yüzü oluncaya dek!
 
 Adnan YÜCEL
 
-### Yürek Çağrısı
+## Yürek Çağrısı
 
 Acılı yağmurlarla düşmüşüm yere
 Tatlı su göllerine akamıyorum

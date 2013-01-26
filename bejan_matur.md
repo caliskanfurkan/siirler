@@ -1,6 +1,6 @@
-## Bejan MATUR
+# Bejan MATUR
 
-### Allahın Çocukluğu
+## Allahın Çocukluğu
 
 İnsanın dönüp döneceği yerdir 
 Çocukluğu. 
@@ -144,7 +144,7 @@ Kimsesi yok kimsenin.
 
 Bejan MATUR
 
-### Allahın Duvarında Bir 
+## Allahın Duvarında Bir 
   Harftir Kadın
 
 I
@@ -209,7 +209,7 @@ Günah da.
 
 Bejan MATUR
 
-### An ve Masal
+## An ve Masal
 
 Güneşin ve suyun tadıyla
 Uçunca bulutların tarlasına
@@ -239,7 +239,7 @@ An ve masal
 
 Bejan MATUR
 
-### Ayın Büyüttüğü Oğullar
+## Ayın Büyüttüğü Oğullar
 
 Bize kanlı bir uykunun, bir kardeşlik sabahı başlatacağı
 							müjdelenmedi.
@@ -285,7 +285,7 @@ Kardeşlik acımaydı.
 
 Bejan MATUR
 
-### Beyaz Meselâ
+## Beyaz Meselâ
 
 İnsan duvarları olmayan tapınakta
 Bir gece uyusa
@@ -325,7 +325,7 @@ Acımız avuçlarımızda.
 
 Bejan MATUR
 
-### Çürüme, Tanrıdan Gizlenen
+## Çürüme, Tanrıdan Gizlenen
 
 Keskin bir kılıçla toprağa çizilmiş
 Dar ve kavuşmasız sokaklar.
@@ -350,7 +350,7 @@ Her kapı eğilecek bir boynu bekliyor.
 
 Bejan MATUR
 
-### Dua
+## Dua
 
 Biri yaprak, diğeri yılan olan
 İki yüzüğümü
@@ -422,7 +422,7 @@ Uyku getirse...
 
 Bejan MATUR
 
-### Dünyada Olmak Acıdır. Öğrendim
+## Dünyada Olmak Acıdır. Öğrendim
 
 Yeryüzündeki tüm kızıl taşlara 
 Tanrının kanı sürülmüştür. 
@@ -454,7 +454,7 @@ Bırakmaz bizi annemiz ve tanrımız.
 
 Bejan MATUR
 
-### Her Kadın Kendi Ağacını Tanır
+## Her Kadın Kendi Ağacını Tanır
 
 Sana geldiğimde
 Kanatlarını,
@@ -471,7 +471,7 @@ Gölge olmayınca ruh yalnızdı. Uludum.
 
 Bejan MATUR
 
-### Kadınlar
+## Kadınlar
 
 Mavi dövmeleri
 Ve bitmek bilmez yasların çürük izleriyle
@@ -503,7 +503,7 @@ Ve kokuyorlar arasıra
 
 Bejan MATUR
 
-### Keşişler Geçti Ölümden
+## Keşişler Geçti Ölümden
 
 Yüzüm eskiydi
 Zaman sonrasız, unutkan
@@ -522,7 +522,7 @@ Kıyıya sağır dalga durmaz
 
 Bejan MATUR
 
-### Mutsuz Kraliçe
+## Mutsuz Kraliçe
 
 Etekleri buz tutmuş
 O mutsuz kraliçe
@@ -549,7 +549,7 @@ Buzdan ve siyah eteğiyle
 
 Bejan MATUR
 
-### Onun Çölünde
+## Onun Çölünde
 
 Onun çölüne gittim. 
 Konuğum, 
@@ -712,7 +712,7 @@ Hayattan aldığını hayata.
 
 Bejan MATUR
 
-### Rüzgâr Dolu Konaklar
+## Rüzgâr Dolu Konaklar
 
 Doğduğumuzda
 Bizim için yaptırdığı sandıklara
@@ -1021,7 +1021,7 @@ Uğultusunu unutturan
 
 Bejan MATUR
 
-### Rüzgârı Acıtan Doğu
+## Rüzgârı Acıtan Doğu
 
 Geldim 
 Suskun ve kederli 
@@ -1070,7 +1070,7 @@ O acı rüzgârın ardından.
 
 Bejan MATUR
 
-### Sözcükler Acımızı Doldurmayacak
+## Sözcükler Acımızı Doldurmayacak
 
 Siyah örtüyle kapatılmış, ölme hazırlanan bir gelin gibi duran
 masada, konuştum onlarla.
@@ -1088,7 +1088,7 @@ Sözcükler acımızı doldurmayacak.
 
 Bejan MATUR
 
-### Tören Giysileri
+## Tören Giysileri
 
 Çürümüş donuk kalbinde bu toprakların 
 Gözleri gördüm. 
@@ -1145,7 +1145,7 @@ Sadece acı.
 
 Bejan MATUR
 
-### Veda
+## Veda
 
 Ne ay ışığı yürüyeceğim,
 Ne sessizlik aşk boyunca.

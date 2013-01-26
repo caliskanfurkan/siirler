@@ -1,6 +1,6 @@
-## Nilgün MARMARA
+# Nilgün MARMARA
 
-### Bana Doğru Gelen Kim
+## Bana Doğru Gelen Kim
 
 "BANA DOĞRU GELEN KİM?"YA DA
 ŞİMDİKİ ZAMANDA 
@@ -23,7 +23,7 @@ geçinceye ve "Bana doğru giden kim?" in yatay bilgisine ulaşıncaya dek!
 
 Nilgün MARMARA
 
-### Cam Kelepçeye Evet
+## Cam Kelepçeye Evet
 
 Ilık bir süzülüşle
 Geri dön hayat,
@@ -42,7 +42,7 @@ Düşsün hayatı suya...
 
 Nilgün MARMARA
 
-### Canım Sıkıntı Sınırı
+## Canım Sıkıntı Sınırı
 
 Aydınlıkta köhneliği belirginleşen ve kentte ve konutta hiçbir şey neyse ben oyum. Öylesine 
 bağsız ve yeğniyim ki bu hafifliğin şiddetinin bedelini bir gün öderim diye düşünüyorum. 
@@ -59,7 +59,7 @@ dağılıp toprağın suyun ölümsüzlüğüne eklemlenecekler ve ben özgürle
 
 Nilgün MARMARA
 
-### Çok Güzel
+## Çok Güzel
 
 Durma artık burada uysal âşık!
 Aydınlık milinin yatağında.
@@ -80,7 +80,7 @@ izleğiyle, bir zamanlar pay verdiğimiz
 
 Nilgün MARMARA
 
-### Düşü Ne Biliyorum
+## Düşü Ne Biliyorum
 
 Kimdi o kedi, zamanın
 eşyayı örseleyen korkusunda
@@ -115,7 +115,7 @@ uyanıyorum küstah sözcüklerle:
 
 Nilgün MARMARA
 
-### Gökkuşağından Darağacı
+## Gökkuşağından Darağacı
 
 Şimdi'nin bedeni yok,
 Yontuyor geçmiş bilgisiyle
@@ -158,7 +158,7 @@ bindiği kadırga
 
 Nilgün MARMARA
 
-### Kan Atlası
+## Kan Atlası
 
 Emel'e
                                    "Ben babamın yuvarladığı
@@ -198,7 +198,7 @@ Ey, yüzleri
 
 Nilgün MARMARA
 
-### Kuğu Ezgisi
+## Kuğu Ezgisi
 
 Kuğuların ölüm öncesi ezgileri şiirlerim,
 Yalpalayan hayatımın kara çarşaflı
@@ -222,7 +222,7 @@ Sevda ile seslenir sizlere!
 
 Nilgün MARMARA
 
-### Kuşum ve Ben
+## Kuşum ve Ben
 
 Kuşum ve ben bir aynada
 uyuyoruz, kafesimiz yatağımız
@@ -238,7 +238,7 @@ Kızıl kıskanç eşim kuşum ve ben...
 
 Nilgün MARMARA
 
-### Tomorrow Will Be Another Day
+## Tomorrow Will Be Another Day
 
 -sevim'e-
 
@@ -263,7 +263,7 @@ Ya nasıl dönüş sonra?
 
 Nilgün MARMARA
 
-### Toz-Dem
+## Toz-Dem
 
 Kısacıktı
 karşı yolculuklarımız kara

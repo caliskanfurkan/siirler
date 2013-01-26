@@ -1,6 +1,6 @@
-## Gülten AKIN
+# Gülten AKIN
 
-### Akan Suyu Yakalayıp 
+## Akan Suyu Yakalayıp 
 Durdurmaktır Meâl
 
 kimse tanımasın için onları
@@ -20,7 +20,7 @@ en ağır sınavdan en saf olan geçer
 
 Gülten AKIN
 
-### Anneler İlahisi
+## Anneler İlahisi
 
 Yitiğin tartıldı orda burda
 bozuk mu düzgün mü tartılarda
@@ -46,7 +46,7 @@ solgun bir bedeni gezdirmedin Metin' in annesi
 
 Gülten AKIN
 
-### Annesi Çalışan Çocuğun Ağıdı
+## Annesi Çalışan Çocuğun Ağıdı
 
 Attım. Boyalar ne işe yarayabilir
 Yalnızlık için karadan başka
@@ -68,7 +68,7 @@ Bahçelerde çirkin kasımpatları açmalıdır
 
 Gülten AKIN
 
-### Aşk
+## Aşk
 
 Sıfırda insancıl yaşamamız başladı
 Sıfırda koptun kayboldun aradık
@@ -87,7 +87,7 @@ Varlığın orda yaşamamızda
 
 Gülten AKIN
 
-### Ayrıntılar İlahisi
+## Ayrıntılar İlahisi
 
 Ben neyi kimden aldım, nerden aldım
 her şeyi bir yerden aldım
@@ -114,13 +114,13 @@ Gültene kandım
 
 Gülten AKIN
 
-### Balina
+## Balina
 
 
 
 Gülten AKIN
 
-### Bir Güneydoğu Ağıdı
+## Bir Güneydoğu Ağıdı
 
 İlk bu sabah
 İlk bu sabah göğü görmedim
@@ -147,7 +147,7 @@ Dağlar of dağlar
 
 Gülten AKIN
 
-### Bir
+## Bir
 Kayığa Biner Geceleri
 
 Tadını, yağmura duygulanmanın
@@ -176,7 +176,7 @@ Bir ben miyim yalnızlığa yenilen, sen, sen, sen
 
 Gülten AKIN
 
-### Biriken
+## Biriken
 
 Her şey birikir 
 Sözler düşünceler ve nesneler biçiminde 
@@ -206,7 +206,7 @@ Bir ülke insan birikir
 
 Gülten AKIN
 
-### Çağrı
+## Çağrı
 
 Evler büyük dedikçe büyük
 Ben insanların en garibi
@@ -226,7 +226,7 @@ Gel artık
 
 Gülten AKIN
 
-### Çay
+## Çay
 
 Bülbüllerin, kızaran çileklerin sesi 
 bana doğru uzanmış elindeki 
@@ -255,7 +255,7 @@ bizi derinine aldı
 
 Gülten AKIN
 
-### Deli Kızın Türküsü
+## Deli Kızın Türküsü
 
 III
 
@@ -285,7 +285,7 @@ Gitti giden
 
 Gülten AKIN
 
-### Eller İlahisi
+## Eller İlahisi
 
 Ellerini görsem oğlumun
 Uzun esmer parmaklı ellerini
@@ -320,7 +320,7 @@ Uçtu gitti kalemlerin ardında
 
 Gülten AKIN
 
-### Eski Nine
+## Eski Nine
 
 Ölümün ve göçün dokunmadığı tek nesne
 var mıdır
@@ -360,21 +360,49 @@ söyler, anlaşılır
 
 Gülten AKIN
 
-### Güz
+## Güz
 
-"Güz geldi. Gözlerim karmakarışık. Körüm benGüz geldi. Bunu saçlarımın döküldüğünden.derler ki yaylada doğmuşum, denizin ardındainiştir, yokuştur, geçer dizlerimden."
-Gazel düştü Derelere ay YarimKavga bitti. silahını duvara asbaşladı Ocağın krallığı, Ormana gitbaltanı al köşeden, Çocuklarımızı öp.
-"Uçurtma salıvermiş göğe aşağıdakiler, havasıdır."Çocuklar aşağıdakileri okuyor. ben körümne güzel kokuyor Gazeteleri Kitaplarıinsem bir koklasam kendileri nasıl"
-ben burda bağlıyımay YarimKörüm ve yaşlıyım otuz yaşındaÇocukları al, in aşağıyadileğimdir, onlar görsünler
-"Güz geldi, açıksın Yarim Yarimben neyse. ben körüm. Dereden öteyi bilmedimama bilirim bir koca yaz çabaladığımızPatatesin sana bir parça şayak etmediğini"
-Sor bakalım, adam diye Kaydımız var mı?ben körüm, biz eski, Çocukları yazdırPatatesi alıcıya götür  ver yirmi beşeeşeğine bin türkü söyle dönüşte
-dünyalık şeylere dünyanın parası gerekOysa topraktan çıkardın yirmi beş liracıkKefenimizi al. sabunu lifini unutmabir cennet ayırt Hoca parasıyla birlikte
-"Bu güz öleceğim. bütün işlerimi bitirdimDerede yıkandım, cevize tırmandım. kuş ürküttümKaçırdılar on iki Çocuk doğurdum. bekledim gözlerimOğlan everdim. kız yetirdim. otuzuma vardım"
-"Ağlama kız, deme incirim Yar Yarben ağlamam dağlar taşlar ağlasınKörüm, çelimsizim, göğnüğüm, hastayım.sebebolanları nerde bulayımadamdan içerli kuşlar ağlasın
+"Güz geldi. Gözlerim karmakarışık. Körüm ben
+Güz geldi. Bunu saçlarımın döküldüğünden.
+derler ki yaylada doğmuşum, denizin ardında
+iniştir, yokuştur, geçer dizlerimden."
+Gazel düştü Derelere ay Yarim
+Kavga bitti. silahını duvara as
+başladı Ocağın krallığı, Ormana git
+baltanı al köşeden, Çocuklarımızı öp.
+"Uçurtma salıvermiş göğe aşağıdakiler, havasıdır."
+Çocuklar aşağıdakileri okuyor. ben körüm
+ne güzel kokuyor Gazeteleri Kitapları
+insem bir koklasam kendileri nasıl"
+ben burda bağlıyımay Yarim
+Körüm ve yaşlıyım otuz yaşında
+Çocukları al, in aşağıya
+dileğimdir, onlar görsünler
+"Güz geldi, açıksın Yarim Yarim
+ben neyse. ben körüm. Dereden öteyi bilmedim
+ama bilirim bir koca yaz çabaladığımız
+Patatesin sana bir parça şayak etmediğini"
+Sor bakalım, adam diye Kaydımız var mı?
+ben körüm, biz eski, Çocukları yazdır
+Patatesi alıcıya götür  ver yirmi beşe
+eşeğine bin türkü söyle dönüşte
+dünyalık şeylere dünyanın parası gerek
+Oysa topraktan çıkardın yirmi beş liracık
+Kefenimizi al. sabunu lifini unutma
+bir cennet ayırt Hoca parasıyla birlikte
+"Bu güz öleceğim. bütün işlerimi bitirdim
+Derede yıkandım, cevize tırmandım. kuş ürküttüm
+Kaçırdılar on iki Çocuk doğurdum. bekledim gözlerim
+Oğlan everdim. kız yetirdim. otuzuma vardım"
+"Ağlama kız, deme incirim Yar Yar
+ben ağlamam dağlar taşlar ağlasın
+Körüm, çelimsizim, göğnüğüm, hastayım.
+sebebolanları nerde bulayım
+adamdan içerli kuşlar ağlasın
 
 Gülten AKIN
 
-### İlkyaz
+## İlkyaz
 
 Ah, kimselerin vakti yok
 Durup ince şeyleri anlamaya
@@ -434,7 +462,7 @@ Islık çalar yanıt veririz
 
 Gülten AKIN
 
-### Kestim Kara Saçlarımı
+## Kestim Kara Saçlarımı
 
 Uzaktı dön yakındı dön çevreydi dön
 Yasaktı yasaydı töreydi dön
@@ -461,26 +489,47 @@ Gittim geldim kara saçlarımdan kurtuldum
 
 Gülten AKIN
 
-### Kış
+## Kış
 
-Kış geldi. Ocağı yaktık ay Yarimceviz yaprak döktü. dere bulanıksavuşturdum kara atlı ölümüPancar bastık tencereye suyunan
-"Üfle. durma doluştuk. kirliyiz. kötüyüzüfle. ne kadar Cehennem olsa o kadar iyidirüfle. Tanrı bıçağa mı benzer girebiye mi?üfle kör ağzıyla. bir ağzı keskindir"
-Dün ağladık gelininen, yoruldukVurdular Ahmedalimi ormandagiyme dedim Yenilerin kan olurVurdular Ahmedalimi ormanda
-"Sus ne kadar kırılsak o kadar iyidirsus. Cennet. sus muştu. Kutsal Kitap getiralmaya başladıydık o uğursuzişaretisessiz donuk Ambarımızdan"
-"Yastığına Memedalim yakışırgömdük bir iyice Eceliyinenurbaları osmanıma iygeldiBeşyüzü, babası Ombaşıyınan
-"Deli, serçe kuş mu, hamsi balık mı, biz adam mıyız, Deliağlama. Sular mı bassın gömütlerimiziölüleri rahat bırakmalı. Memedalim gitsinpazar pazen alsın.ışlaklı iskarpin sana"
-sabah oldu. gelin gelin yok gelinkaçırdılar. varıp gidem yalvaramAğam Selim, Beyim Selim geri veralmaya gücümüz yetmez bir daha
+Kış geldi. Ocağı yaktık ay Yarim
+ceviz yaprak döktü. dere bulanık
+savuşturdum kara atlı ölümü
+Pancar bastık tencereye suyunan
+"Üfle. durma doluştuk. kirliyiz. kötüyüz
+üfle. ne kadar Cehennem olsa o kadar iyidir
+üfle. Tanrı bıçağa mı benzer girebiye mi?
+üfle kör ağzıyla. bir ağzı keskindir"
+Dün ağladık gelininen, yorulduk
+Vurdular Ahmedalimi ormanda
+giyme dedim Yenilerin kan olur
+Vurdular Ahmedalimi ormanda
+"Sus ne kadar kırılsak o kadar iyidir
+sus. Cennet. sus muştu. Kutsal Kitap getir
+almaya başladıydık o uğursuzişareti
+sessiz donuk Ambarımızdan"
+"Yastığına Memedalim yakışır
+gömdük bir iyice Eceliyinen
+urbaları osmanıma iygeldi
+Beşyüzü, babası Ombaşıyınan
+"Deli, serçe kuş mu, hamsi balık mı, biz adam mıyız, Deli
+ağlama. Sular mı bassın gömütlerimizi
+ölüleri rahat bırakmalı. Memedalim gitsin
+pazar pazen alsın.ışlaklı iskarpin sana"
+sabah oldu. gelin gelin yok gelin
+kaçırdılar. varıp gidem yalvaram
+Ağam Selim, Beyim Selim geri ver
+almaya gücümüz yetmez bir daha
 
 Gülten AKIN
 
-### Kimse
+## Kimse
 
 itip beni
 balıma dadanan bu çağı sevmedim
 
 Gülten AKIN
 
-### Koçaklama
+## Koçaklama
 
 Bir çağ ki öyle en olmıyacağı
 Kuşatır yasaklar üstünü örter
@@ -499,44 +548,124 @@ Sen avcı olsan avlanamazsın
 
 Gülten AKIN
 
-### Küçük
+## Küçük
 Kızın Türküsü
 
-Küçük, küçücük bir kızkenUnutacak mısın yüreğimBir kurdele bir pabuç yüzündenUnutacak mısın yüreğim
-Şimdi de onulmaz korkundurEvde ekmeğin tükenmesiUn biter, ekmek biter, gelsin ödünçlerUnutacak mısın yüreğim
-Başın dönerdi sabahlarıHer atılan bomba bir parçaYiyecek alır giderdiİkinci Dünya Savaşı sırtından geçtiUnutacam mısın yüreğim
-Birçokları kahraman oldularBüyük oldu adlarıKara binitleri sırtından geçtiUnutacak mısın yüreğim
-Birçokları kahraman oldularBüyük oldu adları Kara binitleri sırtından geçtiUnutacak mısın yüreğim
-Şimdi çocukları doyurup giydirdikçeParklara, çarşılara götürdüğündeKendini, kendi çocukluğunuUnutacak mısın yüreğim
-Dünya uçurtmayla balonkenKırmızı ve mavi tayfın bütün renkleriSana zehir zindan edenleriBağışlayacak mısın
-Sen, senin adına bağışlayabilirsinO zamanOttan ve açlıktan ve bilcümle haşeredenCümle dertten hastalıktanÖlenler ve kalanlar seni bağışlamayacaklarDuyuyor musun yüreğim
-Unutma sakın unutmaBağışlama sakınSakın düşmanını sevme, sakın susmaBekle büyük kavgayı bekleAnlıyor musun yüreğim.
+Küçük, küçücük bir kızken
+Unutacak mısın yüreğim
+Bir kurdele bir pabuç yüzünden
+Unutacak mısın yüreğim
+Şimdi de onulmaz korkundur
+Evde ekmeğin tükenmesi
+Un biter, ekmek biter, gelsin ödünçler
+Unutacak mısın yüreğim
+Başın dönerdi sabahları
+Her atılan bomba bir parça
+Yiyecek alır giderdi
+İkinci Dünya Savaşı sırtından geçti
+Unutacam mısın yüreğim
+Birçokları kahraman oldular
+Büyük oldu adları
+Kara binitleri sırtından geçti
+Unutacak mısın yüreğim
+Birçokları kahraman oldular
+Büyük oldu adları 
+Kara binitleri sırtından geçti
+Unutacak mısın yüreğim
+Şimdi çocukları doyurup giydirdikçe
+Parklara, çarşılara götürdüğünde
+Kendini, kendi çocukluğunu
+Unutacak mısın yüreğim
+Dünya uçurtmayla balonken
+Kırmızı ve mavi tayfın bütün renkleri
+Sana zehir zindan edenleri
+Bağışlayacak mısın
+Sen, senin adına bağışlayabilirsin
+O zaman
+Ottan ve açlıktan ve bilcümle haşereden
+Cümle dertten hastalıktan
+Ölenler ve kalanlar seni bağışlamayacaklar
+Duyuyor musun yüreğim
+Unutma sakın unutma
+Bağışlama sakın
+Sakın düşmanını sevme, sakın susma
+Bekle büyük kavgayı bekle
+Anlıyor musun yüreğim.
 
 Gülten AKIN
 
-### Mernuşun
+## Mernuşun
 Türküsü
 
-Tomurcuk patlarken dağıttığı ışığıTay büyürken dağıttığı ışığıGülü gül diye sevmeyiÇok var dostum gibi özledim
-Güz geldi geçtiSarı yaprak kuru dal derlendiSırtını ağaca verdi bahçıvanOturdu kendine tütün sardıİnce sular yatağını bulduGök durulduBen güzü görmedimGöğü görmedimDalı bahçıvanı görmedim
-Sonuncu Roma da eskidiTaşa kesti Mernuş, Tebernuş, KıtmirOysa çıldırmanın çağıdırAç sımsıkı çektiğin perdeleriÖlümlerle zulumlarlaSarsma bedenimi öyleDaldığım kan uykudanUsul usul uyandır
+Tomurcuk patlarken dağıttığı ışığı
+Tay büyürken dağıttığı ışığı
+Gülü gül diye sevmeyi
+Çok var dostum gibi özledim
+Güz geldi geçti
+Sarı yaprak kuru dal derlendi
+Sırtını ağaca verdi bahçıvan
+Oturdu kendine tütün sardı
+İnce sular yatağını buldu
+Gök duruldu
+Ben güzü görmedim
+Göğü görmedim
+Dalı bahçıvanı görmedim
+Sonuncu Roma da eskidi
+Taşa kesti Mernuş, Tebernuş, Kıtmir
+Oysa çıldırmanın çağıdır
+Aç sımsıkı çektiğin perdeleri
+Ölümlerle zulumlarla
+Sarsma bedenimi öyle
+Daldığım kan uykudan
+Usul usul uyandır
 
 Gülten AKIN
 
-### Oğlanın
+## Oğlanın
 Türküsü
 
-Bizim erkeklerimizDört mevsim bahar gibidirSevişirken yeniden doğar gibidirAl atla savaşa girer gibidirGüzel olur çocuklarımız
-Çokturlar, çabuk boylanırlarBir aylıkken güler, ikisinde türküye dururlarBeşinde sığırtmaç, yedisinde sevdalıdırlarOn birinde düğüne ve rakıya ve mavzereOlursa kır, olmazsa doru.Yirmisinde, dokusu bir   meydanlarda ölürler
-Ey gerçek sesimiz ey büyük kavgaUmut iki midir, bir midir?Düşman şaşkın mıdır, kör müdür?Kurşun yediveren gül müdür?Vurulan ölmüyor, bu nasıl vurma?
-Ey gerçek sesimiz en büyük kavgaDağlarda suskunluk sürmeli midir?Hayınlara aman vermeli midir?Marşlar alanlarda durmalı mıdır?Sesi iletmiyor, bu nasıl hava?
-Derken, mutlu uykulara yatamayanlarYirmilerde yar elini tutamayanlarDağa başlarlar.Dağa başlarlar, çete düşlerlerBurda olmazsa ordaVurur gider yadellere varırlar
-Bu gerçek sanımız, bu büyük sevaSabah ılımında üveyik midir?Akar suda kayık mıdır?Bir alaca geyik midir?Çeker götürür kana.
-Haksızlık nerde olursa olsunZulüm nerden gelirse gelsinBarışla, sevgiyla olmayacaksaEy gerçek sesimiz, ey büyük kavgaYankılan dağdan dağlaraYankılan dağdan dağlara
+Bizim erkeklerimiz
+Dört mevsim bahar gibidir
+Sevişirken yeniden doğar gibidir
+Al atla savaşa girer gibidir
+Güzel olur çocuklarımız
+Çokturlar, çabuk boylanırlar
+Bir aylıkken güler, ikisinde türküye dururlar
+Beşinde sığırtmaç, yedisinde sevdalıdırlar
+On birinde düğüne ve rakıya ve mavzere
+Olursa kır, olmazsa doru.
+Yirmisinde, dokusu bir   meydanlarda ölürler
+Ey gerçek sesimiz ey büyük kavga
+Umut iki midir, bir midir?
+Düşman şaşkın mıdır, kör müdür?
+Kurşun yediveren gül müdür?
+Vurulan ölmüyor, bu nasıl vurma?
+Ey gerçek sesimiz en büyük kavga
+Dağlarda suskunluk sürmeli midir?
+Hayınlara aman vermeli midir?
+Marşlar alanlarda durmalı mıdır?
+Sesi iletmiyor, bu nasıl hava?
+Derken, mutlu uykulara yatamayanlar
+Yirmilerde yar elini tutamayanlar
+Dağa başlarlar.
+Dağa başlarlar, çete düşlerler
+Burda olmazsa orda
+Vurur gider yadellere varırlar
+Bu gerçek sanımız, bu büyük seva
+Sabah ılımında üveyik midir?
+Akar suda kayık mıdır?
+Bir alaca geyik midir?
+Çeker götürür kana.
+Haksızlık nerde olursa olsun
+Zulüm nerden gelirse gelsin
+Barışla, sevgiyla olmayacaksa
+Ey gerçek sesimiz, ey büyük kavga
+Yankılan dağdan dağlara
+Yankılan dağdan dağlara
 
 Gülten AKIN
 
-### Seni Sevdim
+## Seni Sevdim
 
 Seni sevdim, seni birdenbire değil usul usul sevdim
 "Uyandım bir sabah" gibi değil, öyle değil
@@ -564,7 +693,7 @@ Seni sevdim. Artık tek mümkünüm sensin
 
 Gülten AKIN
 
-### Sevda Kalıcıdır
+## Sevda Kalıcıdır
 
 Kayboldum
 Bir köpeğin bir çocuğu beklediği gibi
@@ -596,7 +725,7 @@ Siz hepiniz ölüleri ve mezarları seversiniz
 
 Gülten AKIN
 
-### Sevi Dizeleri
+## Sevi Dizeleri
 
 Özlemi beş geçe de
 Ölüme yarım kala
@@ -627,7 +756,7 @@ Sesin sesime katışıyor
 
 Gülten AKIN
 
-### Sığda
+## Sığda
 
 Sokağı beğendim mi bir bakıp pencereden
 Çıkıp gitmek olmalı özelliğim bu benim
@@ -649,7 +778,7 @@ Ey ses, ey yakın geçmişe ağzımla verdiğim.
 
 Gülten AKIN
 
-### Uzun
+## Uzun
 Yağmurlardan Sonra
 
 Sen yağmurlu günlere yakışırsın
@@ -670,7 +799,7 @@ Düşerse beni unutma
 
 Gülten AKIN
 
-### Üşümekten Değil Korku
+## Üşümekten Değil Korku
 
 Yorgun savaşçılarız, yengiler eskitti bizi
 Utanırız tadına varmaktan içkilerimizin
@@ -685,7 +814,7 @@ Yılgın savaşçılarız, sevgiler ürküttü bizi
 
 Gülten AKIN
 
-### Yağmur Yağmur
+## Yağmur Yağmur
 
 Yağmur, yağmur... Bu neyi anlatır?
 Bunca siste bunca ıslak serçe
@@ -703,7 +832,7 @@ Aklı bir köşesinden tutup kaldırmıştır.
 
 Gülten AKIN
 
-### Yaz
+## Yaz
 
 Sevdiğim yaz geldi yine
 Karıncalar ve sineklerle çıktık yeryüzüne
@@ -794,7 +923,7 @@ Sevdiğim yaz geldi yine
 
 Gülten AKIN
 
-### Yitikler Gecesi
+## Yitikler Gecesi
 
 Şimdi dünya boşlukta yavaş
 Sen bütün canlılardan uzaksın yalnızsın

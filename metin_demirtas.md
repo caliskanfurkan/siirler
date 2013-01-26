@@ -1,8 +1,9 @@
-## Metin DEMİRTAŞ
+# Metin DEMİRTAŞ
 
-### Abdulkadir Bulut'u Anarken
+## Abdulkadir Bulut'u Anarken
 
 Arkadaşlarla 
+
 'i anıyorduk ki
 Birden ortalığı
 Kekik ve nane kokusu sardı
@@ -10,11 +11,12 @@ Kekik ve nane kokusu sardı
 Yahu arkadaşlar
 Hele bir bakın
 Şiirleriyle sokaktan
+
  geçiyor olmasın
 
 Metin DEMİRTAŞ
 
-### Che Guevera
+## Che Guevera
 
 Bizim de dağlarımız vardır Che Guevera
 Bakma şimdi durgunsa, bir şahan gibi duruyorsa
@@ -53,7 +55,7 @@ Bizim de dağlarımız vardır Che Guevera
 
 Metin DEMİRTAŞ
 
-### Daktiloda Bahar Şiiri
+## Daktiloda Bahar Şiiri
 
 Bahçedeki vişne ağacı
 Çiçekten meyveye döndü
@@ -62,7 +64,7 @@ Daktiloda bahar şiiri
 
 Metin DEMİRTAŞ
 
-### Enver Gökçe
+## Enver Gökçe
 
 Kadersizdi
 Kadersizliði
@@ -76,7 +78,7 @@ Ona da þükretsindi
 
 Metin DEMİRTAŞ
 
-### Kız ve Kiraz
+## Kız ve Kiraz
 
 Kiraz ağacındaki kız
 Seker daldan dala
@@ -105,7 +107,7 @@ Yürek üzgüsü
 
 Metin DEMİRTAŞ
 
-### Mektuplar Alırım
+## Mektuplar Alırım
 
 Mektuplar alırım
 Allı-karalı
@@ -147,7 +149,7 @@ Mektuplarıyla yetinirim artık
 
 Metin DEMİRTAŞ
 
-### Mirebeau Köprüsünden Geçerken
+## Mirebeau Köprüsünden Geçerken
 
 Mirebeau Köprüsünden geçtim
 Anarak Apollinaire'i
@@ -184,7 +186,7 @@ Paris bunu bilmez.
 
 Metin DEMİRTAŞ
 
-### Voltada Bir Türkü
+## Voltada Bir Türkü
 
 Günün dolar bir gün sen de
 Özgürlüğü bir gelin gibi takıp koluna
@@ -207,7 +209,7 @@ Hiçbirşey öldürmez insan yüreğini
 
 Metin DEMİRTAŞ
 
-### Yeni Gelin
+## Yeni Gelin
 
 Geldim, konuk oldum evine
 Çardak altı serin

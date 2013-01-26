@@ -1,6 +1,6 @@
-## Celal SILAY
+# Celal SILAY
 
-### Gitti
+## Gitti
 
 İşitmek istediğini bir sağırın
 Sezdi havamızdan geçen şarkı
@@ -24,7 +24,7 @@ Kurudu, gitti!
 
 Celal SILAY
 
-### Hiç Yolunuz Ormana Düştü mü
+## Hiç Yolunuz Ormana Düştü mü
 
 hiç yolunuz ormana düþtü mü
 gözgöre küçük bir adam
@@ -44,7 +44,7 @@ adam küçüktü ama çok
 
 Celal SILAY
 
-### Korku
+## Korku
 
 Gece ormanda bir şey değişmez
 Aklın lambaları altında
@@ -68,7 +68,7 @@ Vücutla orman arasında
 
 Celal SILAY
 
-### Mavi Randevu
+## Mavi Randevu
 
 Mavi bir elbiseyle gelmiştin, gökyüzü maviydi..
 Getirdiğin rüzgarla ev kokuyordun..
@@ -92,7 +92,7 @@ Mendilin maviydi, gökyüzü maviydi..
 
 Celal SILAY
 
-### Nerde
+## Nerde
 
 Küçük bir kız gördümdü çok eskiden
 Annesinin dizi dibinde,
@@ -120,7 +120,7 @@ Ama yüreğimin erince nerde?
 
 Celal SILAY
 
-### Sabah
+## Sabah
 
 Uyanır seccadeler üstünde din,
 Aklın endişeleri yayılır şehre,
@@ -144,7 +144,7 @@ Düşen başların içinde yarın!..
 
 Celal SILAY
 
-### Yanyana
+## Yanyana
 
 Bu gürül gürül otların başında
 Ağacın gölgesine deydi değecek

@@ -1,6 +1,6 @@
-## Ercüment UÇARI
+# Ercüment UÇARI
 
-### Az
+## Az
 
 kor kayalarda az aşka dönük yunus balıkları
 az bir jet uçağı az üçgen
@@ -13,7 +13,7 @@ az öğle güneşi yaban arısı sis dörtgeni
 
 Ercüment UÇARI
 
-### Kısaca
+## Kısaca
 
 Bütün kabahat bende
 Size yalan söyledim
@@ -24,7 +24,7 @@ Bari çekip gidebilsem
 
 Ercüment UÇARI
 
-### O Işıltılı Şey
+## O Işıltılı Şey
 
 Öpüp başıma koyuyorum özgürlüğü
 Ekmek gibi
@@ -32,7 +32,7 @@ Yere atılmış bulunca.
 
 Ercüment UÇARI
 
-### Ut
+## Ut
 
 Ben yaşarsam utlar gibi yaşarım
 Eski zamanlarda gül bahçelerinde

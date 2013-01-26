@@ -1,6 +1,6 @@
-## Salih BOLAT
+# Salih BOLAT
 
-### Adam
+## Adam
 
 onu araştırıyor, yılan balıklarının ıslıkları
         arasında
@@ -12,7 +12,7 @@ ve soluğunda kayalıklardaki kertenkelenin.
 
 Salih BOLAT
 
-### Gidenler
+## Gidenler
 
 birer birer geçtiler yanımdan
 ilk sayfasına anlaşılmaz adresler yazılıp bırakılmış
@@ -36,7 +36,7 @@ birer birer geçtiler yanımdan
 
 Salih BOLAT
 
-### Gravür
+## Gravür
 
 bu dağlar o çok öldüğüm dağlar değil
 eğri büğrü gülen bu çocuk
@@ -52,7 +52,7 @@ umutsuzluk: tabutuma  çakılacak son çivi
 
 Salih BOLAT
 
-### Güzde
+## Güzde
 
 sarayburnu aile çaybahçesindeki bir güz öğlesi
 sen ben ve adını bile bilmediğimiz bir istanbul
@@ -125,7 +125,7 @@ bunu bırakalım şu geçip giden bulutlar düşünsün
 
 Salih BOLAT
 
-### Karanfil
+## Karanfil
 
 demek geldin
 çoktandır hiçbir yerdeydin
@@ -162,7 +162,7 @@ girdabında
 
 Salih BOLAT
 
-### Liman Tablosu
+## Liman Tablosu
 
 alo santral
 bana otel müdürünü bağlayın lütfen
@@ -179,7 +179,7 @@ söyleyin kaldırsınlar
 
 Salih BOLAT
 
-### Sürek
+## Sürek
 
 her sabah
 bir mermi saplanıyor uykusuzluğuma
@@ -192,7 +192,7 @@ yüzümü karanlıkta yitirmekten korkuyorum
 
 Salih BOLAT
 
-### Şarkı Söyle
+## Şarkı Söyle
 
 bugün eve gitme yusuf şarkı söyle
 dersten çıkmışsın bak elin yüzün tebeşir
@@ -217,7 +217,7 @@ bugün eve gitme yusuf şarkı söyle
 
 Salih BOLAT
 
-### Payıma Düşen
+## Payıma Düşen
 
 herkes işinde gücünde
 tohumu alınıp bostanda bırakılmış bir salatalık

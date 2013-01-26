@@ -1,6 +1,6 @@
-## Veysel ÖNGÖREN
+# Veysel ÖNGÖREN
 
-### Dünyamız
+## Dünyamız
 
 Bana bir şarkı söyle
 İçinde sesin olsun
@@ -41,7 +41,7 @@ Adımları yarıda kesilen onun
 
 Veysel ÖNGÖREN
 
-### Halkım
+## Halkım
 
 Anıları vardır
 Halkından;
@@ -153,7 +153,7 @@ Sen koru onu
 
 Veysel ÖNGÖREN
 
-### Karaib Denizine Bir 
+## Karaib Denizine Bir 
 	Yolcunuz Varsa
 
 Ağırıma gidiyor ernesto
@@ -200,7 +200,7 @@ Dost, Mayıs 1968
 
 Veysel ÖNGÖREN
 
-### Sessizlik Bir Güvercin midir?
+## Sessizlik Bir Güvercin midir?
 
 İlkbahar rüzgârı
 Dolaş ev içlerini, işitince

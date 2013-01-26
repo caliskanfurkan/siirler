@@ -1,6 +1,6 @@
-## Metin GÜVEN
+# Metin GÜVEN
 
-### 6. 5. 1972
+## 6. 5. 1972
 
 Onlar
 Çığlığın rengine gelin gittiler
@@ -11,7 +11,7 @@ Ve aylardan mayıs.
 
 Metin GÜVEN
 
-### Aynalar ve Hançer
+## Aynalar ve Hançer
 
 Yaralısındır, yaranı kimseler sarmaz
 Dolaşır içinde dolunaylar
@@ -26,7 +26,7 @@ Duyulmuyor sevda sesleri.
 
 Metin GÜVEN
 
-### Çünkü Kör Kulakların
+## Çünkü Kör Kulakların
 
 Bir öykünün sularında dolaşıyorlar
 Sorguluyorlar kanadı kırık güvercileri
@@ -42,7 +42,7 @@ Yine de duymuyorlar beni bir türlü
 
 Metin GÜVEN
 
-### Düş ve Gerçek
+## Düş ve Gerçek
 
 Uzun bir eteğin pilesine takılıyor gözlerim
 Denizden çıkmış balıklara benzeyen kazağın rengine
@@ -51,7 +51,7 @@ Hem düş, hem gerçek olduk birbirimize.
 
 Metin GÜVEN
 
-### Düşük
+## Düşük
 
 Bağırıyor
 Urganla boğulan kuşlar gibi
@@ -63,7 +63,7 @@ Kaçarlar böğürtlen gölgesine.
 
 Metin GÜVEN
 
-### Gazel Gibi
+## Gazel Gibi
 
 Yıllardır yağmaladım durdum kendimi
 Dünyanın bütün yalanları kendi gerçeğim oldu
@@ -73,7 +73,7 @@ Ne kendimi tanıdım, ne onu öğrenecek zamanım oldu.
 
 Metin GÜVEN
 
-### Gece Konuşmaları
+## Gece Konuşmaları
 
 Kırılgan kadınlara
 Koşuoyr kalbim
@@ -87,7 +87,7 @@ Kırılsın
 
 Metin GÜVEN
 
-### Geriye Söz Kalır
+## Geriye Söz Kalır
 
 Her beden
 Kendini taşır
@@ -107,7 +107,7 @@ Geriye söz kalır.
 
 Metin GÜVEN
 
-### Gümüş Rüzgâr
+## Gümüş Rüzgâr
 
 Ay oynuyor geceyle
 Akıyor zaman sulardan geçerek
@@ -120,7 +120,7 @@ Peleriniyle dolaşan gümüş rüzgâr.
 
 Metin GÜVEN
 
-### İksir
+## İksir
 
 Mor duvarlar kuşatıyor beni
 Üzerimden geçiyor sanki dünya
@@ -134,7 +134,7 @@ Gül suyunda yıkanan aynaya
 
 Metin GÜVEN
 
-### Kara Kedi
+## Kara Kedi
 
 - Arap için
 
@@ -148,7 +148,7 @@ Düşlerinde beyaz bir mendil, uyukluyor kara kedi.
 
 Metin GÜVEN
 
-### Kilit
+## Kilit
 
 Yitiriyor belleğini dünya
 İnsanda
@@ -170,7 +170,7 @@ Seslerden yarattım sessizliği.
 
 Metin GÜVEN
 
-### Masal
+## Masal
 
 Ölüm demiş ki hayata
 - Dilediğince örsele kendini
@@ -185,7 +185,7 @@ Sulara ve yeşil kana.
 
 Metin GÜVEN
 
-### Mutlaka Bursa
+## Mutlaka Bursa
 
 durdum ve kayboldum sonra
 durdum ve yürüdüm
@@ -213,7 +213,7 @@ bir hançer gölgesinde
 
 Metin GÜVEN
 
-### Pelerin
+## Pelerin
 
 Bir adın pelerin, diğer yalnızlık
 Siyah kadifeler içindesin
@@ -225,7 +225,7 @@ Sönüyor uykuyla beslenen kandil.
 
 Metin GÜVEN
 
-### Semender
+## Semender
 
 Uykunun cinnetine düşüyor
 Sağır bir aşkın gölgesi
@@ -236,7 +236,7 @@ Bakmıyor bile güneşin rengine.
 
 Metin GÜVEN
 
-### Sevdigim Kadın Kim
+## Sevdigim Kadın Kim
 
 - Simyacı'ya
 
@@ -258,7 +258,7 @@ Kalbimi delen rüzgârın rengini.
 
 Metin GÜVEN
 
-### Tehlike
+## Tehlike
 
 Unut beni
 Denizlere karşı ağlayan
@@ -274,7 +274,7 @@ Tehlike.
 
 Metin GÜVEN
 
-### Ufunet
+## Ufunet
 
 Kaç kere öldüm
 Doğduğum günden bu yana
@@ -288,9 +288,10 @@ Gelsin, sevgilim olsun yeter.
 
 Metin GÜVEN
 
-### Uykularda
+## Uykularda
 
-- 'a
+- 
+'a
 
 
 Neden sonra geldiler
@@ -307,7 +308,7 @@ Gerildi dikenli teller.
 
 Metin GÜVEN
 
-### Yeşil Bir Ceviz Gibi
+## Yeşil Bir Ceviz Gibi
 
 Yaz geliyor tutarak elinden güneşin
 Yürümek için saldırgan denizlere doğru
@@ -322,7 +323,7 @@ Bense dönüyorum yüne yüzümü sana
 
 Metin GÜVEN
 
-### Yüreğin Yerinde Kalsın
+## Yüreğin Yerinde Kalsın
 
 Simurg, ışığını gizlemek için
 Geceyle yıkanmış yangınlara koşuyor
@@ -334,7 +335,7 @@ Yüreğin yerinde kalsın, gerekebilir
 
 Metin GÜVEN
 
-### Yürüyen Kentler
+## Yürüyen Kentler
 
 Anne ve oğul:
 Soğuk gecelerin suç ortakları

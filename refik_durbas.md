@@ -1,6 +1,6 @@
-## Refik DURBAŞ
+# Refik DURBAŞ
 
-### Ağıtlar
+## Ağıtlar
 
 Gözleri bir umudu, bir dalgınlığı yaşıyor
 Ağzında kalabalık bir öpüşme ormanı
@@ -9,7 +9,7 @@ yüzünde küçük inzal kuşları.
 
 Refik DURBAŞ
 
-### Anıt
+## Anıt
 
 Halkın ulusu, rüzgârın kardeşiydi onlar
 ateşin övündüğü üç alınteri nebisi
@@ -26,7 +26,7 @@ Halkın ulusu, rüzgârın kardeşiydi onlar
 
 Refik DURBAŞ
 
-### Bin Kuş Ayışığında
+## Bin Kuş Ayışığında
 
 Şimdi senin soluğunda akşam
 çiçekler ve sular kadar yalnızım
@@ -35,7 +35,7 @@ bin kuş esiyor sanki ayışığından
 
 Refik DURBAŞ
 
-### Çırak Aranıyor
+## Çırak Aranıyor
 
 Elim sanata düşer usta
 Dilim küfre, yüreğim acıya
@@ -54,7 +54,7 @@ Bana mı düşer usta?
 
 Refik DURBAŞ
 
-### Hücremde Ayışığı
+## Hücremde Ayışığı
 
 Sesimi sesinin üstüne koyma
 kara gecede, karanlıkta, acılı
@@ -106,7 +106,7 @@ yüzümde kelepçesi tutuklu rüzgâr
 
 Refik DURBAŞ
 
-### Majüskül Bir Kadın Yüzüne
+## Majüskül Bir Kadın Yüzüne
 
 Eski yazma kitaplarda aranan
 saçları kadifeli ipek bir kadın
@@ -128,7 +128,7 @@ tahta atıyla geçtiği günlerden
 
 Refik DURBAŞ
 
-### Menzil
+## Menzil
 
 Onlar ki aydınlık üzre
 ecel toprağına
@@ -153,7 +153,7 @@ süzdüler. Ay dolandı vay deli gönlüm
 
 Refik DURBAŞ
 
-### Özeti
+## Özeti
 
 Kuşların dilini öğrettin bana
 çiçeklerin dilini
@@ -190,7 +190,7 @@ Nasıl ve niçin mi sevmedim seni?
 
 Refik DURBAŞ
 
-### Pusula
+## Pusula
 
 Annemin öldüğü yaşı çoktan geçtim
 suyun vefası ve acılar
@@ -218,7 +218,7 @@ Biri Refik, öteki Durbaş aslında
 
 Refik DURBAŞ
 
-### Söz
+## Söz
 
 Yazılsam ayrılığın menziline
 söz nereye uçar
@@ -232,7 +232,7 @@ ses nereye uçar
 
 Refik DURBAŞ
 
-### Tezgahtar Kızlar
+## Tezgahtar Kızlar
 
 Sabahı onlar uyandırır
 çıplak yüzlerinin ufkundan
@@ -261,7 +261,7 @@ akşam, onlarla kararır
 
 Refik DURBAŞ
 
-### Tuzak
+## Tuzak
 
 Nefretin adresini mi soruyorsun
 cinnet yağmurunda kimsesiz kuşların
@@ -296,7 +296,7 @@ Yüzüne ay doğmakta. Seviyorum seni
 
 Refik DURBAŞ
 
-### Vur
+## Vur
 
 Buğdayın, petrolün ve alınterin
 yabancı ırmaklara akıyorsa
@@ -312,7 +312,7 @@ gönülden doğan acıyı vurma
 
 Refik DURBAŞ
 
-### Yaz
+## Yaz
 
 Kan fışkırıyor topraktan. Yaz geldi
 dağlara. Pınarlarım kurudu.
@@ -327,7 +327,7 @@ bir kuş tufanı şimdi
 
 Refik DURBAŞ
 
-### Hücremde Ayışığı
+## Hücremde Ayışığı
 
 Sesimi sesinin üstüne koyma
 kara gecede, karanlıkta, acılı

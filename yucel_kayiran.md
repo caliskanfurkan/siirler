@@ -1,6 +1,6 @@
-## Yücel KAYIRAN
+# Yücel KAYIRAN
 
-### Beni Hiç Göremezsin!
+## Beni Hiç Göremezsin!
 
 hafızadır!
 benim aklıma beladır!
@@ -27,7 +27,7 @@ beni hiç göremezsin!
 
 Yücel KAYIRAN
 
-### Cıva
+## Cıva
 
 muslukta su var, akar.. biliyorum
 kalemde mürekkep.. yazar
@@ -56,7 +56,7 @@ Bu cıvayı kim koydu kalbimize Necati!
 
 Yücel KAYIRAN
 
-### Fener Alayı 
+## Fener Alayı 
 
 gökyüzünde patladı ampul!
 sahile doğru iniyordum
@@ -126,7 +126,7 @@ akıl  neden  tutkal oldu bana!
 
 Yücel KAYIRAN
 
-### Fü 
+## Fü 
 
 hu diyecektim, hu
 duy ve eksilt sesimi,
@@ -183,7 +183,7 @@ Bu cıvayı kim koydu kalbimize Necati!
 
 Yücel KAYIRAN
 
-### Koridor
+## Koridor
 
 Yağmur yağıyordu, sonra eve döndüm
 kendimi dışarıya bırakmakla perişan
@@ -214,7 +214,7 @@ göğsümde cereyan yapan bir fırtına
 
 Yücel KAYIRAN
 
-### Rüzgâr
+## Rüzgâr
 
 Çözülüyor ruhundaki sıva, dökülüyor duvar
 derin bir oyuk açılıyor içindeki mağarada
@@ -276,7 +276,7 @@ gözlerinin kıyısındaki ruhuna
 
 Yücel KAYIRAN
 
-### Suret
+## Suret
 
 Dil kapalıydı kendimi ifade için
 sözden yazıya döndüm

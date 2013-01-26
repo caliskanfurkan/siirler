@@ -1,6 +1,6 @@
-## Onur CAYMAZ
+# Onur CAYMAZ
 
-### Bir Askerin Tren Düdükleri
+## Bir Askerin Tren Düdükleri
 
 kolunda çavuşun altın kaplama saatiyle
 eve sıhhatim yerinde demek istiyordu belki
@@ -30,7 +30,7 @@ cıgarasında tren düdükleri
 
 Onur CAYMAZ
 
-### Minör
+## Minör
 
 ıskalıyorum gözlerine inen denizde benzin 
  yanması gibi kesin bir şarkı duyuluyor açık  penceredir
@@ -51,7 +51,7 @@ Onur CAYMAZ
 
 Onur CAYMAZ
 
-### Tango Dersleri
+## Tango Dersleri
 
 1.
 tango öğretirdim gramafon bir zamanda

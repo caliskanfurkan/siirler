@@ -1,6 +1,6 @@
-## Cihan OĞUZ
+# Cihan OĞUZ
 
-### Aşkla Satranç
+## Aşkla Satranç
 
 İlk hamle kendi kalbine çekincesiz
 Duru bir suyun çamur içinden akarak
@@ -40,7 +40,7 @@ nasıl incitirse ve ansızın yeni korkular yüklerse
 
 Cihan OĞUZ
 
-### Girdap ve Safir
+## Girdap ve Safir
 
 XVII.
 
@@ -75,7 +75,7 @@ ansızın çırılçıplak...
 
 Cihan OĞUZ
 
-### İt Dalaşı
+## İt Dalaşı
 
 Kalbinle giriştiğin bir haksız mücadele bu
 Kendi yüzüne attığın pençedir aşkın mührü
@@ -121,7 +121,7 @@ Gökyüzüne darılıp kalır anılara yetişemeyen o evcil akbaba
 
 Cihan OĞUZ
 
-### Sigara Kağıdına Yazılan Şiir
+## Sigara Kağıdına Yazılan Şiir
 
 Kimsenin kimsesi yok kendinden başka
 Böyle diyor ayyaşhaneden ayık çıkan tek adem
@@ -168,7 +168,7 @@ Bu sözler de buharlaşıp gider içinde uyuklayan öyküye
 
 Cihan OĞUZ
 
-### Sonrasızlık
+## Sonrasızlık
 
 -babama-
 

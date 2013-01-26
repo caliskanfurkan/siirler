@@ -1,6 +1,6 @@
-## Ayten MUTLU
+# Ayten MUTLU
 
-### Bir Sen Biliyorsun
+## Bir Sen Biliyorsun
 
 gövdemden daha dar evimin odaları
 boşluğa asılmış martılar duruşu bu
@@ -19,7 +19,7 @@ uçur beni kanatların sırdaş beyazlığına
 
 Ayten MUTLU
 
-### Bir Tanımı Olmalı
+## Bir Tanımı Olmalı
 
 bu acının bir tanımı olmalı
 bana hiç söylenmemiş sözcükler gerek
@@ -54,7 +54,7 @@ bana rüzgâr dilinden sözcüklere gerek
 
 Ayten MUTLU
 
-### Dörtlükler
+## Dörtlükler
 
 aşktır ölümlerin varamadığı
 o en gizli tapınağı insanın
@@ -99,7 +99,7 @@ güz ayrılık şarkısını unutuverdi
 
 Ayten MUTLU
 
-### Gitme
+## Gitme
 
 dur
 uyanan güz çiçeklerinin
@@ -125,7 +125,7 @@ gitme
 
 Ayten MUTLU
 
-### Göç
+## Göç
 
 sürüklemek maviye doğduğun alacayı
 serçenin kanadına
@@ -133,7 +133,7 @@ asıp bir akbabayı
 
 Ayten MUTLU
 
-### Hayat
+## Hayat
 
 Hades'ten geliyorum, ayağım toprak
 yürüyorum Hades'e
@@ -141,7 +141,7 @@ göğün mavi korlarına basarak
 
 Ayten MUTLU
 
-### Ölüm
+## Ölüm
 
 sırça atın mavi kanatlarına
 inen sabırsız balyoz
@@ -149,7 +149,7 @@ karışırken yelesi rüzgârın saçlarına
 
 Ayten MUTLU
 
-### Saklambaç
+## Saklambaç
 
 ebenin gözleri doğuştan kördü
 sobelemek isterken mavi Tansık Kuşu'nu
@@ -157,7 +157,7 @@ açıldı gözleri ölümü gördü
 
 Ayten MUTLU
 
-### Sen, Düşüm Benim
+## Sen, Düşüm Benim
 
 izlerinde içim gümüşleniyor
 yerçekimsiz tozlarla uçuşuyor renklerim
@@ -185,7 +185,7 @@ gitmek gibi sızılı bir titreşim ışıklarda
 
 Ayten MUTLU
 
-### Yalnızlık
+## Yalnızlık
 
 ruhundaki delik deşik bıçkın kayığı
 terkedip girdapların çılgın dansında
@@ -193,7 +193,7 @@ sığınmak mavisiz bir limana
 
 Ayten MUTLU
 
-### Yol Ayrımında
+## Yol Ayrımında
 
 hüzün ikizidir aşkın
 birlikte otururlar yol ortasında
@@ -212,7 +212,7 @@ birlikte susarlar yol ayrımında
 
 Ayten MUTLU
 
-### rüzgâr
+## rüzgâr
 
 kadın kum tanesinden bile küçüktü
 daha küçüktü deniz kadındaki acıdan

@@ -1,6 +1,6 @@
-## Cem DURAN
+# Cem DURAN
 
-### Akasyalar Bu Sabah
+## Akasyalar Bu Sabah
 
 Yüzünü ve yüzbin yüzünü 
 Siyah beyaz bir fotoğraf sergisini gezer gibi gezdim 

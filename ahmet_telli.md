@@ -1,52 +1,74 @@
-## Ahmet TELLİ
+# Ahmet TELLİ
 
-### Akbabalar Kelebekler
+## Akbabalar Kelebekler
 
-AKBABALAR KELEBEKLER 
+AKBABALAR 
+KELEBEKLER 
 Yüreği ağzında bir çocuk 
+
 Gibi alırken kalemi elime 
+
 Beceriksiz, acemi ve olasıya 
+
 Yapayalnızım her defasında 
 
 
 Bu sonuncu olsun diyorum 
+
 Ömrümün eksiksiz tek şiiri 
+
 Yazılsın artık kırk yaşımın 
+
 Ve bir aşkın bittiği bu gece 
 
 
 Akbabalar bin yıl kelebekler  
+
 Bir mevsim yaşarlarmış ki aşk 
+
 Da kısa ömürlüdür, başlar 
+
 Gibi biter yaşanmışsa eğer 
 
 
 Yaşanan ne varsa hoşgörünün 
+
 Bir parçasıdır artık ama ben 
+
 Yine de yakabilirim bu gece 
+
 Bütün anılarımı bir şiir için 
 
 
 Sonra irkiliyorum, anılarım yoksa 
+
 Dostlarım da terkedilmiştir yangın 
+
 Sürüp dururken yurdumda ki o zaman 
+
 Kıymeti harbiyesi nedir bu şiirin 
 
 
 Sabaha karşı dilim paslı 
+
 Beynim keçeleşmiştir ve yangın 
+
 Yalnızlığıma sıçrarken üşüyor 
+
 Bütün sözcükler. Umut yoktur 
 
 
 Yüreğim diyorum, kekeme 
+
 Alıngan, serseri yüreğim 
+
 Sen nerden bilebilirsin 
+
 Bir şiirin nasıl yazıldığını
 
 Ahmet TELLİ
 
-### Akşamı Geciktirebilirsin Belki
+## Akşamı Geciktirebilirsin Belki
 
 eride için  
 Gün batarken sula fesleğenleri  
@@ -75,22 +97,29 @@ Usulca inse de koldemirleri 
 
 Ahmet TELLİ
 
-### Ana
+## Ana
 
 Kayıp duruyor bakışları  
+
 duvardaki resme ve kapıya  
+
 oğul mu beklediği, sevgili mi  
 Belli ki yaşıyorlar hala  
+
 uzun uzun yaşıyorlar belli ki  
+
 bırakıp gittikleri anılarıyla  
+
 Çıkıp gelirler bir gün belki  
+
 Üşümüştür çünkü toprağın  
+
 soğuk yalnızlığında birisi  
 Öteki arkasında parmaklığın
 
 Ahmet TELLİ
 
-### Anısı Biz Olalım Bu Sokakların
+## Anısı Biz Olalım Bu Sokakların
 
 Anısı biz olalım bu sokakların  
 öpüşmediğimiz tek saçak altı  
@@ -125,7 +154,7 @@ yeni sevinçler buluruz hüzne benzeyen
 
 Ahmet TELLİ
 
-### Aşk Bitti
+## Aşk Bitti
 
 F.E.S. ve öbürleri için
 Bir aşk nasıl biterse öyle bitti bu aşk da 
@@ -146,15 +175,17 @@ Aşk bitti işte tam da öyle
 
 Ahmet TELLİ
 
-### Aşklar mı
+## Aşklar mı
 
 Senin incindiğin benimse  
 Yollara düştüğümdür yeniden  
-AŞKLAR MI / II  
+AŞKLAR MI / II
+  
 Biten bir aşk için  
 Söylenecek söz şu olmalı:  
 - Güzeldi yine de  
-AŞKLAR MI / III  
+AŞKLAR MI / III
+  
 Hiç kimse bir aşkı  
 Onarmaya kalkmasın  
 Kaybedilmeye değer  
@@ -162,7 +193,7 @@ En güzel anında bitirilmişse eğer
 
 Ahmet TELLİ
 
-### Ayrılık Ayracı
+## Ayrılık Ayracı
 
 Bütün ayraçları kaldırdın ama unuttuğun 
 Bir şey vardı yine de, çiçekleri sulamadın  
@@ -197,9 +228,12 @@ Ama unutmuşsun yine de ayrılık ayracını
 
 Ahmet TELLİ
 
-### Bekle Beni
+## Bekle Beni
 
-Karlar tozarken bekle                               Ortalık ağarırken bekle                               Kimseler beklemezken bekle beni                                                                   -K.Simonov 
+Karlar tozarken bekle
+                               Ortalık ağarırken bekle
+                               Kimseler beklemezken bekle beni
+                                                                   -K.Simonov 
   
 I 
 Bekle beni küçüğüm 
@@ -284,7 +318,7 @@ beke beni küçüğüm
 
 Ahmet TELLİ
 
-###  Belki Yine Gelirim
+##  Belki Yine Gelirim
 
 Dudaklarımı kanatırcasına ısırıyorum günlerdir
 Her sözcük dilimin ucunda küfre dönüyor çünkü
@@ -355,7 +389,7 @@ Belki yine gelirim, sesime ses veren olursa bir gün...
 
 Ahmet TELLİ
 
-### Çocuksun Sen
+## Çocuksun Sen
 
 atılmış bir adımdın sen 
 Ömrümüzse karşılıksız sorulardı hepsi bu 
@@ -429,7 +463,7 @@ Nasıl gidip geliyor gidip geliyorsa öyle
 
 Ahmet TELLİ
 
-### Dövüşen Anlatsın
+## Dövüşen Anlatsın
 
 Elimizde acının kehribar tesbihi
 ki kayıp durmakta parmaklarımızdan
@@ -444,7 +478,7 @@ dövüşen anlatsın
 
 Ahmet TELLİ
 
-### Eski Bir Hüzünle
+## Eski Bir Hüzünle
 
 Günlerdir eski bir hüzünle çıkıyorum voltaya 
 (kötüye işaret bu, üstelik yalnızlığa sığınıyorum) 
@@ -466,13 +500,16 @@ Kısa süren hastalıklar vardır ya, işte öyle
 geçip gidiyor akşama doğru hüzün bulutu 
 resmini asıyorum ranzamın başucuna yine 
 ve bir türkü tutturuyorum günün son çayında 
+
 -Teslim olmayalım halilim kurşun atalım!
 
 Ahmet TELLİ
 
-### Gitmek
+## Gitmek
 
-Bu vadideki karanlığı                        ve büyük soğuğu düşün                                              B. Brecht
+Bu vadideki karanlığı
+                        ve büyük soğuğu düşün
+                                              B. Brecht
 Gitmek. Bir hançeri inceltip 
 Okyanusa daldırmak isteği 
 Ya da düşebilmek atlasların 
@@ -491,166 +528,273 @@ Kederin o derin yalnızlığından
 
 Ahmet TELLİ
 
-### Göç
+## Göç
 
 GÖÇ 
 
 
 Göç oldu bir acıdan öbür acıya 
+
 oysa sağrısı kurumamıştı atımızın 
+
 daha dün sürüp gelmiştik buralara 
+
 bugün göründü yine yolların ucu 
 
 
 Devrildi kıl çadırlar seher vakti 
+
 usulca uyandırıldı çocuklar 
+
 ve kadınlar bohçası çözülmemiş 
+
 bir keder gibi gibi düştüler yola 
 
 
 Turnalar gitti biz gittik 
+
 bitmedi peşimizdeki nal sesleri 
+
 nerde konaklasak tedirgindik 
+
 kuruyordu ırmaklar ve göller 
 
 
 Bir yangın gibi taşıyıp durduk 
+
 kederi ve acıyı göğsümüzde 
+
 yer gök duman içindeydi sanki 
+
 genzimizi   yakıyordu ayrılıklar 
 
 
 Zulüm bırakmadı peşimizi hiç 
+
 biz gittik o buldu izimizi 
+
 konar göçer olduk yedi iklimde 
+
 tanığımızdır dağlar taşlar 
 
 
 Yalnız bir öfke ışıltısı kaldı 
+
 gözlerimizin yorgun sularında 
+
 yaşamak bir inat oldu artık 
+
 yaşamak bir direnme oldu zulme 
 
 
 Ve işte devrildi yine kıl çadırlar 
+
 göç başladı bir acıdan bin acıya 
+
 Geride akşamın küllenen ateşi 
+
 ve susturulmuş çocuk sevinçleri kaldı  
 
 
  
+
 (Su Çürüdü)
 
 Ahmet TELLİ
 
-### Gülüşün Eklenir Kimliğime
+## Gülüşün Eklenir Kimliğime
 
 Gün biter gülüşün kalır bende 
+
 anılar gibi sürüklenir bulutlar 
+
 Ömrümüz ayrılıklar toplamıdır 
+
 yarım kalan bir şiir belki de 
+
   
+
 Aykırı anlamlar arayıp durma 
+
 güz biter sular köpürür de 
+
 kapanmaz gülüşünün açtığı yara 
+
 uçurum olur cellat olur her gece 
+
   
+
 Her gece yeniden bir talan başlar 
+
 acı ses olur, ses deli bir yağmur 
+
 eski bir eylüle gireriz böylece 
 
 
 Sığındığım her yer adınla anılır 
+
 ben girerim, sokağı devriyeler basar 
-bir de gülüşün eklenir kimliğime 
+
+bir de gülüşün eklenir kimliğime
+ 
 
  
+
 (Belki Yine Gelirim)
 
 Ahmet TELLİ
 
-### Güz Gelmeden
+## Güz Gelmeden
 
 GÜZ GELMEDEN 
 
 
 Sırtında taşıdığın kıl heybe 
+
 dağ rüzgârı ve
 lor peyniri 
+
 gibi doluysa kır çiçekleriyle 
+
 sesler türkülere dönecektir 
+
 üzünçse ışıklı bir sevince 
 
 
 Dudaklarında özlem türküleri 
+
 ve gözlerinin menevşesinde aşk 
+
 çağıldıyorsa çavlanlar gibi 
+
 usulca gir umudun menziline 
+
 hüznü gerilerde bırak 
 
 
 Türküler paylaşılıyorsa eğer 
+
 dağ rüzgârları
 paylaşılıyorsa 
+
 sevinç de dahildir buna 
+
 ve o zaman bütün bir yaşam 
+
 paylaşılacak kadar güzeldir artık 
 
 
 Heybendeki kır çiçekleri 
+
 bir yangındır güze doğru 
+
 tutuşturur yüreğinde 
+
 uzak özlemlerin külünü 
+
 hiç beklemediğin bir anda 
 
 
 Güz gelip de yangın başlamadan 
+
 tutmalısın doğanın yelesinden 
+
 yüreğindeki seher yeli 
+
 varmalıdır sabah olmadan  
+
 gül bahçesine sevda hevengine  
 
 
   
 
  
+
 (Saklı Kalan)
 
 Ahmet TELLİ
 
-### Hüznün İsyan Olur
+## Hüznün İsyan Olur
 
 Suya düşen bir karanfilse yüreğin  
+
 bırak kendini ırmağın türküsüne gülüm  
+
 vursun seni o taştan bu taşa  
+
 o çağlayandan bu çağlayana  
 Kavgadan uzak kalmışsan  
+
 sevdadan da uzaksın demektir  
+
 devinmez yüreğinin mağması  
+
 çatlamaz sabrın kara taşı
 
 Ahmet TELLİ
 
-### İmlasız
+## İmlasız
 
-Hep denedin. Hep yenildin.                
-Olsun. Gene dene, gene yenil.                                              
+Hep denedin. Hep yenildin.
+                
+Olsun. Gene dene, gene yenil.
+                                              
 S. Beckett
-Ayağı kayan bir çocukKadar şaşkınım, bilemedimDüz yolda yürümenin imlâsınıKanayan dizlerime bakıp daAğlamayı öğrenemediğim gibi
-Sevgilisi değildim kadınlarımınBir papağan tüneğiydim belkiAma birkaç sözcük öğrendiysemKadınlardan öğrendim, yine deBilemedim sevgilim diyebilmeyi
-Büyülendim ama büyüyemedimAklım ermedi aynalara ve suyaYüzümü gösterip kalbimi nedenSakladıklarını öğrenemedimŞaşkınım, cahilim ben bu dünyada  (Çocuksun Sen)
+Ayağı kayan bir çocuk
+Kadar şaşkınım, bilemedim
+Düz yolda yürümenin imlâsını
+Kanayan dizlerime bakıp da
+Ağlamayı öğrenemediğim gibi
+Sevgilisi değildim kadınlarımın
+Bir papağan tüneğiydim belki
+Ama birkaç sözcük öğrendiysem
+Kadınlardan öğrendim, yine de
+Bilemedim sevgilim diyebilmeyi
+Büyülendim ama büyüyemedim
+Aklım ermedi aynalara ve suya
+Yüzümü gösterip kalbimi neden
+Sakladıklarını öğrenemedim
+Şaşkınım, cahilim ben bu dünyada
+  
+(Çocuksun Sen)
 
 Ahmet TELLİ
 
-### İsmail'in Kitabını Okurken
+## İsmail'in Kitabını Okurken
 
-İsmail’in kitabını okuyorum üç gecedirateşler içindeki dünyada bir neferinölüme at koşturan rüzgârını duyuyorumManagua yanıyor, her yanım ateşler içindeyanıyor bir çocuk sevgiyle okşanmaktanve temkinli olmak yakışmazdı sana zaten augustove sen ey idrisismail’in ölümü küçümseyen dostu“yediğin kurşundanbir gümbürtü kaldı ki bana!..”Roma’da navona alanında bırakıp ismail’itelzaatar’a dönüyorum gecikmiş bir martı gibiYurdum diyebileceğimher yer kan-revan içinde, görüyorumve boğazlanmış bir ceylan gibiserilivermiş denizler ortasınaÖnce ismail orda, ne zaman gelmiştir“gümbür gümbür ve sonuna kadar, taa-sonunasonuna kadar sevdaya, sonuna kadar kavgayaçatlayacak  kadar sabırsızlıkla…”
-İsmail1in kitabını okuyorum üç gecedirve alnımı seher rüzgârına dayayıpsesleniyorum“-Ey ustanerde benim payım içtiğin baldırandan!.” 
-  (Belki Yine Gelirim)
+İsmail’in kitabını okuyorum üç gecedir
+ateşler içindeki dünyada bir neferin
+ölüme at koşturan rüzgârını duyuyorum
+Managua yanıyor, her yanım ateşler içinde
+yanıyor bir çocuk sevgiyle okşanmaktan
+ve temkinli olmak yakışmazdı sana zaten augusto
+ve sen ey idris
+ismail’in ölümü küçümseyen dostu
+“yediğin kurşundan
+bir gümbürtü kaldı ki bana!..”
+Roma’da navona alanında bırakıp ismail’i
+telzaatar’a dönüyorum gecikmiş bir martı gibi
+Yurdum diyebileceğim
+her yer kan-revan içinde, görüyorum
+ve boğazlanmış bir ceylan gibi
+serilivermiş denizler ortasına
+Önce ismail orda, ne zaman gelmiştir
+“gümbür gümbür ve sonuna kadar, taa-sonuna
+sonuna kadar sevdaya, sonuna kadar kavgaya
+çatlayacak  kadar sabırsızlıkla…”
+İsmail1in kitabını okuyorum üç gecedir
+ve alnımı seher rüzgârına dayayıp
+sesleniyorum
+“-Ey usta
+nerde benim payım içtiğin baldırandan!.”
+ 
+
+  
+(Belki Yine Gelirim)
 
 Ahmet TELLİ
 
-### Kalbim Unut Bu Şiiri
+## Kalbim Unut Bu Şiiri
 
 Uğuldayan ve hep uğuldayan 
 bir orman kadar üşüyorum şimdi 
@@ -682,240 +826,444 @@ Kalbim unut bu şiiri
 
 Ahmet TELLİ
 
-### Konuğum Ol
+## Konuğum Ol
 
 Bir akşam konuğum ol
+
 oturup konuşalım biz bize
+
 Anıların çubuğunu yakıp
+
 uzatalım geceyi biraz 
 Geçmişe bir el sallayıp
+
 yaşanan günleri konuşalım
+
 ve günlerin üstüne çöken
+
 dumanlı, isli havaları 
 Kendimize daha az zaman
+
 ayırsak da olur geceden
+
 Çünkü boğulabilir insan
+
 yalnız kendini düşünmekten 
 Kapağı açılmayan kitaplar
+
 unutulmuş aşklar gibidir
+
 Kitaplardan söz edelim
+
 ve onların gizli kalmış
+
 sessiz tadlarından 
 Sabaha doğru perdeyi
+
 aralayıp ufka bakalım
+
 ve bir çocuk gibi
+
 hayretle seyredelim
+
 güneşin kızıllığını 
 Konuşulmadan kalan
+
 daha çok şey vardı
+
 diye düşünerek çıkalım
+
 güneşle kucaklaşan balkona
+
 — Üşütmesin sabah serinliği 
 Bir bardak demli çay
+
 burukluğu gibi kalsın
+
 gecenin ve sabahın tadı
+
 yaşasın anılarımızda 
 Konuğum ol, oturup
+
 konuşalım bir akşam
+
 ve uzatalım geceyi
+
 sözün çubuğunu yakarak
 
 Ahmet TELLİ
 
-### Özlemedim Seni
+## Özlemedim Seni
 
 ÖZLEMEDİM SENİ
-Hiç özlemedim seniÖzlemek dostluktandırdostluğundan öte bulmalıyım seni
-Sıcaklığını bulmalıyımdokunuşlarını, kenetlenişiTerimizle sulanmalı yeryüzügüneş terimizle ışıldamalı sabah olunca
-Apansız fırtınalar çıkmalısarsılmalıyım
-Özlemekyanında olmak isteğidirgülüşünü görmek biraz daHiç özlemedim seni
-Saçlarına gül takmambir ırmak gibi akıtırım ovayasoluğunla yanardudaklarımın bozkırı
-Akkor halindeki ufukbakır bir tel gibi eriyip giderkraterler ortasında kalırım
-Toprak yarılır birdensu kirlenir
-Ürpertir bu coğrafya bu serüvenikimizi bir andayaşadığımı duyarım
-Hiç özlemedim seniÖzlemek dostluktandırdostluğundan öte bulmalıyım seni
+Hiç özlemedim seni
+Özlemek dostluktandır
+dostluğundan öte bulmalıyım seni
+Sıcaklığını bulmalıyım
+dokunuşlarını, kenetlenişi
+Terimizle sulanmalı yeryüzü
+güneş terimizle ışıldamalı sabah olunca
+Apansız fırtınalar çıkmalı
+sarsılmalıyım
+Özlemek
+yanında olmak isteğidir
+gülüşünü görmek biraz da
+Hiç özlemedim seni
+Saçlarına gül takmam
+bir ırmak gibi akıtırım ovaya
+soluğunla yanar
+dudaklarımın bozkırı
+Akkor halindeki ufuk
+bakır bir tel gibi eriyip gider
+kraterler ortasında kalırım
+Toprak yarılır birden
+su kirlenir
+Ürpertir bu coğrafya 
+bu serüven
+ikimizi bir anda
+yaşadığımı duyarım
+Hiç özlemedim seni
+Özlemek dostluktandır
+dostluğundan öte bulmalıyım seni
 
 Ahmet TELLİ
 
-### Özletiyor Seni Bu Yağmurlar
+## Özletiyor Seni Bu Yağmurlar
 
-Burada yağmur yağıyor  Aralıksız yağıyor günlerdir  Ama sen yine de şemsiyeni  Almadan gel ilk otobüsle  
-Buğulanan camlara usulca  Yüzünü çiziyorum ki yüzün  Bir yağmur damlası olup  Düşüyor yapraklarına gülün  
-Güller de bozamıyor bu uzun  Karanlık sessizliğini kentin  Anılarını yitiriyor sokaklar  Bezirgânlaşıyor bulvar ışıkları  
-Tarih de kekemeleşiyor bazan  Ki o zaman aşktır tek bilici  Aşksa yürümek gibi bir şey  Duyabilmek kuşların gelişini  
-Anısı bizsek eğer bu kentin  Unuttuğu türküler bizsek  Acıyı rehin bırakıp bir güle  Anımsatmalıyız bunları bir bir
-Sonra yürümeliyiz seninleSokaklara caddelere çıkmalıyızBelki bir aşktır bu kentinBelleğini geri getirecek olan
-Burada yağmur yağıyor ama senŞemsiyeni almadan gel yine deÖzletiyor bu çılgın sağanak seniSırılsıklam özletiyor biliyor musun
+Burada yağmur yağıyor  
+Aralıksız yağıyor günlerdir  
+Ama sen yine de şemsiyeni  
+Almadan gel ilk otobüsle  
+Buğulanan camlara usulca  
+Yüzünü çiziyorum ki yüzün  
+Bir yağmur damlası olup  
+Düşüyor yapraklarına gülün  
+Güller de bozamıyor bu uzun  
+Karanlık sessizliğini kentin  
+Anılarını yitiriyor sokaklar  
+Bezirgânlaşıyor bulvar ışıkları  
+Tarih de kekemeleşiyor bazan  
+Ki o zaman aşktır tek bilici  
+Aşksa yürümek gibi bir şey  
+Duyabilmek kuşların gelişini  
+Anısı bizsek eğer bu kentin  
+Unuttuğu türküler bizsek  
+Acıyı rehin bırakıp bir güle  
+Anımsatmalıyız bunları bir bir
+Sonra yürümeliyiz seninle
+Sokaklara caddelere çıkmalıyız
+Belki bir aşktır bu kentin
+Belleğini geri getirecek olan
+Burada yağmur yağıyor ama sen
+Şemsiyeni almadan gel yine de
+Özletiyor bu çılgın sağanak seni
+Sırılsıklam özletiyor biliyor musun
 
 Ahmet TELLİ
 
-### Pasaport Kahvesi
+## Pasaport Kahvesi
 
-Kıyıda, taşın üstündeoturmuş denize bakıyorKimse konuşmuyor onunlane rüzgâr ne de izmir
-Gün bitiyor ve lacivertsözcükler çekiliyorsusuşların ipek ağıyla
-Az ötede pasaport kahvesi- Gel, bir bardak çay içelimdiyor bütün gün beklenen
-Bulut suya değiyorsu zamanave yalnız çakıltaşlarıdeğil aşınmakta olan
-Batık bir gemigibi uzaklaşırken ordanyakamozlar kalıyor geridebalkıyan acılar gibi
-Eskiyen neydi günboyuyaşanan neydihangi bıçağı biledi deniz
-Işıklar sönüyor kıyıdave burkulan bir yürekleçekip gidiyor bu kentten
+Kıyıda, taşın üstünde
+oturmuş denize bakıyor
+Kimse konuşmuyor onunla
+ne rüzgâr ne de izmir
+Gün bitiyor ve lacivert
+sözcükler çekiliyor
+susuşların ipek ağıyla
+Az ötede pasaport kahvesi
+- Gel, bir bardak çay içelim
+diyor bütün gün beklenen
+Bulut suya değiyor
+su zamana
+ve yalnız çakıltaşları
+değil aşınmakta olan
+Batık bir gemi
+gibi uzaklaşırken ordan
+yakamozlar kalıyor geride
+balkıyan acılar gibi
+Eskiyen neydi günboyu
+yaşanan neydi
+hangi bıçağı biledi deniz
+Işıklar sönüyor kıyıda
+ve burkulan bir yürekle
+çekip gidiyor bu kentten
 
 Ahmet TELLİ
 
-### Şahmaran
+## Şahmaran
 
-Sedef, safir ve kör uyku, dünden Kalan bir aynaya vuruyor düş gibi Ve kâhinin her remil atışında ölüm Kara değil, karada havada ve suda 
-Ağlayan narım da çatladı çünkü ben Çocuklarımı kaybediyorum dağlarda Dağlar ki ceylan yurdu, bir gülistan Olsun içindi düşerse yolu Şahmaran’ın 
-Ve anılardır diye bilinen Şahmaran Belleğin derin kuyusundaki uykusunu Bir hançerle kesip çıkmalıdır günyüzüne Ve bırakarak derisini çöl iklimlerine 
-Tozlaşan ve durmadan tozlanan keder Sedef, safir ve kör bir uykuya dönerken Çöl hep çöldür, daima çöl, gri söylence Ve buhurun incelttiği ölümcül bir büyü  Gülen ayvamı soruyorum ağlayan kızımı Nerdesin bunca zaman ey Şahmaran Dağlar ceylan yurdudur, bir gülistan Düş yollara, keder öcünü almalıdır çünkü 
-  (Çocuksun Sen)
-
-Ahmet TELLİ
-
-### Savrulan Külleri Ömrümüzün
-
-SAVRULAN KÜLLERİ ÖMRÜMÜZÜN  
-
-
-Bir kızın kocaman gözlerinde gördüm 
-bulutların dağlara sessizce çöküşünü 
-Çocuksu susuşları gördüm, kırılan sevinci 
-Ve kalbimi puslu yamaçlardaki pusulara saldım 
-çobanlar çoktan inmişlerdi ovaya 
-bense yapayalnız bir ağaçtım doruklarda 
-
-
-Harelenen sularda bir yanık kokusu 
-ve uzun boyunlu bir kızın gülümseyişi 
-Işık zamana bağlı zamansa onun 
-kocaman gözleridir artık 
-Anladım tarih de yazılmaz 
-bir aşkın sayfalarına düşmüyorsa gün 
-
-
-Yalnızdım, yapraklarım dökülmüştü bir bir 
-deryalara savrulup çöllere düşmüştü 
-Bir duman tütüyor yine hangi kent yandı 
-hangi sokakta vuruldu sevgilim 
-Bir demet menekşe bir avuç toprak 
-burkulan bir yürek miyim hep 
-
-
-Sesimde bir yanma bir kekrelik 
-uzayıp giden bir çöl yalnızlığı 
-Gazeteleri okumuyorum başım dönüyor 
-sulanmamış çiçekler gibi kuruyor her şey 
-her şey bir yolculuğun hüznünü taşıyor 
-gidip de gelmemek üzere bütün yüzler 
-
-
-Puslu yamaçlarda bir çakal gölgesi 
-bir dağ suskunluğu yürüyor kentlere 
-yenilen biz miyiz yoksa aşklar mı 
-bir kızın kocaman gözlerinde görüyorum 
-savrulan küllerini ömrümüzün 
-Bu kenti ayrılıklar yıkacak birgün biliyorum 
-
-
-Ölümden şikâyeti yok ölüp gidenlerin 
-ama bir kızın kocaman gözlerinde yangınlar çıkıyor 
-Acılar dehşetli kinlendiriyor beni 
-Kabarıp duruyor içimde, kabarıp duran bir okyanus 
-yurdumu arıyorum batık bir tekne değilim 
-yurdumu arıyorum kızgın küller ortasında 
+Sedef, safir ve kör uyku, dünden 
+Kalan bir aynaya vuruyor düş gibi 
+Ve kâhinin her remil atışında ölüm 
+Kara değil, karada havada ve suda 
+Ağlayan narım da çatladı çünkü ben 
+Çocuklarımı kaybediyorum dağlarda 
+Dağlar ki ceylan yurdu, bir gülistan 
+Olsun içindi düşerse yolu Şahmaran’ın 
+Ve anılardır diye bilinen Şahmaran 
+Belleğin derin kuyusundaki uykusunu 
+Bir hançerle kesip çıkmalıdır günyüzüne 
+Ve bırakarak derisini çöl iklimlerine 
+Tozlaşan ve durmadan tozlanan keder 
+Sedef, safir ve kör bir uykuya dönerken 
+Çöl hep çöldür, daima çöl, gri söylence 
+Ve buhurun incelttiği ölümcül bir büyü 
  
+Gülen ayvamı soruyorum ağlayan kızımı 
+Nerdesin bunca zaman ey Şahmaran 
+Dağlar ceylan yurdudur, bir gülistan 
+Düş yollara, keder öcünü almalıdır çünkü
  
- AHMET TELLİ 
-(Belki Yine Gelirim)
 
-Ahmet TELLİ
-
-### Sıcak Bir Kış
-
-Saçlarını gittikçe kısalttığın günlerde 
-Sen söylemiştin bu sözleri unutmadım 
--Her aşk bir ayrılık gizler, ayrılıklarsa 
-Bir merhabanın sıcaklığını taşır kendisinde 
-
-Kalıcı olan hiçbir şey yok diyordun 
-An’lar var yalnız ömrü karşılayan 
-Şimdi sımsıcak bir kar yağıyor yine 
-Yüreğimin üstüne yağıyor hiç durmadan 
-
-Ellerin nasıl da üşüyor, bozacının 
-Karlı sesi doluyorken odamıza 
-Hava gittikçe kirleniyor bu kentte 
-Ve aralıksız kar yağıyor kar yağıyor 
-
-Kar ayrılık hüznüdür ve ne çok 
-Ayrılıklar yaşandı şu son birkaç yılda 
-Yurdundan ayrılanları düşünüyorum ve birisi 
-Özledim diyor, ülkemin kar kokusunu da özledim 
-
-Hiçbir an’ını tanımlamaya kalkmadan 
-Kısacık ömürler biçiyoruz kendimize 
-Sonra yolculuklara çıkıyoruz, bir kentten 
-Ötekine giderken özlüyoruz bir başkasını 
-
-Özlediğimiz birileri olmalı diyordun 
-Yanındayken bile özlediğimiz birileri 
-Öyleyse kalkıp Ati’ye gitmelisin, İstanbul’a 
-Belki hâlâ saklıyordur bir gülü kimbilir 
-
-Yaşandı mı o sıcak kış, yaşlandık mı 
-Aynalara bakmaya vakit bulamadık 
-Dönüp dönüp birbirimize bakmalardan 
-Yaşandı mı o sımsıcak kış, ne dersin
-
-Ahmet TELLİ
-
-### Sığınak
-
-Sözün yine hep aşktan yanaysasevgilim sen sakla bir kaçağıbelki yorgun ve yaralıdır hâlâölüm basmıştır son sığınağı
-Sus ve sadece dinle sessizliğiperdeleri çek ışıkları söndürbir selam bir haber gönderir belkisesleri hiç duyulmayan dostlar
-Bir cigara sar bitlis tütünündenbir çay demle sonra, anısı kalsınbekle başında onun sabahadek
-Belki benim sana böyle sığınanyapayalnız ve öylesine yorgunkimliği duvarlarda kalan bir kaçak
-
-Ahmet TELLİ
-
-### Sıyrılıp Gelen
-
-Soluk bir ay dolanıyor  
-kentin üstünde her gece 
-Her gece bilge bir gezgin 
-tavrıyla adımlıyor yolunu  
-Güz yanığı bir durgun 
-sessizlikle örtülü her şey 
-ve yırtılmış bir tül gibi 
-savrulup duruyor zaman  
-Suların sesini dinle şimdi 
-ormanın fısıldayışlarını 
-usulca yarılıyor dağların göğsü 
-bir aşkı dinlendirmek için  
-Ve gözleri uzak yamaçlarda 
-aranıp dururken bir şeyleri 
-sessiz ve sakin beklemekte 
-bekledikçe bileylenen yürek  
-Belli ki dağların, denizlerin
-ve göllerin üzerinden 
-sıyrılıp gelmektedir seher 
-Belli ki yakındır 
-doğayı ve hayatı sarsacak saat
-
-Ahmet TELLİ
-
-### Sizi Sevmiyorum
-
-Sesimden arındım ve ufku Bir harmani gibi giyindim Kahraman bir korkaktım Kavmimin kadim tarihinde Ki onlar için umutsuzluk Kendim için haramiydim 
-Böyle bilindiydi bu hikâye Yarından bugüne kaldıydı 
-Tersine akan bir ırmaktım Sözün şaşkın serinliğinde Kendi deltasında boğulandım Ve sizi sevmiyorum ey kavmim Yakın beni rüzgârın ıslığa Islığın hükme döndüğü yerde 
-Derim ki ey kavmim, zulmünüz Payidar, yurdunuz çığlığımdı Ki hükmümü kendim veriyorum Yakın beni sesim sorulara dönmeden Küllerimin altında kalacak Mutluluk sandığınız ne varsa 
-Böyle yaşandıydı bir ömür ve söz Giyotindi sözün belleğinde  
   
 (Çocuksun Sen)
 
 Ahmet TELLİ
 
-### Soluk Soluğa1
+## Savrulan Külleri Ömrümüzün
+
+SAVRULAN KÜLLERİ ÖMRÜMÜZÜN  
+
+
+Bir kızın kocaman gözlerinde gördüm 
+
+bulutların dağlara sessizce çöküşünü 
+
+Çocuksu susuşları gördüm, kırılan sevinci 
+
+Ve kalbimi puslu yamaçlardaki pusulara saldım 
+
+çobanlar çoktan inmişlerdi ovaya 
+
+bense yapayalnız bir ağaçtım doruklarda 
+
+
+Harelenen sularda bir yanık kokusu 
+
+ve uzun boyunlu bir kızın gülümseyişi 
+
+Işık zamana bağlı zamansa onun 
+
+kocaman gözleridir artık 
+
+Anladım tarih de yazılmaz 
+
+bir aşkın sayfalarına düşmüyorsa gün 
+
+
+Yalnızdım, yapraklarım dökülmüştü bir bir 
+
+deryalara savrulup çöllere düşmüştü 
+
+Bir duman tütüyor yine hangi kent yandı 
+
+hangi sokakta vuruldu sevgilim 
+
+Bir demet menekşe bir avuç toprak 
+
+burkulan bir yürek miyim hep 
+
+
+Sesimde bir yanma bir kekrelik 
+
+uzayıp giden bir çöl yalnızlığı 
+
+Gazeteleri okumuyorum başım dönüyor 
+
+sulanmamış çiçekler gibi kuruyor her şey 
+
+her şey bir yolculuğun hüznünü taşıyor 
+
+gidip de gelmemek üzere bütün yüzler 
+
+
+Puslu yamaçlarda bir çakal gölgesi 
+
+bir dağ suskunluğu yürüyor kentlere 
+
+yenilen biz miyiz yoksa aşklar mı 
+
+bir kızın kocaman gözlerinde görüyorum 
+
+savrulan küllerini ömrümüzün 
+
+Bu kenti ayrılıklar yıkacak birgün biliyorum 
+
+
+Ölümden şikâyeti yok ölüp gidenlerin 
+
+ama bir kızın kocaman gözlerinde yangınlar çıkıyor 
+
+Acılar dehşetli kinlendiriyor beni 
+
+Kabarıp duruyor içimde, kabarıp duran bir okyanus 
+
+yurdumu arıyorum batık bir tekne değilim 
+
+yurdumu arıyorum kızgın küller ortasında 
+
+ 
+
+ 
+
+ AHMET TELLİ
+ 
+(Belki Yine Gelirim)
+
+Ahmet TELLİ
+
+## Sıcak Bir Kış
+
+Saçlarını gittikçe kısalttığın günlerde 
+
+Sen söylemiştin bu sözleri unutmadım 
+
+-Her aşk bir ayrılık gizler, ayrılıklarsa 
+
+Bir merhabanın sıcaklığını taşır kendisinde 
+
+Kalıcı olan hiçbir şey yok diyordun 
+
+An’lar var yalnız ömrü karşılayan 
+
+Şimdi sımsıcak bir kar yağıyor yine 
+
+Yüreğimin üstüne yağıyor hiç durmadan 
+
+Ellerin nasıl da üşüyor, bozacının 
+
+Karlı sesi doluyorken odamıza 
+
+Hava gittikçe kirleniyor bu kentte 
+
+Ve aralıksız kar yağıyor kar yağıyor 
+
+Kar ayrılık hüznüdür ve ne çok 
+
+Ayrılıklar yaşandı şu son birkaç yılda 
+
+Yurdundan ayrılanları düşünüyorum ve birisi 
+
+Özledim diyor, ülkemin kar kokusunu da özledim 
+
+Hiçbir an’ını tanımlamaya kalkmadan 
+
+Kısacık ömürler biçiyoruz kendimize 
+
+Sonra yolculuklara çıkıyoruz, bir kentten 
+
+Ötekine giderken özlüyoruz bir başkasını 
+
+Özlediğimiz birileri olmalı diyordun 
+
+Yanındayken bile özlediğimiz birileri 
+
+Öyleyse kalkıp Ati’ye gitmelisin, İstanbul’a 
+
+Belki hâlâ saklıyordur bir gülü kimbilir 
+
+Yaşandı mı o sıcak kış, yaşlandık mı 
+
+Aynalara bakmaya vakit bulamadık 
+
+Dönüp dönüp birbirimize bakmalardan 
+
+Yaşandı mı o sımsıcak kış, ne dersin
+
+Ahmet TELLİ
+
+## Sığınak
+
+Sözün yine hep aşktan yanaysa
+sevgilim sen sakla bir kaçağı
+belki yorgun ve yaralıdır hâlâ
+ölüm basmıştır son sığınağı
+Sus ve sadece dinle sessizliği
+perdeleri çek ışıkları söndür
+bir selam bir haber gönderir belki
+sesleri hiç duyulmayan dostlar
+Bir cigara sar bitlis tütününden
+bir çay demle sonra, anısı kalsın
+bekle başında onun sabahadek
+Belki benim sana böyle sığınan
+yapayalnız ve öylesine yorgun
+kimliği duvarlarda kalan bir kaçak
+
+Ahmet TELLİ
+
+## Sıyrılıp Gelen
+
+Soluk bir ay dolanıyor  
+
+kentin üstünde her gece 
+
+Her gece bilge bir gezgin 
+
+tavrıyla adımlıyor yolunu  
+Güz yanığı bir durgun 
+
+sessizlikle örtülü her şey 
+
+ve yırtılmış bir tül gibi 
+
+savrulup duruyor zaman  
+Suların sesini dinle şimdi 
+
+ormanın fısıldayışlarını 
+
+usulca yarılıyor dağların göğsü 
+
+bir aşkı dinlendirmek için  
+Ve gözleri uzak yamaçlarda 
+
+aranıp dururken bir şeyleri 
+
+sessiz ve sakin beklemekte 
+
+bekledikçe bileylenen yürek  
+Belli ki dağların, denizlerin
+
+ve göllerin üzerinden 
+
+sıyrılıp gelmektedir seher 
+
+Belli ki yakındır 
+
+doğayı ve hayatı sarsacak saat
+
+Ahmet TELLİ
+
+## Sizi Sevmiyorum
+
+Sesimden arındım ve ufku 
+Bir harmani gibi giyindim 
+Kahraman bir korkaktım 
+Kavmimin kadim tarihinde 
+Ki onlar için umutsuzluk 
+Kendim için haramiydim 
+Böyle bilindiydi bu hikâye 
+Yarından bugüne kaldıydı 
+Tersine akan bir ırmaktım 
+Sözün şaşkın serinliğinde 
+Kendi deltasında boğulandım 
+Ve sizi sevmiyorum ey kavmim 
+Yakın beni rüzgârın ıslığa 
+Islığın hükme döndüğü yerde 
+Derim ki ey kavmim, zulmünüz 
+Payidar, yurdunuz çığlığımdı 
+Ki hükmümü kendim veriyorum 
+Yakın beni sesim sorulara dönmeden 
+Küllerimin altında kalacak 
+Mutluluk sandığınız ne varsa 
+Böyle yaşandıydı bir ömür ve söz 
+Giyotindi sözün belleğinde 
+ 
+  
+(Çocuksun Sen)
+
+Ahmet TELLİ
+
+## Soluk Soluğa1
 
 Hep yanıldı ve yenilgilere uğradı
 Ama atıldı yine de serüvenlere
@@ -1099,58 +1447,86 @@ Başarısız ihtilallerden kendine kalan
 
 Ahmet TELLİ
 
-### Soluk Soluğa2
+## Soluk Soluğa2
 
-Büyük aşklar yolculuklarla başlarve serüvenciler düşer bu yollara ancak
-Onlar ki dünyanın son umudusoyları tükenen birer çılgındırlar
-Ama yaşarlar dünyanın dört bir yanındaÖlümle alay ederler sanki
-Nerde beklenirse ordaydılarbir kez bile gecikmediler ömür boyu
-Neydi onları ordan orayasavurup duran şey
-Onları daima yalnız kılanneydi bu yaşam denilen gürültüde
-Her dilden bir adları vardı onlarınama hiçbir ülkenin kimliğini taşımadılar
-Sarışındılar belki de esmeryani birçok yüzün bileşkesi
-Ne altın arayıcısıydılarne de aylak bir gezgin
-Vurulup düşseler de her kuşatmadaserüvencidir onlar ve hiç ölmezler
-Ki onlar hep yalnızdır ve her nasılsaBulurlar heder olmanın bir yolunu
-Onlar ki bu dünyadakahraman olmaya mahkumdurlar
-Sislenen anılar kaldı bize onlardanrenkleri bozulup duran solgun anılar
-Nasıl yazmalı ki silinip gitmesinbulutlar gibi çekilmesin gök boşluğuna
-Bileği güçlü ve gözüpek avcılar mıydıonları kuşatıp yeryüzü cennetinden atan
-Yoksa kendini tüketen hüzünler miydivurulup düştükçe ışığını karartan
-O serüvenlerin günlüğü tutulmadıyazılmadı o insanların destan şiiri
-Parça parça ettirilseler bir kartala(ki sanırım böyle oldu sonları)
+Büyük aşklar yolculuklarla başlar
+ve serüvenciler düşer bu yollara ancak
+Onlar ki dünyanın son umudu
+soyları tükenen birer çılgındırlar
+Ama yaşarlar dünyanın dört bir yanında
+Ölümle alay ederler sanki
+Nerde beklenirse ordaydılar
+bir kez bile gecikmediler ömür boyu
+Neydi onları ordan oraya
+savurup duran şey
+Onları daima yalnız kılan
+neydi bu yaşam denilen gürültüde
+Her dilden bir adları vardı onların
+ama hiçbir ülkenin kimliğini taşımadılar
+Sarışındılar belki de esmer
+yani birçok yüzün bileşkesi
+Ne altın arayıcısıydılar
+ne de aylak bir gezgin
+Vurulup düşseler de her kuşatmada
+serüvencidir onlar ve hiç ölmezler
+Ki onlar hep yalnızdır ve her nasılsa
+Bulurlar heder olmanın bir yolunu
+Onlar ki bu dünyada
+kahraman olmaya mahkumdurlar
+Sislenen anılar kaldı bize onlardan
+renkleri bozulup duran solgun anılar
+Nasıl yazmalı ki silinip gitmesin
+bulutlar gibi çekilmesin gök boşluğuna
+Bileği güçlü ve gözüpek avcılar mıydı
+onları kuşatıp yeryüzü cennetinden atan
+Yoksa kendini tüketen hüzünler miydi
+vurulup düştükçe ışığını karartan
+O serüvenlerin günlüğü tutulmadı
+yazılmadı o insanların destan şiiri
+Parça parça ettirilseler bir kartala
+(ki sanırım böyle oldu sonları)
 Fışkırır yüreklerinden
 başarısız ihtilallerin yangınları
 
 Ahmet TELLİ
 
-### Söz /De Sararır
+## Söz /De Sararır
 
 Olur, aramam seni ve kimseyi 
+
 Anıları pas tadında bırakırım 
+
 Konuşacak ne kaldıysa kalsın 
+
 Susmaktır birşeylere saygılı kılan 
 
 
 Ayrılık da bir olanaktır bilirsin 
+
 İnce bir sis, bir hüzün örtüsü 
+
 Dumanlı bir ıslık yakışır şimdi 
+
 Dudaklarıma, bırakıp giderim 
 
 
 Söz / de sararır biterken bir aşk 
+
 Kediye iyi bak çiçekleri sula 
+
 Diyorsam da aldırma sözlerime 
+
 Alışkanlık işte başka birşey değil 
 
 
-Söz / de sararır biterken bir aşk 
+Söz / de sararır biterken bir aşk
+ 
   
 (Çocuksun Sen)
 
 Ahmet TELLİ
 
-### Sunu
+## Sunu
 
 Filler mezarlığında fil ölüleri 
 Ve belki birkaç da şiir bulursunuz 
@@ -1159,7 +1535,7 @@ Birer kuğuydular kuytu sularda
 
 Ahmet TELLİ
 
-### Şiir ve Sevda
+## Şiir ve Sevda
 
 Pervasýz bir avcý gibi bazen 
 Bütün yollarý tutabilir þiir 
@@ -1168,7 +1544,7 @@ Sevdayý kuþanarak girilebilir
 
 Ahmet TELLİ
 
-### Yak Sevdanın Çırasını
+## Yak Sevdanın Çırasını
 
 Ne hüzünler kurtarır seni 
 ne çeyiz sandığının ceviz gölgesi 
@@ -1189,80 +1565,121 @@ evde kalmış bir cinsellik değildir çünkü dünya
 
 Ahmet TELLİ
 
-### Yenildik
+## Yenildik
 
 Yenildik; 
+
 Şimdi kim bilebilir zakkumun 
+
 O kekre tadını bizim kadar 
+
 Tenimize sinmiş sülfür kokusunu 
+
 Soluğumuzdaki cıvayı kim duyar 
 
 
 İntikamcıydı bilim, sezgimizse 
+
 Gölgesi sulara vuran bir ceylan 
+
 Neyi yaşamışsak ömrümüz diye 
+
 Derimize yazdı o vak’anüvis 
+
 Kehribar saplı bir hançerle 
 
 
 Kehânet kuyularında sınandık 
+
 Terkettiğimiz her şehir yakıldı 
+
 Anıtlar dikildi kahhar ve kutsal 
+
 Zamansa bir karadeliğe dönüştü 
+
 Belleğimizin oksitlenen çöllerinde 
 
 
 Çöl ve moraran cesetler, rüya 
+
 Kâbusa dönüyor cinnet saatidir 
+
 Coğrafyanın bu yakasında bir halk 
+
 Kendi oğullarını boğazlıyor artık 
+
 Kûfi bir cesaret oluyor cinnet 
 
 
 Biz keder diyorduk, tarihmiş 
+
 Dilimizde işte o kil ve kül tadı 
+
 Şimdi kim bilebilir yenilginin 
+
 O kekre kokusunu bizim kadar 
-Soluğumuzdaki cıvayı kim duyabilir 
+
+Soluğumuzdaki cıvayı kim duyabilir
+ 
   
 (Çocuksun Sen)
 
 Ahmet TELLİ
 
-### Zaman Kekemeydi
+## Zaman Kekemeydi
 
 Gün bitti, elindeki güller de soldu 
+
 anımsanacak neler kaldı bugünden 
+
 paylaşılmış olan nelerdi sımsıcak 
+
 belki bir türkü söyleriz geceye karşı 
+
 saçlarını tarazlayan bir şafak olur 
 
 
 Zaman kekemeydi ve tarihe sızan 
+
 soytarılar gördük gencömrümüzde 
+
 ölüm peşimize düşende bir göçebeydik 
+
 suretimiz ağardı kurulan darağaçlarına 
+
 bütün sığınaklar uçurumlara açılırdı 
 
 
 Rüzgâr suyu soğutsun su terli bedenlerimizi 
+
 ve aşkı düşünelim biz, destan yalnızlıkları 
+
 konuşursak akşam olur ve yine yağmur yağar 
+
 gidersek gülüşler azalır buralarda 
+
 kim bulur kayıp adresteki dostları 
 
 
 Bir karanlığa bakıyorum bir de zamana 
+
 ay büyüyüp bir gül oluyor ellerinde senin 
+
 ve ancak yeni bir yorumu oluyor aşkın 
+
 saçlarından sızan bu karanlık yağmur 
+
 ayın çağıltısıyla tutuşuyor begonyalar 
 
 
 Saçlarındı diye düşünüyorum ömrümüzü 
+
 çözdükçe savrulan rüzgârdı saçların 
+
 ve ikide bir aklıma düşüyor aynı soru 
+
 -Aşkı bilmiyorsam nasıl değiştiririm 
+
 kendimi, seni ve bütün dünyayı
 
 Ahmet TELLİ

@@ -1,6 +1,6 @@
-## Yusuf Ziya ORTAÇ
+# Yusuf Ziya ORTAÇ
 
-### Anahtar
+## Anahtar
 
 -1-
 Bulsam, bir sihirli anahtar bulsam,
@@ -32,7 +32,7 @@ Açılmak bilmeyen gönüller için!
 
 Yusuf Ziya ORTAÇ
 
-### Koşma
+## Koşma
 
 Bir daha o fırsat geçer mi ele?
 Dün gördüm, bugün de göresim geldi!

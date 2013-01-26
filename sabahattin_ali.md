@@ -1,6 +1,6 @@
-## Sabahattin ALİ
+# Sabahattin ALİ
 
-### Dağlar
+## Dağlar
 
 Başım dağ, saçlarım kardır,
 Deli rüzgarlarım vardır,
@@ -29,7 +29,7 @@ Benim meskenim dağlardır
 
 Sabahattin ALİ
 
-### Hapishane Şarkısı - 1
+## Hapishane Şarkısı - 1
 
 Göklerde kartal gibiydim.
 Kanatlarımdan vuruldum;
@@ -58,7 +58,7 @@ Nazlı yarimden ayrıldım.
 
 Sabahattin ALİ
 
-### Hapishane Şarkısı - 3
+## Hapishane Şarkısı - 3
 
 Burda çiçekler açmıyor,
 Kuşlar süzülüp uçmuyor,
@@ -87,7 +87,7 @@ Geçmiyor günler, geçmiyor.
 
 Sabahattin ALİ
 
-### Hapishane Şarkısı - 5
+## Hapishane Şarkısı - 5
 
 Başın öne eğilmesin
 Aldırma gönül, aldırma
@@ -116,7 +116,7 @@ Aldırma gönül, aldırma
 
 Sabahattin ALİ
 
-### İstek
+## İstek
 
 Yanıyor beynimin kanı,
 Bilmem nerelere gitsem?
@@ -144,7 +144,7 @@ Bir ağaç dibinde yatsam.
 
 Sabahattin ALİ
 
-### Kıyamadığım
+## Kıyamadığım
 
 Hey bir zaman bakıp bakıp
 Seyrine doyamadığım!
@@ -173,32 +173,47 @@ Kimlerin koynuna girdin?
 
 Sabahattin ALİ
 
-### Kız Kaçıran
+## Kız Kaçıran
 
 Dağlar dik, çeşmeler kuru, 
+
 Yarimin benzi çok sarı; 
+
 Ölüm var, dönülmez geri; 
+
 Yürü yağız atım, yürü... 
 Dağlar geçilmiyor kardan; 
+
 Aman yok candarmalardan. 
+
 Ayrılamadım bu yardan; 
+
 Yürü yağız atım, yürü... 
 Yarim bu gece yoruldu, 
+
 Kaçırdığıma darıldı; 
+
 Bak, daha sıkı sarıldı; 
+
 Yürü yağız atım, yürü... 
 Nasıl titriyor korkudan: 
+
 Kaldırdım onu uykudan; 
+
 Sesler geliyor doğudan; 
+
 Yürü yağız atım, yürü... 
 Peşime düştü takipler, 
+
 Boynumu bekliyor ipler
+
 Zeybekler seni ayıplar; 
+
 Yürü yağız atım, yürü...
 
 Sabahattin ALİ
 
-### Koşma
+## Koşma
 
 Sevip sevip yarı ele kaptırmak
 Kara bahtın bana eski işidir.
@@ -227,7 +242,7 @@ Asıl aşık kam almıyan kişidir.
 
 Sabahattin ALİ
 
-### Leylim Ley
+## Leylim Ley
 
 Döndüm daldan kopan kuru yaprağa
 Seher yeli dağıt beni, kır beni
@@ -246,7 +261,7 @@ Kula değil, yüreğine sor beni
 
 Sabahattin ALİ
 
-### Öyle Günler Gördüm ki
+## Öyle Günler Gördüm ki
 
 Öyle günler gördüm ki, aydýn gökler kararýp
 Bahtým bir bulut gibi üstüme çöker oldu,
@@ -320,7 +335,9 @@ Aradýðým yerlere benzeyiþ buldum sende.
 
 Sabahattin ALİ
 
-### Ruhumun Dalgaları
+## Ruhumun Dalgaları
+
+RUHUMUN DALGALARI 
 
 Ruhumun dalgaları, koşup kabarmayınız 
 Her damlanız tutuşan göğsüme birer bıçak. 
@@ -339,7 +356,7 @@ Ruhumun dalgaları, köpürüp taşmayınız.
 
 Sabahattin ALİ
 
-### Son Mektup
+## Son Mektup
 
 Ey yar, bu mektubu aldığın demde
 Kara topraklara verdim kendimi...
@@ -368,7 +385,9 @@ Deli gönlün yaşamağa kandı mı...
 
 Sabahattin ALİ
 
-### Yetmez mi?
+## Yetmez mi?
+
+YETMEZ Mİ? 
 
 Aşk seni harab etmez mi? 
 Takatını tüketmez mi? 
@@ -397,7 +416,7 @@ Yetmez mi gönül, yetmez mi?
 
 Sabahattin ALİ
 
-###    Dağlar
+##    Dağlar
 
 Başım dağ, saçlarım kardır,
 Deli rüzgarlarım vardır,
@@ -426,7 +445,7 @@ Benim meskenim dağlardır
 
 Sabahattin ALİ
 
-### Hapishane Şarkısı - 
+## Hapishane Şarkısı - 
 		3
 
 Burda çiçekler açmıyor,
@@ -456,7 +475,7 @@ Geçmiyor günler, geçmiyor.
 
 Sabahattin ALİ
 
-### Hapishane Şarkısı - 5
+## Hapishane Şarkısı - 5
 
 Başın öne eğilmesin
 Aldırma gönül, aldırma
@@ -485,32 +504,47 @@ Aldırma gönül, aldırma
 
 Sabahattin ALİ
 
-### Kız Kaçıran
+## Kız Kaçıran
 
 Dağlar dik, çeşmeler kuru, 
+
 Yarimin benzi çok sarı; 
+
 Ölüm var, dönülmez geri; 
+
 Yürü yağız atım, yürü... 
 Dağlar geçilmiyor kardan; 
+
 Aman yok candarmalardan. 
+
 Ayrılamadım bu yardan; 
+
 Yürü yağız atım, yürü... 
 Yarim bu gece yoruldu, 
+
 Kaçırdığıma darıldı; 
+
 Bak, daha sıkı sarıldı; 
+
 Yürü yağız atım, yürü... 
 Nasıl titriyor korkudan: 
+
 Kaldırdım onu uykudan; 
+
 Sesler geliyor doğudan; 
+
 Yürü yağız atım, yürü... 
 Peşime düştü takipler, 
+
 Boynumu bekliyor ipler
+
 Zeybekler seni ayıplar; 
+
 Yürü yağız atım, yürü...
 
 Sabahattin ALİ
 
-### Leylim Ley
+## Leylim Ley
 
 Döndüm daldan kopan kuru yaprağa
 Seher yeli dağıt beni, kır beni

@@ -1,6 +1,6 @@
-## Gürkan KESİCİ
+# Gürkan KESİCİ
 
-### İz
+## İz
 
 bize korkmayı öğrettiler ilkin
 biz de öğrendik
@@ -58,7 +58,7 @@ tekrar tekrar başa dönüyoruz.
 
 Gürkan KESİCİ
 
-### Seks  Enli  Tarih
+## Seks  Enli  Tarih
 
 I
 Komşusunu yemeyen
@@ -95,7 +95,7 @@ Biz korkmayı öğrendik.
 
 Gürkan KESİCİ
 
-### Şu Sıralar
+## Şu Sıralar
 
 Neler geliyor neler
 Aklıma şu sıralar

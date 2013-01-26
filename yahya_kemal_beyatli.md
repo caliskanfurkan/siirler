@@ -1,6 +1,6 @@
-## Yahya Kemal BEYATLI
+# Yahya Kemal BEYATLI
 
-###  Açık Deniz
+##  Açık Deniz
 
 Balkan şehirlerinde geçerken çocukluğum;
 Her lâhza bir alev gibi hasretti duyduğum.
@@ -43,7 +43,7 @@ Bir bitmeyen susuzluğa benzer bu ağrıyı.
 
 Yahya Kemal BEYATLI
 
-### Akıncılar
+## Akıncılar
 
 Bin atlı akınlarda çocuklar gibi şendik    
 Bin atlı o gün dev gibi bir orduyu yendik 
@@ -65,7 +65,7 @@ Bin atlı o gün dev gibi bir orduyu yendik
 
 Yahya Kemal BEYATLI
 
-### Akşam Mûsıkîsi
+## Akşam Mûsıkîsi
 
 Kandilli'de, eski bahçelerde,
 Akşam kapanınca perde perde,
@@ -89,7 +89,7 @@ Başlar rü'yâ içinde rü'yâ.
 
 Yahya Kemal BEYATLI
 
-### Atik-Valde'den İnen Sokakta
+## Atik-Valde'den İnen Sokakta
 
 Nihad Sami Banarlı'ya
 
@@ -117,7 +117,7 @@ Madem ki böyle duygularım kaldı, çok şükür."
 
 Yahya Kemal BEYATLI
 
-### Bir Başka Tepeden
+## Bir Başka Tepeden
 
 Sana dün bir tepeden baktım aziz İstanbul!
   Görmedim gezmediğim, sevmediğim hiçbir yer.
@@ -131,7 +131,7 @@ Sana dün bir tepeden baktım aziz İstanbul!
 
 Yahya Kemal BEYATLI
 
-###  Büyü Şiir
+##  Büyü Şiir
 
 Paris'te genç iken koyu Baudelaire'perest idim.
 Balkon'la, Yolculuk'la, Güzellik'le mest idim.
@@ -153,7 +153,7 @@ Kalbimde solmamıştır o şi'rin çiçekleri.
 
 Yahya Kemal BEYATLI
 
-### Deniz Türküsü
+## Deniz Türküsü
 
 Dolu rüzgârla çıkıp ufka giden yelkenli!
 Gidişin seçtiğin akşam saatinden belli.
@@ -188,7 +188,7 @@ Yürü! Hür mâviliğin bittiği son hadde kadar!...
 
 Yahya Kemal BEYATLI
 
-### Duyuş ve Düşünüş
+## Duyuş ve Düşünüş
 
 Sevdiklerim göçüp gidiyorlar birer birer  
 Ay geçmiyor ki almayayım gamlı bir haber.  
@@ -210,7 +210,7 @@ Doldurmuyor boşalmış olan hisli bir yeri.
 
 Yahya Kemal BEYATLI
 
-###  Düşünce
+##  Düşünce
 
 Ülfet belâlı şey, fakat uzlet sıkıntılı,
 Bilmem nasıl geçirmeliyim son beş on yılı?
@@ -235,7 +235,7 @@ Müşkül budur ki ölmeden evvel ölür kişi.
 
 Yahya Kemal BEYATLI
 
-### Endülüs'te Raks
+## Endülüs'te Raks
 
 Zil, şal ve gül. Bu bahçede raksın bütün hızı...
 Şevk akşamında Endülüs üç defa kırmızı...
@@ -266,7 +266,7 @@ Her kalbi dolduran zile, her sineden: "Ole!"
 
 Yahya Kemal BEYATLI
 
-### Erenköyü'nde Bahar
+## Erenköyü'nde Bahar
 
 Cânan aramızda bir adındı,
 Şîrin gibi hüsn ü âna unvan,
@@ -294,7 +294,7 @@ Görmez felek öyle bir bahârı.
 
 Yahya Kemal BEYATLI
 
-### Eylül Sonu
+## Eylül Sonu
 
 Günler kısaldı... Kanlıca'nın ihtiyarları
 Bir bir hatırlamakta geçen sonbaharları.
@@ -313,7 +313,7 @@ Bitmez bir özleyiştir, ölümden beter bile.
 
 Yahya Kemal BEYATLI
 
-### Gece
+## Gece
 
 Kandilli yüzerken uykularda
 Mehtâbı sürükledik sularda...
@@ -332,7 +332,7 @@ Rü'yâ sona ermeden şafakta...
 
 Yahya Kemal BEYATLI
 
-### Gece Bestesi
+## Gece Bestesi
 
 O kuş en kuytu bahçelerde öter;
 Sarmaşıklarla yüklü vâdîde;
@@ -359,7 +359,7 @@ Hayâl içinde ölür.
 
 Yahya Kemal BEYATLI
 
-### Geçmiş Yaz
+## Geçmiş Yaz
 
 Rü'yâ gibi bir yazdı. Yarattın hevesinle,
 Her ânını, her rengini, her şi'rini hazdan.
@@ -373,7 +373,7 @@ Velhasıl o rü'yâ duruyor yerli yerinde!
 
 Yahya Kemal BEYATLI
 
-### Güftesiz Beste
+## Güftesiz Beste
 
 Sizi dün bekledim o yollarda
   Ki gezindikdi bir zaman karda,
@@ -392,7 +392,7 @@ Sizi dün bekledim o yollarda
 
 Yahya Kemal BEYATLI
 
-### Hayâl Beste
+## Hayâl Beste
 
 Roma'nın şarkını fethettiğin andan sonra,
 Yüce dağlar gibidir gördüğün iş, Türk oğlu!
@@ -417,7 +417,7 @@ Sana târihini her lâhza hayâl ettirsin.
 
 Yahya Kemal BEYATLI
 
-### Hayâl Şehir
+## Hayâl Şehir
 
 Git bu mevsimde, gurup vakti, Cihangir'den bak!
 Bir zaman kendini karşındaki rü'yâya bırak!
@@ -448,7 +448,7 @@ En sahîh aynadan aksettiriyor Üsküdar'ı
 
 Yahya Kemal BEYATLI
 
-### Itrî
+## Itrî
 
 Rıfkı Melûl Meriç'e
 
@@ -511,7 +511,7 @@ Gemiler geçmiyen bir ummanda.
 
 Yahya Kemal BEYATLI
 
-### Kar Mûsıkîleri
+## Kar Mûsıkîleri
 
 Varşova 1927
 
@@ -535,7 +535,7 @@ Uykumda bütün bir gece Körfez'deyim artık!
 
 Yahya Kemal BEYATLI
 
-### Koca Mustâpaşa
+## Koca Mustâpaşa
 
 Koca Mustâpaşa! Ücrâ ve fakîr Istanbul!
 Tâ fetihten beri mü'min, mütevekkil, yoksul,
@@ -628,7 +628,7 @@ Ne yazık! Doğmuyoruz şimdi o topraklarda!
 
 Yahya Kemal BEYATLI
 
-### Mehlika Sultan
+## Mehlika Sultan
 
 Mehlika Sultan'a âşık yedi genç 
 Gece şehrin kapısından çıktı: 
@@ -677,7 +677,7 @@ Oradan gelmeyecekmiş dediler!..
 
 Yahya Kemal BEYATLI
 
-### Mohaç Türküsü
+## Mohaç Türküsü
 
 Bizdik o hücûmun bütün aşkıyla kanatlı;
 Bizdik o sabah ilk atılan safta yüz atlı.
@@ -708,7 +708,7 @@ Lâkin kalacak doğduğumuz toprağa bizden;
 
 Yahya Kemal BEYATLI
 
-### O Rüzgar
+## O Rüzgar
 
 Yaşamak zevki nedir bilmez ölümden korkan!
   Gür bir imanla damarlarda ateşten bir kan
@@ -727,7 +727,7 @@ Yaşamak zevki nedir bilmez ölümden korkan!
 
 Yahya Kemal BEYATLI
 
-###  Özleyen
+##  Özleyen
 
 Gönlümle oturdum da hüzünlendim o yerde,
 Sen nerdesin, ey sevgili, yaz günleri nerde!
@@ -741,7 +741,7 @@ Gönlümle, hayâlet gibi, ben kaldım o yerde.
 
 Yahya Kemal BEYATLI
 
-### Rindlerin Akşamı
+## Rindlerin Akşamı
 
 Dönülmez akşamın ufkundayız.Vakit çok geç;
   Bu son fasıldır ey ömrüm nasıl geçersen geç!
@@ -756,7 +756,7 @@ Dönülmez akşamın ufkundayız.Vakit çok geç;
 
 Yahya Kemal BEYATLI
 
-### Rindlerin Ölümü
+## Rindlerin Ölümü
 
 Hafız'ın kabri olan bahçede bir gül varmış;
   Yeniden her gün açarmış kanayan rengiyle.
@@ -770,7 +770,7 @@ Hafız'ın kabri olan bahçede bir gül varmış;
 
 Yahya Kemal BEYATLI
 
-### Rubai
+## Rubai
 
 Bilmem kime yahut neye uyduk gittik
 Gâhi meye gâhi neye uyduk gittik
@@ -779,7 +779,7 @@ Bizler dili divâneye uyduk gittik
 
 Yahya Kemal BEYATLI
 
-### Sessiz Gemi
+## Sessiz Gemi
 
 Artık demir almak günü gelmişse zamandan,
   Meçhule giden bir gemi kalkar bu limandan.
@@ -796,7 +796,7 @@ Artık demir almak günü gelmişse zamandan,
 
 Yahya Kemal BEYATLI
 
-###  Siste Söyleniş
+##  Siste Söyleniş
 
 Birden kapandı birbiri ardınca perdeler...
 Kandilli, Göksu, Kanlıca, İstinye nerdeler?
@@ -824,7 +824,7 @@ Hiç bir zaman kader bizi senden ayırmasın.
 
 Yahya Kemal BEYATLI
 
-### Sonbahar
+## Sonbahar
 
 Fânî ömür biter, bir uzun sonbahâr olur.
 Yaprak, çiçek ve kuş dağılır, târümâr olur.
@@ -848,7 +848,7 @@ Farketmez anne toprak ölüm mâceramızı.
 
 Yahya Kemal BEYATLI
 
-### Telâkki
+## Telâkki
 
 Yollarda kalan gözlerimin nûrunu yordum,
 Kimdir o, nasıldır diye rüzgârlara sordum,
@@ -862,7 +862,7 @@ Karşımda uyanmış gibi bir baktı sarardı.
 
 Yahya Kemal BEYATLI
 
-###  Uçuş
+##  Uçuş
 
 Uçmakta, konmadan, kıyısız bir denizde rûh; 
 Benzer mi böyle bir kuşa Tufan içinde Nuh? 
@@ -883,7 +883,7 @@ Hür gökte, hür denizde uçar, hür ufuklara.
 
 Yahya Kemal BEYATLI
 
-### Vuslat
+## Vuslat
 
 Bir uykuyu cananla beraber uyuyanlar,
    Ömrün bütün ikbalini vuslatta duyanlar,
@@ -935,7 +935,7 @@ Bir uykuyu cananla beraber uyuyanlar,
 
 Yahya Kemal BEYATLI
 
-### The Silent Ship
+## The Silent Ship
 
 When the day comes to weigh anchor off this stand;
 A vessel does leave this haven for a dark land.
@@ -955,7 +955,6 @@ For the return of those that passed the strait.
 Happy must they have been with their set
 Though years have elapsed, none's  back as yet.
  
-
 
 
 

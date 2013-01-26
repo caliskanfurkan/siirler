@@ -1,6 +1,6 @@
-## Adnan AZAR
+# Adnan AZAR
 
-### Benim Şarkım Küçük
+## Benim Şarkım Küçük
 
 bu akşam nasıl da şarkılıydım
 nasıl tekinsiz bir kıyıdaydım
@@ -26,12 +26,13 @@ bir kâğıt bir kalem
 nasıl konuşmuştum
 
 
+
 benim şarkım küçük
 bir ölüyle doğrulandı bu akşam
 
 Adnan AZAR
 
-### Bir Gece İçin Eksik Sorular
+## Bir Gece İçin Eksik Sorular
 
 Karanlığı soruyordun! 
           Çocukluğumu, yeniyetmeliğimi bilebilecek misin? 
@@ -49,7 +50,7 @@ ya yollar için dar!..
 
 Adnan AZAR
 
-### Bir Şiirin Son Günleri
+## Bir Şiirin Son Günleri
 
 fırat'a
 günler yanlış zaman kısa ben gittikçe yalnızım
@@ -60,7 +61,7 @@ kalksam kara bir şiire uyanıyorum
 
 Adnan AZAR
 
-### Bir Söz Söyle
+## Bir Söz Söyle
 
 hani kuşlar kaldıracak 
 yangınlar üfürecekti yel 
@@ -75,7 +76,7 @@ karanlığa
 
 Adnan AZAR
 
-### Bir Yürük Semai İçin
+## Bir Yürük Semai İçin
   Fazla Mesai
 
 aşk şarkı söylemeye başladı
@@ -98,7 +99,7 @@ aşk bizi bile boşladı
 
 Adnan AZAR
 
-### Birdenbire Sabah
+## Birdenbire Sabah
 
 Bir muştu gibi iniyor gün
 aydınlık ve anlaşılır
@@ -117,7 +118,7 @@ aydınlıklara!
 
 Adnan AZAR
 
-### Döngü
+## Döngü
 
 Sevincin yüzü güler ya, umudun çiçeği açar
 ben de gözlerimi şafağa açarım
@@ -133,7 +134,7 @@ unutmak için herşeyi
 
 Adnan AZAR
 
-### Elele Gittiğimiz
+## Elele Gittiğimiz
 
 biliyor musun giderek azalıyoruz böyle
 sen bir susuşa doğru kırılarak
@@ -149,7 +150,7 @@ burda bakışlarımızı sular boğmaktadır
 
 Adnan AZAR
 
-### Günler
+## Günler
 
 Nasıl eskiyim nasıl eskiyim 
 ince bıçaklar gezdiriyorum yedeğimde. 
@@ -173,7 +174,7 @@ sana ağlasın beni!
 
 Adnan AZAR
 
-### Mola
+## Mola
 
 saçlarımı erken rüzgârlarla dağıttım 
 alnımdaki lekeler eylül ıslıklarından 
@@ -199,7 +200,7 @@ sustum ve yüzüm kanamıyor hiç bir güle
 
 Adnan AZAR
 
-### Ne Gitti Ne Kaldı
+## Ne Gitti Ne Kaldı
 
 'nun anısına
 
@@ -221,7 +222,7 @@ bir ince şırıltı olup sabaha akmak için
 
 Adnan AZAR
 
-### Ömrüm
+## Ömrüm
 
 ben bir gün aşkı seçerim
 
@@ -236,7 +237,7 @@ dağılsın ömrüm
 
 Adnan AZAR
 
-### Parçalanmış Zamanlar
+## Parçalanmış Zamanlar
 
 1
 unuturum akıp gittiğin
@@ -262,7 +263,7 @@ artık yeni bir pusuda beklenirim
 
 Adnan AZAR
 
-### Şeyhiç
+## Şeyhiç
 
 şiir sürer, kalbin ölümlüdür çünkü 
 an'lar ölümlüdür, ölümdür 

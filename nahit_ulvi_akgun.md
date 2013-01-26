@@ -1,6 +1,6 @@
-## Nahit Ulvi AKGÜN
+# Nahit Ulvi AKGÜN
 
-### Aramızda
+## Aramızda
 
 Yaşardın romanların içinde.
 O insanlarla omuz omuza.
@@ -19,12 +19,11 @@ Belki öldün bir romanda.
 
 
 
-
 Varlık Dergisi, Sayı 403, 1 Şubat 1954
 
 Nahit Ulvi AKGÜN
 
-### Birisi
+## Birisi
 
 Bir şey var aramızda
 Senin bakışından belli
@@ -42,7 +41,7 @@ Benim dilimin ucunda.
 
 Nahit Ulvi AKGÜN
 
-### Dalgınlık
+## Dalgınlık
 
 Bir pencere açıldı kitabımın sayfasında
 El sallayarak sen göründün,
@@ -60,7 +59,7 @@ Anlattıklarına karışıyor kitabın anlattıkları...
 
 Nahit Ulvi AKGÜN
 
-### Göçebe
+## Göçebe
 
 Nereye gittiysem yadırgadım yerimi
 Canıma tak etti bu göçebe yaşam
@@ -79,7 +78,7 @@ Sis dağlarından yuvarlanıyorum
 
 Nahit Ulvi AKGÜN
 
-### Her Şey Yerli Yerinde
+## Her Şey Yerli Yerinde
 
 Hiçbir şey değişmeyecek o gün
 Göçüvereceksin bu insan kalabalığından

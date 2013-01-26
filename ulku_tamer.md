@@ -1,6 +1,6 @@
-## Ülkü TAMER
+# Ülkü TAMER
 
-### Ağıt
+## Ağıt
 
 Bu toprakta kalır adın
 Tohumların arasında
@@ -29,7 +29,7 @@ Gözlerinin karasında
 
 Ülkü TAMER
 
-### Ben Sana Teşekkür Ederim
+## Ben Sana Teşekkür Ederim
 
 Ben sana teþekkür ederim, beni sen öptün,
 Ben uyurken benim alnýmdan beni sen öptün;
@@ -41,14 +41,14 @@ Sen bana çok güzeldin, senin ayaklarýn da.
 
 Ülkü TAMER
 
-### Bir Anı
+## Bir Anı
 
 Geceyi inen bir yüzdü aþka
 Aþkýn uðultusunu yýkayan sessizliðin.
 
 Ülkü TAMER
 
-### Bruegel
+## Bruegel
 
 Gökyüzü ayaklarımın ucundan başlıyor.
 Köpeklerin bakışlarında birer keman tadı.
@@ -83,7 +83,7 @@ Tabut başlı bir avcı yerleştirirdim.
 
 Ülkü TAMER
 
-### Düello
+## Düello
 
 Yenilirsem yenilirim, ne çıkar yenilmekten?
 Seninle çarpışmak kişiliğimi pekiştirir benim.
@@ -105,7 +105,7 @@ Ben gülümserken resmimi çeker.
 
 Ülkü TAMER
 
-### Geceleyin
+## Geceleyin
 
 Geceleyin karanlıkta
 Suya attım ben sesimi
@@ -124,7 +124,7 @@ Bir gül açtı yüreğinde
 
 Ülkü TAMER
 
-### Hançer
+## Hançer
 
 Geçen sonbahar gömmüştük hançerimizi
 Kare taşlardan yapılmış bir avluya;
@@ -152,7 +152,7 @@ Bir hançerin paslanırken çıkardığı gürültü.
 
 Ülkü TAMER
 
-### Kıştan Üşüyen Virgül
+## Kıştan Üşüyen Virgül
 
 Defterin bir çok sayfasını koparmışlar,
 Örtünemez artık virgül bazı sayfalarla,
@@ -177,25 +177,30 @@ Artık kalmayan tembelliğin sayfaları,
 
 Ülkü TAMER
 
-### Taştan Asker
+## Taştan Asker
 
 Kilden mi yapılmıştı, sazlardan
 mı? 
 
 
 -Taştan bir asker yaptım 
+
 kurtarsın diye babamı, 
+
 sonra boyadım onu 
+
 yağmurla. 
 
 
 Asker, dağları aş bu gece, 
+
 o iri adamın mağarasına git, 
+
 köşede duran babamı getir.
 
 Ülkü TAMER
 
-### Uyku
+## Uyku
 
 Bana çiçek gönderme
 Bir kuş ağacı gönder
@@ -218,32 +223,37 @@ Alnıma dokunanlar
 
 Ülkü TAMER
 
-### Üşür Ölüm Bile
+## Üşür Ölüm Bile
 
 Bir ormanda tutup onu
 Bağladılar ağaca
 Yumdu sanki uyur gibi
 Gözlerini usulca
 
+
     Bir soğuk yel eser
     Üşür ölüm bile
     Anlatır akan kanı
     Beyaz sesiyle
+
 
 Diz çöktüler karşısında
 Sonra ateş ettiler
 Parçalanan yüreğine
 Yuva kurdu mermiler
 
+
     Bir soğuk yel eser
     Üşür ölüm bile
     Anlatır akan kanı
     Beyaz sesiyle
 
+
 Gelip kondu bir güvercin
 Ellerine o gece
 Kırmızı bir çelenk oldu
 Bileğinde kelepçe
+
 
     Bir soğuk yel eser
     Üşür ölüm bile
@@ -252,7 +262,7 @@ Bileğinde kelepçe
 
 Ülkü TAMER
 
-### Yazın Bittiği
+## Yazın Bittiği
 
 Yazın bittiği her yerde söylenir.
 Böyle kırmızı kalkan görülmemiştir
@@ -286,7 +296,7 @@ Aşkın uyumadığı her yerde söylenir.
 
 Ülkü TAMER
 
-### Yazmasında
+## Yazmasında
 
 Yazmasında bozkır uzanır.
 
@@ -346,7 +356,7 @@ Candaştır elinin emeğiyle.
 
 Ülkü TAMER
 
-### Üşür Ölüm 
+## Üşür Ölüm 
 		Bile
 
 Bir ormanda tutup onu
@@ -354,25 +364,30 @@ Bağladılar ağaca
 Yumdu sanki uyur gibi
 Gözlerini usulca
 
+
     Bir soğuk yel eser
     Üşür ölüm bile
     Anlatır akan kanı
     Beyaz sesiyle
+
 
 Diz çöktüler karşısında
 Sonra ateş ettiler
 Parçalanan yüreğine
 Yuva kurdu mermiler
 
+
     Bir soğuk yel eser
     Üşür ölüm bile
     Anlatır akan kanı
     Beyaz sesiyle
 
+
 Gelip kondu bir güvercin
 Ellerine o gece
 Kırmızı bir çelenk oldu
 Bileğinde kelepçe
+
 
     Bir soğuk yel eser
     Üşür ölüm bile

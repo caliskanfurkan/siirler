@@ -1,6 +1,6 @@
-## Tuğrul ATASOY
+# Tuğrul ATASOY
 
-### Yeni Yetenlere
+## Yeni Yetenlere
 
 Ufaklık yavaş büyü biraz
 Tadını çıkar uzak olmanın

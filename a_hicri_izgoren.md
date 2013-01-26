@@ -1,6 +1,6 @@
-## A. Hicri İZGÖREN
+# A. Hicri İZGÖREN
 
-### Bir Ömür Yetmez
+## Bir Ömür Yetmez
 
 Bahtı teninden yanık bir serencamdı
 Bir ömrün bana giydirdikleri
@@ -48,7 +48,7 @@ Yazmak için bütün sen'leri
 
 A. Hicri İZGÖREN
 
-### Çığlık
+## Çığlık
 
 Bana kanlı mühürler kaldı
 O tarih tacirinden
@@ -89,7 +89,7 @@ Gözlerine ayarladım tüm imgeleri
 
 A. Hicri İZGÖREN
 
-### Hüsran Sokağı
+## Hüsran Sokağı
 
 Sonunda ketum bir tarihe göçebe oldum
 Adressiz kaldım bu yüzden bir rüzgâr gibi
@@ -114,7 +114,7 @@ Hüsran sokağında bir aşk daha vurdu kendini
 
 A. Hicri İZGÖREN
 
-### Kılıç Artığı Poe-tik-ler
+## Kılıç Artığı Poe-tik-ler
 
 düşlerimiz bir
 Aynı ateşin yaktığı ağıtlardan geliyoruz
@@ -125,6 +125,7 @@ Hüznün ele verecek seni
 
 Orda aşka yardım ve yataklıktan
 Sabıkalıdır şiir
+
 
 II
 Acı ata yadigârıdır
@@ -138,6 +139,7 @@ Birbirine eşittir
 Orda zembereksiz bir saat
 Kırık bir keman gibidir şiir
 
+
 III
 Hüznü bir bohça gibi vurup sırtına
 Söyle hangi acısıydın viran evlerin
@@ -148,6 +150,7 @@ Meçhulümüzdür nasıl bir ölüme gelin gittiği
 O mendilin kokusunda
 Kanın dördüncü halidir şiir
 
+
 IV
 Maskeler atılmış roller ve replikler
 Derin bir uykuya dalmıştır
@@ -157,6 +160,7 @@ Onlarla konuşur görürsem seni
 
 Demektir
 Şiir yeni çığlıklara hazırlıyor kendini
+
 
 
 V
@@ -236,7 +240,7 @@ De ki şiirdir biraz
 
 A. Hicri İZGÖREN
 
-### Kod Adı Aşk
+## Kod Adı Aşk
 
 Bir istisnayım artık kuralı bozuyorum
 
@@ -284,7 +288,7 @@ Ateşten gömlek giymiş bir şiirdir ülkesi
 
 A. Hicri İZGÖREN
 
-### Orda Bir Köy Yok Uzakta
+## Orda Bir Köy Yok Uzakta
 
 Düşlerimi kanatıyor her gece
 Dudaklarında donmuş gülümsemesi
@@ -306,7 +310,7 @@ Artık  "ölü sayısı..." belirliyor gündemi
 
 A. Hicri İZGÖREN
 
-### Suskun
+## Suskun
 
 Susardın ve kar yağardı
 
@@ -358,7 +362,7 @@ Susardın ve kar yağardı
 
 A. Hicri İZGÖREN
 
-### Uzak
+## Uzak
 
 Herkesin bir yağmuru vardır ve bir rüzgârı
 Aşk biraz ıslanmaktır
@@ -374,7 +378,7 @@ Al götür beni o uzak akşamlara
 
 A. Hicri İZGÖREN
 
-### Yorgun
+## Yorgun
 
 Ne zaman dağılsa sesim
 Şakağıma dayardın gözlerini
@@ -409,7 +413,7 @@ Dal gibi serin yine gözlerin
 
 A. Hicri İZGÖREN
 
-### Zeyl
+## Zeyl
 
 Soluğu rüzgârlardan derlendi
 Yollar o çingeneden bulaştı bana

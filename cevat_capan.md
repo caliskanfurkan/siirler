@@ -1,6 +1,6 @@
-## Cevat ÇAPAN
+# Cevat ÇAPAN
 
-###  Açığa Demirli Bir Gemiden
+##  Açığa Demirli Bir Gemiden
 
 Dağın eteklerinde orman -
 çam, sedir, ulu çınarlar...
@@ -12,13 +12,18 @@ kendi gölgesinde yanan bir çınar.
 
 Cevat ÇAPAN
 
-### Asker
+## Asker
 
-Uykusuz geceler bunlardağ başlarında, nöbette.Uzakta, çok uzakta,tek tük ışıklarını seçtiğin şehirsokaklarında kısık sesleşarkılar söylediğin.
+Uykusuz geceler bunlar
+dağ başlarında, nöbette.
+Uzakta, çok uzakta,
+tek tük ışıklarını seçtiğin şehir
+sokaklarında kısık sesle
+şarkılar söylediğin.
 
 Cevat ÇAPAN
 
-###  Bir Başka Pencereden
+##  Bir Başka Pencereden
 
 O yanan yaz günleri,
 kamaşmış koca bir  cam göz deniz
@@ -27,7 +32,7 @@ Güz.
 
 Cevat ÇAPAN
 
-###  Bölünmeyen Bir Sessizlik İçinde
+##  Bölünmeyen Bir Sessizlik İçinde
 
 Öyle seviyor ki susmayı,
 sözcükleri öyle seviyor ki,
@@ -47,7 +52,7 @@ yaşamak doludizgin.
 
 Cevat ÇAPAN
 
-###  Dönüş
+##  Dönüş
 
 Yıllar sonra
 odanın kapısını açınca
@@ -69,7 +74,7 @@ yorgun atımın yedeğinde.
 
 Cevat ÇAPAN
 
-### Erzincan Erzincan
+## Erzincan Erzincan
 
 Cimin, cengice, hah -
 köylerde dolaştık bütün gün,
@@ -80,7 +85,7 @@ düşlere durduk.
 
 Cevat ÇAPAN
 
-###  Kirli Bir Pencereden
+##  Kirli Bir Pencereden
 
 Herifçioğlu Zaloğlu Rüstem'in gürzü gibi
 havale ediyor ilk soruyu üstüne,
@@ -107,7 +112,7 @@ bir ölünün ardından yürürken bile.
 
 Cevat ÇAPAN
 
-### Kış Bitti
+## Kış Bitti
 
 "Vedalaşmaların ilmini yaptım ben,"
 Sürgünlerin uzmanlığını.
@@ -131,7 +136,7 @@ Ben gül oldum açıldım.
 
 Cevat ÇAPAN
 
-###       
+##       
 (Winter is Over)
 
 "I've studied the art of farewell,"
@@ -162,7 +167,7 @@ Translated by Michael HULSE
 
 Cevat ÇAPAN
 
-### Sabah
+## Sabah
 
 Son yağmurlar da dindi dinecek,
 yazın habercisi kırlangıç
@@ -171,7 +176,7 @@ senin o atlıkarınca gülümseyişinle.
 
 Cevat ÇAPAN
 
-### Sakın Geç Kalma Erken Gel
+## Sakın Geç Kalma Erken Gel
 
 Usulca gir kapıdan, zile basma.
 Hiç telaşlanma, ben daha dönmemişsem.
@@ -199,7 +204,7 @@ Karanlık bir yankıya dönüşecek karşı dağlarda.
 
 Cevat ÇAPAN
 
-### Sevda Yaratan
+## Sevda Yaratan
 
 Bu şehrin adları durmadan değiştirilen,
 	sokaklarında dolaşırken,
@@ -237,7 +242,7 @@ Yaşarken, güzel adlar koydum çocuklarıma:
 
 Cevat ÇAPAN
 
-### Soluk Soluğa
+## Soluk Soluğa
 
 Uzun, karanlık bir çığlığın da ardına düşebilir insan,
 Titrek, eğri büğrü bir yazının çağrısına da uyar.
@@ -271,7 +276,7 @@ Yeniden duyulur bazen o uzun ve karanlık çığlık.
 
 Cevat ÇAPAN
 
-### Wittgenstein
+## Wittgenstein
 
 İçimin içime sığmaması
 Canevimde çırpınan

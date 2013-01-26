@@ -1,6 +1,6 @@
-## Enis BATUR
+# Enis BATUR
 
-### Ars
+## Ars
 
 Bana aktarılan doğruysa, tek işleri ellerinde
 birer gümüş kâse, nisan yağmuru biriktirmekmiş.
@@ -11,7 +11,7 @@ kâsemde toplananlara bakıp: İşte ars, işimde sultanım.
 
 Enis BATUR
 
-### Ars Poetica
+## Ars Poetica
 
 Hiçbir şeye benzemediği söylendi şiirlerimin,
 Wallace Stevens'a benzediğim, hiç kimseye
@@ -60,7 +60,7 @@ kana kanaya içsin herkes, istedim.
 
 Enis BATUR
 
-### Attar'la Konuşma
+## Attar'la Konuşma
 
 [1740-746;4869-4910]
 
@@ -98,7 +98,7 @@ külliyen külüm.
 
 Enis BATUR
 
-### Beş Gül
+## Beş Gül
 
 Sizin için tuttum beş gül getirdim Sevgili,
 durup dururken beş kırmızı gül getirdim, kan.
@@ -117,7 +117,7 @@ ayırdım dikenleri: Sizin için bu beş arı gül.
 
 Enis BATUR
 
-### Çıkarayak
+## Çıkarayak
 
 Düne indim merdivenden: Saçlarını
 toplamışsın, ensende uçuşuyor nisan.
@@ -139,7 +139,7 @@ tırnağı, çekmezse iki titrek bacak.
 
 Enis BATUR
 
-### Eros Ve Hgades
+## Eros Ve Hgades
 
 -XI-
 
@@ -179,7 +179,7 @@ Birden aklıma seni sevmek  	gel
 
 Enis BATUR
 
-### Gecenin Sesi
+## Gecenin Sesi
 
 Kaptanın uykusu kaçtı birden;
 birden külçe gibi üstüne indi
@@ -197,7 +197,7 @@ uzağa süzülüyordu.
 
 Enis BATUR
 
-### Giz Ses
+## Giz Ses
 
 Bir rüzgârda buldu seni bir rüzgârda yitirdi, 
 penceresinden baktı sine sine yağan uçarı yağmura 
@@ -208,7 +208,7 @@ uzan dedi, uzan Enis, tam bir gece için biriksin sesin.
 
 Enis BATUR
 
-### İmbik
+## İmbik
 
 Ve erken kalktı adam, çayı
 sürdü, ince bir dilim limon
@@ -228,7 +228,7 @@ o  sonsuz imbikte toplanıyordu.
 
 Enis BATUR
 
-### Kırkikindiler
+## Kırkikindiler
 
 "Bu sarı, tok tütünü senin için
 ayırdım: senin için soydum
@@ -248,7 +248,7 @@ kısrağa katıl."
 
 Enis BATUR
 
-### Kıyıya Vuran İçin Sone
+## Kıyıya Vuran İçin Sone
 
 Beni sev denizkızı, beni gözle, tanı,
 kurgula, kendine çevir ve aç, bir de
@@ -270,7 +270,7 @@ Beni sev deniz kızı, beni bağla, bağışla.
 
 Enis BATUR
 
-### Lav
+## Lav
 
 Akdenizli sesini seviyordu; geniş,
 tuzlu gövdesini. Eğiliyor, kokluyor,
@@ -282,7 +282,7 @@ Volkanın ortasında kıpırdıyordu
 
 Enis BATUR
 
-### Nabız
+## Nabız
 
 "Ben ölümün teğmeniyim", diyordu
 sonradan postalanan mektubunda,
@@ -304,7 +304,7 @@ genzinden göğsüne yayılan şarabın kanı,
 
 Enis BATUR
 
-### Oruç
+## Oruç
 
 Bir tabak tarhana koydu
 önüne, bir avuç maydanoz;
@@ -320,7 +320,7 @@ bir sesle.
 
 Enis BATUR
 
-### Rahim Meseli
+## Rahim Meseli
 
 Bir de gizli duygusu var Zaman'ın
 orada sınırsız bir genlik kazanır anlam
@@ -363,10 +363,11 @@ kantaşını, seyirttikçe yaralarım derin derimden.
 
 Enis BATUR
 
-### Salkım Meseli
+## Salkım Meseli
 
 "Bir başınaysan, bütün bütüne
                              kendininsin." 
+
   			          Leonardo
 
 	Elmas bir tasarıdır aslında, tek düşleyelim
@@ -397,7 +398,7 @@ Aslından düşleyelim tek taneyi.
 
 Enis BATUR
 
-### Sandık
+## Sandık
 
 Bir kutu dolusu anahtar. Régie
 des Tabacs de l'Empire Ottomane,
@@ -424,7 +425,7 @@ eşya, söz ve işaretler kalmalı.
 
 Enis BATUR
 
-### Sizin İçin Kestim Saçlarımı
+## Sizin İçin Kestim Saçlarımı
 
 I
 
@@ -484,7 +485,7 @@ bir tohum.
 
 Enis BATUR
 
-### Sonbahar Ayini
+## Sonbahar Ayini
 
 Tirşe deniz. Tırıs rüzgâr.
 Işıkların içinden geçen sabah.
@@ -504,7 +505,7 @@ yetişsin içimden geçen siyah tren.
 
 Enis BATUR
 
-### Taş Damlalar
+## Taş Damlalar
 
 Bana çölün arkasından gelecek topraklardan,
 simsiyah gökkubbeyi delip geçecek bir sabahtan
@@ -544,7 +545,7 @@ muskamdan düğüm çözsün, suskumdan söz yağsın.
 
 Enis BATUR
 
-### Yaz Tuğrası
+## Yaz Tuğrası
 
 Bir tramvaydı bindiğim mor düş,
 yarıda kaldı. Vatman ve biletçi
@@ -563,7 +564,7 @@ durup dururken aklımda kaldı.
 
 Enis BATUR
 
-### Yüzler, Beş
+## Yüzler, Beş
 
 İçinizdeki kötülükten utanmayın, ben
 seviyorum yanaklarınıza yayılan ateşi,

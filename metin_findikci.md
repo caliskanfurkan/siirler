@@ -1,6 +1,6 @@
-## Metin FINDIKÇI
+# Metin FINDIKÇI
 
-### Düş Ve Kudret
+## Düş Ve Kudret
 
 Yansıyan kandil yangını
 Uzak karanlığın kayganlığında, provasız
@@ -28,7 +28,7 @@ Hazır kopmak üzreyken fırtına.
 
 Metin FINDIKÇI
 
-### Ellerime Sığmayan
+## Ellerime Sığmayan
 
 Kırık bir testidir eşikte duran.
 Ovaya yayılan acı bir sudur.
@@ -56,7 +56,7 @@ bir bıçak.
 
 Metin FINDIKÇI
 
-### Firdevs
+## Firdevs
 
 Kabuk bağlamış yarayı kanatırız ara sıra
 İki tepenin arasından geçen patikayı düşleriz
@@ -85,7 +85,7 @@ Nasıl gelindiyse işte buradayız.
 
 Metin FINDIKÇI
 
-### Gül Zakkum Ya Da Su Boşluğu
+## Gül Zakkum Ya Da Su Boşluğu
 
 İmgeyi antikacıda rehin bırakan usta
 ölüm de artık baştan kokar
@@ -160,7 +160,7 @@ SU BOŞLUĞU
 
 Metin FINDIKÇI
 
-### Maviye Mekân
+## Maviye Mekân
 
 yolumu kırıp dar odalar içinde kaldım
 ipek yolunu serdin sıcak kavrulmuş tenin kaldı
@@ -183,7 +183,7 @@ bunu da biliyorum...
 
 Metin FINDIKÇI
 
-### Özleme Mekân
+## Özleme Mekân
 
 I
 Eski bir kilise avlusu nasıldır bilirsin
@@ -220,7 +220,7 @@ Yokluğunu bağışlıyorsun alıp bekliyorum.
 
 Metin FINDIKÇI
 
-### Unutulan'dan
+## Unutulan'dan
 
 I
 Unutulan gölgelerle başlamıştık

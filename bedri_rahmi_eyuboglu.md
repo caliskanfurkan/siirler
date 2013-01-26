@@ -1,6 +1,6 @@
-## Bedri Rahmi EYUBOĞLU
+# Bedri Rahmi EYUBOĞLU
 
-### Bahar ve Biz
+## Bahar ve Biz
 
 Yılda bir kere çıldırır ağaçlar sevincinden
 Rabbim ne güzel çıldırır.
@@ -22,7 +22,7 @@ Ağaçlar gibi.
 
 Bedri Rahmi EYUBOĞLU
 
-### Büyük Şehir
+## Büyük Şehir
 
 Bir değil hallerin beş değil
 Nasıl anlatsam hepsini bir bir
@@ -43,7 +43,7 @@ Herkes gurbette.
 
 Bedri Rahmi EYUBOĞLU
 
-### Çakıl
+## Çakıl
 
 Seni düşünürken
 Bir çakıl taşı ısınır içimde
@@ -65,7 +65,7 @@ Bir çakıl taşı ısınır içimde.
 
 Bedri Rahmi EYUBOĞLU
 
-### Çürümek
+## Çürümek
 
 Her şey çürüyor canım kardeşim bu dünyada
 Hatıralar bile
@@ -89,7 +89,7 @@ Ben ayakta
 
 Bedri Rahmi EYUBOĞLU
 
-### Deniz Türküsü
+## Deniz Türküsü
 
 Deniz dediğin bir tarladır
 Gülü gül, dikeni diken, tohumu tohum
@@ -150,7 +150,7 @@ Dağ başında unutulmuş küçük kundaklar gibi yetim.
 
 Bedri Rahmi EYUBOĞLU
 
-### Gel Vur
+## Gel Vur
 
 Bak şu güneş nasıl geliyor.
        Sen de öyle gel be!!!!
@@ -160,7 +160,7 @@ Bak şu ışık nasıl vuruyor
 
 Bedri Rahmi EYUBOĞLU
 
-### İstida
+## İstida
 
 Yarab!. İnsan oğullarından çektiğim yeter
 Gökyüzünden benim hisseme düşeni ver
@@ -176,7 +176,7 @@ Nereye saklayacağımı şaşırmadan vereyim
 
 Bedri Rahmi EYUBOĞLU
 
-### Marifet
+## Marifet
 
 Marifet hiç ezilmemek bu dünyada
 Ama biçimine getirip ezerlerse
@@ -192,7 +192,7 @@ Nâzım misali
 
 Bedri Rahmi EYUBOĞLU
 
-### Mavi Gezi
+## Mavi Gezi
 
 Mavi gezi bir ağaçtır
 Dalları deniz.
@@ -228,7 +228,7 @@ Bir kızım olursa adı DURUSU.
 
 Bedri Rahmi EYUBOĞLU
 
-### Sevgi Üstüne
+## Sevgi Üstüne
 
 Bütün kitapları yakmalı
 Sevda üstüne ne söylemişlerse yalandır
@@ -259,7 +259,7 @@ Sevebileceğimiz kadar
 
 Bedri Rahmi EYUBOĞLU
 
-### Taze Taze
+## Taze Taze
 
 Dondurma kutusu üstünde
 Üç kırmızı çiçek
@@ -272,7 +272,7 @@ Neler götürecek.
 
 Bedri Rahmi EYUBOĞLU
 
-###  Üç Dil
+##  Üç Dil
 
 En azından üç dil bileceksin
 En azından üç dilde
@@ -315,7 +315,7 @@ Sen otobüsü kaçırmış bir milletin çocuğusun.
 
 Bedri Rahmi EYUBOĞLU
 
-### Zindanı Taştan Oyarlar
+## Zindanı Taştan Oyarlar
 
 Bursa'nın ufak tefek yolları
 Ağrıdan sızıdan tutmaz elleri
@@ -382,7 +382,7 @@ Bir yanı sızım sızım sızlayan memleketimiz içindedir.
 
 Bedri Rahmi EYUBOĞLU
 
-### 
+## 
 	Karadut
 
 

@@ -1,12 +1,6 @@
-## Hilmi YAVUZ
+# Hilmi YAVUZ
 
-### 
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
-
-Hilmi YAVUZ
-
-### Akşamın Yarısında
+## Akşamın Yarısında
 
 herkes öteki gibi duruyor... akşam
 da durduğu yerde durmuyor artık;
@@ -25,7 +19,7 @@ kar yağar, hüzün bile yok... ve nerdesiniz,
 
 Hilmi YAVUZ
 
-### Ay Doğar
+## Ay Doğar
 
 ay doğar
 bir ay doğar umarsız gözlerinden
@@ -49,7 +43,7 @@ tutuşur rüzgârlı bayırlarda
 
 Hilmi YAVUZ
 
-### Bâtıni
+## Bâtıni
 
 her şey bâtıni! göl
 kendi dibindeki batıktan
@@ -76,7 +70,7 @@ en büyük muhalefettir şimdi
 
 Hilmi YAVUZ
 
-### Bedreddin
+## Bedreddin
 
 mübalâğa akşam olur
 
@@ -115,7 +109,7 @@ elini elimize dokundurmadan
 
 Hilmi YAVUZ
 
-### Bedreddin Üzerine Şiirler'den
+## Bedreddin Üzerine Şiirler'den
 
 4.SARI ANASTAS
 
@@ -149,7 +143,7 @@ uğuldayan kaftanı giydi
 
 Hilmi YAVUZ
 
-### Beyazıd Paşa
+## Beyazıd Paşa
 
 gün akşamlıdır devletlim
 elbet biz de ölürüz
@@ -180,7 +174,7 @@ elbet biz de ölürüz
 
 Hilmi YAVUZ
 
-### Bir Yaz Günü İçin Şiir
+## Bir Yaz Günü İçin Şiir
 
 nerde o sarısabır, safran ve sarı sesi
 akşamın? duymak sanki bir gülün
@@ -199,7 +193,7 @@ mi demek? Zaman ten'dir, eğer yazlar bedense...
 
 Hilmi YAVUZ
 
-### Börklüce Mustafa
+## Börklüce Mustafa
 
 biz ki sevdamızı, alaca
 kıl bir heybe gibi sunduk
@@ -231,7 +225,7 @@ gölgemiz dağlara vurunca
 
 Hilmi YAVUZ
 
-### Çiçekli Dağ Sokağı
+## Çiçekli Dağ Sokağı
 
 derindir arası güllerin
 ve aşkın yakut dilinden
@@ -261,7 +255,7 @@ kimdir hüzün söyle söyle
 
 Hilmi YAVUZ
 
-### Çöl Öyküsü
+## Çöl Öyküsü
 
 'çöl' denilen o öyküsü
 yazmak için konuþurken
@@ -277,7 +271,7 @@ o yazýn içindeki 'kötü'yü?
 
 Hilmi YAVUZ
 
-### Çöl ve Sorular
+## Çöl ve Sorular
 
 kimbilir nereden gelirim?
 soldu tenimde büyü;
@@ -302,7 +296,7 @@ niye ben çarmıhta değilim,
 
 Hilmi YAVUZ
 
-### Çölde Yalnız
+## Çölde Yalnız
 
 çöl saydamdır, güz de...
 
@@ -329,7 +323,7 @@ hangi aynanın izi kaldı; -ve niye?
 
 Hilmi YAVUZ
 
-### Doğunun Ölümleri
+## Doğunun Ölümleri
 
 ölüm bir aşirettir doğuda
 
@@ -359,7 +353,7 @@ acıya pusu kurandır
 
 Hilmi YAVUZ
 
-### Doğunun Sonsözü
+## Doğunun Sonsözü
 
 bir gece çölemerik üzerinde
 bakır bir bilezik gibi hilali
@@ -404,7 +398,7 @@ közlesin ağıdı, melâli
 
 Hilmi YAVUZ
 
-### Eylül
+## Eylül
 
 eylül! daha çocukluğumdan
 beri size bakardım ben
@@ -432,7 +426,7 @@ dolardı içim...eylül!
 
 Hilmi YAVUZ
 
-### Hurufî Sonnet
+## Hurufî Sonnet
 
 nesimî ve mansur'la tenim dağıldı benim;
 kendi yasımı tuttum, ölüydüm, aşk şehidi...
@@ -451,7 +445,7 @@ ordayım işte, gelgelelim hiç bilmedim yerimi
 
 Hilmi YAVUZ
 
-### Kanto
+## Kanto
 
 Denizdir en güzeli martıların
 Martıların birazında ak köpük
@@ -470,7 +464,7 @@ Annelerin annelerin en güzeli
 
 Hilmi YAVUZ
 
-### Kilit
+## Kilit
 
 herşeyin kilide, bir kilide dönüştüğü günlerde;
 herkesin bana bir eşya gibi baktığı günlerde;
@@ -508,7 +502,7 @@ kilitle, şiirin içindeki derin yaraya kilitle...
 
 Hilmi YAVUZ
 
-### Kimlik Sonnet'si
+## Kimlik Sonnet'si
 
 ben aynada büyüdüm, aynalar ise bende,
 acıları gezerken, sözlerimizle ikiz;
@@ -528,7 +522,7 @@ kimliğim öldü benim, çoktan geçtim adımdan,
 
 Hilmi YAVUZ
 
-### Lavinia İçin Sonnet
+## Lavinia İçin Sonnet
 
 sana da yas yaraştığı söylenir, öyle değil!...
 birden bir dal kırılır, hani düşer ya suya,
@@ -550,7 +544,7 @@ sana yas değil elbet, yaz yaraşır lavinia...
 
 Hilmi YAVUZ
 
-### Nâzım Hikmet
+## Nâzım Hikmet
 
 hüzün ki en çok yakışandır bize
 belki de en çok anladığımız
@@ -578,7 +572,7 @@ belki de en çok anladığımız
 
 Hilmi YAVUZ
 
-### Pir Sultan
+## Pir Sultan
 
 alçacıktan uçarken yaza dokunan
 sessizliktir belki ahşap kanatlı
@@ -597,7 +591,7 @@ kızıl gülde konaklasın isterdin
 
 Hilmi YAVUZ
 
-### Sırası Gelince
+## Sırası Gelince
 
 acının vergisini verdik, gülün haracını ödedik
 hüznü demirbaş defterinden düşmeye geldi sıra
@@ -621,7 +615,7 @@ yıkılır yırtıla yırtıla
 
 Hilmi YAVUZ
 
-### Size Bakmanın Tarihi
+## Size Bakmanın Tarihi
 
 size bakmanın tarihi! siz
 bir gonca kadar kendiliğinden
@@ -655,7 +649,7 @@ o solgun yolculuğa adanmış
 
 Hilmi YAVUZ
 
-### Taflan
+## Taflan
 
 ne zaman dinecek, ne zaman
 bu taflan, bu taflan?
@@ -707,7 +701,7 @@ ey uçurum gözlü sevgilim!
 
 Hilmi YAVUZ
 
-### Tenhâ
+## Tenhâ
 
 her şiir boydanboya
 	       bir ıssızlıktır artık
@@ -734,7 +728,7 @@ dizelerse giderek daha tenhâ
 
 Hilmi YAVUZ
 
-### Usandık
+## Usandık
 
 yaz günü! sen yine kendini anlat
 sense kendini yinele ey gök!
@@ -762,7 +756,7 @@ ve gül şiire bir yüktü ki usandık
 
 Hilmi YAVUZ
 
-### Vedâ
+## Vedâ
 
 daha başından beri hiç sevmedim yerimi:
 adî gök, bayağı toprak!
@@ -795,7 +789,7 @@ herkese bir sonbahar...
 
 Hilmi YAVUZ
 
-### Yalnızlık Bir Tarihtir
+## Yalnızlık Bir Tarihtir
 
 Yalnızlık bir tarihtir ikimiz
 Dururuz odalarda bir giysi gibi
@@ -814,7 +808,7 @@ Ansızın donuyor gül, bakışlarda
 
 Hilmi YAVUZ
 
-### Yaz! Sevgilim!
+## Yaz! Sevgilim!
 
 kuş uzuyor dizelerde
 kalbimdir,

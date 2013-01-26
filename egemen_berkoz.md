@@ -1,6 +1,6 @@
-## Egemen BERKÖZ
+# Egemen BERKÖZ
 
-### Basit Bir Yalnızlık
+## Basit Bir Yalnızlık
   da Yeterdi
 
 Basit bir kareli defter de yeterdi
@@ -55,7 +55,7 @@ basit bir kareli defter de.
 
 Egemen BERKÖZ
 
-### Çin Askeri Ah Devran
+## Çin Askeri Ah Devran
 
 İçim. Yeşil sarı ovada
 İlkyaz selleri, gecenin
@@ -95,7 +95,7 @@ ben uzağı bilirim. Bilirim.
 
 Egemen BERKÖZ
 
-### Sensin
+## Sensin
 
 Ne kadar gençsin.
 Dünya güzelisin.
@@ -111,7 +111,7 @@ Dinginliğim.
 
 Egemen BERKÖZ
 
-### Unutma!
+## Unutma!
 
 Güneşten korurken kendini
 gölgeye çarpılma.

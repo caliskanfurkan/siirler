@@ -1,20 +1,6 @@
-## Attila AŞUT
+# Attila AŞUT
 
-### 
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
-
-Attila AŞUT
-
-### 
-                       
-      
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
-
-Attila AŞUT
-
-### Acının Bir Ucundan
+## Acının Bir Ucundan
 
 Süzgün bir ceylan bakışın
 Tedirgin ormanında hüznün
@@ -50,9 +36,10 @@ Ekle yüreğini yüreğime.
 
 Attila AŞUT
 
-### Adam Gibi
+## Adam Gibi
 
 Ali Rıza Yücel'in anısına
+
 
 Büyükbaba 
 Büyük adamdı
@@ -63,7 +50,7 @@ Büyük öldü.
 
 Attila AŞUT
 
-### Alaz Ağıdı
+## Alaz Ağıdı
 
 Öldü gül'ün eşi
 alaz'ın ve türküler'in babası
@@ -92,7 +79,7 @@ muştular geledura.
 
 Attila AŞUT
 
-### Bekle Beni Bir Akşam Alacasında
+## Bekle Beni Bir Akşam Alacasında
 
 Irmaklar çoğalır gözlerimde
 Soluğum eritir dağları
@@ -121,7 +108,7 @@ Bir akşam alacasında.
 
 Attila AŞUT
 
-### Giderayak
+## Giderayak
 
 Umudu öldürüyorlar yavrum
 baharda kuşları
@@ -160,7 +147,7 @@ hazır ol yavrum.
 
 Attila AŞUT
 
-### Menekşeli Acılar
+## Menekşeli Acılar
 
 Bir kadın… karda kışta
 Yürüyordu gizli düşte
@@ -181,7 +168,7 @@ Heybesinde menekşeli acılar.
 
 Attila AŞUT
 
-### Mevlût
+## Mevlût
 
 I.
 
@@ -228,7 +215,7 @@ Bak, bu yenik geceden sesleniyorum:
 
 Attila AŞUT
 
-### Övünerek Aşkın İle
+## Övünerek Aşkın İle
 
 Sevdiceğim, övdüceğim, en ince dalımsın benim,
 Aşkın yediveren gülü, karasevdalımsın benim.
@@ -249,7 +236,7 @@ Hep genç kalan kavga gücüm, direnç balımsın benim!
 
 Attila AŞUT
 
-### Öylesine Bir Aşk Şiiri
+## Öylesine Bir Aşk Şiiri
 
 Örselenmiş bir yürekle
 Çıkıyorum günbatımı
@@ -299,7 +286,7 @@ Biz çıkalım kerevetine.
 
 Attila AŞUT
 
-### Savaş Sonu Tutsak Kampları
+## Savaş Sonu Tutsak Kampları
 
 1.  T ü r k ü l e r i   S e v e r i m
 
@@ -370,7 +357,7 @@ Güzele düşman yaratıkların.
 
 Attila AŞUT
 
-### Şiirin Rengi
+## Şiirin Rengi
 
 I.
 
@@ -560,7 +547,7 @@ Ozanın heybesinde.
 
 Attila AŞUT
 
-### Yaralı Şiir
+## Yaralı Şiir
 
 Şiirim yaralıdır
 Çünkü yaralıdır yurdum.
@@ -600,7 +587,7 @@ Kanıyor şiirim ve yurdum.
 
 Attila AŞUT
 
-### "Yenişehir'de Bir Öğle
+## "Yenişehir'de Bir Öğle
   Vakti"
 
 -Sevgi Soysal'ın anısına-

@@ -1,6 +1,6 @@
-## Ali Rıza ERTAN
+# Ali Rıza ERTAN
 
-### Bay Bilanço’nun Hesap Günü
+## Bay Bilanço’nun Hesap Günü
 
 Ölümü kuşandı Bay Bilânço
 Güneşin alçaktan geçiyor tarrakaları
@@ -47,7 +47,7 @@ Yeni Dergi, Mart 1974, sayı 114, s.47-48
 
 Ali Rıza ERTAN
 
-### Gülle Büyüyecek Adı
+## Gülle Büyüyecek Adı
 
 Denizin maviliği ulaşıyor sana;
 O, en kendinden olana.

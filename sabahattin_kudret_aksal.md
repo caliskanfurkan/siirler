@@ -1,6 +1,6 @@
-## Sabahattin Kudret AKSAL
+# Sabahattin Kudret AKSAL
 
-### Anı 
+## Anı 
 
 Eski zaman rüzgârla girerdi odaya,
 Güney rengi rüzgârla, bir tutam bulutla,
@@ -32,7 +32,7 @@ Kanım sanki, şimdi kalktığım yatak sanki,
 
 Sabahattin Kudret AKSAL
 
-### Başlamasaydı Bu Masal
+## Başlamasaydı Bu Masal
 
 Başlamasaydı bu masal
 Kalbin ışıktan rüyası.
@@ -61,7 +61,7 @@ Vakitsiz kesildi yağmur.
 
 Sabahattin Kudret AKSAL
 
-### Biri Var
+## Biri Var
 
 Biri var, durmadan beni arar,
 Biri var, mevsimlerdir beklerim.
@@ -80,7 +80,7 @@ Biri var ki içimde sayıklar.
 
 Sabahattin Kudret AKSAL
 
-### Elinle
+## Elinle
 
 Seninle sabahların aydınlığı otların ışıyışı seninle
 Sonsuzlukta arınmış ovada çığlıkları koşup giden atların
@@ -99,7 +99,7 @@ Yaşantımı sürdürme gücüm benim günüm geceme düşen ışık
 
 Sabahattin Kudret AKSAL
 
-### Eşik
+## Eşik
 
 Bir yaz günüydü bırakmışım arkamda
 Yürüyordum sokaklar tozdu, yapılar
@@ -116,14 +116,14 @@ Olağanüstü eşiği güzelliğin.
 
 Sabahattin Kudret AKSAL
 
-### Gece
+## Gece
 
 Fagotla bağırır gece. Gece fagottur.
 Bir zenci çalar onu, ak gözlü, dul bakışlı.
 
 Sabahattin Kudret AKSAL
 
-### İkili
+## İkili
 
 Sevinin elinde su gibi ince,
 Bir akşamdı mavi. Uzanıyorduk,
@@ -151,7 +151,7 @@ Konuyordu onun, öbür avucuna.
 
 Sabahattin Kudret AKSAL
 
-### Ne Tuhaf
+## Ne Tuhaf
 
 Ne tuhaf ömrümün sonuna kadar
 Kelimelerle yaşamam.
@@ -163,7 +163,7 @@ Balkona çıkmak da güzel.
 
 Sabahattin Kudret AKSAL
 
-### Sevda Demi
+## Sevda Demi
 
 Sevdiğim bir kadın var
 Çocukluk resmi cebimde
@@ -180,7 +180,7 @@ Ne varsa unutturur adama
 
 Sabahattin Kudret AKSAL
 
-### Tomurcuk
+## Tomurcuk
 
 Vazgeçmededir aşkın güzelliği
 Boy atarken alabildiğine gür

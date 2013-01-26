@@ -1,6 +1,6 @@
-## Sennur SEZER
+# Sennur SEZER
 
-### Sennur SEZER - Doktordu Che
+## Sennur SEZER - Doktordu Che
 
 Onu çocuklara bakarken gördünüz mü hiç.
 Nasıl bir sevinç vardı gözlerinde. 

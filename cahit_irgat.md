@@ -1,12 +1,12 @@
-## Cahit IRGAT
+# Cahit IRGAT
 
-### Adam Olana Çok Bile
+## Adam Olana Çok Bile
 
 Ekmeðimi gözyaþýma bandým da yedim.
 
 Cahit IRGAT
 
-### Ağaç
+## Ağaç
 
 Ağacım, dört kol çengi kıyamet
 Her dalımda bir memleket
@@ -22,7 +22,7 @@ Köklerimden başlar hürriyet.
 
 Cahit IRGAT
 
-### Ara Sokak
+## Ara Sokak
 
 Gözlerim kan denizi,
 Geleceğe sıçrıyor geçmişteki sızı.
@@ -35,7 +35,7 @@ Yaşamak geç, ölüm dur!
 
 Cahit IRGAT
 
-### İnsan Gibi
+## İnsan Gibi
 
 Çok yakında bir gün
 Çok yakında bir gün
@@ -57,7 +57,7 @@ Hürriyet giyecek aydınlık ayaklar.
 
 Cahit IRGAT
 
-### Memnunum Diyemem
+## Memnunum Diyemem
 
 Memnunum diyemem yaşadığıma,
 Bana bir şey söylemiyor
@@ -81,16 +81,37 @@ Senin için yaşamışım insanoğlu, nâfile!
 
 Cahit IRGAT
 
-### Rüzgarlarım Konuşuyor
+## Rüzgarlarım Konuşuyor
 
-Bulutları seviyordum, hürriyeti seviyordum  İnsanları seviyordum, yaşamayı seviyordum  Bulutları gözlerimden boşalttılar bir gece.  
-Yalan söylemeyen bir dünyada.  Ben de yalan söyleyemem.  Ve ben şeffaf, tertemiz  Pırıl pırıl bağırıyorum:  Yetişir oltaya yem  Dile küfür olduğumuz,  Yetişir bozuk para gibi savrulduğumuz.  
-Gözlerim var, görüyorum:  Yarı çıplak, çırılçıplak  Ölülerle dolu toprak  Ölüler sarmaş dolaş  Ölüler sivil, asker, ihtiyar  Ölüler buram buram  Nefret kokuyor  
-Ve dilim var, söylüyorum:  Benim de altçenemi  Gözlerimi alacaklar belki de  Yaşamak ve hürriyet istedim diye  Ve belki de bir sabah  Gün doğmadan az önce  Heykelim dikilecek  Bir darağacına.
+Bulutları seviyordum, hürriyeti seviyordum  
+İnsanları seviyordum, yaşamayı seviyordum  
+Bulutları gözlerimden boşalttılar bir gece.  
+Yalan söylemeyen bir dünyada.  
+Ben de yalan söyleyemem.  
+Ve ben şeffaf, tertemiz  
+Pırıl pırıl bağırıyorum:  
+Yetişir oltaya yem  
+Dile küfür olduğumuz,  
+Yetişir bozuk para gibi savrulduğumuz.  
+Gözlerim var, görüyorum:  
+Yarı çıplak, çırılçıplak  
+Ölülerle dolu toprak  
+Ölüler sarmaş dolaş  
+Ölüler sivil, asker, ihtiyar  
+Ölüler buram buram  
+Nefret kokuyor  
+Ve dilim var, söylüyorum:  
+Benim de altçenemi  
+Gözlerimi alacaklar belki de  
+Yaşamak ve hürriyet istedim diye  
+Ve belki de bir sabah  
+Gün doğmadan az önce  
+Heykelim dikilecek  
+Bir darağacına.
 
 Cahit IRGAT
 
-### Sokak
+## Sokak
 
 Ýnsanlar geçiyor sokaklardan
 Kendi ölüleri omuzlarýnda

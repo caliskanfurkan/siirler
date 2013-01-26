@@ -1,6 +1,6 @@
-## Mustafa İlhan GEÇER
+# Mustafa İlhan GEÇER
 
-### Belki
+## Belki
 
 Gurbet gurbet öten tren sesi
 Ve son kampanayla başlayan özlemin
@@ -24,7 +24,7 @@ Bulutlara o uzak diyarlardan
 
 Mustafa İlhan GEÇER
 
-### Düşler Dünyası
+## Düşler Dünyası
 
 Düşler rıhtımında sevecen kuşlar
 Pembe şafaklara yelken açıyor
@@ -43,7 +43,7 @@ En esmer bulutlar şimdi hep nur taşıyor
 
 Mustafa İlhan GEÇER
 
-### Hüzzam Beste
+## Hüzzam Beste
 
 Şarkılar anlatırdı maceramızı
 Şarkılarla güler ağlardık şarkılarla
@@ -76,7 +76,7 @@ Kararan ufkumuzdan çekilip gitti bahar
 
 Mustafa İlhan GEÇER
 
-### Küçük İstasyonlar
+## Küçük İstasyonlar
 
 Nedense küçük istasyonların hali
 İnsana hep hüzün verir
@@ -107,7 +107,7 @@ Telgraf tellerinde kuşlar misali
 
 Mustafa İlhan GEÇER
 
-### Melânkoli
+## Melânkoli
 
 O şehirde gene şarkılar söyleniyordur
 Karşılık görmemiş sevgiler üstüne
@@ -139,7 +139,7 @@ Sana sesleniyorum duyuyor musun
 
 Mustafa İlhan GEÇER
 
-### Yeşil Çağ
+## Yeşil Çağ
 
 Sizin yaşınızda olmak ne iyi çocuklar
 Ne iyi

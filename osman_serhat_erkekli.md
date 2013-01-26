@@ -1,6 +1,6 @@
-## Osman Serhat ERKEKLİ
+# Osman Serhat ERKEKLİ
 
-### Erenköyünde Bir Anne
+## Erenköyünde Bir Anne
 
 Erenköyünde bir anne, maskesiz, sade...
 Şiirin okşadığı kalem misali bir çocuk
@@ -17,7 +17,7 @@ kadın gülümsüyor sade.
 
 Osman Serhat ERKEKLİ
 
-### Şair ve Çingene
+## Şair ve Çingene
 
 Elimizde değnekler yukarda ay
 Parlıyor kerkenezin kanatları
@@ -36,7 +36,7 @@ Bir zaman ben de öyle
 
 Osman Serhat ERKEKLİ
 
-### Yüksekkaldırım
+## Yüksekkaldırım
 
 Yüksekkaldırım'da şarkılar nöbet tutar
 nöbeti tutar kötü kadınların

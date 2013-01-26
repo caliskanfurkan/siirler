@@ -1,12 +1,6 @@
-## Bayram BALCI
+# Bayram BALCI
 
-### 
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
-
-Bayram BALCI
-
-### 30 Harf
+## 30 Harf
 
 yorgun vücudumu sersem de geceye 
 gayrisafi hafsalam baki kalmaz kimseye
@@ -40,7 +34,7 @@ mevsimidir kırlangıçlara ev sahipliği yapmanın
 
 Bayram BALCI
 
-### Altındağlı Yoldaşa
+## Altındağlı Yoldaşa
 
 -Necdet Adalı'ya-
 
@@ -73,7 +67,7 @@ eylül'ün sararmış yorgun yüzünü
 
 Bayram BALCI
 
-### Ansızın Haziranımsın
+## Ansızın Haziranımsın
 
 ansızın bitti mayıs
 halasçiçekleri ile geldi haziran
@@ -216,7 +210,7 @@ saçlarınla ansızın haziranımsın...
 
 Bayram BALCI
 
-### Aşkın Serinliğinde Boğ Beni
+## Aşkın Serinliğinde Boğ Beni
 
 bu şimdi yaz akşamın en tatsız saatidir. güneşkurusu 
 hiç bir yolcu treninin uğramadığı istasyonhüznü
@@ -280,7 +274,7 @@ aşkın serinliğinde boğ beni
 
 Bayram BALCI
 
-### Atsızkarıncada Ölümü Aşkın
+## Atsızkarıncada Ölümü Aşkın
 
 kedi kuşu avlayacak diyorum kadına
 söyle kuşa çıldırtmasın kediyi
@@ -300,7 +294,7 @@ yaşanamayan aşk geçmişin çürük ağacıdır
 
 Bayram BALCI
 
-### Bir Düş
+## Bir Düş
 
 bir nisan pazarı. belki de cuma. iyice karıştırdım artık günleri
 elimi uzatıyorum tutsana. başım dönüyor düşebilirim
@@ -334,7 +328,7 @@ ben sevda diyorum adına
 
 Bayram BALCI
 
-### Beni de Çocuk
+## Beni de Çocuk
 
 gözleri kuşlu çocuk
 aklı yokuşlu çocuk
@@ -366,7 +360,7 @@ ayaklandırıp çiçeklerini
 
 Bayram BALCI
 
-### Bir Şehre Yağacak Yağmurum
+## Bir Şehre Yağacak Yağmurum
 
 bu şehre yağmur yağmazsa üşürüm 
 bir bardak suyun yarası kanar bende
@@ -401,7 +395,7 @@ annem bağışlamaz beni
 
 Bayram BALCI
 
-### Bire Beş Var
+## Bire Beş Var
 
 I.
 
@@ -468,7 +462,7 @@ fırladım sokaklara cebimde kibrit
 
 Bayram BALCI
 
-### Canıma Değmez Hayat
+## Canıma Değmez Hayat
 
 ağır düşlerle geçtim dünyevi ağrılardan
 kazıdım yüzümdeki kibirli lekeleri
@@ -497,7 +491,7 @@ yalanlar kendini rüya
 
 Bayram BALCI
 
-### Gittigin Her Yer Yalnızlığımdır
+## Gittigin Her Yer Yalnızlığımdır
 
 şiir biter sen gidersin ne kalır geride
 yağmur yağar ıslanır kirpiklerim 
@@ -522,7 +516,7 @@ senin gittiğin her yer yalnızlığımdır benim
 
 Bayram BALCI
 
-### Hayatı İhlal Ediyorum
+## Hayatı İhlal Ediyorum
 
 bir bu kalmıştı yapmadığım
 itiraz mecbur hayata
@@ -556,7 +550,7 @@ paramparça aklımdaki bomba
 
 Bayram BALCI
 
-### İgbirar Çiçeğidir Doğu
+## İgbirar Çiçeğidir Doğu
 
 doğu'nun çeşmesinde yıkadım acılarımı
 hangi yaprağa ellerimi sürsem kanıyor
@@ -594,7 +588,7 @@ ben nereye gitsem doğu'nun tutsağıyım
 
 Bayram BALCI
 
-### Kuş Yuvaları
+## Kuş Yuvaları
 
 sen bir kırlangıçsın
 bahar sevişmelerin yorgunluğunu
@@ -627,7 +621,7 @@ bu ise benim sen olmuşluğumdur
 
 Bayram BALCI
 
-### Kuşları Kim Çaldı
+## Kuşları Kim Çaldı
 
 gözlerimde daha demlenmeden yıldızlar 
 yetimliğimi asarım kirpiklerime her gece
@@ -663,7 +657,7 @@ iyi ama kuşları kim...
 
 Bayram BALCI
 
-### Kuşla Beni
+## Kuşla Beni
 
 sana diyeceklerim vardı
 ne çabuk bitti gece
@@ -829,7 +823,7 @@ yaşanmamış günlere.
 
 Bayram BALCI
 
-### Lamia
+## Lamia
 
 I.
 
@@ -952,7 +946,7 @@ ben artık şehirlerde yaşayamam lamia
 
 Bayram BALCI
 
-### Müebbetlik Kavga
+## Müebbetlik Kavga
 
 herhangi bir kıyısında tanışıp dünyanın
 iki hırçın güvercin telaşıyla sevdik
@@ -1153,7 +1147,7 @@ gece çok mu kısa. yoksa bana mı öyle geliyor
 
 Bayram BALCI
 
-### Serçe Ötüşü
+## Serçe Ötüşü
 
 yüzünü rüzgar kokularına sürmelisin 
 anılarla çoğalan yalnızlık akşamlarına
@@ -1258,7 +1252,7 @@ kendi yalnızlığımızın anlamını
 
 Bayram BALCI
 
-### Üşüyen Palto
+## Üşüyen Palto
 
 suyum ıslandı. sesim konuşamıyor beni
 kapattım hayatı yüzüme
@@ -1282,7 +1276,7 @@ avucumda kaygıyla çürüdü su
 
 Bayram BALCI
 
-### Yağmura Karışan Aşkın Çaresi
+## Yağmura Karışan Aşkın Çaresi
   Yoktur
 
 I
@@ -1324,7 +1318,7 @@ kendini taşımaktan yorulmuş bir hayatı
 
 Bayram BALCI
 
-### Yağmurda Yürü Saçlarına
+## Yağmurda Yürü Saçlarına
   Karışsın Gökyüzü
 
 yağmurda yürü saçlarına karışsın gökyüzü
@@ -1359,7 +1353,7 @@ yağmurda yürü saçların ıslanırken beni düşünürsün
 
 Bayram BALCI
 
-### Yer Yok Bana
+## Yer Yok Bana
 
 aklına kuşkonmaz bir yolcuyum
 yasak hevesler büyür içimde 

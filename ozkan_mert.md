@@ -1,6 +1,6 @@
-## Özkan MERT
+# Özkan MERT
 
-### Bir Aşk Şiiri 'Sana'
+## Bir Aşk Şiiri 'Sana'
 
 Ne zaman gözlerine baksam
 bir okyanusla yıkanıyor kalbim.
@@ -18,15 +18,15 @@ omuzbaşlarımda akan sıcak bir ırmak.
 Ve hiç silinmeyecek
 Şafak renkli dudaklarından dökülen
 dünyanın en güzel aşk ilanı:
+
 Ellerimi yıkamıyorum
 ellerinin kokusu çıkmasın diye
-
 
 (Varlık Dergisi, Sayı 1102, Temmuz 1999)
 
 Özkan MERT
 
-### Diren! Ey Kalbim
+## Diren! Ey Kalbim
 
 Diren! Ey kalbim
 Diren! Hayasızlığa

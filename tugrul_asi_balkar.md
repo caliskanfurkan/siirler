@@ -1,30 +1,30 @@
-## Tuğrul Asi BALKAR
+# Tuğrul Asi BALKAR
 
-### Bir Sevinç Depremi
-
-
-
-Tuğrul Asi BALKAR
-
-### Vazgeçmeler Ustası
+## Bir Sevinç Depremi
 
 
 
 Tuğrul Asi BALKAR
 
-### Buzdan Parantez
+## Vazgeçmeler Ustası
 
 
 
 Tuğrul Asi BALKAR
 
-### Biriken
+## Buzdan Parantez
 
 
 
 Tuğrul Asi BALKAR
 
-### Anlat Derdi Çocuk
+## Biriken
+
+
+
+Tuğrul Asi BALKAR
+
+## Anlat Derdi Çocuk
 
 Baba bana Balıkçı'yı anlat, derdi çocuk.
 Kıyıda ahşap iskelenin gıcırdayan tahtalarının üzerinde, denizi tanımaya başladığı
@@ -74,35 +74,55 @@ sımsıkı. Elimi tut, bırakma, demeden.
 
 Tuğrul Asi BALKAR
 
-### Artık Vakit Geldi Gömleği
+## Artık Vakit Geldi Gömleği
 
 "
 
 Deniz'in ardında bıraktığı geçmiş
+
 Hüseyin'in inancı
-Yusuf'un aslanı"ve bir gün mutlaka"Hepsi o!
+
+Yusuf'un aslanı
+"ve bir gün mutlaka"
+Hepsi o!
 Yusuf'un ardında bıraktığı aslan
+
 Deniz'in geçmişi
-Hüseyin'in inancı"baba, her biri oğlun sayılır"Hepsi o!
+
+Hüseyin'in inancı
+"baba, her biri oğlun sayılır"
+Hepsi o!
 Hüseyin'in ardında bıraktığı inan
+
 Deniz'in geçmişi
-Yusuf'un aslanı"ben şimdi savaşmasam,
-ilerde kimse..."Hepsi o!
+
+Yusuf'un aslanı
+"ben şimdi savaşmasam,
+
+ilerde kimse..."
+Hepsi o!
 Artlarında bıraktıkları
+
 Ben sen o biz siz onlar
+
 Yaşayan 
+
 Yok kimse başka
+
 Yok kimse artık
 -Duydum Deniz'in sesini:
+
 "Türkiye'nin üç tarafı denizlerle çevrili"
 
 Yanıtladım ben de:
+
 "Türkiye'nin üç tarafı..."
+
 Hepsi o!
 
 Tuğrul Asi BALKAR
 
-### Felluce: Mahşer Menzili
+## Felluce: Mahşer Menzili
 
 sana bir sır söyleyeceğim
 	aç yüreğini
@@ -177,7 +197,7 @@ sana bir sır söyleyeceğim
 
 Tuğrul Asi BALKAR
 
-### Gölgesi
+## Gölgesi
 
 hep bir gölgeyle saklandı yüzüm fark edilmedim
 kimi mutluluktan derdi kimi umutsuzluktan
@@ -186,8 +206,10 @@ alnımda seken bir kurşunun parlamasından
 alnımda seken o kurşunun
 beni hayata bağışlamasından
 
+
 (durur izi sol üst köşesinde alnımın
 yaşama atılmış bir çentik gibi)
+
 
 hep bir gölgeyle saklandı yüzüm fark edilmedim
 güneş doğudan doğardı sırtımı ona verirdim
@@ -197,8 +219,10 @@ bir saçak altı bulur beklerdim
 uzasın diye gölgem – uzardı gölgem
 uzasın diye gölgem – uzardı gölgem
 
+
 (gölgem uzundur günahlarım gibi
 gölgem uzundur günahlarım gibi)
+
 
 öyle de denir - ki doğrudur:
 gölgesi uzun olur hayata kısa gelenlerin gövdesi.
@@ -209,7 +233,7 @@ hayata kısa kalan bir adamın uzun gölgesi.
 
 Tuğrul Asi BALKAR
 
-### Görüntülenişler XIX. Tunçtan
+## Görüntülenişler XIX. Tunçtan
   Bir Yalnızlık
 
 ilk o geldi rıhtıma demirlediği umutlarıyla
@@ -231,7 +255,7 @@ gözleri çakır.
 
 Tuğrul Asi BALKAR
 
-### Kalender Bir Kardelen
+## Kalender Bir Kardelen
 
 yaşamak şaşkınıyım, bağışla
 rüzgârımı sakladım dünyadan
@@ -264,7 +288,7 @@ kimsem kalmadı yalnızlığımdan başka
 
 Tuğrul Asi BALKAR
 
-### Kanıt
+## Kanıt
 
 yalnız çığlığım var elimde yokoluşu kanıtlamak için
 
@@ -331,7 +355,7 @@ kendi çığlığımdır ancak ses veren çığlığıma
 
 Tuğrul Asi BALKAR
 
-### Kuşatmalar Coğrafyasından
+## Kuşatmalar Coğrafyasından
 
 altı
 
@@ -368,7 +392,7 @@ gider mi gider gitme desen de
 
 Tuğrul Asi BALKAR
 
-### O Duru Çocuk Bir Masal Belki
+## O Duru Çocuk Bir Masal Belki
 
 o duru  çocuksu alnın ölüme yüz sürmez
 sır vermez bir gülüşle kıvrılır dudağın
@@ -406,7 +430,7 @@ sürerse sözüm sürer, masal mı o çocuk şimdi.
 
 Tuğrul Asi BALKAR
 
-### Vazgeçmeler Ustası
+## Vazgeçmeler Ustası
 
 Dünya kirletilmişse,
 Üstünüze sıçramış 
@@ -455,7 +479,7 @@ Aşk'ı bana terk etmiştiniz zaten,
 
 Tuğrul Asi BALKAR
 
-### Vazgeçmeler Ustası
+## Vazgeçmeler Ustası
 
 Dünya kirletilmişse,
 Üstünüze sıçramış 
@@ -504,48 +528,93 @@ Aşk'ı bana terk etmiştiniz zaten,
 
 Tuğrul Asi BALKAR
 
-### ŞİİR ÇEVİRİLERİ
+## ŞİİR ÇEVİRİLERİ
 
 ŞİİR ÇEVİRİLERİ
- - -  
-	-  
-	-  -  
-	-  - -  -
-	 -
-	 -
-	 -
-	 -
-	-
-	 -
-	 -  -
-	-
-	 -
-	-  -
-	 -
-	 -
-	- -
-	-
-	 -
-	 -
-	 
-	-  -
-	 -
-	-
-	 -
-	-
-	 -  -
-	-
-	 - -
-	 - -
-	-
-	-
-	-
-	-
-	-
+ - 
+- 
+ 
+	- 
+ 
+	- 
+ - 
+ 
+	- 
+ - 
+- 
+ -
+	
+ -
+	
+ -
+	
+ -
+	
+ -
+	
+-
+	
+ -
+	
+ - 
+ -
+	
+-
+	
+ -
+	
+- 
+ -
+	
+ -
+	
+ -
+	
+- 
+-
+	
+-
+	
+ -
+	
+ -
+	
+ 
+	- 
+ -
+	
+ -
+	
+-
+	
+ -
+	
+-
+	
+ - 
+ -
+	
+-
+	
+ - 
+-
+	
+ - 
+-
+	
+-
+	
+-
+	
+-
+	
+-
+	
+-
 
 Tuğrul Asi BALKAR
 
-### Felluce: Mahşer Menzili
+## Felluce: Mahşer Menzili
 
 sana bir sır söyleyeceğim
 	aç yüreğini

@@ -1,6 +1,6 @@
-## Cengiz BEKTAŞ
+# Cengiz BEKTAŞ
 
-### Adsız
+## Adsız
 
 Penelope olmadı hiç
 Gece gündüz aç susuz dokudu da
@@ -48,7 +48,7 @@ Kalkıp kendi gidecek gibi
 
 Cengiz BEKTAŞ
 
-### Ekini Üretmek
+## Ekini Üretmek
 
 Ana tanrıçanın
 	birbirini üzerine dopdolu
@@ -72,7 +72,7 @@ Ekini üretmeyi biz biliriz
 
 Cengiz BEKTAŞ
 
-### Her Yerden Geliyorum
+## Her Yerden Geliyorum
 
 Suya uydum
 Bıraktım ışığa kendimi
@@ -92,7 +92,7 @@ Artık hep gelirim.
 
 Cengiz BEKTAŞ
 
-### Yağmur Sonrası
+## Yağmur Sonrası
 
 Yolların karıştığı yerde
 Birdenbire
@@ -106,7 +106,7 @@ Ne güzel düşünüyorum seni bilsen
 
 Cengiz BEKTAŞ
 
-### Yerdeli
+## Yerdeli
 
 -Azra Erhat için-
 

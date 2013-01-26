@@ -1,6 +1,6 @@
-## Yasin EROL
+# Yasin EROL
 
-### Bir Şiirin İzini Sürmek
+## Bir Şiirin İzini Sürmek
 
 Ustaca başlamıştık aşka
 Bir yanımızda genç ağaçlar
@@ -46,7 +46,7 @@ Artık hüznü ustaca yaşamanın zamanı
 
 Yasin EROL
 
-### Denizleri Küçümseyen Kıyılar
+## Denizleri Küçümseyen Kıyılar
 
 Ağaçların asili çınar
 Öyle kuşlar konar ki
@@ -66,7 +66,7 @@ Pişmanım denizleri küçümseyen kıyılara vardığıma
 
 Yasin EROL
 
-### Giz
+## Giz
 
 Her şey giz içinde
 Giz içinde herkesçe bilinen bir gece
@@ -89,7 +89,7 @@ Sen bağır
 
 Yasin EROL
 
-### Gözlerin
+## Gözlerin
 
 çok kullanılan bir öğlen sonrasında
 doluştu denizin maviliğine
@@ -105,7 +105,7 @@ gözlerin vakitsiz uyanmalarda gördüğüm çocukluğum
 
 Yasin EROL
 
-### Gül
+## Gül
 
 Gül açınca yavrum
 Gül açınca
@@ -132,7 +132,7 @@ Eski yıllardan söz açılınca
 
 Yasin EROL
 
-### İstersen
+## İstersen
 
 Gece kederli bir insan gibi 
 Gelip dokununca omuz başlarına 
@@ -151,7 +151,7 @@ Ama bunları unutma
 
 Yasin EROL
 
-### Kanıyorsan
+## Kanıyorsan
 
 Kanıyorsan eğer
 Gece de bir şiirde
@@ -184,7 +184,7 @@ Gece de bir içimizde
 
 Yasin EROL
 
-### Mavi Sevincim
+## Mavi Sevincim
 
 Gözlerin
 Benim bu esrik maviyi
@@ -217,7 +217,7 @@ Bütün şiirlerimi evlatlıktan reddedebilirim
 
 Yasin EROL
 
-### Oğlum
+## Oğlum
 
 Sevgi
 Her fırsatta büyüyen bir çocuk gibi
@@ -248,7 +248,7 @@ Bazı duygular yalnız yaşanmamalı
 
 Yasin EROL
 
-### Öğretir mi
+## Öğretir mi
 
 Yüreğim rüzgara tutulmuş cılız bir ağaç
 Demek ki dallarına öğretememiş yeşilliği
@@ -270,7 +270,7 @@ Sizce ona da anlatır mı yeşilliği
 
 Yasin EROL
 
-### Sanık
+## Sanık
 
 Her aşkın bir numaralı sanığıyım 
 Ya tutuklayın 
@@ -285,7 +285,7 @@ Bir kadın soyunmadan avukatlığıma
 
 Yasin EROL
 
-### Şakayık
+## Şakayık
 
 kanayan bir yüreğin gözyaşlarıydı
 masanıza dökülen
@@ -298,7 +298,7 @@ almayayım dokunuyor bana
 
 Yasin EROL
 
-### Şiir ve Sen
+## Şiir ve Sen
 
 Habersiz bir yağmur gibi 
 Her gün yağıyorsun içime 
@@ -313,6 +313,7 @@ Ben aşkta önümü görmek isterim.
 Bir an önce ikna et o karanfili 
 O şiirden çıkıp gelsin
 Ve eleştirmenlere söyle 
+
  türü bir incelik gösterip 
 İncitmesinler ölen şairlerin şiirlerini 
 Saygıdandır 
@@ -339,7 +340,7 @@ Dışarısı yağmur
 
 Yasin EROL
 
-### Yitik
+## Yitik
 
 kaç kadın çözülüp giderdi
 saçlarından uzamış kederleriyle
@@ -356,7 +357,7 @@ insan terkedilince
 
 Yasin EROL
 
-### Yüreğimin Acemi Elleri
+## Yüreğimin Acemi Elleri
 
 Yüreğinde yerini değiştirdiğin bir sevgiyle
 Bahçelerinde evlerin dinlendiği o yerdesin

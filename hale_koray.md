@@ -1,6 +1,6 @@
-## Hale KORAY
+# Hale KORAY
 
-### Ağaç
+## Ağaç
 
 Kim dikti bu fidanı böyle 
  yol ağzına    
@@ -18,7 +18,7 @@ Yazık olacak!
 
 Hale KORAY
 
-### Aşkın İhaneti
+## Aşkın İhaneti
 
 Meçhul bir kült müdür
 aşkın ihaneti
@@ -48,7 +48,7 @@ aşkın ihaneti
 
 Hale KORAY
 
-### Bir Sokak İnsanının Ölümü
+## Bir Sokak İnsanının Ölümü
 
 Kara saçlarını dökmüş yüzüne gece. Kımıldıyor.
 Karanlıkları kımıldıyor kaldırımların. İnsan kümeleri
@@ -111,7 +111,7 @@ müstesna bir güneşe yükseliyor.
 
 Hale KORAY
 
-### Deryada Deryalıklar
+## Deryada Deryalıklar
 
 olan kiraz dalları
 Kırların yenilmez askeri papatyalar
@@ -119,6 +119,7 @@ Kanatlarında bilenmiş umutlarla
 Güneyleri arayan kırlangıçlar
 genç yüreklerde merasimsiz uç veren
 taze aşkların mevsimidir ilkbahar
+
 Baharda başlar şöleni Demeter'in.
 Pıtrak gibi selamlar erguvanlar
 Hades'in isteksiz gelini Persofene'yi.
@@ -141,7 +142,7 @@ Mevsimlerim mi şaşırdı nedir,
 
 Hale KORAY
 
-### Konuşma
+## Konuşma
 
 'Sabra inan' dedi çopur ihtiyar
 'Düzlüğe taşıyacak seni bır gün kanatlarında.
@@ -158,13 +159,13 @@ benim gibi yurtsuza.'
 
 Hale KORAY
 
-### Nadas
+## Nadas
 
 
 
 Hale KORAY
 
-### Yorgun
+## Yorgun
 
 Günleri canevimde kayıtlı
 Tarihleri kalmaz aklımda

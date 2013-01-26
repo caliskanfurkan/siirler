@@ -1,9 +1,22 @@
-## Ulaş Başar GEZGİN
+# Ulaş Başar GEZGİN
 
-### Gezgin's Year Book of 
+## Gezgin's Year Book of 
   Poetry 2002 - English
 
-Ulas Basar GezginE-mail:    
+GEZGIN’S
+YEARBOOK OF POETRY 2002
+ 
+ 
+
+ 
+ 
+ 
+ 
+Ulas Basar Gezgin
+E-mail: 
+ 
+ 
+ 
 Ulas Basar Gezgin was born in 25th May 1978, at  Alibeykoy, a ghetto  
 district of Istanbul, Turkey. He had lost his father  when he was 5  
 years old.
@@ -26,17 +39,36 @@ Istanbul Chamber Chorus (1998-2000), Bogazici Jazz  Chorus and Rock 
 Chorus (1997-1999), and Sayat Nova Chorus for some time). 
 Knows Turkish (native); English; French; intermediate Russian; beginner 
 Latin, Greek,Portuguese, Esperanto and  Norwegian. 
- 1) FIRST WORD2) HUUDMA3) ME, ANNELI AND THE NARGILE4) ME, YASMIN AND THE LINDEN TREE5) ODE TO SANTA SOPHIA6) ON A 
-TABLET7)
-PANTOUM TO ALL IMPATIENTS8) POEM WITH STONE9) RADIO WAVES, ROAD AND THE RADIO GIRL10) SOTIE TO TRAINS11)
-UPON THE LAST FLIGHT12) WOE TO YOUR ABSENCE13) YES I CAN (This yearbook covers Gezgin’s poetry in
+ 
+1) FIRST WORD
+2) HUUDMA
+3) ME, ANNELI AND THE NARGILE
+4) ME, YASMIN AND THE LINDEN TREE
+5) ODE TO SANTA SOPHIA
+6) ON A 
+TABLET
+7)
+PANTOUM TO ALL IMPATIENTS
+8) POEM WITH STONE
+9) RADIO WAVES, ROAD AND THE RADIO GIRL
+10) SOTIE TO TRAINS
+11)
+UPON THE LAST FLIGHT
+12) WOE TO YOUR ABSENCE
+13) YES I CAN
+ 
+(This yearbook covers Gezgin’s poetry in
 English written between August 2001 and 2002.) 
+
 FIRST WORD
- -to S.T., the mute dengbêj-
- Your last word was the one that gave me
+ 
+-to S.T., the mute dengbêj-
+ 
+Your last word was the one that gave me
 to a thought,
 What was the first word? First word
-that should besomething,
+that should be
+something,
 That made the other one to state some
 other thing?
 Maybe ‘t might concern the cave they lived for years,
@@ -332,18 +364,24 @@ Come and go.. Come and go.. This is their job..
 
 Ulaş Başar GEZGİN
 
-### Ulaş Başar Gezgin Şiir 
+## Ulaş Başar Gezgin Şiir 
   Yıllığı 2002 - Türkçe
 
 ile Ağustos 2002 arasındaki dönemini temsil etmektedir.) 
  
- E-posta: ULAŞ BAŞAR 
-GEZGİNUlaş Başar 
+ 
+
+E-posta: 
+ULAŞ BAŞAR 
+GEZGİN
+Ulaş Başar 
 Gezgin, 25 Mayıs 1978'de İstanbul'da, Alibeyköy'de, bir öğretmen ailesinin ilk 
-çocuğu olarak dünyaya geldi. Babasını, beş yaşındayken yitirdi. Üsküdar Sokullu 
+çocuğu olarak dünyaya geldi. Babasını, beş yaşındayken yitirdi. 
+Üsküdar Sokullu 
 Mehmet Paşa İlkokulu'ndan sonra, 1989'da, (babasız ve yoksul ilkokul 
 öğrencilerini sınavla alan, İngilizce eğitim veren, parasız, yatılı) Özel 
-Darüşşafaka Lisesi'ne girdi. Üniversite 
+Darüşşafaka Lisesi'ne girdi. 
+Üniversite 
 hayatına 1996'da Boğaziçi Üniversitesi Rehberlik ve Psikolojik Danışmanlık 
 dalında başladı. Rehber-psikolog olarak stajını, Galatasaray Lisesi’nde 
 tamamladı. 2000 yılında, bu bölümden mezun oldu. Yüksek lisans tezini Boğaziçi 
@@ -355,8 +393,10 @@ Felsefe ve İktisat Kurumu’nda İktisat Felsefesi doktorasına kabul edildi. Y
 Hollanda’daki Tilburg Üniversitesi’nde toplumsal dilbilim alanında beş yıllık 
 bir araştırmacılık işine kabul edildi. Ancak üniversite yönetimi, Türk olmasını 
 gerekçe göstererek çalışma izni çıkarttırmadı. Bu nedenle Erasmus’ta okuyamadı.
+
 Mersin’de 
-yaşamaktadır.   “Yit(iril)en”, “Okyanus Gibi” ve “Nikah 
+yaşamaktadır.  
+ “Yit(iril)en”, “Okyanus Gibi” ve “Nikah 
 Memurunun Son Nikahı” adlı öyküleriyle Gençlik Kitabevi Öykü 2000 Yarışması’nda 
 ikinciliğe değer görülmesinden daha önce, kimi şiirleri ve öyküleri, üniversite 
 dergilerinde yayımlandı. Evrensel Kültür dergisi için şiir ve şiir incelemeleri 
@@ -364,10 +404,12 @@ hazırlamaktadır. İmece dergisi (
 www.imece.org) için çeşitli türlerde yapıtlar kaleme almaktadır. Genç bir şiir dergisi 
 olan Ağır Ol Bay Düzyazı için çeşitli 
 şairlerden çeviriler yapmayı sürdürmektedir. Kimi şiir çevirileri, şu adresten 
-görülebilir: http://yitikulke.hypermart.net/ . Bunun 
+görülebilir: 
+http://yitikulke.hypermart.net/ . Bunun 
 dışında, Anafilya, Çveneburi, Mizan, Okuntu, Türk Psikoloji Bülteni gibi 
 dergilere yazmıştır/yazmaktadır. Edebiyat uğraşılarını çeşitli türlerde 
 sürdürmektedir. ('Ez Dil ü Can’ adlı bir kısa film senaryosu çalışması vardır.)
+
 Çeşitli 
 dönemlerde; Boğaziçi 'Jazz' Korosu, Boğaziçi 'Rock' Korosu (1997-1999) ve 
 nihayetinde, İstanbul Oda Korosu'nda (1998-2000) söylemiştir. Bir süre, Sayat 

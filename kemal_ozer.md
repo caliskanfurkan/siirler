@@ -1,6 +1,6 @@
-## Kemal ÖZER
+# Kemal ÖZER
 
-### GÜL YORDAMI
+## GÜL YORDAMI
 
 herkesin başladığı onlar için bir gün
 uzatılmış bütün iskemlelerden ayakları
@@ -22,7 +22,7 @@ savaşırlık için onların açılan bir gül aralarında
 
 Kemal ÖZER
 
-###  Ağıt
+##  Ağıt
 
 annem mi bir kadın
 geciken bir kadın gece yatısına
@@ -42,7 +42,7 @@ terkisine çocukların bindiği
 
 Kemal ÖZER
 
-###  Kıralın
+##  Kıralın
 Adamları
 
 siz  bir kıraldınız nasıl hatırlamam
@@ -62,7 +62,7 @@ adamlar aktı şehrin çeşmelerinden
 
 Kemal ÖZER
 
-###  Lar Ler
+##  Lar Ler
 
 bir o mu bırakmış yıldızlarını damlara
 avutmaya çıkmış dağ başlarını
@@ -73,7 +73,7 @@ elinin parmakları yüreğine doğru
 
 Kemal ÖZER
 
-###  Leylâ
+##  Leylâ
 
 taşlığına uzanmış zayıf terliklerinin leylâ
 ay gibi leylâ gibi ay gibi leylâ
@@ -89,7 +89,7 @@ gözleri ne kadar yorgun adamlar
 
 Kemal ÖZER
 
-###  Mermerleri Günümüze Kalan Kadınlar
+##  Mermerleri Günümüze Kalan Kadınlar
 
 gül kokan odalarda aynalara karşı
           hakkını vermişler beyazın
@@ -100,7 +100,7 @@ utanarak yazdığı eski kitapların
 
 Kemal ÖZER
 
-###  Otağ
+##  Otağ
 
 sen benim korkum musun uyuyup uyanmayan
 sorulsa nerden nasıl günlerin yatağına
@@ -129,7 +129,7 @@ alarak şapkasını sonsuzluğa asılı
 
 Kemal ÖZER
 
-###  Perçem
+##  Perçem
 
 açılmış bir uykudur gözleri masada
           çocuğun böyle baktığı harita
@@ -153,7 +153,7 @@ her çocuk bir şehrin saat kulesi
 
 Kemal ÖZER
 
-###  Seni
+##  Seni
 Anmakla Artıyorum
 
 korkak değilim umutsuz değilim bundan böyle
@@ -173,7 +173,7 @@ kelimeleri ölümsüz kılan şiire
 
 Kemal ÖZER
 
-### ARAYA GİREN
+## ARAYA GİREN
 GÖRÜNTÜLER
 
 Belki o zaman başladı bu kitap
@@ -204,7 +204,7 @@ Belki o zaman başladı bu kitap
 
 Kemal ÖZER
 
-### Ararken
+## Ararken
 
 Uçsuz bucaksız bir gömütlükteyim
 gömütünü arıyorum Attila Jozsef'in,
@@ -226,7 +226,7 @@ bıraktığı titreşim çağdaş bir kederin.
 
 Kemal ÖZER
 
-### Bana Bulaşmasın
+## Bana Bulaşmasın
 
 Yağmur çiseliyor ya
 bana bulaşmasın der gibi
@@ -236,7 +236,7 @@ kente uzak, kırlara yabancı
 
 Kemal ÖZER
 
-###  Bir Engel Çıkınca
+##  Bir Engel Çıkınca
 
 Yokuş aşağı koştunuz mu hiç?
 Durdunuz mu hiç
@@ -252,7 +252,7 @@ sizden önce aşar engeli.
 
 Kemal ÖZER
 
-###  Bir
+##  Bir
 Gelgitin İki Ucunda
 
 Kimi sabahlar işe giderken
@@ -275,7 +275,7 @@ buluşuyoruz bir gelgitin iki ucunda
 
 Kemal ÖZER
 
-###  Birikime
+##  Birikime
 İnanmak
 
 Dalgayı haber veren yakamoz
@@ -287,7 +287,7 @@ güneşi kapatmadan önce?
 
 Kemal ÖZER
 
-###  Esinleyen Neydi
+##  Esinleyen Neydi
 
 Yüzmek için gittiğim Karadeniz kıyısında
 bir yazı gördüm gelenleri uyaran.
@@ -311,7 +311,7 @@ Esinleyen neydi anladım.
 
 Kemal ÖZER
 
-###  Her Soluk
+##  Her Soluk
 Alışta
 
 Kaldırın bugün
@@ -330,7 +330,7 @@ Bugün ilkyazın ilk günü
 
 Kemal ÖZER
 
-###  Kısıntı
+##  Kısıntı
 
 İçimde kocaman bir günün tortusu
 geldim eve yüreğimin pasıyla
@@ -344,7 +344,7 @@ Elini çabuk tut sevgilim
 
 Kemal ÖZER
 
-###  "Macarlar" Filmini Seyrederken
+##  "Macarlar" Filmini Seyrederken
 
 Fısıldaştığını duydum
                       ardımda iki gevezenin.
@@ -369,7 +369,7 @@ bir büyük gölgenin
 
 Kemal ÖZER
 
-###  Serçeler
+##  Serçeler
 
 Gözlerimle serçeleri izliyorum
 güneşli bir ipte alıyorlar soluğu
@@ -380,7 +380,7 @@ yalnız ona gelince kesiliyor cıvıltı
 
 Kemal ÖZER
 
-###  Şemsiyeliler
+##  Şemsiyeliler
 
 İncecik bir ilkyaz yağmuru
 altında yürüyen şemsiyeliler
@@ -391,7 +391,7 @@ bakıyoruz birbirimizin şemsiyesine.
 
 Kemal ÖZER
 
-###  Şimdi Nerdeyse
+##  Şimdi Nerdeyse
 
 Böyle değildi bu kentte
 sokaklar, şarkılar ve insanlar.
@@ -407,7 +407,7 @@ Alınlarımıza biriken güneş
 
 Kemal ÖZER
 
-###  Yarıda Kalan
+##  Yarıda Kalan
 
 Araya hiçbir şey girmemiş gibi
 sürüp gider mi yeniden
@@ -418,7 +418,7 @@ hışmı geçince karagünlerin
 
 Kemal ÖZER
 
-###  Yıldızlardan Söz Açan Gerçekçi Şiir
+##  Yıldızlardan Söz Açan Gerçekçi Şiir
 
 Balkona çıktığımda, gecenin bu saatinde,
 gözüme ilişen ilk yıldıza bakarken
@@ -432,7 +432,7 @@ rüzgârıyla alevleniyor alnı, şimdi hepsini bilmeliyim.
 
 Kemal ÖZER
 
-### KAVGANIN YÜREĞİ
+## KAVGANIN YÜREĞİ
 
 Durur ilkyazın sürgünü
                                                                       inancın rüzgârgülü durmaz
@@ -445,7 +445,7 @@ Durur ilkyazın sürgünü
 
 Kemal ÖZER
 
-###  
+##  
 
 Balkona çıktığımda, gecenin bu saatinde,
 gözüme ilişen ilk yıldıza bakarken
@@ -459,7 +459,7 @@ rüzgârıyla alevleniyor alnı, şimdi hepsini bilmeliyim.
 
 Kemal ÖZER
 
-### Birinci Basıma Arka Kapak Yazısı
+## Birinci Basıma Arka Kapak Yazısı
 
 Yaşama bakışım, dünyayı kavrayışım, onu artık sürekli bir kavga olarak nitelediğimi özetliyor. 
 Şiir de bu kavganın bilincini vermekle yükümlü olmalı. İçinde bulunduğumuz durumun, yaşadığımız 
@@ -472,7 +472,7 @@ için, insan yüreğini bilinçle doldurmanın bir yoludur diyorum şiire.
 
 Kemal ÖZER
 
-###  Ağıt
+##  Ağıt
 
 annem mi bir kadın
 geciken bir kadın gece yatısına
@@ -492,7 +492,7 @@ terkisine çocukların bindiği
 
 Kemal ÖZER
 
-###  Alınyazısı
+##  Alınyazısı
 
 Öyle inançlı yaz ki onu, ne silmek mümkün olsun, ne
 saklamak gün ışığından. Yıksalar bile yazdığın duvarı, yine
@@ -501,7 +501,7 @@ duvarlarına bütün sokakların.
 
 Kemal ÖZER
 
-###  Bildiri
+##  Bildiri
 
 Yürüdüğün vakit seninle birlikte yürüsün diye kentler-
 deki daracık sokaklar,
@@ -513,7 +513,7 @@ deki daracık sokaklar,
 
 Kemal ÖZER
 
-###  Deniz Orakçısı
+##  Deniz Orakçısı
 
 Sor kendine bir sabah,
 av hazırlığına başlarken;
@@ -538,7 +538,7 @@ sor kendine bir sabah.
 
 Kemal ÖZER
 
-###  Dülger
+##  Dülger
 
 Bakışın donup kalmış aşağıda,
 belli uçan kuşları görmediğin.
@@ -562,7 +562,7 @@ yeniden kurmak için yüreğin.
 
 Kemal ÖZER
 
-###  Düşman
+##  Düşman
 
 Günler değişmesin isterler, akıp gittiği halde zaman.
 Hep aynı bahçeyi görsün evlerin penceresi, aynı sokakla-
@@ -576,7 +576,7 @@ da.
 
 Kemal ÖZER
 
-###  Kılıç
+##  Kılıç
 
 Elini uzatıyorsun güne, ölgün saatleri kalmış yalnız.
 Uzanıyorsun ağaca, silkeleyip almışlar yemişini. Toprağı
@@ -587,7 +587,7 @@ bir kılıç bileğinin ucunda.
 
 Kemal ÖZER
 
-###  Örtemez
+##  Örtemez
 Gelecek Günleri
 
 Üretmeyenler yaşamı ve rüzgârı göğünden, denizi ba-
@@ -602,7 +602,7 @@ külecektir onlar da, gelecek günlerin üzerinden.
 
 Kemal ÖZER
 
-###  Sorular
+##  Sorular
 
 Durulmuş diyenler göklere,
 durgun değil midir fırtına öncesi?
@@ -618,7 +618,7 @@ Sözünü söyledi ise ırmaklar?
 
 Kemal ÖZER
 
-###  Üzgünüm
+##  Üzgünüm
 Ama Övünüyorum
 
 Bunca geç kaldığıma üzgünüm
@@ -647,7 +647,7 @@ yanınızda olacağım yaratırken zaferi.
 
 Kemal ÖZER
 
-###  Yanıt
+##  Yanıt
 
 Nerden geldiğini soruyorsun ya, bir söyleşi kadar kısa-
 dır diyorum; ama dünyanın geçmişi kadar da köklü:
@@ -660,7 +660,7 @@ mak için.
 
 Kemal ÖZER
 
-###  Zamanı Değil
+##  Zamanı Değil
 
 Zamanı değil susmanın!
        Göreceksin nice çiçeklerin dirildiğini, nice korkuların
@@ -676,7 +676,7 @@ lamlar edinsin.
 
 Kemal ÖZER
 
-### ONLARIN
+## ONLARIN
 SESLERİYLE BİR KEZ DAHA
 
 Nelerden söz açıldıysa bu şiirlerde,
@@ -693,7 +693,7 @@ Nelerden söz açıldıysa bu şiirlerde,
 
 Kemal ÖZER
 
-### Alkışlarla
+## Alkışlarla
 Yürümenin Şarkısı
 
 Alkışlar, yürüyoruz, alkışlarla yürüyoruz
@@ -719,7 +719,7 @@ yürüyoruz alkışları alkışlarla çoğaltarak
 
 Kemal ÖZER
 
-### Bir
+## Bir
 Yürüyüşün Sonunda Şarkı
 
 Gökyüzü ilk kez benim, çünkü yukarıya
@@ -743,7 +743,7 @@ bir bayrak gibi tutuyorum,
 
 Kemal ÖZER
 
-### Onların
+## Onların
 Sesleriyle 1
 
 bir yolculuk daha başlıyor ozan için. Elinde
@@ -764,7 +764,7 @@ sesini sokaklara taşıran birine.
 
 Kemal ÖZER
 
-### Onların
+## Onların
 Sesleriyle 2
 
 buluşuncaya kadar orda burda savrulup duran
@@ -787,7 +787,7 @@ hiçbiri sahipsiz değil onların sesleriyle buluşalı
 
 Kemal ÖZER
 
-### Onların
+## Onların
 Sesleriyle 3
 
 ileriye doğru itildiğini duyacaksın sen de
@@ -807,7 +807,7 @@ yarın söylemeye daha başlamadan o şarkıları.
 
 Kemal ÖZER
 
-### Yürüdükçe
+## Yürüdükçe
 Öğrenmenin Şarkısı
 
 Yürüdükçe öğreniyorum ayaklarımızın da konuştuğunu
@@ -832,7 +832,7 @@ neyi tutarsak tutalım ellerimizin her biri bir şalter
 
 Kemal ÖZER
 
-### Zonguldak
+## Zonguldak
 
 Yerin derinliklerinden geldiler, ellerinde
 susmak bilmeyen bir yer altı güneşiyle, ne kadar
@@ -867,7 +867,7 @@ ve adını değiştirdiler ülkenin.
 
 Kemal ÖZER
 
-###  Haliç I
+##  Haliç I
 
 Bir uğultu değirmeni ilk uğrağımız
 her sabah kurulan bir insafsız pazar;
@@ -891,7 +891,7 @@ bir ucu güneydeyse kanatlarının.
 
 Kemal ÖZER
 
-###  Haliç II
+##  Haliç II
 
 Bir büyük zincir düşünün
 nerdeyse boşanacak,
@@ -924,7 +924,7 @@ Haliç üstündeki gökyüzü.
 
 Kemal ÖZER
 
-###  Haliç III
+##  Haliç III
 
 Anlıyoruz
 yolu kesilse bile
@@ -971,7 +971,7 @@ görünce ışımaya hazır
 
 Kemal ÖZER
 
-###  Ozanın Gözü
+##  Ozanın Gözü
 
 Ne zaman titreşen küçük bir alev görsem
 anımsarım Devrim Müzesi'ni Sofya'nın,
@@ -1006,7 +1006,7 @@ ozanın gözü evrende.
 
 Kemal ÖZER
 
-###  Şu Varna'da
+##  Şu Varna'da
 
 I
 
@@ -1058,7 +1058,7 @@ silahı bırakmak için elinden
 
 Kemal ÖZER
 
-###  Türkiye'den
+##  Türkiye'den
 Selâm
 
 Selâm getirdim Türkiye'den
@@ -1088,7 +1088,7 @@ halkımın büyük özleminden
 
 Kemal ÖZER
 
-### Aylı Karanlık
+## Aylı Karanlık
 
 saklı tuttun saklı tutmanı sevdim
 en karanlığa açılan kapını sevdim
@@ -1118,7 +1118,7 @@ saçları dudakları kim bilir kimin
 
 Kemal ÖZER
 
-### Bir Alev Gibi
+## Bir Alev Gibi
 
 Bir alev gibi ozanın karısı.
 Nereye yürüse onunla karşılaşıyor,
@@ -1148,7 +1148,7 @@ Küçük bir alev. Duyarlı ve titreşimli.
 
 Kemal ÖZER
 
-### Bir İnsan, 
+## Bir İnsan, 
 Bir Düş
 
 Kentler tanıdım, yaprakları
@@ -1210,7 +1210,7 @@ elinden alamamıştı bir türlü.
 
 Kemal ÖZER
 
-### Bir Kız
+## Bir Kız
 
 Güneş altında titreşen
 yağmur damlası gibi
@@ -1226,7 +1226,7 @@ bağlamaya hazır kendini
 
 Kemal ÖZER
 
-### Seni Anmakla
+## Seni Anmakla
 Artıyorum
 
 korkak değilim umutsuz değilim bundan böyle
@@ -1246,7 +1246,7 @@ kelimeleri ölümsüz kılan şiire
 
 Kemal ÖZER
 
-### Yalnız Biri
+## Yalnız Biri
 
 Yanından geçiyoruz tahta perdenin
 her günkü yolumuzda
@@ -1259,7 +1259,7 @@ yalnız biri
 
 Kemal ÖZER
 
-### Yan
+## Yan
 Yana İki Ülke Gibiyiz Seninle
 
 Yan yana iki ülke gibiyiz seninle,
@@ -1285,7 +1285,7 @@ kardeşçe bölüşülen bir dünyanın.
 
 Kemal ÖZER
 
-### Zonguldak
+## Zonguldak
 
 Yerin derinliklerinden geldiler, ellerinde
 susmak bilmeyen bir yer altı güneşiyle, ne kadar

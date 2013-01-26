@@ -1,6 +1,6 @@
-## Enver ERCAN
+# Enver ERCAN
 
-### Di
+## Di
 
 elim sana değse
 diniyor gece
@@ -17,7 +17,7 @@ uyanıyor sözcükler
 
 Enver ERCAN
 
-### Gök Yüzünü Çevir Bana
+## Gök Yüzünü Çevir Bana
 
 bende bulduğun benim de aradığımdı
 sarmaşıp inceldiğimiz o nokta
@@ -38,7 +38,7 @@ tanrı bu geceyi korusun
 
 Enver ERCAN
 
-### Kirlibeyaz
+## Kirlibeyaz
 
 haylaz bir adamdan da başlanabilir sevmeye
 Tertemiz kâğıtlara mürekkep dağıtır da
@@ -54,7 +54,7 @@ hep 'bi dostluk' kalır geriye
 
 Enver ERCAN
 
-### Manzara Gülüşlü Kız
+## Manzara Gülüşlü Kız
 
 öpüşmekte güçlük çeken bir kızdı işte
 üstelik düşlerimden ödü kopardı

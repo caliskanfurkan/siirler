@@ -1,6 +1,6 @@
-## Nevzat ÜSTÜN
+# Nevzat ÜSTÜN
 
-### Hayvanat Bahçesi
+## Hayvanat Bahçesi
 
 Öyle düşünceli bakma yüzüme
 Sana vereceğim şeyler belli
@@ -22,7 +22,7 @@ Hürriyet veremem mesela
 
 Nevzat ÜSTÜN
 
-### Hırsız Hasan
+## Hırsız Hasan
 
 Bir kere düşündü Hasan
 İki kere düşündü Hasan
@@ -98,7 +98,7 @@ Yaşamak biraz öteye gitti
 
 Nevzat ÜSTÜN
 
-### Kezban
+## Kezban
 
 Baktım ki Kezban gidiyor elden
 Baktım ki işin sonu kötü
@@ -107,7 +107,7 @@ Usulünce yürü
 
 Nevzat ÜSTÜN
 
-### Kırmızı Dudaklı Aşk
+## Kırmızı Dudaklı Aşk
 
 Çünkü ben oluyorum
 Karımın saçlarını çalıyorum
@@ -155,7 +155,7 @@ Dağlara çıkalım gel.
 
 Nevzat ÜSTÜN
 
-### Sevişmek Var
+## Sevişmek Var
 
 "Bütün yüreğimle Şükran'a"
 
@@ -199,7 +199,7 @@ Sevişmek var
 
 Nevzat ÜSTÜN
 
-### Sözümüz Var
+## Sözümüz Var
 
 Yolumuz var
 Gözlerimin bebeği
@@ -223,7 +223,7 @@ Fırtınanın toprağı yediği yerde
 
 Nevzat ÜSTÜN
 
-### Şeytan
+## Şeytan
 
 Anadolu'da bir köy
 Köyün içinde bir ev

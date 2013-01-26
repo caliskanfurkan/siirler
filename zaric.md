@@ -1,6 +1,6 @@
-## C. Hakkı ZARİÇ
+# C. Hakkı ZARİÇ
 
-###  Belleğim Ve Sıfır 
+##  Belleğim Ve Sıfır 
 
 Paslı bir ilkbahar unutmuşum içimdeki sızıda
 Uçurumu anımsatıyor çiçek açmış erik ağaçları
@@ -28,7 +28,7 @@ Neden külliyen mantıkla donanmıştır kimi kadınlar?..
 
 C. Hakkı ZARİÇ
 
-###  Gözlerinde Rehin Kalsın Gözlerim 
+##  Gözlerinde Rehin Kalsın Gözlerim 
 
 Bu haklı isyan sürdükçe 
 Ölenlere ağlamak usandırmaz insanı 
@@ -66,7 +66,7 @@ Sen halvet mekanlara abanırsın
 
 C. Hakkı ZARİÇ
 
-###  İkimiz Birlikte 
+##  İkimiz Birlikte 
 
 Kapıları öfkeyle iten çocukların ellerine bakıyorum
 Su içen uzun boyunlu kadınların göğündeki bulutlara
@@ -105,7 +105,7 @@ Aşkına abanıyorum, aşkına abanıyorum, aşkına abanıyorum
 
 C. Hakkı ZARİÇ
 
-###  Islak Kül 
+##  Islak Kül 
 
 Bu kadar gökle yetinmemeli 
 Beyaz rüzgârlar aramalı 
@@ -149,7 +149,7 @@ Biraz daha gök, daha gök, gök! ..
 
 C. Hakkı ZARİÇ
 
-###  Keşke Hiç . . . 
+##  Keşke Hiç . . . 
 
 Ayazdım, azdım... Azıksızdım
 İçimde sırasına koşan şiirler vardı
@@ -202,7 +202,7 @@ Gözlerimdeki forsaya toprak tadında mavi bakmasaydın
 
 C. Hakkı ZARİÇ
 
-###  Sıfırın Tekrarı 
+##  Sıfırın Tekrarı 
 
 Raylara atılmış bir frezya görmüştüm rüyamda
 Üstüme sinmiş gar kokusundan tanıdılar yalnızlığımı
@@ -233,7 +233,7 @@ Tekrar  ediyor içimde sıfır kendisini, gel artık!
 
 C. Hakkı ZARİÇ
 
-###  Sis Ve Tuz 
+##  Sis Ve Tuz 
 
 O'na, sıfırda kalana veda şiiri... 
  
@@ -266,7 +266,7 @@ Tuz sonra, sağanak halinde tuz, tuz !..
 
 C. Hakkı ZARİÇ
 
-###  . . . Ve Sis 
+##  . . . Ve Sis 
 
 Gölgesinde çınarları dinlendirdiğim kadının
 Gülüşü rütbeli ve tenekedenmiş meğer
@@ -318,7 +318,7 @@ Yoksa yine buzun üstünde miyim?..
 
 C. Hakkı ZARİÇ
 
-###  Yalanlayış 
+##  Yalanlayış 
 
 "Nasılsın" "-İyiyim!" kadar yalandım
 Anahtar deliklerinde susanlar her neyse onlarla oyalandım
@@ -333,7 +333,7 @@ Sevinçleri çalınmış ürkek, lirik kadınları
 
 C. Hakkı ZARİÇ
 
-###  Zona 
+##  Zona 
 
 Uysal bir ormanın uğultusunda kaybedilmiş
 patikayı kim arar

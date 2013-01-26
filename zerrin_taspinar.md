@@ -1,6 +1,6 @@
-## Zerrin TAŞPINAR
+# Zerrin TAŞPINAR
 
-### Anfora 
+## Anfora 
 
 Bir kadın sevdim, ilkyaz yoksulu
 fırtına habercisi bir albatros
@@ -107,7 +107,7 @@ denizler dolusu anfora.
 
 Zerrin TAŞPINAR
 
-### Anılarda Şimdi 
+## Anılarda Şimdi 
 
 Her şey ve herkes kayarak duruyordu sanki
 bana yaz diyordu bir kadın
@@ -147,7 +147,7 @@ kapat perdeleri, sesini azalt, coşkunu tut...
 
 Zerrin TAŞPINAR
 
-### Ardıç Kuşu ve Sevda 
+## Ardıç Kuşu ve Sevda 
 
 Yüzünü biriktiriyorum şimdi
 çünkü ben, bir ardıç kuşu gibi
@@ -192,7 +192,7 @@ Yüzünü biriktiriyorum şimdi.
 
 Zerrin TAŞPINAR
 
-### Atlar I 
+## Atlar I 
 
 Atlar durur
 atlar yürür
@@ -228,7 +228,7 @@ bir nay sesidir duyulan
 
 Zerrin TAŞPINAR
 
-### Atlar II 
+## Atlar II 
 
 Çok derinlerde bir yerde bir İsa
         'beni neden terkettin?'
@@ -247,7 +247,7 @@ anlayacak hiç kimsem...
 
 Zerrin TAŞPINAR
 
-### Atlar III 
+## Atlar III 
 
 Tacirler sever atları sevgilim
 hele gamsız bir kervan dizilmişse
@@ -276,7 +276,7 @@ atlar yürür.
 
 Zerrin TAŞPINAR
 
-### Atlar IV 
+## Atlar IV 
 
 Şiirin hırçın saçlarına takılmış
 birkaç dizede çiğ damlaları
@@ -301,7 +301,7 @@ tut ellerimi.
 
 Zerrin TAŞPINAR
 
-### Ben Seni Her Yerde 
+## Ben Seni Her Yerde 
 
 Ben seni çocukluğumun yaz günlerinde buldum,
 bayram sabahlarında köylerin
@@ -330,7 +330,7 @@ ve yüksek sesle konuşmam bundandır.
 
 Zerrin TAŞPINAR
 
-### Çağsız Dokumacı 
+## Çağsız Dokumacı 
 
 Karanlık bir gergefi dokuyor kadın
 -taa en tepeden ayak uçlarına-
@@ -359,7 +359,7 @@ koptu kopacak... dokuyor kadın...
 
 Zerrin TAŞPINAR
 
-### Demetevler Parkında Eylül I 
+## Demetevler Parkında Eylül I 
 
 Zaman öğleye yakın
 geç uyananların boş saatleri
@@ -376,7 +376,7 @@ sanki bir geyikten bugüne kalan.
 
 Zerrin TAŞPINAR
 
-### Demetevler Parkında Eylül II 
+## Demetevler Parkında Eylül II 
 
 Son kırlangıçlar da bırakacak bu kenti
 oluk oluk akacak can sıkıntısı, yaşlılıklar
@@ -392,7 +392,7 @@ yere bakarız ki...
 
 Zerrin TAŞPINAR
 
-### Demetevler Parkında Eylül
+## Demetevler Parkında Eylül
   III 
 
 Zaman öğleye yakın
@@ -414,7 +414,7 @@ gümüş pullu balıklar.
 
 Zerrin TAŞPINAR
 
-### Demetevler Parkında Eylül IV 
+## Demetevler Parkında Eylül IV 
 
 Zaman öğleye yakın
 binlerce yıllık tarihinde insanlığın
@@ -427,7 +427,7 @@ her eylül... geldiği gibi...
 
 Zerrin TAŞPINAR
 
-### İpek Bir Mendil 
+## İpek Bir Mendil 
 
 Bir ipek mendili olmadı hiç
 yakasına takılan bir karanfil
@@ -461,7 +461,7 @@ ne de yatağında gül yaprakları.
 
 Zerrin TAŞPINAR
 
-### Kızın Elinde Oya 
+## Kızın Elinde Oya 
 
 Kızın elinde oya gelin olacak yakın
 kızın gözünde uyku
@@ -482,7 +482,7 @@ gittiği yerde kadın.
 
 Zerrin TAŞPINAR
 
-### Turkuaz 
+## Turkuaz 
 
 Düşlerin mavi sağanağında bir gece
 sordu cesur ve yılgın

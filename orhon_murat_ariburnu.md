@@ -1,6 +1,6 @@
-## Orhon Murat ARIBURNU
+# Orhon Murat ARIBURNU
 
-### Hançer
+## Hançer
 
 Al eline hançeri
 Açýlýp açýlýp da vur
@@ -10,7 +10,7 @@ Niçin öldüðüm anlaþýlmaz.
 
 Orhon Murat ARIBURNU
 
-### Kasap
+## Kasap
 
 Ýþlerin yolunda gidiyor kasap
 Ýþlerin yolunda
@@ -25,7 +25,7 @@ Ne berbat kafiye!
 
 Orhon Murat ARIBURNU
 
-### Laleli
+## Laleli
 
 Lalelim
 Lalelide oturur
@@ -36,7 +36,7 @@ Lalelimden geçilmez!..
 
 Orhon Murat ARIBURNU
 
-### Mahkumlar
+## Mahkumlar
 
 Ekseriya sabaha karþý
 Kurþuna dizilir mahkumlar
@@ -48,7 +48,7 @@ Bari þu trampetler çalmasa,
 
 Orhon Murat ARIBURNU
 
-### Sen Gözlerimin İçine
+## Sen Gözlerimin İçine
 
 Ben daha büyük 
 Ben daha yüce 
@@ -72,7 +72,7 @@ Sen gözlerimin içinde
 
 Orhon Murat ARIBURNU
 
-### Zampok Eyin Pi
+## Zampok Eyin Pi
 
 Ýki canbaz bir ipte oynamaz
 Bir ipte bir sürü cambaz
@@ -87,7 +87,7 @@ Zampok eyin pi
 
 Orhon Murat ARIBURNU
 
-### Zurna
+## Zurna
 
 Zurna dan kazandý
 Zurna dan yiyiyor

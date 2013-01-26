@@ -1,6 +1,6 @@
-## Onat KUTLAR
+# Onat KUTLAR
 
-### Ayrılık
+## Ayrılık
 
 Ayrılık şiiri ne kadar yalın
 Sevdiğimiz aşk sözcükleri gibi
@@ -19,7 +19,7 @@ Bir karanfil tam yüreğimin üstünde
 
 Onat KUTLAR
 
-### Dün Gece Nuh ama Peygamber
+## Dün Gece Nuh ama Peygamber
   Değilken Gördüğüm Düş
 
 Bir ülkeye binmişim adım ne bilmiyorum
@@ -47,7 +47,7 @@ izinli askerler, köylüler, çocuklar ve sevdiğim kadın.
 
 Onat KUTLAR
 
-### Oramar
+## Oramar
 
 Telefon direğinde bir yeni yaprak
 Yaralı, gergin bir dişi tayın yelesi
@@ -66,7 +66,7 @@ Adı senin olan yere gel hemen
 
 Onat KUTLAR
 
-### Pera'lı Bir Aşk İçin Gazel
+## Pera'lı Bir Aşk İçin Gazel
 
 Merhaba güzelim, bak nasıl doldurdu
 -Dur önce şu sigaramı yakayım-
@@ -102,7 +102,7 @@ Alıp götürecek bir sahaf olmalı
 
 Onat KUTLAR
 
-### Unutulmuş Kent
+## Unutulmuş Kent
 
 Vermeme olanak yok bana verdiklerini 
 Ama ayrılırken bir hesaplaşma da gerekli 
@@ -111,7 +111,7 @@ Ben seni alayım istersen sen de beni
 
 Onat KUTLAR
 
-### Yedi Küçük Fotoğraf
+## Yedi Küçük Fotoğraf
 
 Çok tenha bir kumsala çekilmiş
 Bir dilim taze kavun sandalı

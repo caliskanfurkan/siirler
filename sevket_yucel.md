@@ -1,6 +1,6 @@
-## Şevket YÜCEL
+# Şevket YÜCEL
 
-###  Bir Renkli Özlem
+##  Bir Renkli Özlem
 
 İster yeşil gel bana, ister mavi, ister beyaz
 Değişmez

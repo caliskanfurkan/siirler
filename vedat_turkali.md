@@ -1,104 +1,224 @@
-## Vedat TÜRKALİ
+# Vedat TÜRKALİ
 
-### 950'den Notlar
+## 950'den Notlar
 
 950'DEN NOTLAR
 Yüce dağ başları dumanlı
-    dumanlıIrmaklar yorgun ağırİnsanlar yapayalnızNedir üstümüzdeki bu karanlık
-    bulutIrgatın akşamlara kadar düşündüğü
-    nedirYabancı bandıralar bayraklar
-    emirlerNe maviliklerde ferahlık ne
-    toprakta güvenyurda ölüm tüccarları
-    kurulmuşBu vatan bu millet bu bayrakSatılmaz diyenden hesap
-    sorulmuşYollar fabrikalar tarlalarBir hançer altında amansızDağ taş haber bekler hürriyettenNedir bu toprakların bitmeyen
-    çilesiNedir nedir nedirBu gün karanlıkta apansızBir çığlık yükseldi
-    memlekettenBen bayraksız hürriyettsiz
-    neylerim dediKınalı keklikler uçtu düz
-    ovalardan tabur taburYabancı bu memlekette işin
-    neYerin altında damar damar
-    madenlerimiz varBizi beklerGötürüp top dökemezsinDağlarımız ırmaklarımız
-    bize göredirTarlalarımız bize kadarEkemezsinBizim bu toprak içinBu topraklarda dökülecek
-    kanlarımız varElini kolunu sallayarak bu
-    memleketteGiremezsin çıkamazsınBiliriz yağmaya geldin yabancıSenin bu memlekette işin ne
-Biliyorum bir gün karanlıktaKesecekler yolumuzuYa siz çocuklarNasıl anlatmalı sizlere olup
-    bitecekleriÇocuklar bizim dediğimizYüzümüze utanç duymadan
-    bakmaktırMal değil mülk değil istediğimizSize namuslu bir dünya bırakmaktır
+    dumanlı
+Irmaklar yorgun ağır
+İnsanlar yapayalnız
+Nedir üstümüzdeki bu karanlık
+    bulut
+Irgatın akşamlara kadar düşündüğü
+    nedir
+Yabancı bandıralar bayraklar
+    emirler
+Ne maviliklerde ferahlık ne
+    toprakta güven
+yurda ölüm tüccarları
+    kurulmuş
+Bu vatan bu millet bu bayrak
+Satılmaz diyenden hesap
+    sorulmuş
+Yollar fabrikalar tarlalar
+Bir hançer altında amansız
+Dağ taş haber bekler hürriyetten
+Nedir bu toprakların bitmeyen
+    çilesi
+Nedir nedir nedir
+Bu gün karanlıkta apansız
+Bir çığlık yükseldi
+    memleketten
+Ben bayraksız hürriyettsiz
+    neylerim dedi
+Kınalı keklikler uçtu düz
+    ovalardan tabur tabur
+Yabancı bu memlekette işin
+    ne
+Yerin altında damar damar
+    madenlerimiz var
+Bizi bekler
+Götürüp top dökemezsin
+Dağlarımız ırmaklarımız
+    bize göredir
+Tarlalarımız bize kadar
+Ekemezsin
+Bizim bu toprak için
+Bu topraklarda dökülecek
+    kanlarımız var
+Elini kolunu sallayarak bu
+    memlekette
+Giremezsin çıkamazsın
+Biliriz yağmaya geldin yabancı
+Senin bu memlekette işin ne
+Biliyorum bir gün karanlıkta
+Kesecekler yolumuzu
+Ya siz çocuklar
+Nasıl anlatmalı sizlere olup
+    bitecekleri
+Çocuklar bizim dediğimiz
+Yüzümüze utanç duymadan
+    bakmaktır
+Mal değil mülk değil istediğimiz
+Size namuslu bir dünya bırakmaktır
 
 Vedat TÜRKALİ
 
-### Cezaevinde
+## Cezaevinde
     Barış Türküsü
 
 CEZAEVİNDE BARIŞ TÜRKÜSÜ
 Kalkın kardeşler ışıklar
-    görünmeye başladıEski duvarlar değil bu
-    duvarlarBir ak kuş gelip kondu kara
-    çatıyaDünyayı böylesine sardı mı
-    kollarNe etsin kelepçe neylesin
-    zincirKaç kez gösterdi tarih
-    aldatmayacak biziBu denizli kuşlu dünyadaBir tek acılar mıdır payımıza
-    düşenDökülsün yollara beş kıtadaEkmek de özgürlük de barışın
-    gülleridirYumuk elli bebekler
-    pencerelerde bekliyorDünyayı çepeçevre kuşatan
-    barış kervanlarınıÇelik canavarlar gibi tanklar
-    değilCaddelere yakışan özgürlük
+    görünmeye başladı
+Eski duvarlar değil bu
+    duvarlar
+Bir ak kuş gelip kondu kara
+    çatıya
+Dünyayı böylesine sardı mı
+    kollar
+Ne etsin kelepçe neylesin
+    zincir
+Kaç kez gösterdi tarih
+    aldatmayacak bizi
+Bu denizli kuşlu dünyada
+Bir tek acılar mıdır payımıza
+    düşen
+Dökülsün yollara beş kıtada
+Ekmek de özgürlük de barışın
+    gülleridir
+Yumuk elli bebekler
+    pencerelerde bekliyor
+Dünyayı çepeçevre kuşatan
+    barış kervanlarını
+Çelik canavarlar gibi tanklar
+    değil
+Caddelere yakışan özgürlük
     ekmek türküleridir
-Limanlar barışla çalkalanmışÇöller dağlar stepler
-    denizler barış fırtınasındaResimler gördük cezaevlerine
-    yakışmayanKitaplar dergiler gazeteler
-    dolusuSiz bir meydan dolusu gülen
-    esmer kardeşlerimKara güller gibi açılmıştınız
-    bir sabah aydınlığındaAsya barış diyor Afrika barış
-    diyorElde silah barış diyorSeren direğinde ufuklara
-    bakan gemiciAvrupalı çıkmış toplama
-    kampındanEkmek barış türküleri
-    bekliyorBombardıman uçakları değilKarşısına dikilmiş ölüm
-    tüccarlarının Dünya barış diyorSevmek yaratmak yaşamak nedirGörelim milyara yakın
-    korkusuz cıvıl cıvılGörelim Kore'den Çekoslavakya'ya
-    kadarDüşlerimiz ellerimiz
-    sizinledirBarış sizinledir
+Limanlar barışla çalkalanmış
+Çöller dağlar stepler
+    denizler barış fırtınasında
+Resimler gördük cezaevlerine
+    yakışmayan
+Kitaplar dergiler gazeteler
+    dolusu
+Siz bir meydan dolusu gülen
+    esmer kardeşlerim
+Kara güller gibi açılmıştınız
+    bir sabah aydınlığında
+Asya barış diyor Afrika barış
+    diyor
+Elde silah barış diyor
+Seren direğinde ufuklara
+    bakan gemici
+Avrupalı çıkmış toplama
+    kampından
+Ekmek barış türküleri
+    bekliyor
+Bombardıman uçakları değil
+Karşısına dikilmiş ölüm
+    tüccarlarının 
+Dünya barış diyor
+Sevmek yaratmak yaşamak nedir
+Görelim milyara yakın
+    korkusuz cıvıl cıvıl
+Görelim Kore'den Çekoslavakya'ya
+    kadar
+Düşlerimiz ellerimiz
+    sizinledir
+Barış sizinledir
 Bu taş duvarlar bu demir
-    parmaklık kardeşVan Gölünden Ağrıdan
-    Ergene IrmağınaÇürüyüp dökülmüş
-    karanlıkta kökleriMapusane bahçesinde el kadar
-    mavilikBir zaman gerili dursun başımızdaGardiyanlar dolaşsın daha
-    bir zamanParmaklık hükmünü yürütsünÇiçeklerle donatacak kollarını
-    bahar dalları gibiKaranlıkta barış kervanlarını
-    bekleyenÇileden çileye batmış
-    senin emekçi halkındırYirmisinde bir delikanlı gibi
-    dalıp maviliklereYirmisinde bir delikanlı gibiDudaklarından öpeceğim günMasmavi özgürlüğün
+    parmaklık kardeş
+Van Gölünden Ağrıdan
+    Ergene Irmağına
+Çürüyüp dökülmüş
+    karanlıkta kökleri
+Mapusane bahçesinde el kadar
+    mavilik
+Bir zaman gerili dursun başımızda
+Gardiyanlar dolaşsın daha
+    bir zaman
+Parmaklık hükmünü yürütsün
+Çiçeklerle donatacak kollarını
+    bahar dalları gibi
+Karanlıkta barış kervanlarını
+    bekleyen
+Çileden çileye batmış
+    senin emekçi halkındır
+Yirmisinde bir delikanlı gibi
+    dalıp maviliklere
+Yirmisinde bir delikanlı gibi
+Dudaklarından öpeceğim gün
+Masmavi özgürlüğün
 İnan ki yakındır
 
 Vedat TÜRKALİ
 
-### İstanbul
+## İstanbul
 
+"Sis" şairine ithaf edilmiştir.
+ 
 Salkım salkım tan yelleri
-    estiğindeMavi patiskaları yırtan
-    gemilerinleUzaktan seni düşünürüm İstanbulBinbir direkli Halicinde akşamAdalarında baharSüleymaniyende güneşHey sen güzelsin kavgamızın
+    estiğinde
+Mavi patiskaları yırtan
+    gemilerinle
+Uzaktan seni düşünürüm İstanbul
+Binbir direkli Halicinde akşam
+Adalarında bahar
+Süleymaniyende güneş
+Hey sen güzelsin kavgamızın
     şehri
 Ve uzaklardan seni düşündüğüm
-    bugünlerdeBakışlarımda akşam karanlığınKulaklarımda sesin İstanbul
-Ve uzaklardanVe uzaklardan seni düşündüğüm
-    bugünlerdeSen şimdi haramilerin
+    bugünlerde
+Bakışlarımda akşam karanlığın
+Kulaklarımda sesin İstanbul
+Ve uzaklardan
+Ve uzaklardan seni düşündüğüm
+    bugünlerde
+Sen şimdi haramilerin
     elindesin İstanbul
-Plajlarında karaborsacılarYağlı gövdelerini kuma
-    sermiştir.Kürtajlı genç kızlar cilve
-    yapar karşılarındaBalıkpazarında depoya kaçırılan
-    fasulyanınMeyvesini birlikte devşirirlerSen şimdi haramilerin
+Plajlarında karaborsacılar
+Yağlı gövdelerini kuma
+    sermiştir.
+Kürtajlı genç kızlar cilve
+    yapar karşılarında
+Balıkpazarında depoya kaçırılan
+    fasulyanın
+Meyvesini birlikte devşirirler
+Sen şimdi haramilerin
     elindesin İstanbul
-Et tereyağı şekerPadişahın üç oğludur
-    kenar mahallelerindeYumurta masalıyla büyütülür
-    çocuklarınHürriyet yokEkmek yokHak yokKolların ardından bağlandıKesildi yolbaşlarınHaramilerin gayrısına yaşamak
+Et tereyağı şeker
+Padişahın üç oğludur
+    kenar mahallelerinde
+Yumurta masalıyla büyütülür
+    çocukların
+Hürriyet yok
+Ekmek yok
+Hak yok
+Kolların ardından bağlandı
+Kesildi yolbaşların
+Haramilerin gayrısına yaşamak
     yok
-Almış dizginleri elineBir avuç vurguncu müteahhit
-    toprak ağasıOnların kemik yalayan dostlarıOnların sazı cazı villası
-    doktoru dişçisiVe sen esnaf sen söyle sen
-    memur sen entellektüelVe sen Ve sen haktan bahseden Ortaköyün
-    Cibalinin işçisiSeni öldürürlerSeni sürerlerBuhranlar senin sırtından geçiştirilirİpek şiltelerin istakozlarınve ahmak selameti içinHakkında idam hükümleri
+Almış dizginleri eline
+Bir avuç vurguncu müteahhit
+    toprak ağası
+Onların kemik yalayan dostları
+Onların sazı cazı villası
+    doktoru dişçisi
+Ve sen esnaf sen söyle sen
+    memur sen entellektüel
+Ve sen 
+Ve sen haktan bahseden Ortaköyün
+    Cibalinin işçisi
+Seni öldürürler
+Seni sürerler
+Buhranlar senin sırtından geçiştirilir
+İpek şiltelerin istakozların
+ve ahmak selameti için
+Hakkında idam hükümleri
     verilir
 Haktan bahseden namuslu
-    insanlarıYağmurlu bir mart akşamı
+    insanları
+Yağmurlu bir mart akşamı
     topladılar
 Karanlık mahzenlerinde şehrin
 Cellatlara gün doğdu
@@ -169,7 +289,7 @@ Sen bize layıksın
 
 Vedat TÜRKALİ
 
-### Sultanahmet
+## Sultanahmet
     Cezaevi
 
 Sabah serinliği gün ağarıyor  
@@ -191,34 +311,72 @@ Daha bir süre akıp gidecek Duvarlarında
 
 Vedat TÜRKALİ
 
-### İstanbul
+## İstanbul
 
+"Sis" şairine ithaf edilmiştir.
+ 
 Salkım salkım tan yelleri
-    estiğindeMavi patiskaları yırtan
-    gemilerinleUzaktan seni düşünürüm İstanbulBinbir direkli Halicinde akşamAdalarında baharSüleymaniyende güneşHey sen güzelsin kavgamızın
+    estiğinde
+Mavi patiskaları yırtan
+    gemilerinle
+Uzaktan seni düşünürüm İstanbul
+Binbir direkli Halicinde akşam
+Adalarında bahar
+Süleymaniyende güneş
+Hey sen güzelsin kavgamızın
     şehri
 Ve uzaklardan seni düşündüğüm
-    bugünlerdeBakışlarımda akşam karanlığınKulaklarımda sesin İstanbul
-Ve uzaklardanVe uzaklardan seni düşündüğüm
-    bugünlerdeSen şimdi haramilerin
+    bugünlerde
+Bakışlarımda akşam karanlığın
+Kulaklarımda sesin İstanbul
+Ve uzaklardan
+Ve uzaklardan seni düşündüğüm
+    bugünlerde
+Sen şimdi haramilerin
     elindesin İstanbul
-Plajlarında karaborsacılarYağlı gövdelerini kuma
-    sermiştir.Kürtajlı genç kızlar cilve
-    yapar karşılarındaBalıkpazarında depoya kaçırılan
-    fasulyanınMeyvesini birlikte devşirirlerSen şimdi haramilerin
+Plajlarında karaborsacılar
+Yağlı gövdelerini kuma
+    sermiştir.
+Kürtajlı genç kızlar cilve
+    yapar karşılarında
+Balıkpazarında depoya kaçırılan
+    fasulyanın
+Meyvesini birlikte devşirirler
+Sen şimdi haramilerin
     elindesin İstanbul
-Et tereyağı şekerPadişahın üç oğludur
-    kenar mahallelerindeYumurta masalıyla büyütülür
-    çocuklarınHürriyet yokEkmek yokHak yokKolların ardından bağlandıKesildi yolbaşlarınHaramilerin gayrısına yaşamak
+Et tereyağı şeker
+Padişahın üç oğludur
+    kenar mahallelerinde
+Yumurta masalıyla büyütülür
+    çocukların
+Hürriyet yok
+Ekmek yok
+Hak yok
+Kolların ardından bağlandı
+Kesildi yolbaşların
+Haramilerin gayrısına yaşamak
     yok
-Almış dizginleri elineBir avuç vurguncu müteahhit
-    toprak ağasıOnların kemik yalayan dostlarıOnların sazı cazı villası
-    doktoru dişçisiVe sen esnaf sen söyle sen
-    memur sen entellektüelVe sen Ve sen haktan bahseden Ortaköyün
-    Cibalinin işçisiSeni öldürürlerSeni sürerlerBuhranlar senin sırtından geçiştirilirİpek şiltelerin istakozlarınve ahmak selameti içinHakkında idam hükümleri
+Almış dizginleri eline
+Bir avuç vurguncu müteahhit
+    toprak ağası
+Onların kemik yalayan dostları
+Onların sazı cazı villası
+    doktoru dişçisi
+Ve sen esnaf sen söyle sen
+    memur sen entellektüel
+Ve sen 
+Ve sen haktan bahseden Ortaköyün
+    Cibalinin işçisi
+Seni öldürürler
+Seni sürerler
+Buhranlar senin sırtından geçiştirilir
+İpek şiltelerin istakozların
+ve ahmak selameti için
+Hakkında idam hükümleri
     verilir
 Haktan bahseden namuslu
-    insanlarıYağmurlu bir mart akşamı
+    insanları
+Yağmurlu bir mart akşamı
     topladılar
 Karanlık mahzenlerinde şehrin
 Cellatlara gün doğdu

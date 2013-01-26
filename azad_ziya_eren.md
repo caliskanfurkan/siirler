@@ -1,6 +1,6 @@
-## Azad Ziya EREN
+# Azad Ziya EREN
 
-### Ateşte Kor Olup Bitmekti Dileğim
+## Ateşte Kor Olup Bitmekti Dileğim
 
 ateşte kor olup bitmekti dileğim.
 hayatın; köpüksüz ve 
@@ -37,7 +37,7 @@ ilk ıslaklığına yenilmek.
 
 Azad Ziya EREN
 
-### Gladyatör Kadın ve Deniz Laleleri
+## Gladyatör Kadın ve Deniz Laleleri
 
 gençliğim diyor kadın; 
 salındı nazenin bilekleriyle 
@@ -86,7 +86,7 @@ geçkinliğim rengim diyorum
 
 Azad Ziya EREN
 
-### Hayat Bir Grevdi Sürekli Kırılan
+## Hayat Bir Grevdi Sürekli Kırılan
 
 evrenin bütün kıygıları zenci bir tenin sırtında 
 patlayan kırbaç gibi balkıdıkça;
@@ -140,7 +140,7 @@ birer grevdi gözlerin
 
 Azad Ziya EREN
 
-### Noch Ein Bisschen Licht!
+## Noch Ein Bisschen Licht!
 
 1
 köle 
@@ -245,7 +245,7 @@ diri ses uzunca beklenen ari nefes merhaba..!
 
 Azad Ziya EREN
 
-### Saatlerdir Yağıyor Eylül
+## Saatlerdir Yağıyor Eylül
 
 saatlerdir yağıyor eylül
 bulutun mavi uçurumun yaşamak gibi 
@@ -280,7 +280,7 @@ ağır damlalarıyla eylül
 
 Azad Ziya EREN
 
-### Sakıncalı Şiir Dışarısı Eylül
+## Sakıncalı Şiir Dışarısı Eylül
   Kokuyor
 
 krizantem taçyaprağında çıldırtan kışkırtıcılık
@@ -305,7 +305,7 @@ sakıncalı...sakıncalı devrim mürekkebin içinde kalacak
 
 Azad Ziya EREN
 
-### Şiirin İnce Mührü
+## Şiirin İnce Mührü
 
 "bir çöl bitkisinin susamışlığıyla özlüyorum seni"
 diyen Gioconda Belli’ye
@@ -355,7 +355,7 @@ yankılı çocuk sesleri çağıldıyor
 
 Azad Ziya EREN
 
-### Suyu Şiir Bildim Susuzluğu Aşk
+## Suyu Şiir Bildim Susuzluğu Aşk
 
 sesinin kokusu var
 şiir parlatan ince parmakları
@@ -403,7 +403,7 @@ sadakatsizliği kâğıda dağılmayan mürekkep
 
 Azad Ziya EREN
 
-### Tutuk Kulesi
+## Tutuk Kulesi
 
 parıldayan bir diyardı avutulan
 çığlığımı bırakıp göğüne 
@@ -437,7 +437,7 @@ bu zaman da görüldü...
 
 Azad Ziya EREN
 
-### Uzak Tanık
+## Uzak Tanık
 
 uzak tanıklarıyız
          kulağımızda seken hayatların ...

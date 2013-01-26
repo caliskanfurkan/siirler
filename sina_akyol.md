@@ -1,6 +1,6 @@
-## Sina AKYOL
+# Sina AKYOL
 
-### Mektuplar 
+## Mektuplar 
 
 B i r i n c i     M e k t u p
 
@@ -303,7 +303,7 @@ ve seni böylecene sevmek!
 
 Sina AKYOL
 
-### Su Tadında 
+## Su Tadında 
 
 -Yalnız değilim ki orda...
 O çıplak
@@ -325,7 +325,7 @@ diye yazdım.
 
 Sina AKYOL
 
-### Yastığım Yorganım 
+## Yastığım Yorganım 
 
 Epey uzak yıldızda
 epey uzak yıldızda

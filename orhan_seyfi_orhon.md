@@ -1,6 +1,6 @@
-## Orhan Seyfi ORHON
+# Orhan Seyfi ORHON
 
-### Anadolu Toprağı
+## Anadolu Toprağı
 
 Senelerce sana hasret taşıyan
 Bir gönülle kollarına atılsam.
@@ -39,7 +39,7 @@ Sancağının gölgesinde dolaşsam,
 
 Orhan Seyfi ORHON
 
-### Annemle Hasbıhal
+## Annemle Hasbıhal
 
 Anne, zannetme ki günler geçti de 
 Değişti evvelki hissim gitgide!
@@ -77,7 +77,7 @@ Yalnız o kucakmış, yalnız o dizmiş...
 
 Orhan Seyfi ORHON
 
-###  Diyorlar
+##  Diyorlar
 
 Ölürsem yazıktır sana kanmadan
 Kollarım boynunda halkalanmadan
@@ -95,7 +95,7 @@ Denizler durulmaz dalgalanmadan!"
 
 Orhan Seyfi ORHON
 
-###  Gönlüm
+##  Gönlüm
 
 Benim gönlüm bir kelebek
 Dolaşıyor çiçek çiçek.
@@ -124,7 +124,7 @@ Zavallının bir baharlık
 
 Orhan Seyfi ORHON
 
-### Maniler
+## Maniler
 
 Sen gül dalında gonca,
 Ben dağ yolunda yonca.
@@ -148,7 +148,7 @@ Beklenen sultan hani?
 
 Orhan Seyfi ORHON
 
-###  O Beyaz Bir Kuştu
+##  O Beyaz Bir Kuştu
 
 O, beyaz bir kuştu, uzun kanatlı;
 Ardında ışıktan bir iz bıraktı.
@@ -167,7 +167,7 @@ Ne ışık bıraktı, ne iz bıraktı!
 
 Orhan Seyfi ORHON
 
-### Vasiyet
+## Vasiyet
 
 Dostlarım, toplanın öldüğüm zaman;
 Riyayı bir günlük bir yana atın!
@@ -196,7 +196,7 @@ Kırınız sonuncu itimadımı:
 
 Orhan Seyfi ORHON
 
-### Vedâ
+## Vedâ
 
 Hani, o bırakıp giderken seni
 Bu öksüz tavrını takmayacaktın?

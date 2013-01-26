@@ -1,6 +1,6 @@
-## Ercüment Behzad LÂV
+# Ercüment Behzad LÂV
 
-###  Bir Kahramanın Midesi
+##  Bir Kahramanın Midesi
 
 Vahşi hayvanlara yediriyorlar ölülerimizi
 Beyazlar bizimle savaşınca
@@ -15,7 +15,7 @@ Bir kahramanın midesi?
 
 Ercüment Behzad LÂV
 
-### Mektuptan
+## Mektuptan
 
 Sen bir asmasın,
 küpe salkımlarla asma bellim..
@@ -42,7 +42,7 @@ niye gözlerim pervane?
 
 Ercüment Behzad LÂV
 
-### Oynuyor Ay
+## Oynuyor Ay
 
 Oynuyor ay
 Mor salkımlı suda
@@ -66,7 +66,7 @@ Hecin katarlı
 
 Ercüment Behzad LÂV
 
-### Rûhül Kudüs
+## Rûhül Kudüs
 
 Melih Cevdet'e
 
@@ -123,7 +123,7 @@ Beyaz Efendileri
 
 Ercüment Behzad LÂV
 
-### Sihirli Değnek
+## Sihirli Değnek
 
 Bir sihirli değneğim olsa;
 vurduğum yerde güller açılsa,
@@ -142,7 +142,7 @@ götürsem billûr sarayıma!
 
 Ercüment Behzad LÂV
 
-### Zenci Şiirleri
+## Zenci Şiirleri
 
 Mau'vam, kara fil dişim
 Ayın sedef kakmaları somaki teninde

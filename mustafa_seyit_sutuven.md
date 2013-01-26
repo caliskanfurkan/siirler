@@ -1,6 +1,6 @@
-## Mustafa Seyit SUTÜVEN
+# Mustafa Seyit SUTÜVEN
 
-### Sutüven
+## Sutüven
 
 Bir kayadan duman duman
 On yedi metre atlayan

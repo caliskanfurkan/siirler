@@ -1,6 +1,6 @@
-## Hasan Basri ÜNLÜ
+# Hasan Basri ÜNLÜ
 
-###  1. Bazalika 
+##  1. Bazalika 
 
 Yanlış... kadın vardır belki doğru kadın da; bazen
 hem yanlış hem doğruydu kadın sancılı soruydu:
@@ -33,7 +33,7 @@ Gül'dü derdim. İçin için bir gül için ağladım
 
 Hasan Basri ÜNLÜ
 
-###  Bir'li Şiir 
+##  Bir'li Şiir 
 
 Vaktiyle çoktum azala azala bir kaldım
 Trajik muamma: Bütün anlamları bilemem
@@ -74,7 +74,7 @@ Boğulmayı boğulmak yapan çırpınmak mıdır?
 
 Hasan Basri ÜNLÜ
 
-###  Dikilitaş I 
+##  Dikilitaş I 
 
 doğduğumyer
 esaplanıpka
@@ -116,7 +116,7 @@ YIKILACAĞIM
 
 Hasan Basri ÜNLÜ
 
-###  Dikilitaş (17) 
+##  Dikilitaş (17) 
   
 
 yıllarsonra
@@ -160,7 +160,7 @@ SARILAMADIM
 
 Hasan Basri ÜNLÜ
 
-###  Dördüncü Yontu 
+##  Dördüncü Yontu 
 
 Eylül şaşkını kasımpatım erken öleceksin
 Vakitsiz gülümsedin bilemedin gündönümünü
@@ -177,7 +177,7 @@ Bırak, bırak birinden de ben kendimi savurayım
 
 Hasan Basri ÜNLÜ
 
-###  Eylül Kadınlarım 
+##  Eylül Kadınlarım 
 
 Suskun bir Eylül'ün dizelerine kapanmıştım
 Sessizce ağlamıştım ağrılarımı tırnaklayıp
@@ -206,7 +206,7 @@ Eylül kokulu ölümlerin sahibi hanginizsiniz
 
 Hasan Basri ÜNLÜ
 
-###  Gün Işığı Peşinde 
+##  Gün Işığı Peşinde 
 
 İhanet ve hasret kardeştirler
 İzlerini sürdüm de geldim sana
@@ -222,7 +222,7 @@ Bağbozumunu bekleyen pusular var daha
 
 Hasan Basri ÜNLÜ
 
-###  Henüz Yüzleşemediğim Sevgilim VIII
+##  Henüz Yüzleşemediğim Sevgilim VIII
 
 Bir köstekliyim akrebi aşkla kundaklanmış
 Döner döner dönerim gecikmenin girdabında
@@ -245,7 +245,7 @@ Bütün ölümlerden ben hep seninle dönerim
 
 Hasan Basri ÜNLÜ
 
-###  İkinci Yontu 
+##  İkinci Yontu 
   
 
 Kaynağı başka gözyaşları ıslatmaz yanaklarını
@@ -265,7 +265,7 @@ Hanen fassal cezven kırık telven şiirdendir
 
 Hasan Basri ÜNLÜ
 
-### III. Karyatid 
+## III. Karyatid 
 
 1.     AŞK   :Kendine
                   aşıktı
@@ -323,7 +323,7 @@ Hasan Basri ÜNLÜ
 
 Hasan Basri ÜNLÜ
 
-### IX. Karyatid 
+## IX. Karyatid 
 
 1.      BİR      :-in 
                   parçalanması 
@@ -381,7 +381,7 @@ Hasan Basri ÜNLÜ
 
 Hasan Basri ÜNLÜ
 
-###  Oyun 
+##  Oyun 
 
 Oyun oynardık ölümle
  
@@ -402,7 +402,7 @@ Biz kaçardık hiç durmadan hep kör kütük...
 
 Hasan Basri ÜNLÜ
 
-###  Tozdan Önce 
+##  Tozdan Önce 
 
 Adın gitmek olalı yol kokuyorsun kadın
 Ben çıplağım şimdi sen de soyunacaksın

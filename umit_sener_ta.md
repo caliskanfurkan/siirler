@@ -1,6 +1,6 @@
-## Ümit Şener TA
+# Ümit Şener TA
 
-### Anılarım Çalmayın Kapımı
+## Anılarım Çalmayın Kapımı
 
 siz unutulmayışın yüzleri 
 anılarımda çatlayan. 
@@ -15,7 +15,7 @@ anılarım!
 
 Ümit Şener TA
 
-### Boyalı Bedenler
+## Boyalı Bedenler
 
 ağaca vuruldu 
 açığa saldığım imgeler 
@@ -28,7 +28,7 @@ suyun yansımasında boğuldu aynalar
 
 Ümit Şener TA
 
-### Çağırıyor Cehennem
+## Çağırıyor Cehennem
 
 sokuldu şeytanın namlusu 
 usulca dizlerine 
@@ -39,7 +39,7 @@ kapıların arasından.
 
 Ümit Şener TA
 
-### Çalınan Plaklar
+## Çalınan Plaklar
 
 aldatılır kadınlar milyon kez 
 ışıklı şatolarda 
@@ -51,7 +51,7 @@ yanar kandiller cansız uyanışlarda
 
 Ümit Şener TA
 
-### Deliliğe Özlem
+## Deliliğe Özlem
 
 uzaklık kırılma birbirini tanımlamıyor mu? 
 hangi geçmişe sığınıyoruz hangi dünde harcıyoruz şimdileri 
@@ -67,7 +67,7 @@ deliliği mi özledin
 
 Ümit Şener TA
 
-### Dili tutuldu Denizin
+## Dili tutuldu Denizin
 
 dili tutuldu denizin 
 anlam veremedi delirmiş yağmurlara 
@@ -86,7 +86,7 @@ gemicilerimi çalan.
 
 Ümit Şener TA
 
-### Esmer Bakışlı Kadınlar
+## Esmer Bakışlı Kadınlar
 
 geceler süzer beni sabaha kadar 
 esmer bakışlı kadınlar uykumu böler 
@@ -100,7 +100,7 @@ güne çalma beni
 
 Ümit Şener TA
 
-### Isınmıyor Bedenim
+## Isınmıyor Bedenim
 
 ayaz bir ressam giydiriyor soğuğunu tuvale 
 camlara tıklatıyor kar perileri 
@@ -115,7 +115,7 @@ olmuyor şimdi ayaklarıma
 
 Ümit Şener TA
 
-### Masa Sarhoş
+## Masa Sarhoş
 
 gitti görüntüler 
 meyhanenin aynalarından 
@@ -127,7 +127,7 @@ açılan kapının ağız kokusuyla
 
 Ümit Şener TA
 
-### Masalları Unutmak
+## Masalları Unutmak
 
 deniz kabarır, 
 dalgalar ıslatır derinliği 
@@ -145,7 +145,7 @@ gidemedim!
 
 Ümit Şener TA
 
-### Merdivenlerden Düşer
+## Merdivenlerden Düşer
   Babamın Sesi
 
 yanlışlını duyuyorum yüzümün 
@@ -162,7 +162,7 @@ titremesi düşerdi elerimin
 
 Ümit Şener TA
 
-### Mumları Söndüren Palyaço
+## Mumları Söndüren Palyaço
 
 Öldü doğum günüm 
 palyaçolar geçti birer birer 
@@ -178,7 +178,7 @@ konuşmayan duvarlarda
 
 Ümit Şener TA
 
-### Rüyalarınızın Dilsiz
+## Rüyalarınızın Dilsiz
   Soytarısı
 
 ben deliyim 
@@ -194,7 +194,7 @@ ben deliyim, rüyalarınızın dilsiz soytarısı
 
 Ümit Şener TA
 
-### Sandığın Gülümsemesi
+## Sandığın Gülümsemesi
 
 bahar yalan söylemiyor 
 dağlarda eriyor kar 
@@ -213,7 +213,7 @@ sandığına koydu gülümseyişini
 
 Ümit Şener TA
 
-### Üşüdüm
+## Üşüdüm
 
 uzaktan yakalanır bazı düşler 
 bardak gibi kırılır dün 
@@ -226,7 +226,7 @@ kadınım üşüdüm sabaha kadar
 
 Ümit Şener TA
 
-### Üşüyen Sevişme
+## Üşüyen Sevişme
 
 yan yana gelmez bedenler 
 kusurlu caddeler değil 

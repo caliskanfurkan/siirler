@@ -1,6 +1,6 @@
-## Ömer Bedrettin UŞAKLI
+# Ömer Bedrettin UŞAKLI
 
-### Deniz Hasreti
+## Deniz Hasreti
 
 Gözümde bir damla su deniz olup taşıyor,
 Çöllerde kalmış gibi yanıyor, yanıyorum.
@@ -24,7 +24,7 @@ Elma bahçelerinden, fındık bahçelerinden?..
 
 Ömer Bedrettin UŞAKLI
 
-### Deniz Sarhoşları
+## Deniz Sarhoşları
 
 Köpükten omuzları birbirine dayanmış,
 Yüksek, mağrur başları akşam rengiyle yanmış,
@@ -44,7 +44,7 @@ Deli âşıklar gibi oyacak bu sarhoşlar!...
 
 Ömer Bedrettin UŞAKLI
 
-### Efenin Bayramı
+## Efenin Bayramı
 
 Eğilmez başın gibi,
 Gökler bulutlu efem!
@@ -58,7 +58,7 @@ Bayramın kutlu efem!...
 
 Ömer Bedrettin UŞAKLI
 
-### Son Dilek
+## Son Dilek
 
 Âşıkım, dağlara kurulu tahtım,
 Çobanlar bağrımı dağlar da geçer.

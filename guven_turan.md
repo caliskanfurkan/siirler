@@ -1,6 +1,6 @@
-## Güven TURAN
+# Güven TURAN
 
-### Adli Bir Hata
+## Adli Bir Hata
 
 Kaç kez vurulmuştu;
 Yanılamazdı:
@@ -14,7 +14,7 @@ Duruşmasında.
 
 Güven TURAN
 
-### Karanlık Gezinti
+## Karanlık Gezinti
 
 I
 

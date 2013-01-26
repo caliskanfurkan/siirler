@@ -1,6 +1,6 @@
-## Cevdet KUDRET
+# Cevdet KUDRET
 
-### Dilek
+## Dilek
 
 Bir küçük, bir küçücük evim olsa;
 İçinde bir küçük, bir küçücük halım olsa;
@@ -26,7 +26,7 @@ Yeter de artar bile!
 
 Cevdet KUDRET
 
-### Gece Yarısı
+## Gece Yarısı
 
 Dizilir ince ince, alnına bir soğuk ter!
 Gâvur mahallesidir evimin yukarısı,

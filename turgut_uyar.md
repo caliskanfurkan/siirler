@@ -1,6 +1,19 @@
-## Turgut UYAR
+# Turgut UYAR
 
-### Acıyor
+## 
+
+tut ki sen bir şiiri çok iyi yazsan
+ya da çok iyi bir şiir yazsan
+bir saatin aralıksız işleyişi
+bir çocuğun bir sokak kedisini sevişi
+bilmem ki sanki güzel bir akşam gibi 
+onun için her akşamı iyi yaşamalıyım
+yani kıskanılan onu
+demek istediğim hepsi
+
+Turgut UYAR
+
+## Acıyor
 
 Mutsuzlukdan söz etmek istiyorum
 Dikey ve yatay mutsuzluktan
@@ -46,7 +59,7 @@ Tarihe gömülür o kadar
 
 Turgut UYAR
 
-### Akşam Üstü Rüyası
+## Akşam Üstü Rüyası
 
 Şimdi gemiler geçer uzaklardan
 Gönlüm güvertede sereserpedir.
@@ -66,9 +79,11 @@ Gün olur bütün kaygılardan uzak
 Ben de gelirim...
 
 
+a
+
 Turgut UYAR
 
-### Arz-ı Hal
+## Arz-ı Hal
 
 Ben de günahkar kullarındanım Allahım...
 Bir "Kulhuvallahi" bilirim dualardan,
@@ -107,7 +122,7 @@ Herkesin kederi, gailesi boyunca.
 
 Turgut UYAR
 
-### Bıktım Böyle...
+## Bıktım Böyle...
 
 Üç yıl sonra mıydı bilmiyorum
 ama ekimin onbeşiydi biliyorum
@@ -144,7 +159,7 @@ uzun bir gece görünümünde geçerli hala
 
 Turgut UYAR
 
-### Binlerce
+## Binlerce
 
 binlerce pazartesi geçti ömrümde
 hangisiydi o çıkaramıyorum
@@ -171,7 +186,7 @@ hiç değilse bu taş basamakların
 
 Turgut UYAR
 
-### Bir Gün Sabah Sabah
+## Bir Gün Sabah Sabah
 
 Bir gün sabah vakti kapıyı çalsam,
 Uykudan uyandırsam seni:
@@ -212,7 +227,7 @@ Fabrika düdükleri ötmektedir.
 
 Turgut UYAR
 
-### Bir İntihar Akşamı Üstüne Söylenti
+## Bir İntihar Akşamı Üstüne Söylenti
 
 Kısacık yoğun bir akşam
 herkezin yüzünün bir anıya karıştığı
@@ -267,7 +282,7 @@ serin bir akşam öyle söylediler...
 
 Turgut UYAR
 
-### Denizi Anlatıyor
+## Denizi Anlatıyor
 
 adı çok duyulmuş bir ozan değildi
 Tonyalı balıkçılar arasında
@@ -281,7 +296,7 @@ ve gün doğumunda da
 
 Turgut UYAR
 
-### Federico Garcia Lorca İçin Üç Şiir
+## Federico Garcia Lorca İçin Üç Şiir
 
 Ah işte herşey orda...
 Ben severim omuzlarımı bir gün
@@ -338,7 +353,7 @@ ve her yerde...
 
 Turgut UYAR
 
-### Göğe Bakma Durağı
+## Göğe Bakma Durağı
 
 İkimiz birden sevinebiliriz göğe bakalım
 Şu kaçamak ışıklardan şu şeker kamışlarından
@@ -374,7 +389,7 @@ Durma göğe bakalım
 
 Turgut UYAR
 
-### Hazırlandın Diyelim
+## Hazırlandın Diyelim
 
 hazırlandın diyelim bir yolculuğa
      "bu,yalnızlığıda olabilir"diyor birisi
@@ -402,7 +417,7 @@ suları aşan gemi!
 
 Turgut UYAR
 
-### İlkin
+## İlkin
 
 Bunu kimse söylemedi belki düşündü
 çünkü vardır insanın yaşamasında
@@ -426,7 +441,7 @@ evet
 
 Turgut UYAR
 
-### Kan Uyku
+## Kan Uyku
 
 Bir biz varız güzel öbürleri hep çirkin
 Birde bu terli karanlık
@@ -452,7 +467,7 @@ Hoşlanmıyorum
 
 Turgut UYAR
 
-### Senfoni
+## Senfoni
 
 Önce sesin gelir aklıma 
 Çaresiz kaldıkça hep seni düşünürüm 
@@ -483,7 +498,7 @@ Yanında ihtiyarlamak istiyorum...
 
 Turgut UYAR
 
-### Sulardan Ürkü
+## Sulardan Ürkü
 
 suların çoğaltığı seslerden ürküyorum
 yorgunluk veriyor ürkü¹
@@ -501,11 +516,12 @@ Edip le söylediğimiz zaman
 oluyordu halbuki
  
 _______________
+
 ¹ türkü ye kafiye aradığımı sandınız,yanıldınız!
 
 Turgut UYAR
 
-### Şaşıyorum Gözyaşına
+## Şaşıyorum Gözyaşına
 
 artık şaşıyorum gözyaşına
 hiç unutamam çünkü pazarcıların
@@ -549,7 +565,7 @@ dağlar ve ateş ve kan varken
 
 Turgut UYAR
 
-### Tut ki Ben
+## Tut ki Ben
 
 tut ki sen bir şiiri çok iyi yazsan
 ya da çok iyi bir şiir yazsan
@@ -562,8 +578,9 @@ demek istediğim hepsi
 
 Turgut UYAR
 
-### Uzak Kaderler İçin
+## Uzak Kaderler İçin
 
+UZAK KADERLER İÇİN
 Birgün, bir yağmurla garip garip 
 -Çoluğu çocuğu terk edeceğim.- 
 Bir sevgiyle doymayacak kalbim, anladım 

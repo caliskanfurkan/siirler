@@ -1,6 +1,6 @@
-## Metin CENGİZ
+# Metin CENGİZ
 
-###  Günlerin Çıkrığı
+##  Günlerin Çıkrığı
 
 Gece: akıp gider sularla zaman
 Otların saplarını gümüş titreterek
@@ -27,7 +27,7 @@ An gelir, gül gibi sabahları takınır
 
 Metin CENGİZ
 
-###  Kavuştukça
+##  Kavuştukça
 
 Sonsuz ve ılık bir ülke soluğum
 Yabanıl ve makul ağzına
@@ -62,7 +62,7 @@ Seninle aynı anlamda kavuştukça.
 
 Metin CENGİZ
 
-###  Şiirin Adanmış Yolu
+##  Şiirin Adanmış Yolu
 
 Şafak, ışığın bir çift göze dönüştüğü an
 Kumru ötüşleri birikir saçakların altında, duru
@@ -92,9 +92,10 @@ Dağ başlarında yanan
 
 Metin CENGİZ
 
-###  Son Bir Günün Şiiri
+##  Son Bir Günün Şiiri
 
 - oğluma-
+
 
 
 Saat: karadağın üstünden karlı bir rüzgâr
@@ -125,7 +126,7 @@ Bütün iklimlerin güzüne inat.
 
 Metin CENGİZ
 
-###  Sözcüklerin Kimliği
+##  Sözcüklerin Kimliği
 
 Tam bu vakit kayığına biner aşk
 Dalgalarıyla süslenip girer gönlüme
@@ -154,7 +155,7 @@ Eskinin yerini alır
 
 Metin CENGİZ
 
-###  Ürpertili
+##  Ürpertili
 
 Akşamın dipten gelen
 Mor sıvısını sür saçlarına
@@ -178,9 +179,9 @@ Ey kadın, ey suların ürpertili bedeni
 
 Metin CENGİZ
 
-###  Zehirinde Açan Zambak
+##  Zehirinde Açan Zambak
 
-bir kız gibidir şimdi yaz
+ı bir kız gibidir şimdi yaz
 
 Şimdi yağmur yağsın beklenir
 Çocukluk resimlerine bakılır gibi
@@ -203,8 +204,10 @@ Denir ki insanın kendisidir yollara savrulan kar
 Bir anason kokusudur beyaz
 
 
+
 II
 Varoşlarda
+
 
 An gelir şarkılaşır su
 Sisler arasından çıkıp gelen kuğu

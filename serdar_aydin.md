@@ -1,6 +1,6 @@
-## Serdar AYDIN
+# Serdar AYDIN
 
-### Deniz
+## Deniz
   Kıyısındaki -Issız Bir Fotoğraf İçin - Nedensiz Anımsatma
 
 ay ıslık çaldı
@@ -177,7 +177,7 @@ sıska bir şarkıcının öğrettiği şarkılar söylenerek....
 
 Serdar AYDIN
 
-### Dönemeç
+## Dönemeç
 
 (yitirilenler için blues*)
 
@@ -294,7 +294,7 @@ Serdar AYDIN
 
 Serdar AYDIN
 
-### Yalnızlık
+## Yalnızlık
 
 April' in Paris, sonrasında 
 
@@ -331,7 +331,7 @@ sevgilim
 
 Serdar AYDIN
 
-### Yokluğunda - I
+## Yokluğunda - I
 
 eskimişti ay
 aşklarda
@@ -377,7 +377,7 @@ dram...
 
 Serdar AYDIN
 
-### Yokluğunda - II
+## Yokluğunda - II
 
 adamlar
 yürüyorlar
@@ -438,7 +438,7 @@ sen...sizliğim...
 
 Serdar AYDIN
 
-### Yokluğunda - III
+## Yokluğunda - III
 
 (ses...)
 
@@ -512,7 +512,7 @@ kana şimdi...
 
 Serdar AYDIN
 
-### Yokluğunda - IV
+## Yokluğunda - IV
 
 (aşk...)
 
@@ -565,7 +565,7 @@ kırgınlıktır...			Serdar AYDIN
 
 Serdar AYDIN
 
-### Yokluğunda - V
+## Yokluğunda - V
 
 (bir aşk için söylem denemesi)
 

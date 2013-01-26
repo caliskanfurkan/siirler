@@ -1,12 +1,6 @@
-## Onan GÜNÖZ
+# Onan GÜNÖZ
 
-### 
-
-Formatted for mobile viewing by GoogleView page directlyReport a problem
-
-Onan GÜNÖZ
-
-###  Bir Şehir Gecesi Hatırası
+##  Bir Şehir Gecesi Hatırası
 
 karanlıklar sinemasını oynatıyor gece
 sokaklarda intiharsı bir sessizlik
@@ -27,7 +21,7 @@ herkes şiir yazıyor denize bakıp...
 
 Onan GÜNÖZ
 
-### En Güzel Kızıl
+## En Güzel Kızıl
 
 parlak imgeler satılıyor köşebaşlarında
 her avuç açana gelecek vaat ediyor falcılar
@@ -42,7 +36,7 @@ fonda Karl Marx, elinde bir fırça
 
 Onan GÜNÖZ
 
-### Uyan
+## Uyan
 
 uyan sevgilim, uyan!
 biz burada uyurken
@@ -70,7 +64,7 @@ N
 
 Onan GÜNÖZ
 
-###  Yitik Savaşlara Nağmeler
+##  Yitik Savaşlara Nağmeler
 
 hani sol yumruk havada bir cenazemiz olacaktı
 ve avucumuzda bir gül yaprağı

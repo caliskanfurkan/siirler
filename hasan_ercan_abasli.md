@@ -1,24 +1,35 @@
-## Hasan Ercan ABASLI
+# Hasan Ercan ABASLI
 
-### Sahtenin Ölümü
+## Sahtenin Ölümü
 
 Ve  gülerken 
 yapışıverecek o sahte gülüşün suratına,
+
 Hoyratça kopup 
+
            sonra düşüp kırılacak 
+
                            buz kalpler gibi
+
 Yapayalnız kalacaksın, çırılçıplak.
+
 Konuşmak isteyince dökülecek porselen dişlerin,
+
 Eriyen gözlerini tutacak ellerin kalmayacak,
+
 Bir rüzgâr uçuracak peruğunu, sen  yine damdazlak.
+
 Başlangıcına döneceksin, 
+
                                         bir avuç kül olacak madden
+
 Bekle,
+
 Ölüm seni gülerken yakalayacak
 
 Hasan Ercan ABASLI
 
-### Sana Mutluluk 
+## Sana Mutluluk 
   Vaadetmiyorum ki Ben
 
 Sana mutluluk vaadetmiyorum ki  ben

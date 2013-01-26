@@ -1,6 +1,6 @@
-## Sabri Esat SİYAVUŞGİL
+# Sabri Esat SİYAVUŞGİL
 
-### Odalar ve Sofalar
+## Odalar ve Sofalar
 
 Evler, bir nara benzer,
 Nar tanesi, sofalar,

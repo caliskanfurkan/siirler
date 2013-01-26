@@ -1,6 +1,6 @@
-## Zübeyir KINDIRA
+# Zübeyir KINDIRA
 
-### Ak Bana
+## Ak Bana
 
 Tek kişilik yalnızlık şarkısıyım
 Söyle beni
@@ -12,7 +12,7 @@ Konuşmak ağlamak demek bana
 
 Zübeyir KINDIRA
 
-### Aşka Sabah Serenadı
+## Aşka Sabah Serenadı
 
 Seni, yatağında yakalamalıyım bir sabah erkenden
 Yüzün saçlarınla saklı olmalı
@@ -62,7 +62,7 @@ Yeniden yaratılmış bir yaşamın penceresini
 
 Zübeyir KINDIRA
 
-### Dokun Bana
+## Dokun Bana
 
 Donmuş tüm arzuların kan-revan
 İçin dışın sürgün sevgilerden
@@ -80,7 +80,7 @@ Sevincin boğsun beni
 
 Zübeyir KINDIRA
 
-### Kolayca
+## Kolayca
 
 Yağmur
 Yağmursa eğer
@@ -89,7 +89,7 @@ Düşer toprağa
 
 Zübeyir KINDIRA
 
-### Suyu Bekleyeceğim
+## Suyu Bekleyeceğim
 
 Ardıç kuşu
 Düşmeyeceğim peşine
@@ -105,7 +105,7 @@ Ben şiir yazardım
 
 Zübeyir KINDIRA
 
-### Yağmur
+## Yağmur
 
 Ayrıldığımızda yüzünü gölgelemişti
 Şimdi mevsim sonbahar
@@ -118,7 +118,7 @@ Düşsün avuçlarıma
 
 Zübeyir KINDIRA
 
-### Yaşamak
+## Yaşamak
 
 Yaşamak için kendimize
 Ne bir gökyüzü ne denizler

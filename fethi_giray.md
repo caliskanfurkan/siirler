@@ -1,6 +1,6 @@
-## Fethi GİRAY
+# Fethi GİRAY
 
-### Alacakaranlık
+## Alacakaranlık
 
 Dayan bakalım, 
 Dağları delen Ferhat! 
@@ -19,7 +19,7 @@ Vakit alacakaranlıktır şimdi.
 
 Fethi GİRAY
 
-### B i l i y o r u m
+## B i l i y o r u m
 
 Biliyorum 
 Bir gün bu şehirden gideceksin, 
@@ -36,7 +36,7 @@ Bir gün bu şehirden gideceksin.
 
 Fethi GİRAY
 
-### Biliyorum
+## Biliyorum
 
 Bir daha nasıl doğurur analar beni
 Bir daha nasıl sallanır servi boyum rüzgârda
@@ -55,7 +55,7 @@ Kıymayın bana
 
 Fethi GİRAY
 
-### Ekmeğe Kaside
+## Ekmeğe Kaside
 
 Fırıncı Ahmet Ağa'ya
 
@@ -91,7 +91,7 @@ Kara somunu!
 
 Fethi GİRAY
 
-### Gece Yarısı
+## Gece Yarısı
 
 Gel sen beni affet!
 Anam, kardeşim, karım.
@@ -114,7 +114,7 @@ Her ağlayanın.
 
 Fethi GİRAY
 
-### İstanbul
+## İstanbul
 
 Canım İstanbul;
 Sokaklarında, caddelerinde kucak, kucak,
@@ -159,7 +159,7 @@ Güzeldir, hazindir faslı hüzzam!..
 
 Fethi GİRAY
 
-### Mavi Gözyaşları
+## Mavi Gözyaşları
 
 "Yaslamış başını bir yosun taşına balık,
 Ağlıyordu...
@@ -168,7 +168,7 @@ Gözyaşları maviydi..."
 
 Fethi GİRAY
 
-###  Rize'li Ali'nin Hikâyesi
+##  Rize'li Ali'nin Hikâyesi
 
 Galata'da dostu varmış,
 Mahpushanede postu varmış,
@@ -193,7 +193,7 @@ Satarmış takasını.
 
 Fethi GİRAY
 
-### Şaşkınlık
+## Şaşkınlık
 
 Şaşıyorum! 
 İnsanoğlunun aya gönderdiği füzeye... 
@@ -208,7 +208,7 @@ Topu topu yumruk kadar bir yürek...
 
 Fethi GİRAY
 
-### Usandım
+## Usandım
 
 Usandım, 
 Yeşermemiş umutsuz bahçeyi beklemekten

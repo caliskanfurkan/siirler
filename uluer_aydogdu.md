@@ -1,6 +1,6 @@
-## Uluer AYDOĞDU
+# Uluer AYDOĞDU
 
-### Başlayınca Rüzgâr
+## Başlayınca Rüzgâr
 
 "Kadınlar mı?
 Onların ısırığıyla ölebilirsiniz,
@@ -105,7 +105,7 @@ sen maria'sın bilmiyorsun bunu.
 
 Uluer AYDOĞDU
 
-### Bunlar Ne Ki
+## Bunlar Ne Ki
 
 basa basa kendine
 sulardan geçmeye koyuldun
@@ -194,7 +194,7 @@ dinle
 
 Uluer AYDOĞDU
 
-### Hep İlk Defa Bak
+## Hep İlk Defa Bak
 
 içinde
 ölüm
@@ -282,7 +282,7 @@ sen de
 
 Uluer AYDOĞDU
 
-### Hiç Bitmeyecek Çünkü
+## Hiç Bitmeyecek Çünkü
 
 saçlarını mesnevi'de kurulamışsın
 
@@ -342,7 +342,7 @@ böyle
 
 Uluer AYDOĞDU
 
-### Kadın Gitti Kristal Oldu, 
+## Kadın Gitti Kristal Oldu, 
 Öyle İstedi
 
 kendini yürüyorsun
@@ -416,7 +416,7 @@ teslimiyet
 
 Uluer AYDOĞDU
 
-### Yolcu
+## Yolcu
 
 geldin
 senle birlikte dağlar geldi neruda geldi dante
@@ -493,7 +493,7 @@ anladın mı
 
 Uluer AYDOĞDU
 
-### Yürüdükçe
+## Yürüdükçe
 
 bırak
 uğuldasın gece

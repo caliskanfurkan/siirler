@@ -1,6 +1,6 @@
-## Kuvvet YURDAKUL
+# Kuvvet YURDAKUL
 
-###  Oyuna Dönüş 
+##  Oyuna Dönüş 
 
 Yağmur camdan bakan Arap Kızıydı
 Oyuna dönüştü sonra her şey ihtilal
@@ -27,7 +27,7 @@ Saçlarından seller akıtan bir kız vardır mutlaka
 
 Kuvvet YURDAKUL
 
-###  Prens 
+##  Prens 
 
 Seni yazsam artık
 Belki dinerdi her şey
@@ -67,7 +67,7 @@ Bir prens bile olamadım
 
 Kuvvet YURDAKUL
 
-###  Salı 
+##  Salı 
 
 Günlerden salıydı
 Televizyon onanmaz bir karın ağrısıydı
@@ -96,7 +96,7 @@ Erteliydi her şey
 
 Kuvvet YURDAKUL
 
-###  Yoklama 
+##  Yoklama 
 
 Silgiyi öğrenmeden bilmezdim yanlış yapmayı
 Her akşam gidecek bir yer

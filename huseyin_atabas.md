@@ -1,6 +1,6 @@
-## Hüseyin ATABAŞ
+# Hüseyin ATABAŞ
 
-### Bedeli Ömür Olan
+## Bedeli Ömür Olan
 
 Anlamıştım mevsimlerin değişeceğini
 seni o sabah sesinden öptüğümde!..
@@ -30,7 +30,7 @@ Dinle, sessizlik geziniyor sokaklarda!..
 
 Hüseyin ATABAŞ
 
-###  Bir Yılbaşı Kartı
+##  Bir Yılbaşı Kartı
 
 Altındağ'ın göz göz ışıklarıyla
 bir kış gecesidir şimdi Ankara'da;
@@ -69,7 +69,7 @@ gönderiyorum size!..
 
 Hüseyin ATABAŞ
 
-###  Çelişki
+##  Çelişki
 
 Ölüm varsa anlamsızdır çelişki,
 ne yolumuz belli ne yordamımız.
@@ -79,7 +79,7 @@ dışarda kalır leylek boynumuz!..
 
 Hüseyin ATABAŞ
 
-### Eya!..
+## Eya!..
 
 Bu aşk tutuşabilir kendiliğinden
 kapının önünden geçen yele gülümse,
@@ -118,7 +118,7 @@ Ankara, Ocak 1996
 
 Hüseyin ATABAŞ
 
-###  Filistin
+##  Filistin
 
 Dünyayı tanımaya merak sardı
 		okumayı yenileyin söken kızım.
@@ -149,7 +149,7 @@ yavrum, bilmem ki!..
 
 Hüseyin ATABAŞ
 
-### Fotoğrafta Üç Adam
+## Fotoğrafta Üç Adam
 
 Unutma! Zaman ayrılmaz ölümlerden,
 ölümü takmazdı oysa gördüğün bu adamlar.
@@ -182,7 +182,7 @@ Sıvas'ta gece sabahı ararken!...
 
 Hüseyin ATABAŞ
 
-### Gel Gitme
+## Gel Gitme
 
 Sevdaya açılan bir penceredir
 		odaları dolduran güneşli sesin.
@@ -213,7 +213,7 @@ gel gitme n'olur!..
 
 Hüseyin ATABAŞ
 
-###  Gölgesi İçine Düşen
+##  Gölgesi İçine Düşen
 
 Son birkaç yıldır içimdeki fırtına dindi,
 kıpırdamıyor gözlerindeki yeşil seninse;
@@ -245,7 +245,7 @@ anılara sürünüyor evin kedisi, büyüdü!..
 
 Hüseyin ATABAŞ
 
-###  İlkyaz Töreni
+##  İlkyaz Töreni
 
 Özlemler biriktiriyorum nicedir
 yüzümü çevirip içtenliğin eski güneşlerine,
@@ -283,7 +283,7 @@ başladığın eylemi sürdürmelisin!
 
 Hüseyin ATABAŞ
 
-### Saydam ve Gizli
+## Saydam ve Gizli
 
 Dingin dağlara bakınca göreceksin
 o her şeye bedel sandığın tenhalıkta
@@ -315,7 +315,7 @@ Ankara, Mart 1995
 
 Hüseyin ATABAŞ
 
-### Sen Varsın Diye
+## Sen Varsın Diye
 
 Sen varsın diye kestim ağaran sakalımı,
 dişimi fırçaladım, söküğümü diktim.
@@ -339,7 +339,7 @@ varsıllığın aşk olduğunu öğrendim.
 
 Hüseyin ATABAŞ
 
-### Yanarca
+## Yanarca
 
 Bakarken çocuğuna bir anne
 gözleri mine mine açar ya işte öyle

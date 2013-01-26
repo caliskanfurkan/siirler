@@ -1,6 +1,6 @@
-## Şükran KURDAKUL
+# Şükran KURDAKUL
 
-### Ağaçlar
+## Ağaçlar
 
 Bilinmez biçimler çiziyor
 Havada sesi..
@@ -14,7 +14,7 @@ Kimi kurudu kaldı.
 
 Şükran KURDAKUL
 
-### Ağıt Değil
+## Ağıt Değil
 
 Gücünüz varsa sizin
 Sözcüğü tutuklayın.
@@ -38,7 +38,7 @@ Gücünüz varsa sizin
 
 Şükran KURDAKUL
 
-### Ararsan
+## Ararsan
 
 Dağ yolları gibiyizdir, uzağa düşeriz
 Ararsan şiirin gurbetinde ara bizi.
@@ -47,7 +47,7 @@ Belki bir imgeye vurur düşlerimiz.
 
 Şükran KURDAKUL
 
-### Benden Sor
+## Benden Sor
 
 Bunca acının çiçeği içimde büyüdü
 Mahpushane saksılarındaki baharı benden sor...
@@ -63,7 +63,7 @@ Kopup geldikleri dağları benden sor.
 
 Şükran KURDAKUL
 
-### Bezgin Süvari
+## Bezgin Süvari
 
 O kervansaraylar sarayında
 Bıyıkları tütün rengine boyanmış
@@ -77,7 +77,7 @@ Görüntümün kahrolası saltanatında.
 
 Şükran KURDAKUL
 
-### Bir Öyküydüm Sadece
+## Bir Öyküydüm Sadece
 
 Edremit'in Tahtakuşlar köyünde sağdıcım,
 Zeytin ağaçlarından denize doğru rüzgârlanan
@@ -104,7 +104,7 @@ Kendi dudaklarında kanayan.
 
 Şükran KURDAKUL
 
-### Biz miydik
+## Biz miydik
 
 Dudakları gitmiş yontular gibi
 Eski bir şairin esinlerinden kalan
@@ -124,7 +124,7 @@ Kilidine umut tohumları bırakan
 
 Şükran KURDAKUL
 
-### Dalgıç
+## Dalgıç
 
 Kendi denizlerimin dalgıcıyım ben
 Bir alışkanlığı sürdürür gibiyim belki
@@ -153,7 +153,7 @@ Gidiyorum içimdeki sesin peşinden.
 
 Şükran KURDAKUL
 
-### Diyorum
+## Diyorum
 
 Durdum baktım, içlenmekse herkesler içleniyor
 Durdum baktım, herkes ince, herkes kırık
@@ -186,7 +186,7 @@ Diyorum yetmeli artık.
 
 Şükran KURDAKUL
 
-### Ege Dalgaları
+## Ege Dalgaları
 
 Denizdi, kıyılarında sürüklendiğimiz
 Solmayan, eskimeyen, yalnızlığını sarhoşluğa vuran deniz.
@@ -217,7 +217,7 @@ Mavi içinde yiter, mavi içinde bulurduk kendimizi.
 
 Şükran KURDAKUL
 
-### Elinde Senin
+## Elinde Senin
 
 Gecenin karanlığında bir yol bul
 Sokağımı ara, yokuşumdan in
@@ -241,7 +241,7 @@ Umarların feneri elinde senin.
 
 Şükran KURDAKUL
 
-### Emeğin Öyküsü
+## Emeğin Öyküsü
 
 Kitaplar ellerimle öykülendi
 Düşlerim vurdu şiirler denizine
@@ -263,7 +263,7 @@ O türküler tezgâhında dönüyor şimdi.
 
 Şükran KURDAKUL
 
-### Heybe
+## Heybe
 
 Doğumu Antalya'dan getirdim,
 Yenikapı'nın bilmediğim bir evinden..
@@ -297,7 +297,7 @@ Bilmediğim çağlardan gelen.
 
 Şükran KURDAKUL
 
-### Kalan Biziz
+## Kalan Biziz
 
 Beraberinde düşlerini getir
 Sabaha en yakın saatlerdeki
@@ -317,7 +317,7 @@ Kalan biziz...yontularda ürperen yankı
 
 Şükran KURDAKUL
 
-### Kırık Değirmen
+## Kırık Değirmen
 
 Bir içimin alacakaranlığında dayanmak meselesi,
 Bir bu fena İstanbul akşamını yaşamak
@@ -336,7 +336,7 @@ Kırık değirmenler gibiyim, dönemiyorum işte.
 
 Şükran KURDAKUL
 
-### Masalımsı
+## Masalımsı
 
 Onlar bu denizlerin son melekleriydiler
 Kaç yıl mavilere karışmamı beklediler
@@ -361,7 +361,7 @@ Kaç yıl mavilere karışmamı beklediler..
 
 Şükran KURDAKUL
 
-### Neden Sonra
+## Neden Sonra
 
 Yaşam gölgesidir sabrımdaki gerçeğin
 Yorgun damarlarımı sevindiren.
@@ -375,7 +375,7 @@ Sarhoşluğun bordasına vurdukça evren.
 
 Şükran KURDAKUL
 
-### Nicedir
+## Nicedir
 
 Nicedir soluğum rüzgârlıyor
 Delinmiş yelkenleri.
@@ -384,7 +384,7 @@ Bırakıp ölenleri.
 
 Şükran KURDAKUL
 
-### Oradaki
+## Oradaki
 
 Kendi uzaklığımdan kurtularak
 Hüküm giymiş bir mısra gibi
@@ -403,7 +403,7 @@ Geceye doğru ranzamdan.
 
 Şükran KURDAKUL
 
-### Sevgi Ormanı
+## Sevgi Ormanı
 
 Bu sevgi ormanında
 Ağaçlar gözlerimin içine güldüler
@@ -419,7 +419,7 @@ Sevecenliğin yarattığı hayat.
 
 Şükran KURDAKUL
 
-### Sonlarına
+## Sonlarına
 
 Her gün biraz daha çıldıran bir öfkeden
 Kuruyor yaşamın taze kanı
@@ -435,7 +435,7 @@ Kendine dönüyor silahları.
 
 Şükran KURDAKUL
 
-### Ülkesi Ağıdistan
+## Ülkesi Ağıdistan
 
 Uykulardan sıçradığım her gece
 Kuşku, doğasına yürüdü gerçeğimin.
@@ -449,7 +449,7 @@ Gibi ıssız ve hüznüne alışık...
 
 Şükran KURDAKUL
 
-### Yabancı Kalan
+## Yabancı Kalan
 
 Her dakikasında ayrı ayrı
 Gözlerime doğru büyüyor zaman
@@ -502,7 +502,7 @@ Durmuyor çember.
 
 Şükran KURDAKUL
 
-### Yaşarken
+## Yaşarken
 
 Cehennem yarasaları gibi vurdular cama
 Örgütlenmiş hüzünlerin askerleri.
@@ -511,7 +511,7 @@ Güzellendi yüreğim, deli oldum yazgıma.
 
 Şükran KURDAKUL
 
-### Yirmi İki Yıl Sonra
+## Yirmi İki Yıl Sonra
 
 Unutulmaya kalkan bir trenin
 Eski bir istasyona bakan penceresinde
@@ -534,7 +534,7 @@ Hangi yalnızlığa gittiğimizi söyler mi?
 
 Şükran KURDAKUL
 
-### Yorgun Yürek
+## Yorgun Yürek
 
 Bir solukta yaşadım ve tükettim tümünü
 Bir solukta gördüm elli üç yılda gördüğümü...

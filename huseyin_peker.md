@@ -1,6 +1,6 @@
-## Hüseyin PEKER
+# Hüseyin PEKER
 
-###         Bezgin Atlas
+##         Bezgin Atlas
 
 Herkes kendine bir şehir seçer
 Doğmak için ayrı bir şehir; onun adını bile bilmez
@@ -27,7 +27,7 @@ O şehre gömülmeyi bekler, yaşamanın sona yakın bir yerinden
 
 Hüseyin PEKER
 
-###        
+##        
 Kurutulmuş Yapraklar, Şairler ve Çiçekler
 
 Ben, sayfaları arasında sarı yapraklar, şairler, kurutulmuş çiçekler
@@ -73,7 +73,7 @@ Başlangıcımız iki sıfırın arası
 
 Hüseyin PEKER
 
-###         Şairler
+##         Şairler
 Çok Yaşamıyor
 
 Bodrum'u beyaz-mavi noktalı çiçek yapraklarına
@@ -116,7 +116,7 @@ Nasırların anası siz olun; şairleri öldürmeyelim, uçuralım göğe doğru
 
 Hüseyin PEKER
 
-###         Şehrin Şiiri
+##         Şehrin Şiiri
 
 Yaşadığın şehre dize üfle, akşam ışıklarını yak, seyret bozgunu
 Elini yarala, cam kessin, kolunu sarmala, bantla göğüs yakanı
@@ -144,7 +144,7 @@ Doğduğun şehrin sokaklarına affettir kendini
 
 Hüseyin PEKER
 
-###         Şiirin
+##         Şiirin
 Efendisi
 
 Kelimelere ısındım, şiirin ortasını yardım, buharına saklandım

@@ -1,6 +1,6 @@
-## Kemalettin KAMU
+# Kemalettin KAMU
 
-### Hazan Yolcusuna
+## Hazan Yolcusuna
 
 Saçlarýn yine solgun,
 Baðrýn elemle dolgun,
@@ -19,7 +19,7 @@ Beraberine emi?
 
 Kemalettin KAMU
 
-###  Bingöl Çobanları
+##  Bingöl Çobanları
 
 Daha deniz görmemiş bir çoban çocuğuyum.
 Bu dağların en eski âşinasıdır soyum,
@@ -63,7 +63,7 @@ Gönlümü yayla yaptım Bingöl çobanlarına!
 
 Kemalettin KAMU
 
-### Gurbet
+## Gurbet
 
 Gurbet o kadar acı
 Ki ne varsa içimde
@@ -82,7 +82,7 @@ Gurbet benim içimde.
 
 Kemalettin KAMU
 
-###  İrşad
+##  İrşad
 
 Sevgilim güvenme güzelliğine,
 Senin de saçların tarumar olur;
@@ -106,7 +106,7 @@ Dört mevsim içinde bir bahar olur!
 
 Kemalettin KAMU
 
-###  İzmir Yollarından Son Mektup
+##  İzmir Yollarından Son Mektup
 
 Belki şimdi sana son
 Sözlerimi yazmadan

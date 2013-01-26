@@ -1,6 +1,6 @@
-## Mehmet Zaman SAÇLIOĞLU
+# Mehmet Zaman SAÇLIOĞLU
 
-### Adem 
+## Adem 
 
 
 İlk ölen insan Habil'di
@@ -30,7 +30,7 @@ Kendimizi görürüz baksak da başkasına.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Ağacın Sesi 
+## Ağacın Sesi 
 
 
 Rüzgârla gider ağacın sesi uzağa
@@ -53,8 +53,10 @@ Geri alır kendini.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Dönüyor 
+## Dönüyor 
 
+
+DÖNÜYOR
 
 ('ya)
 
@@ -80,7 +82,7 @@ Dönüyorum, dönüyor, dönüyorum.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Ekin 
+## Ekin 
 
 
 (Kızım Ekin'e)
@@ -100,7 +102,7 @@ Gök, aklın ilk tohumu,
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Fizikçiler İçin Şiirler 
+## Fizikçiler İçin Şiirler 
 
 
 NEWTON'A
@@ -125,7 +127,7 @@ Su hem bir eder hem ayırır onları.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Gezgin 
+## Gezgin 
 
 
 Çocuktum, tanıdığım üç kişi vardı
@@ -144,7 +146,7 @@ Bana göçebe yastığım kaldı.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Giden Sen 
+## Giden Sen 
 
 
 Adını koy bir yana uzaklaş...
@@ -170,7 +172,7 @@ Unutunca anımsarsın.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### İlk Nişanlı 
+## İlk Nişanlı 
 
 Suları kirletmeden yıkanır
 Çıplak uzanır yanımıza
@@ -189,7 +191,7 @@ Bizimle uğraşmadıkça zaman.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### 
+## 
 İnsan Uçurtması 
 
 
@@ -211,8 +213,10 @@ Tanrı da kurtulur dinlerden.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### İz 
+## İz 
 
+
+İZ
 
 ('a)
 
@@ -230,7 +234,7 @@ Usun kanatlandığı gündüz.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Karanfil İçin 
+## Karanfil İçin 
 
 
 Yaşama benziyor bu karanfil
@@ -245,7 +249,7 @@ Can, yeşil her zaman.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Kuş Evleri 
+## Kuş Evleri 
 
 
 Kuş evleri olmalı evlerin dış duvarları
@@ -265,7 +269,7 @@ Evlerin duvarları kuş evleri olmalı.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Lodos 
+## Lodos 
 
 
 Son parçasını giysimin
@@ -289,7 +293,7 @@ Göğsümde uyu.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Sarkaç 
+## Sarkaç 
 
 
 Can simidi, kurtarma sandalı
@@ -319,7 +323,7 @@ Nereye gitsem sığ, akıllar gelgeç
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Sıkıntı 
+## Sıkıntı 
 
 
 Gökyüzü bakır renkli
@@ -341,7 +345,7 @@ O ve ben, gecenin ikiz çocukları.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Süreyya 
+## Süreyya 
 
 
 ('nın anısına)
@@ -357,7 +361,7 @@ Sevdiğimizin gözüyle bakıyor yüzümüze.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Unutulan 
+## Unutulan 
 
 
 Yine açıldı rüzgârın kapısı
@@ -378,7 +382,7 @@ Unutulan bütün şarkıları.
 
 Mehmet Zaman SAÇLIOĞLU
 
-### Yolculuk 
+## Yolculuk 
 
 Bir tren ya da herhangi bir geçendi
 Su kıyısından. 

@@ -1,6 +1,6 @@
-## Kemal BURKAY
+# Kemal BURKAY
 
-### Annem
+## Annem
 
 ਍㰀瀀爀攀㸀㰀昀漀渀琀 猀椀稀攀㴀㐀 昀愀挀攀㴀 吀椀洀攀猀 一攀眀 刀漀洀愀渀㸀䈀椀爀 猀攀猀猀椀稀氀椀欀琀椀 愀渀渀攀洀ഀഀ
 Nice çileden örülmüş
@@ -14,13 +14,14 @@ Bir rüzgâra biner giderler
 
 ਍㰀戀氀漀挀欀焀甀漀琀攀㸀ഀഀ
 
+
 ਍㰀⼀戀氀漀挀欀焀甀漀琀攀㸀ഀഀ
 
 ਍
 
 Kemal BURKAY
 
-### Doğan Gün
+## Doğan Gün
 
 Kırgın umutta
 Keder tortusunda
@@ -51,7 +52,7 @@ Doğan gün
 
 Kemal BURKAY
 
-### Gülümse
+## Gülümse
 
 Hadi gülümse bulutlar gitsin
 İşçiler iyi çalışsın, gülümse
@@ -71,7 +72,7 @@ Bir kedim bile yok anlıyor musun
 
 Kemal BURKAY
 
-### Kötürüm Şehrin Kapıları
+## Kötürüm Şehrin Kapıları
 
 ਍㰀瀀爀攀㸀㰀昀漀渀琀 猀椀稀攀㴀㐀 昀愀挀攀㴀 吀椀洀攀猀 一攀眀 刀漀洀愀渀㸀匀攀瘀搀愀 最椀戀椀 琀愀开㄁搁㄀洁 椀椀洀搀攀ഀ
 Bir tomurcuğun gerilimini਍䬀愀瘀最愀洀 ഀ
@@ -103,7 +104,7 @@ Güzel günlere adıyacağım਍ഀ
 
 Kemal BURKAY
 
-### Yüzler
+## Yüzler
 
 unceli.. Halkı
 sakindir. "Kirve, hısım, aşiret çocuklarıdır". İçinde iki büyük
@@ -112,46 +113,69 @@ bölgesinin eski ünlü adı "Dersim" dir.
 I. DERSİM
 
 Bir eski öyküdür bileceksiniz
+
 Masallardan kalmıştır Dersim
+
 Ülkemin ortasında gizli
+
 Yanık bir türküdür Dersim
 
 Yıl otuz sekizdi dağlarda
+
 İri ceviz ağaçları ve atım vardı
+
 Belki bir gökyüzü savaşçısıydım
+
 Bir arpa ekmeği kadar sıcaktı
+
 Toprağım, karım ve çocuklarım
 
 Oysa soğuk bir kuştur
+
 Parıldar süngü
 
 Bana niçin uzaksın düşündün mü
+
 Kurda kuşa dostluğumu düşündün mü?
 
 Bu sularda ölüm bile güzel
+
 Sen hiç kurşunların anlamını düşündün mü
 
 Yıl otuz sekizdi dağlarda
+
 İri ceviz ağaçları ve atım vardı
+
 Güneş ve sular ülkesinde orda
+
 Orda ki eski bir öyküdür Dersim
 II. HIZIR PAŞA
  "Hızır Paşa bizi berdar etmeden 
+
 Açılın kapılar şaha gidelim."
 
 O ki Hızır Paşadır
+
 Berdar edecektir
+
 Berdar edecektir güneşleri
+
 Pir Sultansız bir evrendir onun evreni
 
 O ki Hızır Paşadır
+
 Hayatı yasaklar denizi bellemiştir
+
 Gayri özsu yürümesin dağlara
+
 Ve türkülere zincir vurulsun
 
 Bir kez yasak mıdır gülümsemeler
+
 Elin ele, dostun dosta varışı
+
 Bir kez yasak mıdır tohumun yarınlara varışı
+
 Umutlar, uykular, düşünceler
 
 Özgürlüğe zincir vurulsun
@@ -566,7 +590,7 @@ Dost, Ağustos 1970
 
 Kemal BURKAY
 
-### Gülümse
+## Gülümse
 
 Hadi gülümse bulutlar gitsin
 İşçiler iyi çalışsın, gülümse

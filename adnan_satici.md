@@ -1,6 +1,6 @@
-## Adnan SATICI
+# Adnan SATICI
 
-### Bin Yıl Daha Ülkesiz
+## Bin Yıl Daha Ülkesiz
 
 Nereye
 O uysal saçlarınla nereye, hem sen nereye
@@ -31,7 +31,7 @@ Gülümse baharıma...
 
 Adnan SATICI
 
-### Doğu Baladı
+## Doğu Baladı
 
 derinlik olmayı sürdüreceğim bu sığ denizde
 bir halkım ben, dünyanın kalbinde paslı bir hançer
@@ -68,7 +68,7 @@ ey ölür gibi yaşayan bir halkın derinliği...
 
 Adnan SATICI
 
-### Lirik Tezler
+## Lirik Tezler
 
 I/ Ç o ğ u   K e z   K a y b e t m e k
 
@@ -165,7 +165,7 @@ Aşkım... aşkım... niçin beni bıraktın.
 
 Adnan SATICI
 
-### Ölü Bir Gürültüyüm
+## Ölü Bir Gürültüyüm
 
 Büyüdüm ey girdap, yanılmayan yasa büyüdüm
 Bedelsiz bir askerim ve senin surlarında

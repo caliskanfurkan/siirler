@@ -1,6 +1,6 @@
-## Oğuz TANSEL
+# Oğuz TANSEL
 
-### Adamlar
+## Adamlar
 
 Adamlar; yolağzında çömelekalmış,
 Alınları, elleri çizgi çizgi;
@@ -24,7 +24,7 @@ Kararlı gözleri.
 
 Oğuz TANSEL
 
-### Ayrılık
+## Ayrılık
 
 Bir tren düdük çalarak gitti,
 Bıçak bıçak poyraz esti dostlarım.
@@ -52,7 +52,7 @@ Kalakaldım.
 
 Oğuz TANSEL
 
-### Bilinç Işığı
+## Bilinç Işığı
 
 Sevgi dolu yürekleri,
 Canım dünya çocukları:
@@ -69,7 +69,7 @@ En köklü, en soylu yasa.
 
 Oğuz TANSEL
 
-### Bir Yanardağ Ortadoğu
+## Bir Yanardağ Ortadoğu
 
 Düşleği yalazlayan buyruklar
 Yüzünüzle bin
@@ -114,7 +114,7 @@ Hadi Çoban çal kavalını
 
 Oğuz TANSEL
 
-### Ergin Günçe
+## Ergin Günçe
 
 Çok geç duydum uzak gurbette:
 Esenboğa yemiş canlarımızı,
@@ -135,7 +135,7 @@ Yiğit, dost bir yıldız daha kaydı.
 
 Oğuz TANSEL
 
-### Gözünü Sevdiğim
+## Gözünü Sevdiğim
 
 Dağ etekleri ağarmak üzere
 Tepeleri karanlık
@@ -150,7 +150,7 @@ Tadından yenmez dünya
 
 Oğuz TANSEL
 
-### Haber
+## Haber
 
 Tadını ben bilirim, rengini kimse bilmez,
 Duyunca olduğum yere yığılıverdim.
@@ -169,7 +169,7 @@ Gitme karanfil saçlım, esmerim gitme.
 
 Oğuz TANSEL
 
-### Harp Çocuğu
+## Harp Çocuğu
 
 Devran değişti çocuğum!
 Son savaşta oldu bu kötü işler:
@@ -188,7 +188,7 @@ Masal dünyamız bu mu?
 
 Oğuz TANSEL
 
-### Kavak Ağacı
+## Kavak Ağacı
 
 İlk ışık saygıyla selamlar dallarını,
 Başın ufuklar ötesinde güler.
@@ -212,7 +212,7 @@ Bütün iyi dilekler yürekten.
 
 Oğuz TANSEL
 
-### Mayku
+## Mayku
 
 Aylardan kiraz ayı
 Gözlerime uyku girmez oldu
@@ -235,7 +235,7 @@ Ay akşamladı gözlerinde.
 
 Oğuz TANSEL
 
-### Masal Dünyası
+## Masal Dünyası
 
 O masaldaki güvercinler mi
 Böyle hür dolaşan bu göklerde,
@@ -250,7 +250,7 @@ Bir halk türküsünde bulurum seni.
 
 Oğuz TANSEL
 
-### Salkım Söğüt
+## Salkım Söğüt
 
 Ayrılıktan eğlim eğlim dalların,	
 Düşüncelere dalmışsın kapkara.
@@ -279,7 +279,7 @@ Ekmek, su gibi özledim seni.
 
 Oğuz TANSEL
 
-### Savaşa Hayır
+## Savaşa Hayır
 
 Halk, dört duvar cenderede,
 Düşünür mü özgürlüğü, karın zil
@@ -299,7 +299,7 @@ Barış, Sevi. Barış, Sevi. Barış...
 
 Oğuz TANSEL
 
-### Savrulmayı Bekleyen Harman
+## Savrulmayı Bekleyen Harman
 
 Orak mevsiminin tadı ellerde.
 Aldı kış örtüsünü yüzüne kırlar.
@@ -318,7 +318,7 @@ Er geç bu rüzgâr uslu eser
 
 Oğuz TANSEL
 
-### Tutsağın Türküsü
+## Tutsağın Türküsü
 
 Ne korkunçtur hatırlamak uçuşunu,
 Gönlünce uçan bir kuşun.
@@ -332,7 +332,7 @@ Kalbsiz bir tanrı gibi şöyle kenarda durmak;
 
 Oğuz TANSEL
 
-### Viyetnam
+## Viyetnam
 
 Bir güvercin uçurdum Ağrı'dan,
 Kanlar içinde anlattılar, dönünce:
@@ -361,7 +361,7 @@ Onurlu şehitlerin kızıl toprakları.
 
 Oğuz TANSEL
 
-### Yitirdiğimiz Yasa
+## Yitirdiğimiz Yasa
 
 Bitkilerden dayanıksız olmuşuz
 Ömrümüz ağaçlarınkinden kısa
@@ -377,7 +377,7 @@ Onu getirelim dile
 
 Oğuz TANSEL
 
-### Poplar Tree
+## Poplar Tree
 
 The first light greets your branches with reverence,
 Your crest smiles beyond the horizon.

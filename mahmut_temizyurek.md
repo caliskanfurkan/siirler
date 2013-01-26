@@ -1,6 +1,6 @@
-## Mahmut TEMİZYÜREK
+# Mahmut TEMİZYÜREK
 
-### Aklı Boşver, Hoşça Kal Yurdum
+## Aklı Boşver, Hoşça Kal Yurdum
 
 Eyyo diye başlasın bu şiir
 İlk kar sevinci sansın çocuklar
@@ -36,7 +36,7 @@ neden küçük bir dikkatsizlik olmasın intihar da.
 
 Mahmut TEMİZYÜREK
 
-### Atları Seversin Demek
+## Atları Seversin Demek
 
 atları seversin demek
 
@@ -96,7 +96,7 @@ yeryüzünü gezen atlı'yı
 
 Mahmut TEMİZYÜREK
 
-### Anaforun Tarihi
+## Anaforun Tarihi
 
 I.
 
@@ -174,7 +174,7 @@ yeni bir cennet arayan tek hayvandır.
 
 Mahmut TEMİZYÜREK
 
-### Boşlukta Bir Akarsu
+## Boşlukta Bir Akarsu
 
 Boşlukta bir akarsuyum
 Bir uçtan bir uca geçen boşluğu
@@ -203,7 +203,7 @@ Hiçliğim uzadıkça buharlaşan akarsu
 
 Mahmut TEMİZYÜREK
 
-### Hayat Hepimizden Geniş...
+## Hayat Hepimizden Geniş...
 
 HAYAT HEPİMİZDEN GENİŞ
 ÖLÜM HER ÖMÜRDEN UZUN
@@ -213,6 +213,7 @@ Gülümseyerek ölüyorum her gün sizlerle
 Baştan kendime basit bir yüz yakıştırdım
 Rüzgârıyla haşır neşir çıplak bir tepe
 Bir gök olsun istedim yüzümde, mavi, bulutsuz
+
  olmaktan başka şansı var mıydı yoksulların
 Ben oldum işte, oldum ve öldüm
 
@@ -260,7 +261,7 @@ Kanım yurdumu dolaştıkça öğrendim.
 
 Mahmut TEMİZYÜREK
 
-### Hür Kuşlar Tufanı
+## Hür Kuşlar Tufanı
 
 Ellerine doğmuştuk hevesle
 Irağın olduk şimdi senin
@@ -356,7 +357,7 @@ Biziz o, vakti gelen yokluk tanrısı
 
 Mahmut TEMİZYÜREK
 
-### İnsan En İyi
+## İnsan En İyi
 
 İnsan en iyi
 kalabalıkta, akşamüstü öğreniyor kendini
@@ -404,7 +405,7 @@ Nesli, bu şiir iyi değil mi?
 
 Mahmut TEMİZYÜREK
 
-### Kırılgan
+## Kırılgan
 
 Ürktün oğlum, huylandın hep, az mı kışkırtıldın yalnızlığa
 daha kirpiklerin kırpışmadan doluşan anılar da bıraksın istedin seni
@@ -443,7 +444,7 @@ ve rüya.
 
 Mahmut TEMİZYÜREK
 
-### Kısa Tanrı Tarihi
+## Kısa Tanrı Tarihi
 
 -ve tanrı kadındı baştan
 kasıklarında bulduğu ateşi
@@ -488,11 +489,12 @@ Avcılar kaldırdı cenazesini...
 
 
 
+
 "Tanrım beni niye yalnız bıraktın!"
 
 Mahmut TEMİZYÜREK
 
-### Mamudu Diyor ki Rimbaud'ya
+## Mamudu Diyor ki Rimbaud'ya
 
 Üzülme ey, Saf Aşırı
 Korur seni dizelerin
@@ -532,7 +534,7 @@ Rüzgâra adanmış atlarla
 
 Mahmut TEMİZYÜREK
 
-### Paranoya Kırlangıcım Paranoya
+## Paranoya Kırlangıcım Paranoya
 
 İnsan güneşle dünyanın arasındadır
 Senin sağında, benim solumda
@@ -567,7 +569,7 @@ Bir öpünce, bir de kırılınca.
 
 Mahmut TEMİZYÜREK
 
-### Parantez
+## Parantez
 
 Parantezim ol sevgilim
 Yaşamla ölüm arasında kısa mı kısa
@@ -596,7 +598,7 @@ Beni bu dışardan atsalar
 
 Mahmut TEMİZYÜREK
 
-### Ömrün Bir Anı
+## Ömrün Bir Anı
 
 Ömrün bu yakasında
 Anılar öreni dünya
@@ -632,7 +634,7 @@ O yakayı bu yakaya
 
 Mahmut TEMİZYÜREK
 
-### Su Gibidir Halk
+## Su Gibidir Halk
 
 Su gibidir halk
 Girdiği her kabın alır rengini
@@ -662,7 +664,7 @@ Tarihin tükenmez şefaati.
 
 Mahmut TEMİZYÜREK
 
-### Taşı Kavrıyor Çocuklar
+## Taşı Kavrıyor Çocuklar
 
 taşı
 kavrıyor
@@ -676,6 +678,7 @@ körpe gövde
 çeliğe direniyor
 toy ruh, katil akla
 
+
 korku tünelindeyiz, sesler şirret, yol zifiri
 tanklar geçiyor çocukların üstüne
 keskin nişancı, kalbine yansıtıyor lazeri,
@@ -688,6 +691,7 @@ ağır toplar kuşatılmış ortaçağ
 kalesinin önünde mancınık dekoru sanki
 kale dersen küçücük avuçlarda yığma taş yapı
 herkesin rolü kusursuz bu ölüm oyununda
+
 ... ... ...
 
 Auschwitz, Dachau, Treblinka

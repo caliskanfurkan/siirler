@@ -1,6 +1,6 @@
-## Edip CANSEVER
+# Edip CANSEVER
 
-### Adsız Bir Çiçek
+## Adsız Bir Çiçek
 
 Rengini dünyaya ilk defa sunan
 Adsız bir çiçek gibi parlıyorsa gözlerim
@@ -20,24 +20,24 @@ Sevdanın kendine özgü diliyle.
 
 Edip CANSEVER
 
-### Başım Dönüyor İkimizden
+## Başım Dönüyor İkimizden
 
-Çocuklar ekmek yiyorlar gibidir sesin 
-Ön dişleriyle belli belirsiz 
-Bir martı kalıyor gibidir hiç olmayandan 
-Çünkü biz ikimiz de çirkin değiliz 
-Evet mi hayır mı pek anlamadan. 
-Ne biçim bir sestir şu bizim dalgınlığımız 
-Bir tayın dişinde ince taflan 
-Az yaşlı bir kadında göğüs uçlarının 
-Yanarak sımsıcak bir kedinin ağzından 
-Dönüp iç çekmesine gece kuşlarının. 
-Sonra biz dağ başlarında apansız kurşunlanan 
-Süresiz baş dönmesiyiz çok garip adamların. 
+Çocuklar ekmek yiyorlar gibidir sesin
+Ön dişleriyle belli belirsiz
+Bir martı kalıyor gibidir hiç olmayandan
+Çünkü biz ikimiz de çirkin değiliz
+Evet mi hayır mı pek anlamadan.
+Ne biçim bir sestir şu bizim dalgınlığımız
+Bir tayın dişinde ince taflan
+Az yaşlı bir kadında göğüs uçlarının
+Yanarak sımsıcak bir kedinin ağzından
+Dönüp iç çekmesine gece kuşlarının.
+Sonra biz dağ başlarında apansız kurşunlanan
+Süresiz baş dönmesiyiz çok garip adamların.
 
 Edip CANSEVER
 
-### Bu Gemi Ne Zamandır Burda
+## Bu Gemi Ne Zamandır Burda
 
 Bu gemi ne zamandır burada
 Çoktan boşaltmış yükünü  
@@ -61,7 +61,7 @@ Bir anı gelecek bir başka anının yerine.
 
 Edip CANSEVER
 
-### Çağrılmayan Yakup
+## Çağrılmayan Yakup
 
 I
 
@@ -322,110 +322,196 @@ I
 
 Edip CANSEVER
 
-### İçinden Doğru Sevdim Seni
+## İçinden Doğru Sevdim Seni
 
 İçinden doğru sevdim seni  
+
 Bakışlarından doğru sevdim de  
+
 Ağzındaki ıslaklığın buğusundan  
+
 Sesini yapan sözcüklerden sevdim bir de  
+
 Beni sevdiğin gibi sevdim seni  
+
 Kar bırakılmış karanlığından.  
 Yerleştir bu sevdayı her yerine  
+
 Yüzünde ter olan su damlacıklarının  
+
 Kaynağına yerleştir  
+
 Her zaman saklamadığın, acısızlığın son durağına  
+
 Gül taşıyan cocuğuna yerleştir  
+
 Ve omuzlarına daracık omuzlarına  
+
 Üşümüş gibisin de sanki azıcık öne taşırdığın  
+
 Tam oraya işte, uçsuz bucaksız bir düzlükten  
+
 Bir papatya tarlasıyla ayrılmış göğüslerine yerleştir  
+
 Ve esmerliğine bir de, eski bir yangının izlerinin renginde  
+
 Saçlarının yana düşüşüne, onları bölen ikiliğe  
+
 Alnından başlayan ve ayak bileklerinde duran  
+
 Yani senin olmayan, seni bir boşluk gibi saran hüzne Yerleştir onu bir kentin parça parça aklında tuttuğun  
+
 Kar taneleri gibi uçuşan  
+
 Ve her gün biraz daha hafifleyen semtlerine  
+
 Yerleştir bu sevdayı her yerine.  
 Ekledim ben tattığım her şeyi denizlere  
+
 Bildiğim ne varsa onlar da hep denizlerden   
+
 Sen de bir deniz gibi yerleştir onu istersen  
+
 Sevdayı  
+
 Ve köpüklendir  
+
 Ve yaşlandır ki işte kederi anlamasın  
+
 Ama dur, her deniz yaşlıdır zaten  
+
 Öğrenmez ama öğretir mutluluğu  
+
 Bizim sevdamız da öyledir, iyi şiirler gibi  
+
 Biraz da herkes içindir. Ve gelinciğin ikinci tadına benzemeli  
+
 Var eden kendini birincisinden  
+
 Yani bir sevdayı sevgiye dönüştüren.  
 Ben şimdi bir yabancı gibi gülümseyen  
+
 Tanımadığın bir ülke gibi  
+
 İçinde yaşamadığın bir zaman gibi  
+
 Tam kendisi gibi mutluluğun   
+
 Beni bekliyorsun  
+
 Ve onu bekliyorsun beni beklerken.
 
 Edip CANSEVER
 
-### Masa da Masaymış Ha
+## Masa da Masaymış Ha
 
 Masaya anahtarlarını koydu  
+
 Bakır kaseye çiçekleri koydu  
+
 Sütünü yumurtasını koydu  
+
 Pencereden gelen ışığı koydu  
+
 Bisiklet sesini çıkrık sesini  
+
 Ekmeğin havanın yumuşaklığını koydu  
+
 Adam masaya  
+
 Aklında olup bitenleri koydu  
+
 Ne yapmak istiyordu hayatta   
+
 İşte onu koydu  
+
 Kimi seviyordu kimi sevmiyordu  
+
 Adam masaya onları da koydu  
+
 Üç kere üç dokuz ederdi  
+
 Adam koydu masaya dokuzu  
+
 Pencere yanındaydı gökyüzü yanında  
+
 Uzandı masaya sonsuzu koydu  
+
 Bir bira içmek istiyordu kaç gündür  
+
 Masaya biranın dökülüşünü koydu  
+
 Uykusunu koydu uyanıklığını koydu  
+
 Tokluğunu açlığını koydu.  
 Masa da masaymış ha  
+
 Bana mısın demedi bu kadar yüke  
+
 Bir iki sallandı durdu  
+
 Adam ha babam koyuyordu.
 
 Edip CANSEVER
 
-### Mendilimde Kan Sesleri
+## Mendilimde Kan Sesleri
 
-Her yere yetişilir  
+Her yere yetişilir
+  
+
 Hiçbir şeye geç kalınmaz ama  
+
 Çocuğum beni bağışla  
+
 Ahmet Abi sen de bağışla  
 Boynu bükük duruyorsam eğer  
+
 İçimden öyle geldiği için değil  
+
 Ama hiç değil  
+
 Ah güzel Ahmet abim benim  
+
 İnsan yaşadığı yere benzer  
+
 O yerin suyuna, o yerin toprağına benzer  
+
 Suyunda yüzen balığa  
+
 Toprağını iten çiçeğe  
+
 Dağlarının, tepelerinin dumanlı eğimine  
+
 Konyanın beyaz  
+
 Antebin kırmızı düzlüğüne benzer  
+
 Göğüne benzer ki gözyaşları mavidir  
+
 Denize benzer ki dalgalıdır bakışları  
+
 Evlerine, sokaklarına, köşebaşlarına  
+
 Öylesine benzer ki  
+
 Ve avlularına  
+
 (Bir kuyu halkasıyla sıkıştırılmıştır kalbi)  
+
 Ve sözlerine   
+
 (Yani bir cep aynası alım-satımına belki)  
+
 Ve bir gün birinin adres sormasına benzer  
+
 Sorarken sorarken üzünçlü bir görüntüsüne  
+
 Camcının cam kesmesine, dülgerin rende tutmasına  
+
 Öyle bir cıgara yakımına, birinin gazoz açmasına  
+
 Minibüslerine, gecekondularına  
+
 Hasretine, yalanına benzer
 Anısı işsizliktir
 Acısı bilincidir
@@ -502,80 +588,152 @@ Mendilimde kan sesleri.
 
 Edip CANSEVER
 
-### Sona Kalsa
+## Sona Kalsa
 
 Usul usul konuşuyorlar aralarında  
+
 Denize bakıyorlar bazen - çatalını gezdiriyor biri tabağında -  
+
 Gölgesi bir kuş ölüsü  
+
 Karşıda yeni budanmış ağacın  
+
 - Olsa, başlangıçlar sona kalsa -  
+
 Kolyesiyle oynuyor kadın - tabağımda soyulmuş elma -  
 Saatime bakıyorum sık sık   
+
 Kapıyı gözlüyorum arada  
+
 Biraz soğum mu geliyor ne - kapatır mısın -  
+
 Sinirli bir kırmızılık suya batıyor  
+
 Düşünüyorum, ansızın bir dost yüzü  
+
 Görmemiştim de yıllarca.  
 Gelse  
+
 Değişmiş çok, yaşlanmış da  
+
 Sigaramı yakıyor durmadan  
+
 İstemem diyemiyorum - ama yakmasa -  
+
 Konuşuyoruz -konuşuyor muyuz -  
+
 Yazmayı bırakmış çoktan  
+
 Gerçi bir roman taslağı varmış kafasında  
+
 "Bir elimde elma elmada bir el"  
+
 Diyorum  
+
 Hayretle bakıyor yüzüme  
+
 Bir bardak bira içiyor, çekip gidiyor az sonra.  
 Kadranı kırmızı saat   
+
 Plasterle tutturulmuş kırık cam  
+
 Şurda burda plastik çiçekler  
+
 Evet, aralık kapıdan soğuk geliyor  
+
 Tam kalbimin üzerine bu akşam.  
 Ölüm   
+
 Sen en güzelsin bu saatlerde  
+
 Büyütmüş yetiştirmişsin beni  
+
 Söyler miyim hiç sana hayran olmasam.  
+
 Bugün de ince, bugün dekırıldı kırılacak  
+
 Bugün de  
+
 Tam nerede kalmışsam.
 
 Edip CANSEVER
 
-### Ölü Sirenler
+## Ölü Sirenler
 
 Gerçekte duymadığım sesler
-bittiÖğleye doğru bir
-gökgürültüsü yalnızKarıştırdı ortalığı bir
-süreGök akıttı bir parça
-yağmurunuVe deniz kuşları umutsuzArıyorken kokularını
-gölgelerindeSıyırdı bir iki bulutu güneş
-deYığılıp kaldı yorgunDenizin gözbebekleri üstünde.Bir uyum muydu durgunluk,
-fırtınayıGökgürültüsünü de
-barındıran içindeDuyuyorum o tanıdık sesi yenidenTiz bir çıngırağı andıranBenzeyen zil sesine deDaha önce unutmuşum gibi denizdeYankılanıp durdu ara vermeden.
+bitti
+Öğleye doğru bir
+gökgürültüsü yalnız
+Karıştırdı ortalığı bir
+süre
+Gök akıttı bir parça
+yağmurunu
+Ve deniz kuşları umutsuz
+Arıyorken kokularını
+gölgelerinde
+Sıyırdı bir iki bulutu güneş
+de
+Yığılıp kaldı yorgun
+Denizin gözbebekleri üstünde.
+Bir uyum muydu durgunluk,
+fırtınayı
+Gökgürültüsünü de
+barındıran içinde
+Duyuyorum o tanıdık sesi yeniden
+Tiz bir çıngırağı andıran
+Benzeyen zil sesine de
+Daha önce unutmuşum gibi denizde
+Yankılanıp durdu ara vermeden.
 Hangi dili öğreniyordum?
-Mutlulukİki tek ağustosu çarpıştıranSızdıran kanını bu yaz
-gününeYaşayan bir mutluluk? Ve iştekaç yerinden kesilmiş ki ellerimBekletip durdu  da acısını
-bunca yılŞimdi bir gülümseme gibi sindi
+Mutluluk
+İki tek ağustosu çarpıştıran
+Sızdıran kanını bu yaz
+gününe
+Yaşayan bir mutluluk? Ve işte
+kaç yerinden kesilmiş ki ellerim
+Bekletip durdu  da acısını
+bunca yıl
+Şimdi bir gülümseme gibi sindi
 yüzüme.
 Görmüşüm daha önce de bir
-Lidya kralının boynundaBilmekti yazgısını ölümünü,
-gene deYıllarca beklemişti kendiniYeşimden sapı olan bir
-kılıçlaBense ne içimi yakan rüzgarıNe denizdeki yangını, ne
-gökgürültüsünüDuymuş gibi olduğum sesleri de
-değilYaşamın gövdesini arıyordum
-yalnızcaBir çürük dişle alnımdakiİki üç kırışığı yedeğine
+Lidya kralının boynunda
+Bilmekti yazgısını ölümünü,
+gene de
+Yıllarca beklemişti kendini
+Yeşimden sapı olan bir
+kılıçla
+Bense ne içimi yakan rüzgarı
+Ne denizdeki yangını, ne
+gökgürültüsünü
+Duymuş gibi olduğum sesleri de
+değil
+Yaşamın gövdesini arıyordum
+yalnızca
+Bir çürük dişle alnımdaki
+İki üç kırışığı yedeğine
 takmış da.
 Özledim ilkelliğimi
-dalgalarındaBuldum savaşı bitmez
-derinliklerinikarıştırdıkça bir kargının
-ucuylaGördüm, bekliyordu kendini de o
-daGermiş de al kıskacını Lidya
-kıralı gibiO turuncu ruh, değişkenİzledim onda ilk oluşumu sankiHafifçe kesilmiş gibi oldu
+dalgalarında
+Buldum savaşı bitmez
+derinliklerini
+karıştırdıkça bir kargının
+ucuyla
+Gördüm, bekliyordu kendini de o
+da
+Germiş de al kıskacını Lidya
+kıralı gibi
+O turuncu ruh, değişken
+İzledim onda ilk oluşumu sanki
+Hafifçe kesilmiş gibi oldu
 dudağım bir yerinden.
 İşledim payıma düşen her
-görüntüyüKamaştı gözlerim kıyıya
-varıncaRüzgarın itişiyle kumlardaDurmadan yer değiştirenSayısız siren iskeletiÇın çın ötüyordu sessizlik
+görüntüyü
+Kamaştı gözlerim kıyıya
+varınca
+Rüzgarın itişiyle kumlarda
+Durmadan yer değiştiren
+Sayısız siren iskeleti
+Çın çın ötüyordu sessizlik
 kaburgalarında
 Dedim, besbelli başıboş
 bırakmışlar da korkuyu
@@ -646,41 +804,63 @@ kendimi.
 
 Edip CANSEVER
 
-### Uçurum
+## Uçurum
 
 UÇURUM
 Bir ağaç sürüsünün
-üstündenÇok ağaçlı bir ağaç
-sürüsünün üstündenKesilmiş limon dilimleri gibi
-düşüyor güneşVotka bardağımın içineBenim olmayan bir sevinç
+üstünden
+Çok ağaçlı bir ağaç
+sürüsünün üstünden
+Kesilmiş limon dilimleri gibi
+düşüyor güneş
+Votka bardağımın içine
+Benim olmayan bir sevinç
 duyuyorum.
 Kesiyorum durduğumuz yeri
-ortasındanEy görünüş! seni bir yerinden
-hiç anlamıyorumDibimde değil ayaklarımın,
-damarlarındaDerinliğini orda tutan, orda
-harcayanUçsuz bucaksız bir uçurum.
-Zamanla değil, bir yerdeBenim olmayan bir şeyle
-yaşlanıyorumGeçiyorum ilk şeklimi
-tüketerektenAğır ağır yanan bir tuğla
-harmanınıBillurdan sarkaçlarıyla.
+ortasından
+Ey görünüş! seni bir yerinden
+hiç anlamıyorum
+Dibimde değil ayaklarımın,
+damarlarında
+Derinliğini orda tutan, orda
+harcayan
+Uçsuz bucaksız bir uçurum.
+Zamanla değil, bir yerde
+Benim olmayan bir şeyle
+yaşlanıyorum
+Geçiyorum ilk şeklimi
+tüketerekten
+Ağır ağır yanan bir tuğla
+harmanını
+Billurdan sarkaçlarıyla.
 Kalbim, sersemliğim benim..
 
 Edip CANSEVER
 
-### Yerçekimli Karanfil
+## Yerçekimli Karanfil
 
 Biliyor musun az az yaşıyorsun içimde  
+
 Oysaki seninle güzel olmak var  
+
 Örneğin rakı içiyoruz, içimize bir karanfil düşüyor gibi  
+
 Bir ağaç işliyor tıkır tıkır yanımızda  
+
 Midemdi aklımdı şu kadarcık kalıyor.  
 Sen o karanfile eğilimlisin, alıp sana veriyorum işte  
+
 Sen de bir başkasına  veriyorsun daha güzel  
+
 O başkası yok mu bir yanındakine veriyor  
+
 Derken karanfil elden ele.  
 Görüyorsun ya bir sevdayı büyütüyoruz seninle  
+
 Sana değiniyorum, sana ısınıyorum, bu o değil  
+
 Bak nasıl, beyaza keser gibisine yedi renk  
+
 Birleşiyoruz sessizce.
 
 Edip CANSEVER

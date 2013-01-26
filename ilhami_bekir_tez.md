@@ -1,6 +1,6 @@
-## İlhami Bekir TEZ
+# İlhami Bekir TEZ
 
-###  Arzu
+##  Arzu
 
 Gül ol; elimde solan,
 Saç ol; boynuma dolan!
@@ -12,7 +12,7 @@ Kaçsam gölgeler gibi...
 
 İlhami Bekir TEZ
 
-###  Ben
+##  Ben
 
 İlk doğan yıldızım ben, son batan yıldızım ben;
 Sormayın kimlerim var, yalnızım, yalnızım ben,
@@ -27,7 +27,7 @@ Ne uzağım ışığa, ne nurdan haberim var!
 
 İlhami Bekir TEZ
 
-###  Duvar
+##  Duvar
 
 Dağ başını duman almış
 Gümüş dere hiç akmıyor
@@ -66,7 +66,7 @@ Bırakmıyor bırakmıyor
 
 İlhami Bekir TEZ
 
-### 
+## 
   İki Lâf
 
 Poliste adımızı sordular
@@ -109,6 +109,7 @@ Gün ağardı göğe bak!
 Dedik ki
 Güneş doğsa sırtımız ısınacak!
 Dedik ki çok
+
              Hür bir dünyada mutlu insanlar
 	Onlar için yemiş verir ormanlar
 	İnsan büyür mihnet küçülür
@@ -117,6 +118,7 @@ Dedik ki çok
 	Keder ve hınç Kafdağı'nın ötesinde
 	Gök bir anneçınar gibi üstünde onların
              Ve onlar oynaşırlar bu çınarın gölgesinde.
+
 
 Sokakta yolumuza durdular.
 Neticeyi sordular.
@@ -128,7 +130,7 @@ Yalnız iki lâf dedik.
 
 İlhami Bekir TEZ
 
-###  Masal
+##  Masal
 
 Bir varmış bir yokmuş masal bu
 Bu bir garibin çocukluğu
@@ -181,7 +183,7 @@ Yeniler satıyorum
 
 İlhami Bekir TEZ
 
-###  Otuz Sekiz
+##  Otuz Sekiz
 
 Üçüncü sınıf mezarlık.
 Kayıt tarihi:
@@ -203,7 +205,7 @@ iki kere öleydim."
 
 İlhami Bekir TEZ
 
-### Senin Gözünle Görelim 
+## Senin Gözünle Görelim 
 
 Ey
 Vatanlarında
@@ -232,7 +234,7 @@ Sen ey vatandaşların hür ıslığı
 
 İlhami Bekir TEZ
 
-###  Son Kavga
+##  Son Kavga
 
 Ölüm bir kez çalar kapıları
 Doğumdan öncesi, ölümden sonrası yalan
@@ -271,7 +273,7 @@ Ne güzeldir ayakta dimdik insan.
 
 İlhami Bekir TEZ
 
-###  Unuttum
+##  Unuttum
 
 Haydi Allahaısmarladık!
 Siz gelemezsiniz benimle beraber,

@@ -1,6 +1,6 @@
-## Enis Behiç KORYÜREK
+# Enis Behiç KORYÜREK
 
-### Gemiciler
+## Gemiciler
 
 Biz dalgalar, fırtınalar kahramanı yiğitleriz.
 Ufuklardan ufuklara haber sorar, gezeriz.
@@ -39,7 +39,7 @@ Gönderelim bu ahengi o sevgili yurda kadar...
 
 Enis Behiç KORYÜREK
 
-### Hatıra
+## Hatıra
 
 Geçsin günler, haftalar,
 	Aylar, mevsimler, yıllar...
@@ -52,7 +52,7 @@ Sen gözlerimde bir renk
 
 Enis Behiç KORYÜREK
 
-### Ömür
+## Ömür
 
 Şen günler, bir kırlangıç
 Gibi vuruyor kanat.

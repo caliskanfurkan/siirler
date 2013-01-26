@@ -1,6 +1,6 @@
-## Aslı DEDE
+# Aslı DEDE
 
-### Akbabaların Dansı
+## Akbabaların Dansı
 
 bütün gece dinleyeceğim çığlıklarını akbabaların
 
@@ -34,7 +34,7 @@ ortaklığı simgelediğinden ötürü
 
 Aslı DEDE
 
-### -Dedi ki-
+## -Dedi ki-
 
 beden dedi ki:
 

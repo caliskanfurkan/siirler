@@ -1,6 +1,6 @@
-## Aslı DURAK
+# Aslı DURAK
 
-### Her Gidenden Bir Gülümseme Kalır
+## Her Gidenden Bir Gülümseme Kalır
 
 zaman siler acıları
 kinin biley taşı kırılır
@@ -20,7 +20,7 @@ uzak bir hatıra gelip dayanınca kapılarına?
 
 Aslı DURAK
 
-### Issız
+## Issız
 
 özlem, eskiten acı
 zaman ölüm ve yaşam
@@ -52,7 +52,7 @@ bilirim yıldızları söndürür terk etmenin hüznü
 
 Aslı DURAK
 
-### Sır
+## Sır
 
 içimin Babil Kulesi yıkıldı
 sır kapılarından geçtik
@@ -82,7 +82,7 @@ gelincikler büyüyünce gelin mi olur anne?
 
 Aslı DURAK
 
-### Üç Elma
+## Üç Elma
 
 gökten üç elma değildi düşen
 patriotlarla geldi ölüm

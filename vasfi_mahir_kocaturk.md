@@ -1,6 +1,6 @@
-## Vasfi Mahir KOCATÜRK
+# Vasfi Mahir KOCATÜRK
 
-### Şairin Ölümü
+## Şairin Ölümü
 
 Ne bir damla gözyaşı, ne yerde yaslı bir mum;
 Hazin, loş odalarda ölümü sevmiyorum.

@@ -1,16 +1,23 @@
-## Yusuf HAYALOĞLU
+# Yusuf HAYALOĞLU
 
-### Gözleri İntihar 
+## Gözleri İntihar 
   Mavi
 
 Gözleri İntihar Mavi, , 
 Anka Yayınları, 2002
+
 ...
+
       Kalacak tüm izlerin hayatımda.
+
     Gözümden bir damla yaş,
+
     Sızlayıp resmine aktığında;
+
     Bir yer bulabilsem keşke
+
     Bir yer, seni hatırlatmayan;
+
     Kan tarlası gelincik şafağında...
 Öyle şiirler, öyle dizeler vardır
       ki;  yıllar geçse bile,
@@ -20,7 +27,7 @@ Anka Yayınları, 2002
 
 Yusuf HAYALOĞLU
 
-### Ah Ulan Rıza
+## Ah Ulan Rıza
 
 Neden halâ gelmedi, yoksa
 Saati mi şaşırdı hıyar?
@@ -149,7 +156,7 @@ Bir kaç güne kalmaz, ben de gelirim!..
 
 Yusuf HAYALOĞLU
 
-### Başım Belada
+## Başım Belada
 
 Bugün, düşünemeyeceğin kadar
 Başım belada!
@@ -189,7 +196,7 @@ Nere gitsem yanmışım..
 
 Yusuf HAYALOĞLU
 
-### Başkaldırıyorum
+## Başkaldırıyorum
 
 Cevap veriyorum:
 Eli böğründe analardan,
@@ -234,7 +241,7 @@ Herkes varsın farkına.
 
 Yusuf HAYALOĞLU
 
-### Bir Acayip Adam
+## Bir Acayip Adam
 
 Fırtınadan arta kalmış bir teknede,
 Tevekkül içinde;
@@ -321,7 +328,7 @@ Hiç ağlamadım...
 
 Yusuf HAYALOĞLU
 
-### Bir Anka Kuşu
+## Bir Anka Kuşu
 
 Yüzlerce soğuk namlu
 Üzerime çevrildi.
@@ -382,7 +389,7 @@ Kendimi külümden yarattım..
 
 Yusuf HAYALOĞLU
 
-### Bir Veda Havası
+## Bir Veda Havası
 
 Vakit tamam!.. seni terk ediyorum.
 O bütün alışkanlıklardan
@@ -429,7 +436,7 @@ Hoşça kal...
 
 Yusuf HAYALOĞLU
 
-### Biz Üç Kişiydik
+## Biz Üç Kişiydik
 
 Biz üç kişiydik:
 Bedirhan, Nazlıcan ve ben.
@@ -510,7 +517,7 @@ Ve ben: Suphi!...
 
 Yusuf HAYALOĞLU
 
-### Dağlarda Kar Olsaydım
+## Dağlarda Kar Olsaydım
 
 Şu dağlarda kar olsaydım...
 Bir asi rüzgar olsaydım...
@@ -534,7 +541,7 @@ Keşke bir yalan olsaydım!..
 
 Yusuf HAYALOĞLU
 
-### Dokunma Yanarsın
+## Dokunma Yanarsın
 
 Çocukluğum çıraklıkta geçti,
 Kir-pas içinde.
@@ -604,7 +611,7 @@ Dokunma bana, sen de yanarsın!..
 
 Yusuf HAYALOĞLU
 
-### Hani Benim Gençliğim
+## Hani Benim Gençliğim
 
 Hani benim sevincim nerede;
 Bilyelerim, topacım,
@@ -646,7 +653,7 @@ Hani benim bilincim nerede?
 
 Yusuf HAYALOĞLU
 
-### İyimser Bir Gül
+## İyimser Bir Gül
 
 Uyandım, seni düşündüm
 Birdenbire duvar
@@ -692,7 +699,7 @@ Yanaklarımda...
 
 Yusuf HAYALOĞLU
 
-### Kim Susturabilir
+## Kim Susturabilir
 
 Kim susturabilir bizim türkümüzü, kim?
 Biz ki bu hasreti,
@@ -771,7 +778,7 @@ Kanatmayın diyorum... kanatmayın!..
 
 Yusuf HAYALOĞLU
 
-### Kod Adı: Bahtiyar
+## Kod Adı: Bahtiyar
 
 Geçiyor önümden, sirenler içinde,
 Ah eller üstünde,
@@ -809,7 +816,7 @@ Yaralıyım, yerde kalan sazı kadar.
 
 Yusuf HAYALOĞLU
 
-### Neylersin
+## Neylersin
 
 Bazen acı dinmez, bazen de yağmur
 Sevgilim gülümse, her şey unutulur
@@ -897,7 +904,7 @@ Bir şiir olarak kalacaksın...
 
 Yusuf HAYALOĞLU
 
-### Tezgahtar Nebahat
+## Tezgahtar Nebahat
 
 Tezgahtar bir kızdı o,
 Perma kırığı saçlarıyla.
@@ -919,6 +926,7 @@ Dudağından öperdi.
 Ah Nebahat, hiç görmedi rahat.
 Düşünür, bulamazdı;
 Kimdeydi bu kabahat?
+
 
 Tezgahtar bir kızdı o,
 Evi, bir kenar mahallede.
@@ -946,7 +954,7 @@ Kendindeydi kabahat.
 
 Yusuf HAYALOĞLU
 
-### Yağmur İçen Kız
+## Yağmur İçen Kız
 
 Baldırı çıplak bir akşamüstüydü
 Kime selam verdiysem yüzüme küstüydü.
@@ -1053,7 +1061,7 @@ Ve geciken bedelini ödemek için kendi hayatımla...
 
 Yusuf HAYALOĞLU
 
-### Yüreğim Kanıyor
+## Yüreğim Kanıyor
 
 Sakin göllerin kuğusuyduk,
 Salınarak suyun yanağında.
@@ -1131,7 +1139,7 @@ Bitmeseydi öykümüz böyle!..
 
 Yusuf HAYALOĞLU
 
-### Başım Belada
+## Başım Belada
 
 Bugün, düşünemeyeceğin kadar
 Başım belada!
@@ -1171,7 +1179,7 @@ Nere gitsem yanmışım..
 
 Yusuf HAYALOĞLU
 
-### Başkaldırıyorum
+## Başkaldırıyorum
 
 Cevap veriyorum:
 Eli böğründe analardan,
@@ -1216,7 +1224,7 @@ Herkes varsın farkına.
 
 Yusuf HAYALOĞLU
 
-### Bir 
+## Bir 
 		Acayip Adam
 
 Fırtınadan arta kalmış bir teknede,
@@ -1304,7 +1312,7 @@ Hiç ağlamadım...
 
 Yusuf HAYALOĞLU
 
-### Bir Anka Kuşu
+## Bir Anka Kuşu
 
 Yüzlerce soğuk namlu
 Üzerime çevrildi.
@@ -1365,7 +1373,7 @@ Kendimi külümden yarattım..
 
 Yusuf HAYALOĞLU
 
-### Bir Veda 
+## Bir Veda 
 		Havası
 
 Vakit tamam!.. seni terk ediyorum.
@@ -1413,7 +1421,7 @@ Hoşça kal...
 
 Yusuf HAYALOĞLU
 
-### Biz Üç 
+## Biz Üç 
 		Kişiydik
 
 Biz üç kişiydik:
@@ -1495,7 +1503,7 @@ Ve ben: Suphi!...
 
 Yusuf HAYALOĞLU
 
-### Dağlarda 
+## Dağlarda 
 		Kar Olsaydım
 
 Şu dağlarda kar olsaydım...
@@ -1520,7 +1528,7 @@ Keşke bir yalan olsaydım!..
 
 Yusuf HAYALOĞLU
 
-### Dokunma Yanarsın
+## Dokunma Yanarsın
 
 Çocukluğum çıraklıkta geçti,
 Kir-pas içinde.
@@ -1590,7 +1598,7 @@ Dokunma bana, sen de yanarsın!..
 
 Yusuf HAYALOĞLU
 
-### Hani 
+## Hani 
 		Benim Gençliğim
 
 Hani benim sevincim nerede;
@@ -1633,7 +1641,7 @@ Hani benim bilincim nerede?
 
 Yusuf HAYALOĞLU
 
-### İyimser Bir Gül
+## İyimser Bir Gül
 
 Uyandım, seni düşündüm
 Birdenbire duvar
@@ -1679,7 +1687,7 @@ Yanaklarımda...
 
 Yusuf HAYALOĞLU
 
-### Kod Adı: 
+## Kod Adı: 
 		Bahtiyar
 
 Geçiyor önümden, sirenler içinde,
@@ -1718,7 +1726,7 @@ Yaralıyım, yerde kalan sazı kadar.
 
 Yusuf HAYALOĞLU
 
-### Tezgahtar Nebahat
+## Tezgahtar Nebahat
 
 Tezgahtar bir kızdı o,
 Perma kırığı saçlarıyla.
@@ -1740,6 +1748,7 @@ Dudağından öperdi.
 Ah Nebahat, hiç görmedi rahat.
 Düşünür, bulamazdı;
 Kimdeydi bu kabahat?
+
 
 Tezgahtar bir kızdı o,
 Evi, bir kenar mahallede.
@@ -1767,7 +1776,7 @@ Kendindeydi kabahat.
 
 Yusuf HAYALOĞLU
 
-### Yüreğim 
+## Yüreğim 
 		Kanıyor
 
 Sakin göllerin kuğusuyduk,

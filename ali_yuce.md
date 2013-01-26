@@ -1,33 +1,34 @@
-## Ali YÜCE
+# Ali YÜCE
 
-### Asılacak Kitap
+## Asılacak Kitap
 
 Asılacak Kitap, , Bilgi Yayınevi, Haziran 1991
 
 Ali YÜCE
 
-### Yunuslama
+## Yunuslama
 
-ç nesnedir
+hiç nesnedir
+
       Bu cihanda dostsuz kişi
 diyen Yunus Emre için Ali Yüce'nin dostluk,
       sevgi, barış, mutluluk deyişlerini beğenerek okuyacak, coşkusuna katılacaksınız.
 
 Ali YÜCE
 
-### Havalı Meryem
+## Havalı Meryem
 
 Havalı Meryem, , Bilgi Yayınevi, Nisan 1994
 
 Ali YÜCE
 
-### Sevgim Servetimdir
+## Sevgim Servetimdir
 
 Sevgim Servetimdir, , Bilgi Yayınevi, Ocak 1997
 
 Ali YÜCE
 
-### Aç Ağzını Karanlık
+## Aç Ağzını Karanlık
 
 İşim gücüm bu benim
 Sorguya çekmek gerçeği
@@ -80,7 +81,7 @@ Tepeden tırnağa ben
 
 Ali YÜCE
 
-### Azık
+## Azık
 
 Acıkmayasın
 Sevgi koydum
@@ -107,7 +108,7 @@ Azık sana
 
 Ali YÜCE
 
-### Efendimizle Söyleşi
+## Efendimizle Söyleşi
 
 -Bu sayın mevsimi
 Kaça aldınız efendim
@@ -152,7 +153,7 @@ Bizden selam söyleyin
 
 Ali YÜCE
 
-### Evrensel Kardeş
+## Evrensel Kardeş
 
 Tarar saçlarını
 Örer anam
@@ -177,7 +178,7 @@ Kardeşiyim ben
 
 Ali YÜCE
 
-### Olmaca
+## Olmaca
 
 Ben çocuk olsaydım eğer
 Kav çakmak satardım
@@ -205,7 +206,7 @@ Bir de eğri parmağından
 
 Ali YÜCE
 
-### Tutkal
+## Tutkal
 
 Bir sabah uyandım baktım
 Düşüm yastığıma yapışık
@@ -245,7 +246,7 @@ Kimlikleri yüzlerine yapışık
 
 Ali YÜCE
 
-### Vitrindeki Bebek
+## Vitrindeki Bebek
 
 O vitrindeki bebeğin
 Annesi yok dedin anne
@@ -265,7 +266,7 @@ O vitrinin önünden
 
 Ali YÜCE
 
-### Anamı Düşünüyorum
+## Anamı Düşünüyorum
 
 Senden ayrı senden uzak
 Yersiz göksüz gibiyim
@@ -289,7 +290,7 @@ Ben dizinde uyuyum
 
 Ali YÜCE
 
-### Aşece
+## Aşece
 
 Hem yoktu hem vardı
 Büyük bir kentin
@@ -344,7 +345,7 @@ Bakakaldı analık
 
 Ali YÜCE
 
-### Aydede-Aynene
+## Aydede-Aynene
 
 Aydedenin paltosunu
 Kim giydirir anne
@@ -369,7 +370,7 @@ Yere mi anne
 
 Ali YÜCE
 
-### Azık
+## Azık
 
 Acıkmayasın
 Sevgi koydum
@@ -396,7 +397,7 @@ Azık sana
 
 Ali YÜCE
 
-### Çoban Meryem
+## Çoban Meryem
 
 Havalı Meryem havalı
 Gel hele gel hele gel
@@ -420,7 +421,7 @@ Vah cücü vah cücü  vah
 
 Ali YÜCE
 
-### Doğa Adında Bir Ermiş
+## Doğa Adında Bir Ermiş
 
 Toprak ana kız doğurmuş
 Adını da ağaç koymuş
@@ -444,7 +445,7 @@ Oğlu ile evlendirmiş
 
 Ali YÜCE
 
-### Evrensel Kardeş
+## Evrensel Kardeş
 
 Tarar saçlarını
 Örer anam
@@ -469,7 +470,7 @@ Kardeşiyim ben
 
 Ali YÜCE
 
-### Kitap Uludur
+## Kitap Uludur
 
 Kitap
 Anamca ulu
@@ -486,7 +487,7 @@ Ak çýktým
 
 Ali YÜCE
 
-### Kuşatma
+## Kuşatma
 
 Ben gurbete  gidiyorum
 Bağlayın yaramı
@@ -532,7 +533,7 @@ Dörtbir yanım
 
 Ali YÜCE
 
-### Olmaca
+## Olmaca
 
 Ben çocuk olsaydım eğer
 Kav çakmak satardım
@@ -560,7 +561,7 @@ Bir de eğri parmağından
 
 Ali YÜCE
 
-### Perili Dere
+## Perili Dere
 
 Köyün altında bir dere 
 Cıvıl cıvıl peri
@@ -596,7 +597,7 @@ Hiç akmamış bir daha
 
 Ali YÜCE
 
-### Sakla Beni Anne
+## Sakla Beni Anne
 
 Sen ninni söylerken anne
 Ak güvercinler evimize
@@ -630,7 +631,7 @@ Kediler düşmesin üstüme
 
 Ali YÜCE
 
-### Serçecik
+## Serçecik
 
 Her gök gürlemede
 Cik cik cik
@@ -649,7 +650,7 @@ Ben tonum bana görecik
 
 Ali YÜCE
 
-### Tarhana
+## Tarhana
 
 Gökte bulut ufacýk
 Hem ufacýk hem akçacýk
@@ -660,7 +661,7 @@ Söylerim sizi ebeme
 
 Ali YÜCE
 
-### Vitrindeki Bebek
+## Vitrindeki Bebek
 
 O vitrindeki bebeğin
 Annesi yok dedin anne

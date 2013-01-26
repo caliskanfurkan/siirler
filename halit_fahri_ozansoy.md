@@ -1,6 +1,6 @@
-## Halit Fahri OZANSOY
+# Halit Fahri OZANSOY
 
-### Balkonda Saatler
+## Balkonda Saatler
 
 III.
 Arka mahallelerde kızgın bir yaz öğlesi!
@@ -39,7 +39,7 @@ Bir vazonun içinden parıldayan bu lotüs.
 
 Halit Fahri OZANSOY
 
-### Dedikodu
+## Dedikodu
 
 Zaman bir böcek gibi sinsi, kenarda
 Koltukların didikler durur kadifesini,
@@ -51,7 +51,7 @@ Saat hırıltılarla can çekişir duvarda.
 
 Halit Fahri OZANSOY
 
-### Denizde Ay
+## Denizde Ay
 
 İndi solgun ve ılık
 Ay ışığı denize
@@ -67,7 +67,7 @@ Bu tatla aydınlanan enginlere aktınız!
 
 Halit Fahri OZANSOY
 
-### Kedim
+## Kedim
 
 Kedim henüz bir yaşında;
 Uyur hep soba başında.

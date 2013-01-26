@@ -1,6 +1,6 @@
-## Hüseyin Avni CİNOZOĞLU
+# Hüseyin Avni CİNOZOĞLU
 
-### Balkon
+## Balkon
 
 kuşları öldürmezdim pençelerim olsaydı bile
 zaman zaman gelir sevincimizi artıran melek
@@ -12,7 +12,7 @@ güneşi yağmuru geçirmez kara şemsiyeleri
 
 Hüseyin Avni CİNOZOĞLU
 
-### Gurbet Benimle Anılır
+## Gurbet Benimle Anılır
 
 her akşamın bir kasabası vardır
 arnavut kaldırımlı sokakları
@@ -58,7 +58,7 @@ Belki de yüreğimdeki hicranı alır gider.
 
 Hüseyin Avni CİNOZOĞLU
 
-### Hareli Gece
+## Hareli Gece
 
 kıyameti derya örter
 uzun yürüyüşünde isyanın
@@ -91,18 +91,22 @@ iki mahşer ötesi İstanbul harikuladedir
 
 Hüseyin Avni CİNOZOĞLU
 
-### Hezarfen
+## Hezarfen
 
 geçtim Hezarfen 
 köprüsünden
+
 kuleler daha da yükseldi
+
 iki derya birleþti
+
 gökyüzünün ipek yolunu
+
 tarihte ilk kez Hezarfen keþfetti
 
 Hüseyin Avni CİNOZOĞLU
 
-### Işık Ve Gölgeye Serenad
+## Işık Ve Gölgeye Serenad
 
 bulut yağmura bıraktı saçlarını
 hüzne döndü
@@ -212,7 +216,7 @@ O r p h e u s e'nin yitirdiği toprakları kazandım
 
 Hüseyin Avni CİNOZOĞLU
 
-### İstanbul Unutkan Yosma
+## İstanbul Unutkan Yosma
 
 baktım
 İstanbul gurbetteydi
@@ -458,7 +462,7 @@ bana saçlarını savuran rüzgar
 
 Hüseyin Avni CİNOZOĞLU
 
-### Kar
+## Kar
 
 bıldır seneki karda aklı bıldır seneki köyde
 bir afsun için kurşun döker şaman annesi
@@ -477,7 +481,7 @@ Hâyâllerim kalsın musallada
 
 Hüseyin Avni CİNOZOĞLU
 
-### Masum Ülke
+## Masum Ülke
 
 gelir masum ülkeme ırmaklar coştuğunda
 gözetir gecenin gözyaşlarını mağlup mahzun anneleri
@@ -500,7 +504,6 @@ kavuşmanın büyük sevinci için
 niyet kuşları intihar etmesin
 
 
-
  
  
  
@@ -508,7 +511,7 @@ niyet kuşları intihar etmesin
 
 Hüseyin Avni CİNOZOĞLU
 
-### Safranbolu'da Eski Bir Güneş 
+## Safranbolu'da Eski Bir Güneş 
   Saati
 
 azıcık hüzün yakışır sana
@@ -559,32 +562,45 @@ neden sultan değilim
 
 Hüseyin Avni CİNOZOĞLU
 
-### Şafak Bekçisi
+## Şafak Bekçisi
 
 deniz kızları pervane şehrin ucundaki fenere
+
 gözlerimizdeki yıldızlar aydınlatıyor geceyi
+
 Bizans surları Osmanlı bedestenleri Hünkâr camileriyle
+
 bu şehirde hâlâ güneşe açık bir pencerem var
 çocukluğum tahta sandalyeli kasaba 
 sinemasında
+
 nehirde yankısı abla kemancının
+
 nektar içen bir nergis miydi ablam
+
 kıyısını denizlerin süslediği bir şehrin
 yağmurlar dağılır camlarında seferberlik 
 trenlerinin
+
 halkım asırlarca hatırlayacak mutlu sultanlığımı
+
 kemanlarını kutusuna koyarken abla kemancılar
+
 iki perde arası beni hatırlayacaklar bir de Peruz’u
 göçerlerin bey sandığı bu delinin kandili
+
 şehrin en güzel masalı asırlar sonra da
+
 buluttan saraylara taç yapan çocuklar
+
 bakır akşamların alaşımında seyredecekler sultanlığımı
 ve seslenir çocuğun gözlerindeki yıldız:
+
 -Şafağın tek bekçisi olduğun yetmez mi…
 
 Hüseyin Avni CİNOZOĞLU
 
-### Şahane Kadınlar
+## Şahane Kadınlar
 
 şahane kadınlardı onlar
 akşamın pelerini sardığında kenti

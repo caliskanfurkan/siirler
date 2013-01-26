@@ -1,6 +1,6 @@
-## Ahmet ERHAN
+# Ahmet ERHAN
 
-### Bir Baba İçin
+## Bir Baba İçin
 
 Odamın ışığı yanıyor bütün gece
 Ellerimi dizlerime koyup, ikibüklüm
@@ -194,7 +194,7 @@ Baba, acıların sürgün...
 
 Ahmet ERHAN
 
-### Bir Soru İşareti
+## Bir Soru İşareti
 
 Bir kekik kokusu tüter sabahın seherinde
 Denizde bir balık kayar, bir yıldız solar gökte
@@ -216,7 +216,7 @@ Sonra bir kitap okurum, ya da çiçekleri sularım.
 
 Ahmet ERHAN
 
-### Göçmen Çiçek
+## Göçmen Çiçek
 
 Aykırı bir uçurumum yolunun üzerinde
 Elini uzatacağın dalları yamacında saklayan
@@ -325,7 +325,7 @@ Başladı yerde...
 
 Ahmet ERHAN
 
-### Gül Şiir
+## Gül Şiir
 
 Geceyarısı, karanlık bir bozkırda
 Işıklar içinde akan bir tren kadar yalnızım
@@ -555,7 +555,7 @@ Senin adın nasılsa bir gün hepsini tamamlayacak...
 
 Ahmet ERHAN
 
-### Hayır Hayır Hayır Hayır
+## Hayır Hayır Hayır Hayır
 
 Hayýr hayýr hayýr hayýr
 
@@ -873,7 +873,7 @@ Býrakmayýn, beni ölüm götürür...
 
 Ahmet ERHAN
 
-### Oğul
+## Oğul
 
 Anne ben geldim, üstüm başım
 Uzak yolların tozlarıyla perişan
@@ -902,7 +902,7 @@ Anne ben geldim, oğlun, hayırsızın..
 
 Ahmet ERHAN
 
-### Türkü
+## Türkü
 
 Uyandım, dağlarda duman
 Ovada sabahın tütsüsü

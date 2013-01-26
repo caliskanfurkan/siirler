@@ -1,6 +1,6 @@
-## Tahsin SARAÇ
+# Tahsin SARAÇ
 
-### Ana Öğüdü
+## Ana Öğüdü
 
 Çiçekleri ezme yavrum
 Çiçekler bir yüreðe benzer
@@ -20,7 +20,7 @@ Bir canlýyý öldürmenin.
 
 Tahsin SARAÇ
 
-### Ben Ozanım
+## Ben Ozanım
 
 Yıkık tapınaklara döner kimi kez içim
 Eski, sağır bir sızıyla balkıyan, inceden;
@@ -54,7 +54,7 @@ Hep yüreğim sargıda.
 
 Tahsin SARAÇ
 
-### Bir Ölümsüz Yalnızlığa
+## Bir Ölümsüz Yalnızlığa
     Şimdi Otağ Kurduğumuz
 
 Islanır bir orman yağmurunda şimdi uzak
@@ -69,7 +69,7 @@ Bir ölümsüz yalnızlığa şimdi otağ kurduğumuz.
 
 Tahsin SARAÇ
 
-### Boğuntu
+## Boğuntu
 
 Bıkmaz mı
 Dağlar oturmaktan, sular akmaktan
@@ -94,7 +94,7 @@ Yaratan, yaratılan aynı kalmaktan?
 
 Tahsin SARAÇ
 
-### Dudakların, Gül Şenliği
+## Dudakların, Gül Şenliği
 
 Bir bahar kaçkını yeşil
 Tomurcuklar seni bende.
@@ -113,7 +113,7 @@ Yanan bir soba gibisin içimde.
 
 Tahsin SARAÇ
 
-### İçerden Işıyabilmek
+## İçerden Işıyabilmek
 
 Senin gözlerin mavi
 		Nerden ve ne sürem baksan
@@ -140,7 +140,7 @@ Bin demire baskın işte benim evrensığmazlığım.
 
 Tahsin SARAÇ
 
-### Karşıyaka'nın Üç Gülü
+## Karşıyaka'nın Üç Gülü
 
 Asılmış bir al umuttan
 Karagücün korku dalında
@@ -168,7 +168,7 @@ Gezmişgülü, Aslangülü, İnangülü.
 
 Tahsin SARAÇ
 
-### Otuzüç Menekşe
+## Otuzüç Menekşe
 
 Bir morlukta alabora oldu gök
 Tan söktü

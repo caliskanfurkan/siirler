@@ -1,6 +1,6 @@
-## Tülay YENER
+# Tülay YENER
 
-### Dilek Ağacı
+## Dilek Ağacı
 
 Balık isimleri kadar ilginçtir ama isimleri
 hatırlayamam beyazdan başka çiçek
@@ -24,7 +24,7 @@ kanatlarımın martıya dönüştüğü yerde kalacağım
 
 Tülay YENER
 
-### Güneşin Ölümü
+## Güneşin Ölümü
 
 doğumgünü de olması gerekmeyen bir anı yaşar gibi
 kaybolmakta güneşin suya değen heykeli.
@@ -38,7 +38,7 @@ bir güneş daha satar karanlığa gölgesini.
 
 Tülay YENER
 
-###  Öylesine
+##  Öylesine
 
 Aşkın en sesli harfine basıyorsun çocuk
 çook sığmadı kalbim cepkenine
@@ -59,7 +59,7 @@ ben böylesine ölüyordum
 
 Tülay YENER
 
-###  Sığınma
+##  Sığınma
 
 nisana sığınacağım 
 sızacağım bir çınara, dallarına elbet 
@@ -86,7 +86,7 @@ o gün nisana sığınacağım
 
 Tülay YENER
 
-###  Şiir; Çünkü
+##  Şiir; Çünkü
 
 ve tanrı, önce şiiri yarattı,
 şiiri yaşayacak yalnızlıkları;
@@ -123,7 +123,7 @@ yazıyorduk
 
 Tülay YENER
 
-### Yağmur
+## Yağmur
 
 -yağmur'a-
 

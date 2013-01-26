@@ -1,12 +1,14 @@
-## Selahattin YOLGİDEN
+# Selahattin YOLGİDEN
 
-### Üful
+## Üful
 
 Aradığınız dosya
 bulunamadı.
 - Böyle bir web sayfası olmayabilir.
+
 -
 Sayfanın adı ya da yeri değişmiş olabilir.
+
 -
 Sayfanın adını yanlış yazmış olabilirsiniz.
 
@@ -15,7 +17,7 @@ devam etmek için .
 
 Selahattin YOLGİDEN
 
-### Doğu
+## Doğu
 
 dilimin altında kasnı ve kenevir...
 hep aynı lezzet: zorun ülfeti!

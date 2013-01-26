@@ -1,47 +1,72 @@
-## Abdullah ANAR
+# Abdullah ANAR
 
-### Belki Sen Yoksun
+## Belki Sen Yoksun
 
 belki de ben bırakılması elzem 
+
      en zararlı alışkanlığım.
 
 Belki bir hata idi benle olmak 
+
    ve hayaller kurmak. 
 
 hayallerin hepsi de 
+
  işkembe-i kübradan sallanmış şeyler 
-             ki sırf belki de sırf               senin 
+
+             ki sırf belki de sırf 
+              senin 
 ellerini tutmak 
-                ve ensene arkadan                     
+
+                ve ensene arkadan 
+                    
 bir öpücük kondurmak için
+
                         belki de.
 
 belki de dünya zaten dönmüyor, 
-    ve Pakistan'da binlerce kişi ölmedi depremde          ve donmuyor 
-kalanları. 
 
-      Şırnak'ta sevgi yok belki de,         elleri ve 
+    ve Pakistan'da binlerce kişi ölmedi depremde 
+         ve donmuyor 
+kalanları.
+ 
+
+      Şırnak'ta sevgi yok belki de,
+         elleri ve 
 yüreği olan bir sevgi.
 
-belki de küre zaten yok    ve zaten 
-ısınmamakta yüreği,       erimemekte 
-buzulları,         
-yükselmemekte denizleri.      Telef edilmiş kuşlar,  ve hatta kuş gribi 
-yok belki de. Belki gökyüzü bile 
+belki de küre zaten yok
+    ve zaten 
+ısınmamakta yüreği,
+       erimemekte 
+buzulları,
+         
+yükselmemekte denizleri.
+      
+Telef edilmiş kuşlar,
+  ve hatta kuş gribi 
+yok belki de.
+ 
+Belki gökyüzü bile 
 yok.
 
 Belki sen yoksun,
+
    belki de ben.
+
 Belki ve belli ki
+
    biz yokuz sade bu dünyada,
+
         sevgi var bizden öte
+
                  öteden beri.
 
 16/10/2005
 
 Abdullah ANAR
 
-### Çürüdü Zaman
+## Çürüdü Zaman
 
 Zaman yoktu,
 biz var ettik. 
@@ -95,7 +120,7 @@ yokluğumuzu fırsat bilip.
 
 Abdullah ANAR
 
-### Hiroşima'dan Carettalara
+## Hiroşima'dan Carettalara
 
 Dün hiroşimada 
 bin insan 
@@ -117,7 +142,7 @@ umut alalım yaşama dair.
 
 Abdullah ANAR
 
-### Korku
+## Korku
 
 Her öykü
 en az bir kötü 
@@ -174,7 +199,7 @@ bütün mesele
 
 Abdullah ANAR
 
-### Ne Olacak
+## Ne Olacak
 
 Ne olacak söyleyeyim,
 
@@ -212,7 +237,7 @@ Birine yada başka birine
 
 Abdullah ANAR
 
-### On Can
+## On Can
 
 Ulucanlarda
 uluyacan diyenlere
@@ -235,7 +260,7 @@ sessiz.
 
 Abdullah ANAR
 
-### Otuz Sekiz Ömür
+## Otuz Sekiz Ömür
 
 Yaş Otuzu geçti mi 
 fark etmez
@@ -286,7 +311,7 @@ bedel olduğunu.
 
 Abdullah ANAR
 
-### Özlem
+## Özlem
 
 Özlemi indirdik falezlerden, 
 yüreğimize ellerimizle. 
@@ -338,7 +363,7 @@ Görülen gece hayallerimiz sınırlarını aştı.
 
 Abdullah ANAR
 
-### Quo Vadis
+## Quo Vadis
 
 Bizi düşünüyorum
 beni bırakıp
@@ -376,7 +401,7 @@ bilmekte istemiyoruz.
 
 Abdullah ANAR
 
-### Seni Beklerken
+## Seni Beklerken
 
 Seni beklerken
 birtanem,
@@ -424,7 +449,7 @@ Seni beklemek
 
 Abdullah ANAR
 
-### Ulaşın Düşü yada Düşüşü
+## Ulaşın Düşü yada Düşüşü
 
 Düşünün ulaştığı
 Ulaşın düşündüğü
@@ -457,7 +482,7 @@ değer miydi?
 
 Abdullah ANAR
 
-### Varoluşçu
+## Varoluşçu
 
 Sen bana vardığında,
 ben sana vardım.

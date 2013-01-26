@@ -1,6 +1,6 @@
-## Muzaffer Tayyip USLU
+# Muzaffer Tayyip USLU
 
-### Barış
+## Barış
 
 Barış ilan edildi nihayet
 Herşey eski halini aldı
@@ -15,7 +15,7 @@ Annesi ağlıyor şimdi
 
 Muzaffer Tayyip USLU
 
-### Evadoksiya
+## Evadoksiya
 
 İnkâr etmiyorum ki
 Öpmesine öptüm Evadoksiya'yı
@@ -30,7 +30,7 @@ Saat ondan sonra
 
 Muzaffer Tayyip USLU
 
-### Kan
+## Kan
 
 Önce öksürüverdim
 Öksürüverdim hafiften,

@@ -1,6 +1,6 @@
-## Faruk Nafiz ÇAMLIBEL
+# Faruk Nafiz ÇAMLIBEL
 
-### Çoban Çeşmesi
+## Çoban Çeşmesi
 
 Derinden derine ırmaklar ağlar,    
 Uzaktan uzağa çoban çeşmesi,    
@@ -34,7 +34,7 @@ Bir sola, bir sağa çoban çeşmesi...
 
 Faruk Nafiz ÇAMLIBEL
 
-### Han duvarları
+## Han duvarları
 
 Yağız atlar kişnedi, meşin kırbaç şakladı,
     Bir dakika araba yerinde durakladı.
@@ -194,7 +194,7 @@ Yağız atlar kişnedi, meşin kırbaç şakladı,
 
 Faruk Nafiz ÇAMLIBEL
 
-### Son Aşık
+## Son Aşık
 
 Hasretinle geçiyorken bu gençlik çağım,
 Ey sevdiğim, ben ümitsiz değilim gene

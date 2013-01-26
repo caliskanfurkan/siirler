@@ -1,6 +1,6 @@
-## Devrim DİRLİKYAPAN
+# Devrim DİRLİKYAPAN
 
-###  Bir Yanlışlık Oldu
+##  Bir Yanlışlık Oldu
 
 bir yanlışlık oldu, büyüdüm;
 hiç çizgi roman okumadan,
@@ -30,7 +30,7 @@ rahim duvarlarına annemin.
 
 Devrim DİRLİKYAPAN
 
-### Epitaph I
+## Epitaph I
 
 uykudan öncesi çocukluğumuzdu
 büyümeye inat süren evcilik oyunlarına
@@ -64,12 +64,13 @@ sayıklamıyorduk
 
 Devrim DİRLİKYAPAN
 
-### Gökyüzü Matkapçısı
+## Gökyüzü Matkapçısı
 
 'müzik gökyüzünü oyar' 
                                       Baudelaire 
 
 prolog: 
+
 
 bir garip uzaylıdır ibrahim, 
 ne bulgaristan'da doğmuş 
@@ -78,6 +79,7 @@ ne de türkiyeli olabilmiştir.
 ozon delindiği için filan değil 
 müzik gökyüzünü oymuştur da 
 ondan düşmüştür buralara. 
+
 
  
 
@@ -132,7 +134,7 @@ ibrahim daha düşer gökten.
 
 Devrim DİRLİKYAPAN
 
-### Kapıdaki
+## Kapıdaki
 
 hiç durmadan kapı çalıyor 
 üçünde, beşinde, kalbinde gecenin. 
@@ -157,7 +159,7 @@ askerlik çağım geliyor.
 
 Devrim DİRLİKYAPAN
 
-### Karla Gelen
+## Karla Gelen
 
 e çok avcı yağmıştı gözlerinin peşinden
 ve ne çok çığ dayanmıştı kapımıza.
@@ -208,6 +210,7 @@ donmuş kan damardan kovulmalıydı çünkü
 "böyle olmalıydı ve oldu işte." 
 2
 
+
 tabulardan koleksiyon kurmuş bir kent için
 elbette ki toplumsal bir sorundu kalbin.
 bütün avcıları peşine takacak kadar
@@ -240,7 +243,7 @@ geçirmeyenler için kullandığı benzetme.
 
 Devrim DİRLİKYAPAN
 
-### Öksüz Pusula
+## Öksüz Pusula
 
 gemisizlik, demiştin 
 kimseyi üzmez denizin bittiği yerde 
@@ -258,7 +261,7 @@ kalbine çizik atanlar onmaz.
 
 Devrim DİRLİKYAPAN
 
-### Yanlış ve Yabancı
+## Yanlış ve Yabancı
 
 trenim öldü 
 akşamdan kalma bir yabancıyım 

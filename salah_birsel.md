@@ -1,6 +1,6 @@
-## Salâh BİRSEL
+# Salâh BİRSEL
 
-### Bir Şairin Ölümü
+## Bir Şairin Ölümü
 
 Kimse inanmaz
 Benim hafif-makineliyle öldüğüme
@@ -16,7 +16,7 @@ Yaşasaydım
 
 Salâh BİRSEL
 
-### Kamer Hanım
+## Kamer Hanım
 
 Gün gelecek KAMER HANIM
 Gençliğini düşünecek
@@ -38,7 +38,7 @@ Boyuna pasta pişirecek
 
 Salâh BİRSEL
 
-### Kikirikname
+## Kikirikname
 
 Sizinkisi de gülmek mi a kikirikler
 Gülünce şöyle sunturlu gülmeli
@@ -62,7 +62,7 @@ Gülünce dişleri göstermeli
 
 Salâh BİRSEL
 
-### Meyhane
+## Meyhane
 
 Ozan Andre Chenier yi 
 İkiye böldüğünden beri giyotin
@@ -89,7 +89,7 @@ Hadi kuzular da meyhaneye
 
 Salâh BİRSEL
 
-### Pencerede Kadınlar
+## Pencerede Kadınlar
 
 Ýlkin bir sarýþýn açtý pencereyi
 Sonra bir hallicesi bir dillicesi
@@ -100,7 +100,7 @@ Bir etlicesi bir sütlücesi
 
 Salâh BİRSEL
 
-### Piyanolu Ases
+## Piyanolu Ases
 
 Ben piyano çalıyorum sen orada kaç yıl 
 Saçlarını at sevmeyi değiştiriyor çünkü 
